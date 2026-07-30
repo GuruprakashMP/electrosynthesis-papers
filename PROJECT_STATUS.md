@@ -1,6 +1,6 @@
 # Project Status
 
-_Last updated: 2026-07-30 (initial release)_
+_Last updated: 2026-07-30 (backfill complete: 14,947 papers)_
 
 ## Completed
 
@@ -21,13 +21,29 @@ _Last updated: 2026-07-30 (initial release)_
       the electrochemistry that is not synthesis — batteries and
       supercapacitors, fuel cells, water splitting and HER/OER/ORR
       electrocatalysis, corrosion, electroplating, electroanalytical sensing.
-- [x] 17 electrosynthesis categories.
+- [x] 18 electrosynthesis categories.
 - [x] Collector + backfill queries rewritten for organic electrosynthesis.
 - [x] Pioneers list: Baran, Waldvogel, Schäfer, Moeller, Little, Fuchigami,
       Xu, Lin, Ackermann, Lei, Baizer, Francke, Lam, Mei, Zeng, Minteer,
       Amatore, Yoshida, Peters, Beil, Noël, Laudadio and more
       (config/pioneers.json), with accented/initial spelling variants listed
       side by side because the OpenAlex author search is spelling-exact.
+
+## Historical backfill — COMPLETE and VERIFIED (2026-07-30)
+
+**14,947 papers**, spanning an unbroken 1960→2026 series.
+
+- Pioneer sweep: done as its own run — 25 author entries, +1,254 papers,
+  zero failed queries.
+- Topic sweep: all **67 years** confirmed done, newest-first, with **zero
+  `INCOMPLETE` years** — every year logged `=== YYYY done`.
+- Verified independently of the run logs: `data/state/backfill_progress.json`
+  holds 25 author keys plus all 23 queries x 67 years, no year short.
+- One transient stall: 1974 hit `12 consecutive failed queries - API quota
+  exhausted` at ~13:00 UTC (two hours past the reliable window) and produced
+  no marker at all. The driver treated the missing marker as a bad batch,
+  backed off 45 minutes, and the retry succeeded — so the throttling was
+  transient rather than a hard daily cap.
 
 ## Known issues (inherited environment quirks)
 

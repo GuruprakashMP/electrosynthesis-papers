@@ -2,6 +2,28 @@
 
 All notable changes to ElectrosynthesisPapers.
 
+## [1.1.0] — 2026-07-30
+
+Historical backfill 1960→2026 complete and verified: **14,947 papers**
+indexed, covering organic electrosynthesis from the Baizer adiponitrile era
+to today.
+
+### Added
+- Full topic sweep of all 67 years, driven newest-first by a local monitor.
+  **Zero `INCOMPLETE` years.**
+- Pioneer sweep (25 author entries, +1,254 papers) run first as its own
+  workflow run.
+
+### Notes
+- OpenAlex throttling is transient, not a hard daily cap: 1974 aborted with
+  `12 consecutive failed queries` about two hours past the reliable
+  05:00-11:00 UTC window, produced no year marker at all, and succeeded on
+  the retry 45 minutes later. A missing marker is therefore treated as a bad
+  batch, never as success.
+- Author names were canonical from ingestion — `tools/normalize_authors.py`
+  finds nothing to migrate, confirming the inherited fix works on a
+  from-scratch index.
+
 ## [1.0.0] — 2026-07-30
 
 Initial release, adapted from the
@@ -29,7 +51,7 @@ with progressive loading).
   mediators, voltammetry, substrate scope, gram-scale, late-stage
   functionalization, total synthesis) refines score/categories; NEGATIVE
   vocabulary rejects the non-synthetic electrochemical fields above.
-- 17 electrosynthesis-specific categories.
+- 18 electrosynthesis-specific categories.
 - All collector and backfill queries rewritten for organic electrosynthesis.
 - Pioneers list: Phil Baran, Siegfried Waldvogel, Hans Schäfer, Kevin Moeller,
   R. Daniel Little, Toshio Fuchigami, Hai-Chao Xu, Song Lin, Lutz Ackermann,
