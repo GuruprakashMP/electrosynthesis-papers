@@ -1,5 +1,234 @@
 [
  {
+  "id": "f32128cf138105da",
+  "title": "Organometallic Electrochemistry Based on Electrolytes Containing Weakly-Coordinating Fluoroarylborate Anions",
+  "authors": [
+   "William E. Geiger",
+   "Frédéric Barrière"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society",
+  "published": "2010-03-26",
+  "year": 2010,
+  "doi": "10.1021/ar1000023",
+  "url": "https://doi.org/10.1021/ar1000023",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Radical Cation",
+   "Radical Chemistry",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Vermont",
+   "Centre National de la Recherche Scientifique",
+   "Institut des Sciences Chimiques de Rennes",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "da294c1aa00a8f4f",
+  "title": "ChemInform Abstract: Electroreductive Intramolecular Coupling of N‐(Oxoalkyl)phthalimides: Complementary Method to Samarium(II) Iodide Reduction.",
+  "authors": [
+   "Naoki Kise",
+   "Toshihiko Sakurai"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2010-03-26",
+  "year": 2010,
+  "doi": "10.1002/chin.201016099",
+  "url": "https://doi.org/10.1002/chin.201016099",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tottori University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cec77ed77b466122",
+  "title": "ChemInform Abstract: Catalytic Electrosynthesis in Ionic Liquid: Performance of Nickel—(2,2′‐Bipyridine) Complexes for Production of Aryl Propan‐2‐ones.",
+  "authors": [
+   "Rachid Barhdadi",
+   "Hirofumi Maekawa",
+   "Clément Comminges",
+   "Michel Troupel"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2010-03-26",
+  "year": 2010,
+  "doi": "10.1002/chin.201016060",
+  "url": "https://doi.org/10.1002/chin.201016060",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Est Créteil",
+   "Institut de Chimie et des Matériaux Paris-Est"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bd31fe08ad5e01e0",
+  "title": "ChemInform Abstract: Direct and Mediated Anodic Oxidation of Organic Pollutants",
+  "authors": [
+   "Marco Panizza",
+   "G. Cerisola"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2010-03-26",
+  "year": 2010,
+  "doi": "10.1002/chin.201015257",
+  "url": "https://doi.org/10.1002/chin.201015257",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Genoa"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8fd27af39a9ee084",
+  "title": "Polypyrrole on self-assembled monolayers of a pyrrolyl lipoic acid derivative—electrosynthesis and polymer film characterization",
+  "authors": [
+   "Ana Mourato",
+   "Ana S. Viana",
+   "Franz-Peter Montforts",
+   "Luísa M. Abrantes"
+  ],
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2010-03-24",
+  "year": 2010,
+  "doi": "10.1007/s10008-010-1036-6",
+  "url": "https://doi.org/10.1007/s10008-010-1036-6",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Lisbon",
+   "University of Bremen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "18bd139e938b9fbb",
+  "title": "Preparation electroactive film of ( n ‐pyrrolyl)1,1‐methane dihydroxamic acid and its derivative containing complexing cavities preformed by entwining ligands on metallic centers",
+  "authors": [
+   "Seyed Hossein Hosseini"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "2010-03-22",
+  "year": 2010,
+  "doi": "10.1002/app.28295",
+  "url": "https://doi.org/10.1002/app.28295",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Islamic Azad University of Shiraz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0f9790788b7defeb",
+  "title": "Coupled-map-lattice model for spontaneous pore formation in anodic oxidation",
+  "authors": [
+   "Hidetsugu Sakaguchi",
+   "Jie Zhao"
+  ],
+  "journal": "Physical Review E",
+  "publisher": "American Physical Society",
+  "published": "2010-03-22",
+  "year": 2010,
+  "doi": "10.1103/physreve.81.031603",
+  "url": "https://doi.org/10.1103/physreve.81.031603",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Kyushu University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0c24247bb51cea7b",
+  "title": "Electrochemical incineration of diclofenac in neutral aqueous medium by anodic oxidation using Pt and boron-doped diamond anodes",
+  "authors": [
+   "Enric Brillas",
+   "Sergi Garcia-Segura",
+   "Marcel Skoumal",
+   "Conchita Arias"
+  ],
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "published": "2010-03-22",
+  "year": 2010,
+  "doi": "10.1016/j.chemosphere.2010.03.004",
+  "url": "https://doi.org/10.1016/j.chemosphere.2010.03.004",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "BDD Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Universitat de Barcelona"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "b96803cdfef7056c",
   "title": "Intramolecular Anodic Olefin Coupling Reactions: Using Competition Studies to Probe the Mechanism of Oxidative Cyclization Reactions",
   "authors": [
@@ -57,6 +286,219 @@
   "relevance_score": 57,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "852ce76a7aeed60b",
+  "title": "Anodic oxidation of organometallic sandwich complexes using [Al(OC(CF3)3)4]− or [AsF6]− as the supporting electrolyte anion",
+  "authors": [
+   "Michael Stewart",
+   "Lacey Marina Paradee",
+   "Ines Raabe",
+   "Nils Trapp",
+   "John S. Slattery",
+   "Ingo Krossing",
+   "William E. Geiger"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2010-03-09",
+  "year": 2010,
+  "doi": "10.1016/j.jfluchem.2010.03.001",
+  "url": "https://doi.org/10.1016/j.jfluchem.2010.03.001",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Vermont",
+   "University of Freiburg"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6f81744e83cc4fc4",
+  "title": "Some mechanistic aspects of a nickel-catalyzed electrochemical cross-coupling between aryl halides and substituted chloropyridazines",
+  "authors": [
+   "Karène Urgin",
+   "Rachid Barhdadi",
+   "Sylvie Condon",
+   "Éric Léonel",
+   "Muriel Pipelier",
+   "Virginie Blot",
+   "Christine Thobie-Gautier",
+   "Didier Dubreuil"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2010-03-09",
+  "year": 2010,
+  "doi": "10.1016/j.electacta.2010.02.092",
+  "url": "https://doi.org/10.1016/j.electacta.2010.02.092",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrochemical Cross-Coupling",
+   "Ni Catalysis"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Est Créteil",
+   "Institut de Chimie et des Matériaux Paris-Est",
+   "Chimie et Interdisciplinarité, Synthèse, Analyse, Modélisation",
+   "Nantes Université"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bcd773f279b61ed8",
+  "title": "Facile electrochemical preparation of poly(9,9‐dichlorofluorene), a new polyfluorene derivative as green light emitter",
+  "authors": [
+   "Guangming Nie",
+   "Qingfu Guo",
+   "Song Wang",
+   "Shusheng Zhang"
+  ],
+  "journal": "Journal of Polymer Science Part A Polymer Chemistry",
+  "publisher": "Wiley",
+  "published": "2010-03-08",
+  "year": 2010,
+  "doi": "10.1002/pola.23947",
+  "url": "https://doi.org/10.1002/pola.23947",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Qingdao University of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "776fad831ca5aadd",
+  "title": "On the electrosynthesis of sodium borohydride",
+  "authors": [
+   "Diogo M.F. Santos",
+   "C. A. C. Sequeira"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2010-03-05",
+  "year": 2010,
+  "doi": "10.1016/j.ijhydene.2010.01.129",
+  "url": "https://doi.org/10.1016/j.ijhydene.2010.01.129",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Instituto Superior Técnico"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0eb56050f69efb25",
+  "title": "Study of Sodium Ion Selective Electrodes and Differential Structures with Anodized Indium Tin Oxide",
+  "authors": [
+   "Jyh-Ling Lin",
+   "Hsiang-Yi Hsu"
+  ],
+  "journal": "Sensors",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2010-03-04",
+  "year": 2010,
+  "doi": "10.3390/s100301798",
+  "url": "https://doi.org/10.3390/s100301798",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Reference Electrode"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Huafan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "34ac7c78ff82d73f",
+  "title": "Electrochemical synthesis of ferrate in presence of ultrasound using boron doped diamond anodes",
+  "authors": [
+   "A. Sánchez-Carretero",
+   "Manuel A. Rodrigo",
+   "Pablo Cañizares",
+   "Cristina Sáez"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2010-03-02",
+  "year": 2010,
+  "doi": "10.1016/j.elecom.2010.02.020",
+  "url": "https://doi.org/10.1016/j.elecom.2010.02.020",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Castilla-La Mancha"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "05b7ace3b1fb5533",
+  "title": "Electrochemical study of the antiplatelet agent clopidogrel and its determination using differential pulse voltammetry in bulk form and pharmaceutical preparations with a glassy carbon electrode.",
+  "authors": [
+   "Saadet Dermiş",
+   "Ekrem AYDOĞAN"
+  ],
+  "journal": "PubMed",
+  "publisher": "National Institutes of Health",
+  "published": "2010-03-01",
+  "year": 2010,
+  "doi": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20383936",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Glassy Carbon",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Ankara University"
   ],
   "added": "2026-07-30"
  }

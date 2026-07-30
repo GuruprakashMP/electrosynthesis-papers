@@ -1,5 +1,34 @@
 [
  {
+  "id": "3a43ddfc5301f995",
+  "title": "Phenol Degradation by Anodic Oxidation on boron-doped Diamond Electrode Combining TiO2 Photocatalysis",
+  "authors": [
+   "Rong Fei",
+   "Linjuan Gu",
+   "Ye-Jing Qiu",
+   "Degang Fu",
+   "Wei Wu"
+  ],
+  "journal": "Journal of Southeast University",
+  "publisher": "Southeast University",
+  "published": "2010-09-30",
+  "year": 2010,
+  "doi": "",
+  "url": "https://www.airitilibrary.com/Publication/Index/10037985-201009-201011100083-201011100083-421-425",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "BDD Electrode"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "7abeadbc3caa7a76",
   "title": "ChemInform Abstract: Anodic Coupling Reactions and the Synthesis of C‐Glycosides.",
   "authors": [
@@ -23,6 +52,177 @@
   "affiliations": [
    "Washington University in St. Louis"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5700ab249858a435",
+  "title": "A Feasibility Study of the Electro-recycling of Greenhouse Gases: Design and Characterization of a (TiO2/RuO2)/PTFE Gas Diffusion Electrode for the Electrosynthesis of Methanol from Methane",
+  "authors": [
+   "Robson S. Rocha",
+   "Luciana Martins Camargo",
+   "Marcos R.V. Lanza",
+   "Rodnei Bertazzoli"
+  ],
+  "journal": "Electrocatalysis",
+  "publisher": "Springer Science+Business Media",
+  "published": "2010-09-23",
+  "year": 2010,
+  "doi": "10.1007/s12678-010-0029-7",
+  "url": "https://doi.org/10.1007/s12678-010-0029-7",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidade Estadual de Campinas (UNICAMP)",
+   "Universidade Federal de São Carlos",
+   "Universidade de São Paulo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "51c638f27379a26f",
+  "title": "Electrosynthesis and comparative studies on carboxyl-functionalized polythiophene derivatives",
+  "authors": [
+   "Péter S. Tóth",
+   "Csaba Janáky",
+   "Zoltan Hiezl",
+   "Csaba Visy"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2010-09-20",
+  "year": 2010,
+  "doi": "10.1016/j.electacta.2010.09.030",
+  "url": "https://doi.org/10.1016/j.electacta.2010.09.030",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Szeged"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ffe4846fe71048dd",
+  "title": "Determination of the iodine adsorption number of carbon black by using a direct cathodic reduction method",
+  "authors": [
+   "Jiin-Jiang Jow",
+   "Zong-Sin Guo",
+   "Ho-Rei Chen",
+   "Mao-Sung Wu",
+   "Tzong-Rong Ling"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2010-09-16",
+  "year": 2010,
+  "doi": "10.1016/j.elecom.2010.09.006",
+  "url": "https://doi.org/10.1016/j.elecom.2010.09.006",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Kaohsiung University of Applied Sciences",
+   "I-Shou University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "eec95c1960ffc13a",
+  "title": "Electrochemical Synthesis and Characterisation of Alternating Tripyridyl–Dipyrrole Molecular Strands with Multiple Nitrogen‐Based Donor–Acceptor Binding Sites",
+  "authors": [
+   "A. Tabatchnik-Rebillon",
+   "Christophe Aubé",
+   "Hicham Bakkali",
+   "Thierry Delaunay",
+   "G.T. Manh",
+   "Virginie Blot",
+   "Christine Thobie-Gautier",
+   "Éric Renault",
+   "Marine Soulard",
+   "Aurélien Planchat",
+   "Jean-Yves Le Questel",
+   "Rémy Le Guével",
+   "Christiane Guguen-Guillouzo",
+   "Brice Kauffmann",
+   "Yann Ferrand",
+   "Ivan Huc",
+   "Karène Urgin",
+   "Sylvie Condon",
+   "Éric Léonel",
+   "M. Evain",
+   "Jacques Lebreton",
+   "Denis Jacquemin",
+   "Muriel Pipelier",
+   "Didier Dubreuil"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2010-09-14",
+  "year": 2010,
+  "doi": "10.1002/chem.201000859",
+  "url": "https://doi.org/10.1002/chem.201000859",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrosynthesis",
+   "Heterocycles"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Chimie et Interdisciplinarité, Synthèse, Analyse, Modélisation",
+   "Nantes Université",
+   "Faculdade de Medicina de Jundiaí",
+   "Inserm",
+   "Centre Hospitalier Universitaire de Rennes",
+   "Centre National de la Recherche Scientifique",
+   "Université de Bordeaux",
+   "Chimie et Biologie des Membranes et des Nanoobjects",
+   "Institut Européen de Chimie et Biologie",
+   "Institut Polytechnique de Bordeaux"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4ad1a870a5d3aa6b",
+  "title": "Kolbe Electrolysis",
+  "authors": [],
+  "journal": "Comprehensive Organic Name Reactions and Reagents",
+  "publisher": "",
+  "published": "2010-09-14",
+  "year": 2010,
+  "doi": "10.1002/9780470638859.conrr369",
+  "url": "https://doi.org/10.1002/9780470638859.conrr369",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Kolbe Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
   "added": "2026-07-30"
  },
  {
@@ -54,6 +254,64 @@
   "added": "2026-07-30"
  },
  {
+  "id": "bbdd97b847afed57",
+  "title": "Electrosynthesis of samarium hexaboride using tetra borate melt",
+  "authors": [
+   "L. John Berchmans",
+   "A. Visuvasam",
+   "S. Angappan",
+   "C. Subramanian",
+   "A.K. Suri"
+  ],
+  "journal": "Ionics",
+  "publisher": "Springer Science+Business Media",
+  "published": "2010-09-06",
+  "year": 2010,
+  "doi": "10.1007/s11581-010-0469-3",
+  "url": "https://doi.org/10.1007/s11581-010-0469-3",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Central Electrochemical Research Institute",
+   "Council of Scientific and Industrial Research",
+   "Bhabha Atomic Research Centre"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d1773241c95fd1a9",
+  "title": "Electroreductive intramolecular coupling of aliphatic cyclic imides with ketones and O-methyloximes",
+  "authors": [
+   "Naoki Kise",
+   "Kazuaki Fukazawa",
+   "Toshihiko Sakurai"
+  ],
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "published": "2010-09-02",
+  "year": 2010,
+  "doi": "10.1016/j.tetlet.2010.08.081",
+  "url": "https://doi.org/10.1016/j.tetlet.2010.08.081",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tottori University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "81eb7e14aa51959d",
   "title": "ChemInform Abstract: Anodic Oxidation of Catechols in the Presence of α‐Oxoketene N,N‐Acetals with a Tetrahydropyrimidine Ring: Selective α‐Arylation Reaction.",
   "authors": [
@@ -79,6 +337,97 @@
   "relevance_score": 46,
   "affiliations": [
    "Beijing University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bf4cfe35f453b58a",
+  "title": "Electrocarboxylation of Alkynes with Carbon Dioxide in the Presence of Metal Salt Catalysts",
+  "authors": [
+   "Chuan-Hua Li",
+   "Gaoqing Yuan",
+   "Huanfeng Jiang"
+  ],
+  "journal": "Chinese Journal of Chemistry",
+  "publisher": "Wiley",
+  "published": "2010-09-01",
+  "year": 2010,
+  "doi": "10.1002/cjoc.201090285",
+  "url": "https://doi.org/10.1002/cjoc.201090285",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Alkynes",
+   "Electrochemical Carboxylation",
+   "Sacrificial Anode",
+   "Supporting Electrolyte",
+   "Undivided Cell"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "South China University of Technology",
+   "In-Q-Tel"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "adedaf5d569b0fff",
+  "title": "Novel selective masking technique using HIFU during electrosynthesis",
+  "authors": [
+   "A. Et Taouil",
+   "Fabrice Lallemand",
+   "Loïc Hallez",
+   "Jean-Yves Hihn"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2010-09-01",
+  "year": 2010,
+  "doi": "",
+  "url": "https://hal.science/hal-00503857",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Interface (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "506cb23de6237cb4",
+  "title": "DETERMINATION USING X-RAY REFLECTOMETRY OF THE TiO2 COATING’S THICKNESS OBTAINED BY ANODIC OXIDATION",
+  "authors": [
+   "María Laura Vera",
+   "Alicia Esther Ares",
+   "Mario Roberto Rosenberger",
+   "Diego G. Lamas",
+   "Carlos E. Schvezov"
+  ],
+  "journal": "Anales/Anales AFA",
+  "publisher": "CEILAP-UNIDEF-CONICET-CITEDEF",
+  "published": "2010-09-01",
+  "year": 2010,
+  "doi": "10.31527/analesafa.2010.21.174",
+  "url": "https://doi.org/10.31527/analesafa.2010.21.174",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National University of Misiones",
+   "Consejo Nacional de Investigaciones Científicas y Técnicas"
   ],
   "added": "2026-07-30"
  }

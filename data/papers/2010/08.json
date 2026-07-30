@@ -1,5 +1,64 @@
 [
  {
+  "id": "00ee6580407aa80d",
+  "title": "Organometallic Electrodes: Modification of Electrode Surfaces through Cathodic Reduction of Cyclopentadienyldiazonium Complexes of Cobalt and Manganese",
+  "authors": [
+   "D. R. J. Laws",
+   "John E. Sheats",
+   "Arnold L. Rheingold",
+   "William E. Geiger"
+  ],
+  "journal": "Langmuir",
+  "publisher": "American Chemical Society",
+  "published": "2010-08-20",
+  "year": 2010,
+  "doi": "10.1021/la102579t",
+  "url": "https://doi.org/10.1021/la102579t",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Ferrocene"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Vermont",
+   "Rider University",
+   "University of California San Diego"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4d0fe197ec6a6333",
+  "title": "Anodic oxidation of chlorpyrifos in aqueous solution at lead dioxide electrodes",
+  "authors": [
+   "Youssef Samet",
+   "Lamia Agengui",
+   "Ridha Abdelhèdi"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2010-08-15",
+  "year": 2010,
+  "doi": "10.1016/j.jelechem.2010.08.008",
+  "url": "https://doi.org/10.1016/j.jelechem.2010.08.008",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Sfax"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "ac37e0fc557c72cf",
   "title": "ChemInform Abstract: Chemoselective Reaction System Using a Two Inlet Micro‐Flow Reactor: Application to Carbonyl Allylation.",
   "authors": [
@@ -26,6 +85,123 @@
   "relevance_score": 45,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a70862df82b53248",
+  "title": "Electrochemical carboxylation of benzylic carbonates: alternative method for efficient synthesis of arylacetic acids",
+  "authors": [
+   "Masashi Ohkoshi",
+   "Jun-ya Michinishi",
+   "Shoji Hara",
+   "Hisanori Senboku"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "2010-08-04",
+  "year": 2010,
+  "doi": "10.1016/j.tet.2010.07.067",
+  "url": "https://doi.org/10.1016/j.tet.2010.07.067",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b89d68f2ffde1e9b",
+  "title": "Electrosynthesis of 4-iodopyrazole and its derivatives",
+  "authors": [
+   "B. V. Lyalin",
+   "V. A. Petrosyan",
+   "Б. И. Уграк"
+  ],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "2010-08-01",
+  "year": 2010,
+  "doi": "10.1007/s11172-010-0277-y",
+  "url": "https://doi.org/10.1007/s11172-010-0277-y",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a4de4ce76694797c",
+  "title": "Electrochemical selective reduction of 2,4-dinitrochlorobenzene",
+  "authors": [
+   "А. А. Конарев",
+   "В. Т. Новиков"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2010-08-01",
+  "year": 2010,
+  "doi": "10.1134/s1023193510080112",
+  "url": "https://doi.org/10.1134/s1023193510080112",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Preparative Electrolysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "State Scientific Center of Coloproctology",
+   "Scientific Research Institute of Organic Intermediates and Dyes",
+   "D. Mendeleyev University of Chemical Technology of Russia"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "471180663d63fedc",
+  "title": "Electrochemical fluorosulfation of organofluorine compounds",
+  "authors": [
+   "S. R. Sterlin",
+   "В. А. Гринберг"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2010-08-01",
+  "year": 2010,
+  "doi": "10.1134/s102319351008001x",
+  "url": "https://doi.org/10.1134/s102319351008001x",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrosynthesis",
+   "Mechanism",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "A. N. Nesmeyanov Institute of Organoelement Compounds",
+   "Frumkin Institute of Physical Chemistry and Electrochemistry"
   ],
   "added": "2026-07-30"
  }

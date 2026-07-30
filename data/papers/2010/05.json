@@ -1,5 +1,124 @@
 [
  {
+  "id": "5743b4da2eeaa95c",
+  "title": "Microstructured reactor for electroorganic synthesis",
+  "authors": [
+   "Karel Bouzek",
+   "V. Jiřičný",
+   "Roman Kodým",
+   "J. Křišťál",
+   "Tomáš Bystroň"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2010-05-25",
+  "year": 2010,
+  "doi": "10.1016/j.electacta.2010.05.061",
+  "url": "https://doi.org/10.1016/j.electacta.2010.05.061",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Chemistry and Technology, Prague",
+   "Czech Academy of Sciences, Institute of Chemical Process Fundamentals"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "51be552582902326",
+  "title": "Cathodic reduction of diazonium salts in aprotic medium",
+  "authors": [
+   "Fructuoso Barba",
+   "Belén Batanero",
+   "Khalil Tissaoui",
+   "Noureddine Raouafi",
+   "Khaled Boujlel"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2010-05-20",
+  "year": 2010,
+  "doi": "10.1016/j.elecom.2010.05.004",
+  "url": "https://doi.org/10.1016/j.elecom.2010.05.004",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Reduction Potential"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Universidad de Alcalá"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "090cc69c439a922e",
+  "title": "Preparation and Characterization of TiO 2 Nanotube Arrays by Anodic Oxidation Method",
+  "authors": [
+   "Jian Li",
+   "Jia Luo",
+   "Zhen-Wen PENG",
+   "Xin Guo"
+  ],
+  "journal": "Journal of Inorganic Materials",
+  "publisher": "Science Press",
+  "published": "2010-05-20",
+  "year": 2010,
+  "doi": "10.3724/sp.j.1077.2010.00490",
+  "url": "https://doi.org/10.3724/sp.j.1077.2010.00490",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fe6081f8551a4c53",
+  "title": "Nanostructured Liquid Crystals Combining Ionic and Electronic Functions",
+  "authors": [
+   "Sanami Yazaki",
+   "Masahiro Funahashi",
+   "Junko Kagimoto",
+   "Hiroyuki Ohno",
+   "Takashi Kato"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2010-05-13",
+  "year": 2010,
+  "doi": "10.1021/ja101366x",
+  "url": "https://doi.org/10.1021/ja101366x",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "The University of Tokyo",
+   "Tokyo University of Agriculture and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "b4f2a562d6727892",
   "title": "Anodic Coupling Reactions and the Synthesis of C-Glycosides",
   "authors": [
@@ -26,6 +145,222 @@
   "relevance_score": 61,
   "affiliations": [
    "Washington University in St. Louis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5bd8b267099f8899",
+  "title": "Electrochemical Functionalization of 1,3‐Diisopropylbenzene",
+  "authors": [
+   "Martin A. Bohn",
+   "Gerhard Hilt",
+   "Patrick Bolze",
+   "Christoph Gürtler"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2010-05-12",
+  "year": 2010,
+  "doi": "10.1002/cssc.201000046",
+  "url": "https://doi.org/10.1002/cssc.201000046",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Philipps University of Marburg",
+   "Bayer (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "56b08ba489b79048",
+  "title": "Electrochemical Polymerization and Properties of Poly(triphenylene), an Excellent Blue-Green-Light Emitter",
+  "authors": [
+   "Qingli Hao",
+   "Xingen Xie",
+   "Wu Lei",
+   "Mingzhu Xia",
+   "Fengyun Wang",
+   "Xin Wang"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2010-05-12",
+  "year": 2010,
+  "doi": "10.1021/jp100150a",
+  "url": "https://doi.org/10.1021/jp100150a",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Nanjing University of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3ee22e3c5e8512c5",
+  "title": "Anodic oxidation of ketoprofen—An anti-inflammatory drug using boron doped diamond and platinum electrodes",
+  "authors": [
+   "Muthu Murugananthan",
+   "S.S. Latha",
+   "G Bhaskar Raju",
+   "Sachio YOSHIHARA"
+  ],
+  "journal": "Journal of Hazardous Materials",
+  "publisher": "Elsevier BV",
+  "published": "2010-05-11",
+  "year": 2010,
+  "doi": "10.1016/j.jhazmat.2010.05.007",
+  "url": "https://doi.org/10.1016/j.jhazmat.2010.05.007",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Structural Engineering Research Centre",
+   "University of Madras",
+   "National Metallurgical Laboratory",
+   "Utsunomiya University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9415ae486d5105e8",
+  "title": "Electrochemical degradation of chlorpyrifos pesticide in aqueous solutions by anodic oxidation at boron-doped diamond electrodes",
+  "authors": [
+   "Youssef Samet",
+   "Lamia Agengui",
+   "Ridha Abdelhèdi"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2010-05-07",
+  "year": 2010,
+  "doi": "10.1016/j.cej.2010.04.060",
+  "url": "https://doi.org/10.1016/j.cej.2010.04.060",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "BDD Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Sfax"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8cebe3740278682f",
+  "title": "Sequential anodic oxidations of aliphatic amines in aqueous medium on pyrolyzed photoresist film surfaces for the covalent immobilization of cyclam derivatives",
+  "authors": [
+   "Rihab Nasraoui",
+   "Jean-François Bergamini",
+   "Soraya Ababou-Girard",
+   "Florence Geneste"
+  ],
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2010-05-01",
+  "year": 2010,
+  "doi": "10.1007/s10008-010-1075-z",
+  "url": "https://doi.org/10.1007/s10008-010-1075-z",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut des Sciences Chimiques de Rennes",
+   "Université de Rennes",
+   "Institut de Physique de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7beb4bd859a5a889",
+  "title": "Pulsed Current Electrochemical Synthesis of Cadmium Sulfide Nanofibers",
+  "authors": [
+   "Hassan Karami",
+   "Ahmad Kaboli"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2010-05-01",
+  "year": 2010,
+  "doi": "10.1016/s1452-3981(23)15317-x",
+  "url": "https://doi.org/10.1016/s1452-3981(23)15317-x",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Payame Noor University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "43ee041c8e4c7249",
+  "title": "New Method for Low-Cost Titanium Production",
+  "authors": [
+   "Ana María Martínez",
+   "Karin Sende Osen",
+   "Egil Skybakmoen",
+   "Ole S. Kjos",
+   "Geir Martin Haarberg",
+   "Kevin Dring"
+  ],
+  "journal": "Key engineering materials",
+  "publisher": "Trans Tech Publications",
+  "published": "2010-05-01",
+  "year": 2010,
+  "doi": "10.4028/www.scientific.net/kem.436.41",
+  "url": "https://doi.org/10.4028/www.scientific.net/kem.436.41",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Electrolytic"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "SINTEF",
+   "Norwegian University of Science and Technology"
   ],
   "added": "2026-07-30"
  }
