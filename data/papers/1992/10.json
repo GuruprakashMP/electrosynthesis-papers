@@ -1,5 +1,120 @@
 [
  {
+  "id": "1883060958977f02",
+  "title": "ChemInform Abstract: Selectivity in the Anodic Oxidation of cis‐ and trans‐Methoxylated Propenylbenzenes. A Useful Expedient for the Preparation of Pure cis‐ Propenylbenzene Derivatives.",
+  "authors": [
+   "Bradley D. Gates",
+   "John S. Swenton"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1992-10-27",
+  "year": 1992,
+  "doi": "10.1002/chin.199243061",
+  "url": "https://doi.org/10.1002/chin.199243061",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "The Ohio State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "52ea1056a7de0985",
+  "title": "ChemInform Abstract: Electrochemical Transformation of 5‐Aminopyrimidin‐4(3H)‐one: Indirect Anodic Oxidation Mediated by Electrochemically Generated Chlorine.",
+  "authors": [
+   "I. MATSUURA",
+   "Takuya Ueda",
+   "N. MURAKAMI",
+   "S. NAGAI",
+   "Jinsaku Sakakibara",
+   "Yasuzo KURONO",
+   "Keiichiro Hatano"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1992-10-20",
+  "year": 1992,
+  "doi": "10.1002/chin.199242046",
+  "url": "https://doi.org/10.1002/chin.199242046",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrogenerated Species"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Nagoya City University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1a154b0ea7c98af0",
+  "title": "ChemInform Abstract: Anodic Oxidation of 2‐Alkyl‐2‐trialkylsilyl‐1,3‐dithianes. A Facile Preparation of Acylsilanes.",
+  "authors": [
+   "Kohji Suda",
+   "J. Watanabe",
+   "Toshikatsu Takanami"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1992-10-06",
+  "year": 1992,
+  "doi": "10.1002/chin.199240057",
+  "url": "https://doi.org/10.1002/chin.199240057",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Meiji (Japan)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fd716f930610b173",
+  "title": "Anodic oxidation of benzyl alcohol to benzaldehyde in the presence of both redox mediator and polymer-supported phase-transfer catalyst",
+  "authors": [
+   "J. -S. Do",
+   "T.C. Chou"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1992-10-01",
+  "year": 1992,
+  "doi": "10.1007/bf01024145",
+  "url": "https://doi.org/10.1007/bf01024145",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Redox Mediator"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Tunghai University",
+   "National Cheng Kung University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "f3343c70f1a36161",
   "title": "Electrooxidative initiation of tin hydride-promoted radical chain reactions",
   "authors": [
@@ -31,6 +146,36 @@
    "Okayama University",
    "École Normale Supérieure - PSL",
    "Laboratoire de Géologie de l’École Normale Supérieure"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f0ce660f19728970",
+  "title": "Anodic oxidation of the ferrocenyl-derived β- ketophosphine [Ph2PCH2C(O)(η5-C5H4)Fe(η5-C5H5)] and of two of its p",
+  "authors": [
+   "A. Louati",
+   "Maurice Gross",
+   "Laurent Douce",
+   "Dominique Matt"
+  ],
+  "journal": "Journal of Organometallic Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1992-10-01",
+  "year": 1992,
+  "doi": "10.1016/0022-328x(92)88015-b",
+  "url": "https://doi.org/10.1016/0022-328x(92)88015-b",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Chimie de Coordination",
+   "Laboratoire de Chimie"
   ],
   "added": "2026-07-30"
  }
