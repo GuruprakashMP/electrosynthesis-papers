@@ -1,5 +1,85 @@
 [
  {
+  "id": "f45704d6856bcba6",
+  "title": "A model of the anodic oxidation of metals in concentrated solutions: second-order dynamics at the anodic film | solution interface",
+  "authors": [
+   "Martin Bojinov"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1996-04-01",
+  "year": 1996,
+  "doi": "10.1016/0022-0728(95)04392-6",
+  "url": "https://doi.org/10.1016/0022-0728(95)04392-6",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Bulgarian Academy of Sciences",
+   "Institute of Electrochemistry and Energy Systems"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e0d2ed6926a13413",
+  "title": "Characterization of porous silicon-on-insulator films prepared by anodic oxidation",
+  "authors": [
+   "C.H Lee",
+   "Chun-Chieh Yeh",
+   "H. L. Hwang",
+   "Klaus Y. J. Hsu"
+  ],
+  "journal": "Thin Solid Films",
+  "publisher": "Elsevier BV",
+  "published": "1996-04-01",
+  "year": 1996,
+  "doi": "10.1016/0040-6090(95)08076-7",
+  "url": "https://doi.org/10.1016/0040-6090(95)08076-7",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Tsing Hua University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b56e6e871d93f603",
+  "title": "Electrochemical study of catechol and 4-methylcatechol in methanol. Application to the electro-organic synthesis of 4,5-dimethoxy-and 4-methoxy-5-methyl-o-benzoquinone",
+  "authors": [
+   "Davood Nematollahi",
+   "S.M. Golabi"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1996-04-01",
+  "year": 1996,
+  "doi": "10.1016/0022-0728(95)04402-7",
+  "url": "https://doi.org/10.1016/0022-0728(95)04402-7",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Tabriz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "acb921efbea19eb9",
   "title": "Organothio groups as electroauxiliaries: Electrooxidative inter- and intramolecular carbon-carbon bond formation",
   "authors": [
@@ -25,6 +105,124 @@
   "relevance_score": 55,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a2f20ef26f7ac3b3",
+  "title": "Electrochemical Generation of Diisopropyl 1,1 -Dichloromethylphosphonate Anion. Application to an Efficient Synthesis of Various Cycloalkylphosphonates",
+  "authors": [
+   "Philippe Jubault",
+   "Christian Féasson",
+   "Noël Collignon"
+  ],
+  "journal": "Phosphorus, sulfur, and silicon and the related elements",
+  "publisher": "Taylor & Francis",
+  "published": "1996-04-01",
+  "year": 1996,
+  "doi": "10.1080/10426509608054747",
+  "url": "https://doi.org/10.1080/10426509608054747",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Université de Rouen Normandie",
+   "Institut National des Sciences Appliquées Rouen Normandie"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "94a3a91bee2e5346",
+  "title": "On the Origin of Electrochemical Oscillations at Silicon Electrodes",
+  "authors": [
+   "V. Lehmann"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1996-04-01",
+  "year": 1996,
+  "doi": "10.1149/1.1836636",
+  "url": "https://doi.org/10.1149/1.1836636",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Siemens (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9099e0ef3990dbe0",
+  "title": "The cathodic reduction of oxygen on n-type UO2 in dilute alkaline aqueous solution",
+  "authors": [
+   "D.W. Shoesmith",
+   "J.S. Betteridge",
+   "W. H. Hocking"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1996-04-01",
+  "year": 1996,
+  "doi": "10.1016/0022-0728(95)04430-2",
+  "url": "https://doi.org/10.1016/0022-0728(95)04430-2",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Atomic Energy (Canada)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "246d8cbc48586e6f",
+  "title": "Anodic oxidation of p- and p+-type porous silicon: surface structural transformations and oxide formation",
+  "authors": [
+   "J. L. Cantin",
+   "M. Schoisswohl",
+   "A. Grosman",
+   "S. Lebib",
+   "C. Ortega",
+   "H.J von Berdeleben",
+   "É. Vázsonyi",
+   "G. Jalsovszky",
+   "János Erostyák"
+  ],
+  "journal": "Thin Solid Films",
+  "publisher": "Elsevier BV",
+  "published": "1996-04-01",
+  "year": 1996,
+  "doi": "10.1016/0040-6090(95)08088-0",
+  "url": "https://doi.org/10.1016/0040-6090(95)08088-0",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris Cité",
+   "Sorbonne Université",
+   "Institute for Technical Physics and Materials Science",
+   "University of Pannonia"
   ],
   "added": "2026-07-30"
  }

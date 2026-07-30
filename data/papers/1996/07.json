@@ -1,5 +1,226 @@
 [
  {
+  "id": "642652d083406cf3",
+  "title": "ChemInform Abstract: Synthesis of Benzylic Ketones and Alcohols by Electroreductive Coupling of Benzylic Compounds Bearing a Leaving Group Other than Halogen with Anhydrides and Carbonyl Compounds.",
+  "authors": [
+   "J. GAL",
+   "J. C. FOLEST",
+   "Michel Troupel",
+   "P. GUITTON",
+   "Yvette Robin"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1996-07-16",
+  "year": 1996,
+  "doi": "10.1002/chin.199629031",
+  "url": "https://doi.org/10.1002/chin.199629031",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Laboratoire de Synthèse Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4e32132414047e02",
+  "title": "Electrode Dynamics",
+  "authors": [
+   "Adrian C. Fisher"
+  ],
+  "journal": "Oxford University Press eBooks",
+  "publisher": "Oxford University Press",
+  "published": "1996-07-11",
+  "year": 1996,
+  "doi": "10.1093/hesc/9780198556909.001.0001",
+  "url": "https://doi.org/10.1093/hesc/9780198556909.001.0001",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Mechanism"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dff687b0ccee2f57",
+  "title": "ChemInform Abstract: Electrosynthesis and Electrochemical Behavior of Unusual Solid Thallium‐Based Phases: Thallium Peroxide, Thallium(I)‐Thallium(III) Mixed Oxide, Thallium Cuprate, and Thallium Oxyfluoride.",
+  "authors": [
+   "Galina A. Tsirlina",
+   "О. А. Петрий"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1996-07-09",
+  "year": 1996,
+  "doi": "10.1002/chin.199628012",
+  "url": "https://doi.org/10.1002/chin.199628012",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Lomonosov Moscow State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2ca016a1b68364bf",
+  "title": "ChemInform Abstract: Electrooxidative Pinacol‐Type Rearrangement of β‐Hydroxy Sulfides. Efficient C‐S Cleavage Mediated by Chloride Ion Oxidation.",
+  "authors": [
+   "Makoto Kimura",
+   "Kaito Kobayashi",
+   "Yoshihiko Yamamoto",
+   "Y. SAWAKI"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1996-07-09",
+  "year": 1996,
+  "doi": "10.1002/chin.199628056",
+  "url": "https://doi.org/10.1002/chin.199628056",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nagoya University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "004882ddb7bd7f48",
+  "title": "ChemInform Abstract: Selective and One‐Pot Formation of Phenols by Anodic Oxidation.",
+  "authors": [
+   "K. Fujimoto",
+   "Yuichiro Tokuda",
+   "Hirofumi Maekawa",
+   "Y. MATSUBARA",
+   "Takumi Mizuno",
+   "Ikuzo Nishiguchi"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1996-07-09",
+  "year": 1996,
+  "doi": "10.1002/chin.199628061",
+  "url": "https://doi.org/10.1002/chin.199628061",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Technology Research Institute of Osaka Prefecture"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f4f0604d474da62c",
+  "title": "ChemInform Abstract: New Oleo‐Chemicals from Unsaturated Fatty Acids by Cycloaddition, Nucleophilic Addition and Anodic Oxidation",
+  "authors": [
+   "H. J. SCHAEFER",
+   "Martin aus dem Kahmen",
+   "Ludger Hinkamp",
+   "Reinhard Maletz"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1996-07-02",
+  "year": 1996,
+  "doi": "10.1002/chin.199627300",
+  "url": "https://doi.org/10.1002/chin.199627300",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f3104f877fc3b793",
+  "title": "Spectroelectrochemical Studies on Dissolution and Passivation of Zinc Electrodes in Alkaline Solutions",
+  "authors": [
+   "Ming Cai",
+   "Su-Moon Park"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1996-07-01",
+  "year": 1996,
+  "doi": "10.1149/1.1836970",
+  "url": "https://doi.org/10.1149/1.1836970",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of New Mexico"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f118a275b3e270e1",
+  "title": "Electrosynthesis of strongly adherent polypyrrole coatings on iron and mild steel in aqueous media",
+  "authors": [
+   "Carlos A. Ferreira",
+   "S. Aeiyach",
+   "Jean-Jacques Aaron",
+   "P.C. Lacaze"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1996-07-01",
+  "year": 1996,
+  "doi": "10.1016/0013-4686(95)00498-x",
+  "url": "https://doi.org/10.1016/0013-4686(95)00498-x",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris Cité",
+   "Laboratoire de Tribologie et Dynamique des Systèmes",
+   "Interfaces Traitements Organisation et Dynamique des Systèmes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "951a31b6b43f25ad",
   "title": "Electrolytic partial fluorination of organic compounds. 20. Electrosynthesis of novel hypervalent iodobenzene chlorofluoride derivatives and its application to indirect anodic gem-difluorination",
   "authors": [
@@ -23,6 +244,32 @@
   "relevance_score": 55,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "39d8e312b1399b61",
+  "title": "Electrosynthesis of a manganese(iii) aminopolycarboxylate complex in alkaline media",
+  "authors": [
+   "Előd Gyenge",
+   "Colin Oloman"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1996-07-01",
+  "year": 1996,
+  "doi": "10.1007/bf00241513",
+  "url": "https://doi.org/10.1007/bf00241513",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of British Columbia"
   ],
   "added": "2026-07-30"
  }

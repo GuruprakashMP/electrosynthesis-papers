@@ -1,5 +1,61 @@
 [
  {
+  "id": "ace322dc08af6d3a",
+  "title": "ChemInform Abstract: Organothio Groups as Electro Auxiliaries: Electrooxidative Inter‐ and Intramolecular Carbon‐Carbon Bond Formation.",
+  "authors": [
+   "Jun-ichi Yoshida",
+   "Masanobu Sugawara",
+   "Naoki Kise"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1996-08-06",
+  "year": 1996,
+  "doi": "10.1002/chin.199632034",
+  "url": "https://doi.org/10.1002/chin.199632034",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ee85bf8c0a61e925",
+  "title": "Indirect electrochemical oxidation of cyclic ketones: Strong influence of ring size on the result of the reaction",
+  "authors": [
+   "Fructuoso Barba",
+   "Michaïl N. Elinson",
+   "J. Barbarroja Escudero",
+   "Sergey K. Feducovich"
+  ],
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "published": "1996-08-01",
+  "year": 1996,
+  "doi": "10.1016/0040-4039(96)01177-x",
+  "url": "https://doi.org/10.1016/0040-4039(96)01177-x",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Indirect Electrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Alcalá",
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "cf504b58b243fe2a",
   "title": "Electro-organic chemistry of fullerenes. Part 1. Indirect cathodic reduction of vic-dihalides and perfluoroalkyl halides using C60 as mediator. Cyclic voltammetric study and preparative-scale electrolysis",
   "authors": [
@@ -26,6 +82,210 @@
   "relevance_score": 75,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a9146aad740ef783",
+  "title": "Electrosynthesis and studies of adducts of 2-amino-1-methylbenzimidazole with metal chelates based on 2-tosylamino-N-salicylideneaniline",
+  "authors": [
+   "А. Д. Гарновский",
+   "A. Sousa",
+   "A. S. Antsyskkina",
+   "G.G. Sadikov",
+   "Igor S. Vasilchenko",
+   "S. G. Sigeikin",
+   "А. С. Бурлов",
+   "A. Castiñeiras"
+  ],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1996-08-01",
+  "year": 1996,
+  "doi": "10.1007/bf01457793",
+  "url": "https://doi.org/10.1007/bf01457793",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Southern Federal University",
+   "Universidad de Santiago de Chile",
+   "Universidade de Santiago de Compostela",
+   "Russian Academy of Sciences",
+   "NS Kurnakova Institute of General and Inorganic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "928b948fb2d09b2e",
+  "title": "Mass transfer behaviour of a fixed bed electrochemical reactor with a gas evolving upstream counter electrode",
+  "authors": [
+   "G.H. Sedahmed"
+  ],
+  "journal": "The Canadian Journal of Chemical Engineering",
+  "publisher": "Wiley",
+  "published": "1996-08-01",
+  "year": 1996,
+  "doi": "10.1002/cjce.5450740408",
+  "url": "https://doi.org/10.1002/cjce.5450740408",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Counter Electrode"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Alexandria University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8e7209b9299773eb",
+  "title": "A new approach to arylaliphatic 1,5-, 1,6-, and 1,7-dicarbonyl compounds and their monoacetals based on direct anodic oxidation of 1-phenyl- and benzo[c]cycloalkenes",
+  "authors": [
+   "Yu. N. Ogibin",
+   "Alexey I. Ilovaisky",
+   "G. I. Nikishin"
+  ],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1996-08-01",
+  "year": 1996,
+  "doi": "10.1007/bf01457781",
+  "url": "https://doi.org/10.1007/bf01457781",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7c5f30680d8caf02",
+  "title": "Electrosynthesis of sulfur-containing organic compounds from allene derivatives using a sacrificial mixed sulfur/graphite electrode",
+  "authors": [
+   "Akira Kunugi",
+   "Kimiko Kuwamura",
+   "Masao Inoue",
+   "Yasuhiko Kawamura",
+   "Kyo Abe"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1996-08-01",
+  "year": 1996,
+  "doi": "10.1016/0013-4686(96)00002-3",
+  "url": "https://doi.org/10.1016/0013-4686(96)00002-3",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Graphite Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Tokushima University",
+   "Osaka City University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "60eb333de3c55639",
+  "title": "Electroreductive cleavage of propargylic acetates through polarity inversion of in situ generated allenyl palladium( II ) complexes and, in part, unusual chemical reduction induced by phosphine ligand",
+  "authors": [
+   "Hideo Tanaka",
+   "Hiroaki Takeuchi",
+   "Qinghua Ren",
+   "Sigeru Torii"
+  ],
+  "journal": "Electroanalysis",
+  "publisher": "Wiley",
+  "published": "1996-08-01",
+  "year": 1996,
+  "doi": "10.1002/elan.1140080812",
+  "url": "https://doi.org/10.1002/elan.1140080812",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Mechanism"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0348cddd07238a60",
+  "title": "Competitive Pathways in the Electrochemical Reduction of Citral",
+  "authors": [
+   "Adalgisa Rodrigues de Andrade",
+   "José Ricardo Romero",
+   "Julien Françoise Coleta Boodts"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1996-08-01",
+  "year": 1996,
+  "doi": "10.1149/1.1837030",
+  "url": "https://doi.org/10.1149/1.1837030",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Electrolysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Universidade de São Paulo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "01a4f4db6576d2f6",
+  "title": "Effects of film formation parameters on stress generation during anodic oxidation of metals in corrosive media",
+  "authors": [
+   "Su Il Pyun"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "1996-08-01",
+  "year": 1996,
+  "doi": "10.1016/0167-577x(95)00292-8",
+  "url": "https://doi.org/10.1016/0167-577x(95)00292-8",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Korea Advanced Institute of Science and Technology"
   ],
   "added": "2026-07-30"
  }
