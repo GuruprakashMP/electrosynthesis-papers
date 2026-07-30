@@ -1,5 +1,216 @@
 [
  {
+  "id": "937d00f74403e5ff",
+  "title": "Polarographic and cyclic voltammetric studies on 2-amino-4,6-dimethyl-5-[ 4' -sulphonamoyl]azopyrimidines",
+  "authors": [
+   "Rajeev Jain",
+   "S.K. Tomar",
+   "Jyoti Bhadoria"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "1999-03-31",
+  "year": 1999,
+  "doi": "10.5281/zenodo.5853224",
+  "url": "https://doi.org/10.5281/zenodo.5853224",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Constant Current",
+   "Cyclic Voltammetry",
+   "Electrolysis"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f4e6e7f16e7766bf",
+  "title": "Substitution and Reduction of Platinum(IV) Complexes by a Nucleotide, Guanosine 5‘-Monophosphate",
+  "authors": [
+   "Sunhee Choi",
+   "Shruthi Mahalingaiah",
+   "Sarah Delaney",
+   "Nathan R. Neale",
+   "Syed H. Masood"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1999-03-27",
+  "year": 1999,
+  "doi": "10.1021/ic9809815",
+  "url": "https://doi.org/10.1021/ic9809815",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Reduction Potential"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Middlebury College"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e28cf07c3323e5bd",
+  "title": "Electrochemical microreactor",
+  "authors": [
+   "Marin Gheorghe",
+   "Dan Dascǎlu",
+   "Mihaela Ghita"
+  ],
+  "journal": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
+  "publisher": "SPIE",
+  "published": "1999-03-10",
+  "year": 1999,
+  "doi": "10.1117/12.341189",
+  "url": "https://doi.org/10.1117/12.341189",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up",
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrochemical Microreactor",
+   "Microreactor",
+   "Reference Electrode",
+   "Working Electrode"
+  ],
+  "relevance_score": 80,
+  "affiliations": [
+   "National Institute for Research and Development in Microtechnologies"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a0abc26da1b2db65",
+  "title": "ChemInform Abstract: Recent Industrial Use in Organic Electrosynthesis",
+  "authors": [
+   "H. Marzouk"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1999-03-09",
+  "year": 1999,
+  "doi": "10.1002/chin.199910327",
+  "url": "https://doi.org/10.1002/chin.199910327",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Conservatoire National des Arts et Métiers",
+   "Arts et Métiers"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "be5064249423e83e",
+  "title": "ChemInform Abstract: High‐yield Electrosynthesis of Furylchlorosilanes, Silyl and Silanylene Furans.",
+  "authors": [
+   "Carole Moreau",
+   "Françoise Serein-Spirau",
+   "Michel Bordeau",
+   "Claude Biran"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1999-03-02",
+  "year": 1999,
+  "doi": "10.1002/chin.199909192",
+  "url": "https://doi.org/10.1002/chin.199909192",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Bordeaux",
+   "Laboratoire de Chimie Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "74d7d16a7b10d724",
+  "title": "Improvement of the Electrosynthesis and Physicochemical Properties of Poly(3,4-ethylenedioxythiophene) Using a Sodium Dodecyl Sulfate Micellar Aqueous Medium",
+  "authors": [
+   "N. Sakmeche",
+   "S. Aeiyach",
+   "Jean-Jacques Aaron",
+   "Mohamed Jouini",
+   "Jean Lacroix",
+   "Pierre-Camille Lacaze"
+  ],
+  "journal": "Langmuir",
+  "publisher": "American Chemical Society",
+  "published": "1999-03-01",
+  "year": 1999,
+  "doi": "10.1021/la980909j",
+  "url": "https://doi.org/10.1021/la980909j",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Oxidation Potential",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris Cité",
+   "Laboratoire de Tribologie et Dynamique des Systèmes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "49480d42cb2ebb32",
+  "title": "From Cyclic Voltammetry to Scanning Electrochemical Microscopy: Modern Electroanalytical Methods to Study Organic Compounds, Materials, and Reactions",
+  "authors": [
+   "Bernd Speiser"
+  ],
+  "journal": "Current Organic Chemistry",
+  "publisher": "Bentham Science Publishers",
+  "published": "1999-03-01",
+  "year": 1999,
+  "doi": "10.2174/1385272803666220131201235",
+  "url": "https://doi.org/10.2174/1385272803666220131201235",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Tübingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "38b964c5420fa02b",
   "title": "Mechanistic investigation of the anodic oxidation of p-methoxytoluene in dry and wet acetonitrile",
   "authors": [

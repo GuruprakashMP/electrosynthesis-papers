@@ -1,5 +1,97 @@
 [
  {
+  "id": "fd6e80dbf1ca3a79",
+  "title": "Electrolyzed Water as the Novel Cleaning Media in Ultra-Large-Scale Integration and Liquid-Crystal Display Manufacturing",
+  "authors": [
+   "Koji Yamanaka",
+   "Takashi Imaoka",
+   "T. Futatsuki",
+   "Yukimari Yamashita",
+   "Kenichi Mitsumori",
+   "Yasuhiko Kasama",
+   "Hidemitsu Aoki",
+   "Shinya Yamasaki",
+   "Nahomi Aoto"
+  ],
+  "journal": "Langmuir",
+  "publisher": "American Chemical Society",
+  "published": "1999-05-14",
+  "year": 1999,
+  "doi": "10.1021/la981153r",
+  "url": "https://doi.org/10.1021/la981153r",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolytic",
+   "Reduction Potential"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Organ Technologies (Japan)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "826ca1635b9ea686",
+  "title": "ChemInform Abstract: Electrooxidative Rearrangement of 5,(n + 6)‐Dimethoxy‐1‐oxabicyclo[n.4.0]alkanes (n = 4,10) into ω‐(2‐Methoxytetrahydrofur‐2‐yl)alkanoic Esters.",
+  "authors": [
+   "Yuri N. Ogibin",
+   "Alexander O. Terent’ev",
+   "Alexey I. Ilovaisky",
+   "G. I. Nikishin"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1999-05-11",
+  "year": 1999,
+  "doi": "10.1002/chin.199919058",
+  "url": "https://doi.org/10.1002/chin.199919058",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f571538ea570952d",
+  "title": "Electrosynthesis of polyacrylic/polypyrrole composites: Formation of polypyrrole wires",
+  "authors": [
+   "Christine Jérôme",
+   "David-Emmanuel Labaye",
+   "I. Bodart",
+   "R. Jérôme"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "1999-05-01",
+  "year": 1999,
+  "doi": "10.1016/s0379-6779(98)00524-4",
+  "url": "https://doi.org/10.1016/s0379-6779(98)00524-4",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Liège"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "eae4729e2bc28932",
   "title": "Electroorganic Synthesis 66: Selective Anodic Oxidation of Carbohydrates Mediated by TEMPO",
   "authors": [
@@ -28,6 +120,215 @@
   "affiliations": [
    "GTx (United States)",
    "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cd4011da81ae5aa6",
+  "title": "A new strategy based on inverse microemulsions for electrosynthesis of poly (3-methyl-thiophene) films.",
+  "authors": [
+   "A. Koné",
+   "Mohamed Jouini",
+   "S. Aeiyach",
+   "Jean-Jacques Aaron",
+   "P.C. Lacaze"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "1999-05-01",
+  "year": 1999,
+  "doi": "10.1016/s0379-6779(98)01003-0",
+  "url": "https://doi.org/10.1016/s0379-6779(98)01003-0",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Université Paris Cité",
+   "Laboratoire de Tribologie et Dynamique des Systèmes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b3737c15823eb38c",
+  "title": "CONVENTIONAL CHEMICAL AND DIRECT ELECTROCHEMICAL SYNTHESIS OF THE CHELATES OF 2-(N-TOSYLAMINE)BENZALDOXIME AND 2-(N-TOSYLAMINE)BENZAL-O-METHYLOXIME",
+  "authors": [
+   "А. С. Бурлов",
+   "L. I. Kuznetsova",
+   "D. A. Garnovskip",
+   "Boris I. Kharisov",
+   "L. M. Blanco",
+   "V. V. Lukov",
+   "А. Д. Гарновский"
+  ],
+  "journal": "Journal of Coordination Chemistry",
+  "publisher": "Taylor & Francis",
+  "published": "1999-05-01",
+  "year": 1999,
+  "doi": "10.1080/00958979908022232",
+  "url": "https://doi.org/10.1080/00958979908022232",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Southern Federal University",
+   "Institute of Physical and Organic Chemistry",
+   "Universidad Autónoma de Nuevo León"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "96d11de62c5f2914",
+  "title": "ELECTROORGANIC SYNTHESIS : AN EDGE OVER CONVENTIONAL CHEMICAL METHODS",
+  "authors": [
+   "Krishna Nand Singh",
+   "Ajay Kumar Shukla"
+  ],
+  "journal": "Journal of Scientific & Industrial Research",
+  "publisher": "NISCAIR",
+  "published": "1999-05-01",
+  "year": 1999,
+  "doi": "",
+  "url": "http://nopr.niscair.res.in/bitstream/123456789/17819/1/JSIR%2058%285%29%20327-331.pdf",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "777c1bc4f70cd2e9",
+  "title": "Selective Electrosynthesis of (Trimethylsilyldifluoro)methylbenzene, a PhCF2- Precursor; Conditions for a Molar Scale Preparation without HMPA",
+  "authors": [
+   "Philippe Clavel",
+   "Marie-Pierre Léger-Lambert",
+   "Claude Biran",
+   "Françoise Serein-Spirau",
+   "Michel Bordeau",
+   "Nicolas Roques",
+   "H. Marzouk"
+  ],
+  "journal": "Synthesis",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "1999-05-01",
+  "year": 1999,
+  "doi": "10.1055/s-1999-3485",
+  "url": "https://doi.org/10.1055/s-1999-3485",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Electrosynthesis",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Université de Bordeaux",
+   "Laboratoire de Chimie Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "54128350c4b4654a",
+  "title": "Polarographic Determination of Formaldehyde According to the Anodic Oxidation Wave in Alkaline Solutions",
+  "authors": [
+   "Eugenijus Norkus",
+   "A. Vaškelis",
+   "Rasa Pauliukaitė"
+  ],
+  "journal": "Electroanalysis",
+  "publisher": "Wiley",
+  "published": "1999-05-01",
+  "year": 1999,
+  "doi": "10.1002/(sici)1521-4109(199905)11:6<447::aid-elan447>3.0.co;2-3",
+  "url": "https://doi.org/10.1002/(sici)1521-4109(199905)11:6<447::aid-elan447>3.0.co;2-3",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute of Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "19a97d2e6855ac92",
+  "title": "Anodic oxidation of various arylene-cyanovinylenes made of alternating fluorenyl, thienyl and/or phenyl units",
+  "authors": [
+   "Joëlle Rault-Berthelot",
+   "Carine Rozé",
+   "M.M. Granger",
+   "E. Raoult"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1999-05-01",
+  "year": 1999,
+  "doi": "10.1016/s0022-0728(99)00123-0",
+  "url": "https://doi.org/10.1016/s0022-0728(99)00123-0",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire d'Electrochimie Moléculaire",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "031b8a68e7d32eb1",
+  "title": "Hints for electrosynthesis of poly(3-octylthiophene)",
+  "authors": [
+   "Magdalena Skompska",
+   "D. Siwiec",
+   "Andrzej Kudelski",
+   "Małgorzata Zagórska"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "1999-05-01",
+  "year": 1999,
+  "doi": "10.1016/s0379-6779(98)01045-5",
+  "url": "https://doi.org/10.1016/s0379-6779(98)01045-5",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Warsaw",
+   "Warsaw University of Technology"
   ],
   "added": "2026-07-30"
  }

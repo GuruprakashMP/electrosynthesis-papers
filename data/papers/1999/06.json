@@ -1,5 +1,118 @@
 [
  {
+  "id": "9bbc928b4ade3645",
+  "title": "Electrochemical Generation and Reaction of o -Quinodimethanes from {[[2-(2,2-Dibutyl-2-stannahexyl)phenyl]methyl]thio}benzenes",
+  "authors": [
+   "Madoka Jinno",
+   "Yoshikazu Kitano",
+   "Masahiro Tada",
+   "Kazuhiro Chiba"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "1999-06-25",
+  "year": 1999,
+  "doi": "10.1021/ol990647s",
+  "url": "https://doi.org/10.1021/ol990647s",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tokyo University of Agriculture and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e0583f53428e0eee",
+  "title": "Electrosynthesis of Phthalocyanines: Influence of Solvent",
+  "authors": [
+   "Boris I. Kharisov",
+   "L. M. Blanco",
+   "Leticia M. Torres-Martínez",
+   "Armando García-Luna"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "1999-06-19",
+  "year": 1999,
+  "doi": "10.1021/ie9806545",
+  "url": "https://doi.org/10.1021/ie9806545",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Universidad Autónoma de Nuevo León"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dd0f056bbc7168c8",
+  "title": "Non-planar piezoelectric film structures",
+  "authors": [
+   "S. Leppävuori",
+   "Arvi Kruusing",
+   "A. Uusimäki"
+  ],
+  "journal": "Ferroelectrics",
+  "publisher": "Taylor & Francis",
+  "published": "1999-06-01",
+  "year": 1999,
+  "doi": "10.1080/00150199908015786",
+  "url": "https://doi.org/10.1080/00150199908015786",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolytic",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Oulu"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c7bb98d3e7bdb875",
+  "title": "Electrochemical synthesis of network polygermanes and polysilanes",
+  "authors": [
+   "Mitsutoshi Okano",
+   "Hirokuni Fukai",
+   "Makoto Arakawa",
+   "Hiroshi Hamano"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "1999-06-01",
+  "year": 1999,
+  "doi": "10.1016/s1388-2481(99)00045-4",
+  "url": "https://doi.org/10.1016/s1388-2481(99)00045-4",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tokyo Polytechnic University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "8cbba524d54ddfdc",
   "title": "Electrosynthesis of Aromatic Aldehydes by Palladium-Catalyzed Carbonylation of Aryl Iodides in the Presence of Formic Acid",
   "authors": [
@@ -30,6 +143,118 @@
    "Sapienza University of Rome",
    "Centre National de la Recherche Scientifique",
    "École Normale Supérieure - PSL"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5d5fb19d3f1edcd5",
+  "title": "Host-guest complexation: a general strategy for electrosynthesis of conductive polymers",
+  "authors": [
+   "Jean-François Bergamini",
+   "Corinne Lagrost",
+   "Kathleen I. Chane-Ching",
+   "Mohamed Jouini",
+   "Jean Lacroix",
+   "S. Aeiyach",
+   "P.C. Lacaze"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "1999-06-01",
+  "year": 1999,
+  "doi": "10.1016/s0379-6779(98)00526-8",
+  "url": "https://doi.org/10.1016/s0379-6779(98)00526-8",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris Cité",
+   "Laboratoire de Tribologie et Dynamique des Systèmes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5c357f171ada6da7",
+  "title": "ChemInform Abstract: Electrode Materials Used in Organic Electrosynthesis",
+  "authors": [
+   "A. Savall"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1999-06-01",
+  "year": 1999,
+  "doi": "10.1002/chin.199922287",
+  "url": "https://doi.org/10.1002/chin.199922287",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4adac66582ac749f",
+  "title": "Anodic Oxidation of Formaldehyde on Gold Studied by Electrochemical Impedance Spectroscopy: An Equivalent Circuit Approach",
+  "authors": [
+   "Marnix V. ten Kortenaar",
+   "Celiene Tessont",
+   "Zvonimir I. Kolar",
+   "Hans van der Weijde"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1999-06-01",
+  "year": 1999,
+  "doi": "10.1149/1.1391905",
+  "url": "https://doi.org/10.1149/1.1391905",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Applied Natural Sciences",
+   "Delft University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "42193660b4ae1f79",
+  "title": "Efficient Electrosynthesis of α-Chloro-α,β-Unsaturated Carboxylic and Phosphonic Esters Using Magnesium Electrochemical Activation",
+  "authors": [
+   "Sophie Goumain"
+  ],
+  "journal": "Synthesis",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "1999-06-01",
+  "year": 1999,
+  "doi": "10.1055/s-1999-3501",
+  "url": "https://doi.org/10.1055/s-1999-3501",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Université de Rouen Normandie",
+   "Institut National des Sciences Appliquées Rouen Normandie"
   ],
   "added": "2026-07-30"
  }

@@ -63,5 +63,248 @@
    "Kyoto University"
   ],
   "added": "2026-07-30"
+ },
+ {
+  "id": "758b973fee1988d9",
+  "title": "ChemInform Abstract: Efficient Electrosynthesis of α‐Chloro‐α,β‐Unsaturated Carboxylic and Phosphonic Esters Using Magnesium Electrochemical Activation.",
+  "authors": [
+   "Sophie Goumain",
+   "Philippe Jubault",
+   "Christian Féasson",
+   "Noël Collignon"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1999-09-21",
+  "year": 1999,
+  "doi": "10.1002/chin.199938039",
+  "url": "https://doi.org/10.1002/chin.199938039",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institut National des Sciences Appliquées Rouen Normandie"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3a1a24aad4e36bbe",
+  "title": "ChemInform Abstract: Electroorganic Synthesis. Part 66. Selective Anodic Oxidation of Carbohydrates Mediated by TEMPO.",
+  "authors": [
+   "Karsten Schnatbaum",
+   "H. J. SCHAEFER"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1999-09-07",
+  "year": 1999,
+  "doi": "10.1002/chin.199936247",
+  "url": "https://doi.org/10.1002/chin.199936247",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electroorganic",
+   "TEMPO"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cbf4840008a6739e",
+  "title": "Colchicine red-ox chemistry revisited: Cathodic behavior and EPR observation of an intermediate radical anion",
+  "authors": [
+   "Marino Cavazza",
+   "Lamberto Nucci",
+   "Elisa Pannocchia",
+   "Lucio Pardi",
+   "Francesco Pergola",
+   "Calogero Pinzino",
+   "Francesco Pietra"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "1999-09-01",
+  "year": 1999,
+  "doi": "10.1016/s0040-4020(99)00659-6",
+  "url": "https://doi.org/10.1016/s0040-4020(99)00659-6",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions",
+   "Natural Product & Total Synthesis"
+  ],
+  "tags": [
+   "Alkaloids",
+   "Cathodic Reduction",
+   "Radical Anion",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "University of Pisa",
+   "Accademia Nazionale dei Lincei"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c81843034d85a894",
+  "title": "Anodic oxidation of 4-t-butyltoluene to 4-t-butylbenzaldehyde dimethyl acetal: optimisation and scale-up",
+  "authors": [
+   "Ben Bosma",
+   "Coos",
+   "Gouws",
+   "Shawn",
+   "Loyson",
+   "Peter Zeelie"
+  ],
+  "journal": "South African Journal of Chemistry",
+  "publisher": "Sabinet",
+  "published": "1999-09-01",
+  "year": 1999,
+  "doi": "",
+  "url": "https://journals.co.za/content/chem/52/4/AJA03794350_1565",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Scale-up"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c59b3fff0e26eca6",
+  "title": "Characteristics of novel polysilicon oxide by anodic oxidation",
+  "authors": [
+   "C. F. Yeh",
+   "Jun S. Liu",
+   "Ming-Chung Chiang"
+  ],
+  "journal": "Microelectronic Engineering",
+  "publisher": "Elsevier BV",
+  "published": "1999-09-01",
+  "year": 1999,
+  "doi": "10.1016/s0167-9317(99)00378-0",
+  "url": "https://doi.org/10.1016/s0167-9317(99)00378-0",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Yang Ming Chiao Tung University",
+   "National Institutes of Applied Research"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c01a5832ca9aa461",
+  "title": "An X-ray reflectivity study of the influence of anodic oxidation and annealing on interface structure in quantum well devices",
+  "authors": [
+   "Anthony S. Brown",
+   "Stephen A. Holt",
+   "Dudley Creagh",
+   "Shuai Yuan"
+  ],
+  "journal": "Colloids and Surfaces A Physicochemical and Engineering Aspects",
+  "publisher": "Elsevier BV",
+  "published": "1999-09-01",
+  "year": 1999,
+  "doi": "10.1016/s0927-7757(98)00492-0",
+  "url": "https://doi.org/10.1016/s0927-7757(98)00492-0",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Australian National University",
+   "University of Canberra",
+   "UNSW Sydney"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3c526585570d6395",
+  "title": "Anodic oxidation of bis(organylchalcogeno)acetylenes",
+  "authors": [
+   "Georges Le Guillanton",
+   "А. В. Мартынов",
+   "Quang Tho",
+   "Driss Elothmani",
+   "Jacques Simonet"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1999-09-01",
+  "year": 1999,
+  "doi": "10.1016/s0013-4686(99)00227-3",
+  "url": "https://doi.org/10.1016/s0013-4686(99)00227-3",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Université catholique de l'ouest",
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire d'Electrochimie Moléculaire",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2897f399e8cbce26",
+  "title": "DIRECT ELECTROSYNTHESIS OF METAL COMPLEXES: STATE OF THE ART",
+  "authors": [
+   "А. Д. Гарновский",
+   "L. M. Blanco",
+   "Boris I. Kharisov",
+   "А. С. Бурлов"
+  ],
+  "journal": "Journal of Coordination Chemistry",
+  "publisher": "Taylor & Francis",
+  "published": "1999-09-01",
+  "year": 1999,
+  "doi": "10.1080/00958979908024555",
+  "url": "https://doi.org/10.1080/00958979908024555",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Southern Federal University",
+   "Institute of Physical and Organic Chemistry",
+   "Universidad Autónoma de Nuevo León"
+  ],
+  "added": "2026-07-30"
  }
 ]
