@@ -1,5 +1,190 @@
 [
  {
+  "id": "fbe01cb205eeaeea",
+  "title": "Fungal Cell Wall Septation and Cytokinesis Are Inhibited by Bleomycins",
+  "authors": [
+   "C W Moore",
+   "J McKoy",
+   "Robert Del Valle",
+   "Donald Armstrong",
+   "E M Bernard",
+   "Norman L. Katz",
+   "Ronald E. Gordon"
+  ],
+  "journal": "Antimicrobial Agents and Chemotherapy",
+  "publisher": "American Society for Microbiology",
+  "published": "2003-09-23",
+  "year": 2003,
+  "doi": "10.1128/aac.47.10.3281-3289.2003",
+  "url": "https://doi.org/10.1128/aac.47.10.3281-3289.2003",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Undivided Cell"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "City University of New York",
+   "New York Medical College",
+   "Memorial Sloan Kettering Cancer Center",
+   "Icahn School of Medicine at Mount Sinai"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "48643f70ca9d612a",
+  "title": "Carbon-chain isomerization during the electrochemical fluorination in anhydrous hydrogen fluoride—a mechanistic study",
+  "authors": [
+   "Nikolai V. Ignat’ev",
+   "Urs Welz-Biermann",
+   "U. Heider",
+   "Andriy Kucheryna",
+   "Stefan von Ahsen",
+   "Wolfgang Habel",
+   "Peter Sartori",
+   "Helge Willner"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2003-09-22",
+  "year": 2003,
+  "doi": "10.1016/s0022-1139(03)00174-x",
+  "url": "https://doi.org/10.1016/s0022-1139(03)00174-x",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Merck KGaA, Darmstadt (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "44b8853ee42e3d1a",
+  "title": "Room‐Temperature Ionic Liquids as New Solvents for Organic Electrosynthesis. The First Examples of Direct of Nickel‐Catalyzed Electroreductive Coupling Involving Organic Halides.",
+  "authors": [
+   "Rachid Barhdadi",
+   "Coralie Courtinard",
+   "Jean Yves Nédélec",
+   "Michel Troupel"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2003-09-19",
+  "year": 2003,
+  "doi": "10.1002/chin.200341056",
+  "url": "https://doi.org/10.1002/chin.200341056",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Est Créteil",
+   "Laboratoire de Synthèse Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5338c122aeb03e15",
+  "title": "Blue Luminescence of Porous Alumina Membranes Prepared by Anodic Oxidation",
+  "authors": [
+   "T. Echizenya",
+   "Koichi Takase",
+   "Yukina Takahashi",
+   "Yoshiki Takano",
+   "Keita Sekizawa"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2003-09-18",
+  "year": 2003,
+  "doi": "10.7567/ssdm.2003.p6-8",
+  "url": "https://doi.org/10.7567/ssdm.2003.p6-8",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "aeb9cf29662170f0",
+  "title": "Electrosynthesis of κ-carrageenan–ovalbumin complexes",
+  "authors": [
+   "Cheng-yi Lii",
+   "Hua-han Chen",
+   "Shin Lu",
+   "Piotr Tomasik"
+  ],
+  "journal": "International Journal of Food Science & Technology",
+  "publisher": "Wiley",
+  "published": "2003-09-15",
+  "year": 2003,
+  "doi": "10.1046/j.1365-2621.2003.00733.x",
+  "url": "https://doi.org/10.1046/j.1365-2621.2003.00733.x",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Institute of Physics, Academia Sinica",
+   "National Chung Hsing University",
+   "University of Agriculture in Krakow",
+   "Adam Mickiewicz University in Poznań",
+   "University of Agriculture Faisalabad"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4c8f15a416931284",
+  "title": "Minute Current Detection during Anodic Oxidation by Atomic Force Microscope At High Humidity",
+  "authors": [
+   "Hiromi Kuramochi",
+   "Kazunori Ando",
+   "Hiroshi Yokoyama"
+  ],
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "2003-09-15",
+  "year": 2003,
+  "doi": "10.1143/jjap.42.5892",
+  "url": "https://doi.org/10.1143/jjap.42.5892",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Seiko Holdings (Japan)",
+   "National Institute of Advanced Industrial Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "dd6bdba3b89a6600",
   "title": "Electrooxidative polymerization of aromatic compounds in 1-ethyl-3-methylimidazolium trifluoromethanesulfonate room-temperature ionic liquid",
   "authors": [
@@ -23,6 +208,113 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b6a81f8692ea684c",
+  "title": "Electrosynthesis and spectroelectrochemical characterization of poly(3,4-dimethoxy-thiophene), poly(3,4-dipropyloxythiophene) and poly(3,4-dioctyloxythiophene) films",
+  "authors": [
+   "Artur Szkurłat"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2003-09-03",
+  "year": 2003,
+  "doi": "10.1016/s0013-4686(03)00504-8",
+  "url": "https://doi.org/10.1016/s0013-4686(03)00504-8",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Warsaw"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dae8ac6284348396",
+  "title": "The reduction of butyraldehyde and oxidation of furan by paired electrolysis",
+  "authors": [
+   "T. Q. Chou",
+   "Ke-Hung Su",
+   "Shih-Han Wang"
+  ],
+  "journal": "Journal of The Chinese Institute of Chemical Engineers",
+  "publisher": "",
+  "published": "2003-09-01",
+  "year": 2003,
+  "doi": "",
+  "url": "http://ir.lib.ncku.edu.tw/handle/987654321/82595",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c8468f472019190b",
+  "title": "Novel platinum(II) and (IV) complexes of naphthaldimine schiff bases",
+  "authors": [
+   "Abdou S. El-Tabl",
+   "Kamal El-Baradie",
+   "R. M. Issa"
+  ],
+  "journal": "Journal of Coordination Chemistry",
+  "publisher": "Taylor & Francis",
+  "published": "2003-09-01",
+  "year": 2003,
+  "doi": "10.1080/0095897031000135261",
+  "url": "https://doi.org/10.1080/0095897031000135261",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Menoufia University",
+   "Tanta University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "31f832cb8cc57838",
+  "title": "Anodic Oxidation of Hypophosphite on a Nickel–Phosphorus Electrode in the Presence of Some Organic Compounds",
+  "authors": [
+   "N. V. Sotskaya",
+   "Т. А. Кравченко",
+   "E. I. Ryabinina",
+   "Oksana Bocharova"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2003-09-01",
+  "year": 2003,
+  "doi": "10.1023/a:1025776005148",
+  "url": "https://doi.org/10.1023/a:1025776005148",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Voronezh State University"
   ],
   "added": "2026-07-30"
  }

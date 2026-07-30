@@ -1,5 +1,61 @@
 [
  {
+  "id": "dd6033c87c7e5df7",
+  "title": "Ultrasound and Electrosynthesis",
+  "authors": [
+   "Richard G. Compton",
+   "Joanna L. Hardcastle",
+   "F. Javier del Campo",
+   "Jay D. Wadhawan"
+  ],
+  "journal": "Encyclopedia of Electrochemistry",
+  "publisher": "",
+  "published": "2003-02-21",
+  "year": 2003,
+  "doi": "10.1002/9783527610426.bard030210",
+  "url": "https://doi.org/10.1002/9783527610426.bard030210",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Oxford"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6d0c1ba22f4fa530",
+  "title": "EPR Spectroscopy in Electrochemistry",
+  "authors": [
+   "Jay D. Wadhawan",
+   "Richard G. Compton"
+  ],
+  "journal": "Encyclopedia of Electrochemistry",
+  "publisher": "",
+  "published": "2003-02-21",
+  "year": 2003,
+  "doi": "10.1002/9783527610426.bard020302",
+  "url": "https://doi.org/10.1002/9783527610426.bard020302",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Oxford"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "49e3c8e5b3e363d7",
   "title": "Electrosynthesis of Natural Products, Fine Chemicals, and Pharmaceuticals",
   "authors": [
@@ -25,6 +81,61 @@
   "relevance_score": 80,
   "affiliations": [
    "University of California, Santa Barbara"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4d3b8247a9e01c76",
+  "title": "New Chiral Pool Approach to Anthracyclinones. The Stereoselective Synthesis of Idarubicinone",
+  "authors": [
+   "O. Achmatowicz",
+   "Barbara Szechner"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2003-02-20",
+  "year": 2003,
+  "doi": "10.1021/jo026354l",
+  "url": "https://doi.org/10.1021/jo026354l",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Instytut Farmaceutyczny"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d0f8822bcef7d3b3",
+  "title": "Optical and compositional characterisation of stain-etched porous silicon subjected to anodic oxidation and thermal treatments",
+  "authors": [
+   "Ricardo Guerrero-Lemus",
+   "F. Ben-Hander",
+   "Cecilio Hernández-Rodríguez",
+   "J.M. Martı́nez-Duart"
+  ],
+  "journal": "Materials Science and Engineering B",
+  "publisher": "Elsevier BV",
+  "published": "2003-02-17",
+  "year": 2003,
+  "doi": "10.1016/s0921-5107(02)00673-6",
+  "url": "https://doi.org/10.1016/s0921-5107(02)00673-6",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Universidad de La Laguna",
+   "Universidad Autónoma de Madrid"
   ],
   "added": "2026-07-30"
  },
@@ -60,6 +171,148 @@
   "added": "2026-07-30"
  },
  {
+  "id": "b1344ccffd79bbcc",
+  "title": "A Novel Class of Emitting Amorphous Molecular Materials with Bipolar Character for Electroluminescence",
+  "authors": [
+   "Hidekaru Doi",
+   "Motoi Kinoshita",
+   "Kenji Okumoto",
+   "Yasuhiko Shirota"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "American Chemical Society",
+  "published": "2003-02-13",
+  "year": 2003,
+  "doi": "10.1021/cm020948n",
+  "url": "https://doi.org/10.1021/cm020948n",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "050ef824039ee12b",
+  "title": "Voltammetric Exploration and Applications of Ultrasonic Cavitation",
+  "authors": [
+   "Craig E. Banks",
+   "Richard G. Compton"
+  ],
+  "journal": "ChemPhysChem",
+  "publisher": "Wiley",
+  "published": "2003-02-07",
+  "year": 2003,
+  "doi": "10.1002/cphc.200390027",
+  "url": "https://doi.org/10.1002/cphc.200390027",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Oxford"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "aad6c2a41e842b9d",
+  "title": "In situ STM study of the effect of chlorides on the initial stages of anodic oxidation of Cu(111) in alkaline solutions",
+  "authors": [
+   "Julia Kunze-Liebhäuser",
+   "Vincent Maurice",
+   "Lorena H. Klein",
+   "Hans-Henning Strehblow",
+   "Philippe Marcus"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2003-02-04",
+  "year": 2003,
+  "doi": "10.1016/s0013-4686(02)00826-5",
+  "url": "https://doi.org/10.1016/s0013-4686(02)00826-5",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Heinrich Heine University Düsseldorf",
+   "Centre National de la Recherche Scientifique",
+   "Chimie ParisTech",
+   "Sorbonne Université"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3be2dd3e681a7781",
+  "title": "Electrosynthesis of Phenylacetylene Through the Anodic Decarboxylation Reaction",
+  "authors": [
+   "Franco Cataldo"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2003-02-04",
+  "year": 2003,
+  "doi": "10.1002/chin.200305252",
+  "url": "https://doi.org/10.1002/chin.200305252",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f01f9fb0919e45d9",
+  "title": "Electrosynthesis and characterization of conducting polypyrrole doped with alkylsulfonate anion",
+  "authors": [
+   "K. Anuar",
+   "Azhar Ab Halim",
+   "Almaz Zaki",
+   "Z. Zulkarnain",
+   "K. Dzulkefli",
+   "A. B. B. Nita Salina",
+   "Habibun Nabi Muhammad Ekramul Mahmud"
+  ],
+  "journal": "Global Journal of Pure and Applied Sciences",
+  "publisher": "African Journals OnLine",
+  "published": "2003-02-01",
+  "year": 2003,
+  "doi": "10.4314/gjpas.v9i2.15960",
+  "url": "https://doi.org/10.4314/gjpas.v9i2.15960",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "b82f2a302928f4c3",
   "title": "Electrosynthesis using a fluoride ion mediator. Part V: Fluoride ion mediated anodic methoxylation and acetoxylation of thiazolidines, 1,3-oxathiolanes, and 1,3-dithiolanes",
   "authors": [
@@ -82,6 +335,91 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "aaae701f20ccb79d",
+  "title": "Anodic oxidation of dyes at novel Ti/B-diamond electrodes",
+  "authors": [
+   "Xueming Chen",
+   "Guohua Chen",
+   "Po Lock Yue"
+  ],
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "published": "2003-02-01",
+  "year": 2003,
+  "doi": "10.1016/s0009-2509(02)00640-1",
+  "url": "https://doi.org/10.1016/s0009-2509(02)00640-1",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hong Kong University of Science and Technology",
+   "University of Hong Kong"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9eb12bb08119e98e",
+  "title": "Copper Solid Amalgam Electrodes",
+  "authors": [
+   "Bogdan Yosypchuk",
+   "Ladislav Novotný"
+  ],
+  "journal": "Electroanalysis",
+  "publisher": "Wiley",
+  "published": "2003-02-01",
+  "year": 2003,
+  "doi": "10.1002/elan.200390012",
+  "url": "https://doi.org/10.1002/elan.200390012",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Czech Academy of Sciences, J. Heyrovský Institute of Physical Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "59bf8949fbb01242",
+  "title": "Copper-catalyzed electrosynthesis of 1-acyl-2,2-diphenylcyclopropanes and their behaviour in acidic medium",
+  "authors": [
+   "Sylvain Oudeyer",
+   "Éric Léonel",
+   "Jean Paul Paugam",
+   "Jean-Yves Nédélec"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "2003-02-01",
+  "year": 2003,
+  "doi": "10.1016/s0040-4020(02)01620-4",
+  "url": "https://doi.org/10.1016/s0040-4020(02)01620-4",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cu Catalysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Est Créteil",
+   "Université Paris Cité"
   ],
   "added": "2026-07-30"
  }

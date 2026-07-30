@@ -1,5 +1,150 @@
 [
  {
+  "id": "991e6d3bb0596ded",
+  "title": "Anodic oxidation of ethanol on inorganic membrane-based electrodes",
+  "authors": [
+   "Shijun Liao",
+   "Vladimir Linkov",
+   "Leslie Petrik"
+  ],
+  "journal": "Applied Catalysis A General",
+  "publisher": "Elsevier BV",
+  "published": "2003-12-31",
+  "year": 2003,
+  "doi": "10.1016/j.apcata.2003.08.025",
+  "url": "https://doi.org/10.1016/j.apcata.2003.08.025",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "South China University of Technology",
+   "University of the Western Cape"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "867e0e81a9c9068b",
+  "title": "Diastereoselective Electrochemical Carboxylation of Chiral α - Bromocarboxylic Acid Derivatives: An Easy Access to Unsymmetrical Alkylmalonic Ester Derivatives 1 ,",
+  "authors": [
+   "Marta Feroci",
+   "Monica Orsini",
+   "Laura Palombi",
+   "Giovanni Sotgiu",
+   "Marcello Colapietro",
+   "Achille Inesi"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2003-12-30",
+  "year": 2003,
+  "doi": "10.1021/jo0343836",
+  "url": "https://doi.org/10.1021/jo0343836",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Diastereoselectivity",
+   "Electrochemical Carboxylation",
+   "Electrolysis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "Sapienza University of Rome"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "be86c0fceec635df",
+  "title": "Composite nickel hydroxide – polyelectrolyte films prepared by cathodic electrosynthesis",
+  "authors": [
+   "Igor Zhitomirsky"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2003-12-23",
+  "year": 2003,
+  "doi": "10.1023/b:jach.0000009965.74890.d9",
+  "url": "https://doi.org/10.1023/b:jach.0000009965.74890.d9",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "McMaster University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b82488092cf20ea0",
+  "title": "Faradaic current detection during anodic oxidation of the H-passivated p-Si(001) surface with controlled relative humidity",
+  "authors": [
+   "Hiromi Kuramochi",
+   "Francesc Pérez-Murano",
+   "John A. Dagata",
+   "Hiroshi Yokoyama"
+  ],
+  "journal": "Nanotechnology",
+  "publisher": "IOP Publishing",
+  "published": "2003-12-22",
+  "year": 2003,
+  "doi": "10.1088/0957-4484/15/3/012",
+  "url": "https://doi.org/10.1088/0957-4484/15/3/012",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Seiko Holdings (Japan)",
+   "National Institute of Advanced Industrial Science and Technology",
+   "Universitat Autònoma de Barcelona",
+   "Institut de Microelectrònica de Barcelona",
+   "National Institute of Standards and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a9b2aba429ff3adf",
+  "title": "Electrochemical fluorination: state of the art and future tendences",
+  "authors": [
+   "L. Conte",
+   "GianPaolo Gambaretto"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2003-12-19",
+  "year": 2003,
+  "doi": "10.1016/j.jfluchem.2003.07.002",
+  "url": "https://doi.org/10.1016/j.jfluchem.2003.07.002",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "1f9bcff8a7c70e93",
   "title": "Highly efficient anodic fluorination of 4-(p-chlorophenylthio)methyl-1,3-dioxolan-2-one: marked solvent effects on electrochemical fluorination",
   "authors": [
@@ -22,6 +167,139 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ba0a0808b549557c",
+  "title": "Results and perspectives of high oxidation state organomolyb-denum chemistry in water",
+  "authors": [
+   "C. G. SCRETTAS",
+   "B. R. Steele",
+   "Edmond Collange",
+   "Funda Demirhan",
+   "Jenny Gun",
+   "Ovadia Lev",
+   "Alexandre Modestov",
+   "Rinaldo Poli",
+   "Philippe Richard",
+   "Dirk Saurenz"
+  ],
+  "journal": "Royal Society of Chemistry eBooks",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2003-12-02",
+  "year": 2003,
+  "doi": "10.1039/9781847551641-00167",
+  "url": "https://doi.org/10.1039/9781847551641-00167",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Université de Bourgogne",
+   "Laboratoire de Synthèse Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a7a7374dbc5701a5",
+  "title": "Electrochemical synthesis of CeO2 and CeO2/montmorillonite nanocomposites.",
+  "authors": [
+   "Qi Wang"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2003-12-01",
+  "year": 2003,
+  "doi": "10.12794/metadc4378",
+  "url": "https://doi.org/10.12794/metadc4378",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Electrochemical Synthesis",
+   "Mechanism"
+  ],
+  "relevance_score": 47,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "967ac67704645632",
+  "title": "Effect of Surface Morphology and Crystal Structure on Bioactivity of Titania Films Formed on Titanium Metal via Anodic Oxidation in Sulfuric Acid Solution",
+  "authors": [
+   "Tian Ying Xiong",
+   "Xin-Yu Cui",
+   "Hyun Min Kim",
+   "Masakazu Kawashita",
+   "Tadashi Kokubo",
+   "Jie Wu",
+   "Hua-Zi Jin",
+   "Takashi Nakamura"
+  ],
+  "journal": "Key engineering materials",
+  "publisher": "Trans Tech Publications",
+  "published": "2003-12-01",
+  "year": 2003,
+  "doi": "10.4028/www.scientific.net/kem.254-256.375",
+  "url": "https://doi.org/10.4028/www.scientific.net/kem.254-256.375",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Kyoto University",
+   "Yonsei University",
+   "Tohoku University",
+   "Chubu University",
+   "ROHM",
+   "Kyoto University of Education"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9165dd16e4009e7a",
+  "title": "Control of Hydrogenation Patterning for CVD Diamond Substrates by AFM Local Anodic Oxidation",
+  "authors": [
+   "C. Manfredotti",
+   "E. Vittone",
+   "C. Paolini",
+   "L. Del Bianco",
+   "F. Fizzotti",
+   "Alessandro Lo Giudice",
+   "P. Olivero"
+  ],
+  "journal": "Surface Engineering",
+  "publisher": "Maney Publishing",
+  "published": "2003-12-01",
+  "year": 2003,
+  "doi": "10.1179/026708403225010091",
+  "url": "https://doi.org/10.1179/026708403225010091",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Istituto Nazionale di Fisica Nucleare",
+   "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
+   "University of Turin"
   ],
   "added": "2026-07-30"
  }
