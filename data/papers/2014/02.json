@@ -1,5 +1,95 @@
 [
  {
+  "id": "b33193af067bedd7",
+  "title": "Enhanced field emission from Ti3+ self-doped TiO2 nanotube arrays synthesized by a facile cathodic reduction process",
+  "authors": [
+   "Weidong Zhu",
+   "Chengwei Wang",
+   "Jianbiao Chen",
+   "Yan Li",
+   "Jian Wang"
+  ],
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2014-02-28",
+  "year": 2014,
+  "doi": "10.1016/j.apsusc.2014.02.116",
+  "url": "https://doi.org/10.1016/j.apsusc.2014.02.116",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Northwest Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "96c586bfa80a34c9",
+  "title": "Electrosynthesis of gadolinium borides in chloride melt",
+  "authors": [
+   "A. S. Uzdenova",
+   "Х. Б. Кушхов",
+   "Mahmoud M. Saleh",
+   "L. Uzdenova"
+  ],
+  "journal": "SOP Transactions on Physical Chemistry",
+  "publisher": "",
+  "published": "2014-02-28",
+  "year": 2014,
+  "doi": "10.15764/pche.2014.01004",
+  "url": "https://doi.org/10.15764/pche.2014.01004",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kabardino-Balkarian State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6301d8e9927fdd02",
+  "title": "Electrosynthesis of Dysprosium Borides in NaCl–KCl Melt at 973 K",
+  "authors": [
+   "A. S. Uzdenova",
+   "Х. Б. Кушхов",
+   "Abdulkader Moqbel Farhan Qahtan",
+   "M. R. Tlenkopachev",
+   "L. Uzdenova"
+  ],
+  "journal": "SOP Transactions on Physical Chemistry",
+  "publisher": "",
+  "published": "2014-02-28",
+  "year": 2014,
+  "doi": "10.15764/pche.2014.01003",
+  "url": "https://doi.org/10.15764/pche.2014.01003",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Controlled Potential",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "Kabardino-Balkarian State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "d389d6a7bfcb6dfb",
   "title": "Sequential Paired Electrosynthesis of a Diaryl Ether Derivative Using an Electrochemical Microreactor",
   "authors": [
@@ -31,6 +121,344 @@
    "Tsukuba International University",
    "Keio University",
    "Yokohama National University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "37678b7c145ffce2",
+  "title": "Nitrogen-doped nanodiamond rod array electrode with superior performance for electroreductive debromination of polybrominated diphenyl ethers",
+  "authors": [
+   "Yanming Liu",
+   "Shuo Chen",
+   "Xie Quan",
+   "Xinfei Fan",
+   "Huimin Zhao",
+   "Qian Zhao",
+   "Hongtao Yu"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2014-02-22",
+  "year": 2014,
+  "doi": "10.1016/j.apcatb.2014.02.028",
+  "url": "https://doi.org/10.1016/j.apcatb.2014.02.028",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Dalian University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bf1dceb8dfd6fb94",
+  "title": "Short‐Step Anodic Access to Emissive RNA Homonucleosides (Eur. J. Org. Chem. 7/2014)",
+  "authors": [
+   "Yohei Okada",
+   "Kouhei Shimada",
+   "Yoshikazu Kitano",
+   "Kazuhiro Chiba"
+  ],
+  "journal": "European Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2014-02-21",
+  "year": 2014,
+  "doi": "10.1002/ejoc.201490015",
+  "url": "https://doi.org/10.1002/ejoc.201490015",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tokyo University of Agriculture and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "948d20c11c2c1fdc",
+  "title": "Electrochemical bromination and oxidation of alkyl aromatic compounds by two-phase electrolysis",
+  "authors": [
+   "Raju Thasan",
+   "K. Kulangiappar"
+  ],
+  "journal": "Korean Journal of Chemical Engineering",
+  "publisher": "Springer Science+Business Media",
+  "published": "2014-02-17",
+  "year": 2014,
+  "doi": "10.1007/s11814-014-0012-8",
+  "url": "https://doi.org/10.1007/s11814-014-0012-8",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Halogenation",
+   "Electrolysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Central Electrochemical Research Institute",
+   "Council of Scientific and Industrial Research"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7968543e8372d9da",
+  "title": "Electrocatalytic multicomponent assembling of aldehydes, 4-hydroxycoumarin and malononitrile: An efficient approach to 2-amino-5-oxo-4,5-dihydropyrano(3,2-c)chromene-3-carbonitrile derivatives",
+  "authors": [
+   "Zahra Vafajoo",
+   "Hojat Veisi",
+   "Malek Taher Maghsoodlou",
+   "Hossein Ahmadian"
+  ],
+  "journal": "Comptes Rendus Chimie",
+  "publisher": "Elsevier BV",
+  "published": "2014-02-17",
+  "year": 2014,
+  "doi": "10.1016/j.crci.2013.03.004",
+  "url": "https://doi.org/10.1016/j.crci.2013.03.004",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Sistan and Baluchestan",
+   "Payame Noor University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c1be6b5bcae7372c",
+  "title": "Electrosynthesis and optical characterization of poly(p-phenylene), polypyrrole and poly(p-phenylene)-polypyrrole films",
+  "authors": [
+   "Juliana Coatrini Soares",
+   "Maurício Foschini",
+   "Carla Eiras",
+   "Edgar Aparecido Sanches",
+   "Débora Gonçalves"
+  ],
+  "journal": "Materials Research",
+  "publisher": "Associação Brasileira de Metalurgia e Materiais (ABM); Associação Brasileira de Cerâmica (ABC); Associação Brasileira de Polímer",
+  "published": "2014-02-15",
+  "year": 2014,
+  "doi": "10.1590/s1516-14392014005000008",
+  "url": "https://doi.org/10.1590/s1516-14392014005000008",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Universidade de São Paulo",
+   "Universidade Federal de Uberlândia",
+   "Universidade Federal do Piauí",
+   "Universidade Federal do Amazonas"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2dac29828973569a",
+  "title": "ChemInform Abstract: One‐Pot Formation of 1,3,4‐Oxadiazol‐2(3H)‐ones and Dibenzo[c,e]azepines by Concomitant Cathodic Reduction of Diazonium Salts and Phenanthrenequinones.",
+  "authors": [
+   "Belén Batanero",
+   "Fructuoso Barba",
+   "Avelino Martı́n"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2014-02-14",
+  "year": 2014,
+  "doi": "10.1002/chin.201409020",
+  "url": "https://doi.org/10.1002/chin.201409020",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Alcalá"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2d7430d2a7eff8e6",
+  "title": "Photocurrent response and semiconductor characteristics of Ce-Ce2O3-CeO2-modified TiO2 nanotube arrays",
+  "authors": [
+   "Yu Tan",
+   "Shenghan Zhang",
+   "Kexin Liang"
+  ],
+  "journal": "Nanoscale Research Letters",
+  "publisher": "Springer Science+Business Media",
+  "published": "2014-02-10",
+  "year": 2014,
+  "doi": "10.1186/1556-276x-9-67",
+  "url": "https://doi.org/10.1186/1556-276x-9-67",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "North China Electric Power University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6b6f4cf99d91badb",
+  "title": "Regioselective Electrosynthesis of Rare 1,2,3,16‐Functionalized [60]Fullerene Derivatives",
+  "authors": [
+   "Yang Xiao",
+   "San-E Zhu",
+   "Ding-Jia Liu",
+   "Mitsuaki Suzuki",
+   "Xing Lü",
+   "Guan-Wu Wang"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2014-02-05",
+  "year": 2014,
+  "doi": "10.1002/anie.201310565",
+  "url": "https://doi.org/10.1002/anie.201310565",
+  "source": "openalex",
+  "categories": [
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Heterocycles",
+   "Regioselectivity"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Hefei National Center for Physical Sciences at Nanoscale",
+   "Huazhong University of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d12948f44035cba1",
+  "title": "Efficient electrochemical incineration of phenol on activated carbon fiber as a new type of particulates",
+  "authors": [
+   "Lei Ma",
+   "Chenglin Sun",
+   "Jian Ren",
+   "Huangzhao Wei",
+   "Peijuan Liu"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2014-02-04",
+  "year": 2014,
+  "doi": "10.1134/s1023193514010078",
+  "url": "https://doi.org/10.1134/s1023193514010078",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Mechanism",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Dalian Institute of Chemical Physics",
+   "Chinese Academy of Sciences",
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ad111dd9c7da583c",
+  "title": "Electrosynthesis of Cu / ZnO nanocomposite electrode on ITO electrode and its application in oxidation of ascorbic acid and glucose",
+  "authors": [
+   "Md Emran Quayum",
+   "Bablu Biswas",
+   "Md Khairul Hassan Bhuiyan"
+  ],
+  "journal": "Journal of the Asiatic Society of Bangladesh Science",
+  "publisher": "",
+  "published": "2014-02-03",
+  "year": 2014,
+  "doi": "10.3329/jasbs.v39i2.17855",
+  "url": "https://doi.org/10.3329/jasbs.v39i2.17855",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Dhaka",
+   "Bangladesh Agricultural University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f58c38c9baab99d0",
+  "title": "Efficient electrochemical synthesis of pyrido[1,2-a]benzimidazoles",
+  "authors": [
+   "А. А. Соколов",
+   "Mikhail A. Syroeshkin",
+   "V. N. Solkan",
+   "Т. В. Шебунина",
+   "Р. С. Бегунов",
+   "Ludmila V. Mikhalchenko",
+   "M. Yu. Leonova",
+   "V. P. Gul’tyai"
+  ],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "2014-02-01",
+  "year": 2014,
+  "doi": "10.1007/s11172-014-0440-y",
+  "url": "https://doi.org/10.1007/s11172-014-0440-y",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Yaroslavl State University",
+   "Russian Academy of Sciences",
+   "N.D. Zelinsky Institute of Organic Chemistry"
   ],
   "added": "2026-07-30"
  },
@@ -70,6 +498,91 @@
   "affiliations": [
    "Beijing University of Technology",
    "Beijing University of Chemical Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7b8366d36233b5c8",
+  "title": "An Alternative Approach to Titrating Fe2+(aq) in Dietary Supplement Tablets Using Electrolytically Produced Ce4+(aq)",
+  "authors": [
+   "Huirui Washington",
+   "Christopher Scanlon",
+   "Samuel Melaku",
+   "James O. Schreck",
+   "Rajeev B. Dabke"
+  ],
+  "journal": "The Chemical Educator",
+  "publisher": "Springer Nature",
+  "published": "2014-02-01",
+  "year": 2014,
+  "doi": "10.1333/s00897142553a",
+  "url": "https://doi.org/10.1333/s00897142553a",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolytic"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Columbus State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1f93c9a9936d3155",
+  "title": "The Photoluminescence Enhancement and Stability of Porous Silicon by Cathodic Reduction and Acid Treatment",
+  "authors": [
+   "Chang Qing Li",
+   "Kun Wang",
+   "Pei Jia Liu",
+   "Ming Qi"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2014-02-01",
+  "year": 2014,
+  "doi": "10.4028/www.scientific.net/amr.887-888.458",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.887-888.458",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Zhengzhou University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "194fce4b0a9b4279",
+  "title": "Intercalation of lithium into porous titanium oxide produced by anodic oxidation",
+  "authors": [
+   "В. В. Маслов",
+   "V. P. Yurkinskii",
+   "I. A. Samsonova"
+  ],
+  "journal": "Russian Journal of Applied Chemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2014-02-01",
+  "year": 2014,
+  "doi": "10.1134/s1070427214020104",
+  "url": "https://doi.org/10.1134/s1070427214020104",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Peter the Great St. Petersburg Polytechnic University"
   ],
   "added": "2026-07-30"
  }
