@@ -1,5 +1,127 @@
 [
  {
+  "id": "f2b378b683234673",
+  "title": "Mineralization of organic pollutants by anodic oxidation using reactive electrochemical membrane synthesized from carbothermal reduction of TiO2",
+  "authors": [
+   "Clément Trellu",
+   "Clémence Coetsier",
+   "Jean-Christophe Rouch",
+   "Roseline Esmilaire",
+   "Matthieu Rivallin",
+   "Marc Cretin",
+   "Christel Causserand"
+  ],
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "published": "2017-12-28",
+  "year": 2017,
+  "doi": "10.1016/j.watres.2017.12.070",
+  "url": "https://doi.org/10.1016/j.watres.2017.12.070",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Toulouse III - Paul Sabatier",
+   "Institut National Polytechnique de Toulouse",
+   "Laboratoire de Génie Chimique",
+   "Université Fédérale de Toulouse Midi-Pyrénées",
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Institut Européen des Membranes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f1c14bd9d658a97c",
+  "title": "Anodic oxidation-assisted O2 oxidation of phenol catalyzed by Fe3O4 at low voltage",
+  "authors": [
+   "Lei Lei",
+   "Liming Fang",
+   "Lin-Feng Zhai",
+   "Ran Wang",
+   "Min Sun"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2017-12-28",
+  "year": 2017,
+  "doi": "10.1016/j.electacta.2017.12.155",
+  "url": "https://doi.org/10.1016/j.electacta.2017.12.155",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hefei University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "937f629f51c69616",
+  "title": "Improving biodegradability of soil washing effluents using anodic oxidation",
+  "authors": [
+   "María Belén Carboneras Contreras",
+   "Pablo Cañizares",
+   "Manuel A. Rodrigo",
+   "José Villaseñor",
+   "F.J. Fernández"
+  ],
+  "journal": "Bioresource Technology",
+  "publisher": "Elsevier BV",
+  "published": "2017-12-21",
+  "year": 2017,
+  "doi": "10.1016/j.biortech.2017.12.060",
+  "url": "https://doi.org/10.1016/j.biortech.2017.12.060",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Castilla-La Mancha"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ade4ea964f4c968c",
+  "title": "An Electrochemical Technique for Measurements of Electrical Conductivity of Aqueous Electrolytes",
+  "authors": [
+   "Rajkumar S. Patil",
+   "Vinay A. Juvekar",
+   "Umesh Nalage"
+  ],
+  "journal": "arXiv (Cornell University)",
+  "publisher": "Cornell University",
+  "published": "2017-12-20",
+  "year": 2017,
+  "doi": "10.48550/arxiv.1712.07382",
+  "url": "https://doi.org/10.48550/arxiv.1712.07382",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Reference Electrode"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "8a3760d46a0148b2",
   "title": "Electrochemical Synthesis of Imidazo‐Fused N‐Heteroaromatic Compounds through a C−N Bond‐Forming Radical Cascade",
   "authors": [
@@ -34,6 +156,138 @@
   "added": "2026-07-30"
  },
  {
+  "id": "f0b639be86e48e73",
+  "title": "The Influence of Magnetohydrodynamic Power on the Deposition of Silver Dendrites on the Titanium the Surface of Titanium after Anodic Oxidation",
+  "authors": [
+   "Jeremiasz K. Koper"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2017-12-16",
+  "year": 2017,
+  "doi": "10.20964/2018.01.89",
+  "url": "https://doi.org/10.20964/2018.01.89",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d0caa4317624b529",
+  "title": "A study on Electrosynthesis of 2,5-dichlorophenol Using Titanium Anode Coated with Metallic Oxide",
+  "authors": [
+   "Xiangyu Ma",
+   "Xuguo Tu",
+   "Ruinan He",
+   "Yan-Jun Wu",
+   "Beibei Zhang",
+   "Yunshan Bai",
+   "Jianping Zeng",
+   "Shouyan Shao",
+   "Guisheng Zhu",
+   "Song Chen"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2017-12-16",
+  "year": 2017,
+  "doi": "10.20964/2018.01.10",
+  "url": "https://doi.org/10.20964/2018.01.10",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 53,
+  "affiliations": [
+   "Jiangsu University",
+   "Yancheng Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "83def14bb544ac78",
+  "title": "Cu-Ni Alloy Catalyzed Electrochemical Carboxylation of Benzyl Bromide with Carbon Dioxide in Ionic Liquid 1-Butyl-3-methylimidazolium tetrafluoroborate",
+  "authors": [
+   "Dai Yimin",
+   "Niu Lanli",
+   "Liu Hui",
+   "Jiaqi Zou",
+   "Yu Linping",
+   "Feng Qiuju"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2017-12-16",
+  "year": 2017,
+  "doi": "10.20964/2018.01.85",
+  "url": "https://doi.org/10.20964/2018.01.85",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Controlled Potential",
+   "Electrochemical Carboxylation",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Mechanism",
+   "Undivided Cell"
+  ],
+  "relevance_score": 50,
+  "affiliations": [
+   "Changsha University of Science and Technology",
+   "Jishou University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cb7d0b15e2301554",
+  "title": "Mechanism and kinetics of electrocarboxylation of aromatic ketones in ionic liquid",
+  "authors": [
+   "Andrew P. Doherty",
+   "Eunan Marley",
+   "Rachid Barhdadi",
+   "Valentin Puchelle",
+   "Klaudia Wagner",
+   "Gordon G. Wallace"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2017-12-14",
+  "year": 2017,
+  "doi": "10.1016/j.jelechem.2017.12.035",
+  "url": "https://doi.org/10.1016/j.jelechem.2017.12.035",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Queen's University Belfast",
+   "Université Paris-Est Créteil",
+   "Laboratoire Eau, Environnement et Systèmes Urbains",
+   "University of Wollongong",
+   "ARC Centre of Excellence for Electromaterials Science"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "a99f0b8006230b2d",
   "title": "Electrochemical Oxidative Cross-coupling with Hydrogen Evolution: A Green and Sustainable Way for Bond Formation",
   "authors": [
@@ -61,6 +315,133 @@
    "Wuhan University",
    "Chinese Academy of Sciences",
    "Lanzhou Institute of Chemical Physics"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "58ede06111f8a184",
+  "title": "Eutectic-Bismuth Indium as a Growth Solvent for the Electrochemical Liquid-Liquid-Solid Deposition of Germanium Microwires and Coiled Nanowires",
+  "authors": [
+   "Joshua DeMuth",
+   "Luyao Ma",
+   "Mitchell Lancaster",
+   "Saurabh Acharya",
+   "Quintin Cheek",
+   "Stephen Maldonado"
+  ],
+  "journal": "Crystal Growth & Design",
+  "publisher": "American Chemical Society",
+  "published": "2017-12-12",
+  "year": 2017,
+  "doi": "10.1021/acs.cgd.7b01036",
+  "url": "https://doi.org/10.1021/acs.cgd.7b01036",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 53,
+  "affiliations": [
+   "University of Michigan"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d017f0524b66a90f",
+  "title": "N -Hydroxyphthalimide-Mediated Electrochemical Iodination of Methylarenes and Comparison to Electron-Transfer-Initiated C–H Functionalization",
+  "authors": [
+   "Mohammad Rafiee",
+   "Fei Wang",
+   "Damian P. Hruszkewycz",
+   "Shannon S. Stahl"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2017-12-08",
+  "year": 2017,
+  "doi": "10.1021/jacs.7b09744",
+  "url": "https://doi.org/10.1021/jacs.7b09744",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Electrochemical C-H",
+   "NHPI",
+   "Redox Mediator"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "University of Wisconsin–Madison"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b75a3e1b9b45c2f2",
+  "title": "Redox-Tag Processes: Intramolecular Electron Transfer and Its Broad Relationship to Redox Reactions in General",
+  "authors": [
+   "Yohei Okada",
+   "Kazuhiro Chiba"
+  ],
+  "journal": "Chemical Reviews",
+  "publisher": "American Chemical Society",
+  "published": "2017-12-08",
+  "year": 2017,
+  "doi": "10.1021/acs.chemrev.7b00400",
+  "url": "https://doi.org/10.1021/acs.chemrev.7b00400",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Organic Electrochemistry",
+   "Radical Chemistry",
+   "Single-Electron Transfer"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Tokyo University of Agriculture and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "438ed44a0bc54f0b",
+  "title": "Rapid Electrochemical Conversion of Thiol and Disulfide into Difluoroand Trifluoromethyl Thioethers in a Microfluidic Reactor",
+  "authors": [
+   "Kenta Arai",
+   "Setsura Ueda",
+   "Sayaka Tamura"
+  ],
+  "journal": "Current Green Chemistry",
+  "publisher": "",
+  "published": "2017-12-07",
+  "year": 2017,
+  "doi": "10.2174/2213346105666171206150931",
+  "url": "https://doi.org/10.2174/2213346105666171206150931",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Electrochemical Microreactor",
+   "Electrolysis",
+   "Kolbe Electrolysis",
+   "Microreactor",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "Tokai University"
   ],
   "added": "2026-07-30"
  },
@@ -137,6 +518,157 @@
    "University of Greenwich",
    "University of New Mexico",
    "Sandia National Laboratories"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "112323c0d2ab5372",
+  "title": "Transition-Metal-Free and Base-Free Electrosynthesis of 1 H -Substituted Benzimidazoles",
+  "authors": [
+   "D. M. M. Mevan Dissanayake",
+   "Aaron K. Vannucci"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2017-12-04",
+  "year": 2017,
+  "doi": "10.1021/acssuschemeng.7b03029",
+  "url": "https://doi.org/10.1021/acssuschemeng.7b03029",
+  "source": "openalex",
+  "categories": [
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "FG Tolerance",
+   "Heterocycles"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "University of South Carolina Sumter"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6d1774e62968fe9f",
+  "title": "Electrosynthesis of Ti3AlC2 from oxides/carbon precursor in molten calcium chloride",
+  "authors": [
+   "Shangshu Li",
+   "Xingli Zou",
+   "Xiaolu Xiong",
+   "Kai Zheng",
+   "Xionggang Lu",
+   "Zhongfu Zhou",
+   "Xueliang Xie",
+   "Qian Xu"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2017-12-02",
+  "year": 2017,
+  "doi": "10.1016/j.jallcom.2017.11.342",
+  "url": "https://doi.org/10.1016/j.jallcom.2017.11.342",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Shanghai University",
+   "The University of Texas at Austin",
+   "Aberystwyth University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "713d72a7cbf48d8a",
+  "title": "The Role of Interphase Interactions in Electrosynthesis of Composites Based of Graphene Oxide and Poly-o-Phenylenediamine",
+  "authors": [
+   "E. Yu. Pisarevskaya",
+   "О. Н. Ефимов",
+   "G. P. Girina",
+   "Nadezhda N. Dremova"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2017-12-01",
+  "year": 2017,
+  "doi": "10.1134/s1023193517120072",
+  "url": "https://doi.org/10.1134/s1023193517120072",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Frumkin Institute of Physical Chemistry and Electrochemistry",
+   "Institute of Problems of Chemical Physics"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "51b0fd77de89b8b1",
+  "title": "Electrosynthesis of Clozapine Drug Derivative via an EC Electrochemical Mechanism",
+  "authors": [
+   "Esmail Tammari",
+   "Azizollah Nezhadali",
+   "Shahram Lotfi",
+   "Mohammad R. Mohammadizadeh"
+  ],
+  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "publisher": "",
+  "published": "2017-12-01",
+  "year": 2017,
+  "doi": "10.22036/abcr.2017.82592.1142",
+  "url": "https://doi.org/10.22036/abcr.2017.82592.1142",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Glassy Carbon"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Persian Gulf University",
+   "Payame Noor University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3a0c61dd19e5b714",
+  "title": "Microbially Mediated Electrosynthesis Processes",
+  "authors": [
+   "Mohita Sharma",
+   "Priyangshu M. Sarma"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2017-12-01",
+  "year": 2017,
+  "doi": "10.1007/978-3-319-66793-5_22",
+  "url": "https://doi.org/10.1007/978-3-319-66793-5_22",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "TERI University",
+   "University of Calgary"
   ],
   "added": "2026-07-30"
  }

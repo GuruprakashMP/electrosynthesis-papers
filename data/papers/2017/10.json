@@ -1,5 +1,38 @@
 [
  {
+  "id": "bd067aad74fda5af",
+  "title": "Examining the influence of electrosynthesis conditions on the composition of tin-oxide catalyst",
+  "authors": [
+   "Victor Vargalyuk",
+   "Kateryna Plyasovskaya",
+   "Ірина Скнар",
+   "Anna Cheremysinova",
+   "Oleksii Sigunov",
+   "Olga Sverdlikovska"
+  ],
+  "journal": "Eastern-European Journal of Enterprise Technologies",
+  "publisher": "Kharkiv State Academy of Physical Culture",
+  "published": "2017-10-30",
+  "year": 2017,
+  "doi": "10.15587/1729-4061.2017.110000",
+  "url": "https://doi.org/10.15587/1729-4061.2017.110000",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "Nickel Electrode"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Oles Honchar Dnipro National University",
+   "Ukrainian State University of Chemical Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "fa48ef0831d0d08f",
   "title": "Electro-oxidative C(sp3)–H Amination of Azoles via Intermolecular Oxidative C(sp3)–H/N–H Cross-Coupling",
   "authors": [
@@ -32,6 +65,196 @@
    "Chinese Academy of Sciences",
    "Lanzhou Institute of Chemical Physics"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "064b18e44a96aa1d",
+  "title": "A green approach for the electroorganic synthesis of 2-[(4-methyl-2-pyridyl)amino]-1,4-benzenediol derivatives in aqueous solution",
+  "authors": [
+   "Samira Dadkhah-Tehrani",
+   "Mehdi Shabani-Nooshabadi",
+   "Mohsen Moradian"
+  ],
+  "journal": "Journal of the Iranian Chemical Society",
+  "publisher": "Springer Science+Business Media",
+  "published": "2017-10-25",
+  "year": 2017,
+  "doi": "10.1007/s13738-017-1220-z",
+  "url": "https://doi.org/10.1007/s13738-017-1220-z",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Kashan"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "00759e3e121366de",
+  "title": "Functional Electrodes for Enzymatic Electrosynthesis",
+  "authors": [
+   "Lin Zhang",
+   "Mathieu Etienne",
+   "Neus Vilà",
+   "Alain Walcarius"
+  ],
+  "journal": "WORLD SCIENTIFIC (EUROPE) eBooks",
+  "publisher": "",
+  "published": "2017-10-25",
+  "year": 2017,
+  "doi": "10.1142/9781786343543_0006",
+  "url": "https://doi.org/10.1142/9781786343543_0006",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Chimie Physique et Microbiologie pour l'Environnement",
+   "Université de Lorraine"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "88e0f132fb93424b",
+  "title": "Polydopamine deposition with anodic oxidation for better connective tissue attachment to transmucosal implants",
+  "authors": [
+   "Fei Teng",
+   "H. Chen",
+   "Yuanwei Xu",
+   "Y. Liu",
+   "Guomin Ou"
+  ],
+  "journal": "Journal of Periodontal Research",
+  "publisher": "Wiley",
+  "published": "2017-10-24",
+  "year": 2017,
+  "doi": "10.1111/jre.12509",
+  "url": "https://doi.org/10.1111/jre.12509",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Sichuan University",
+   "Academic Center for Dentistry Amsterdam",
+   "Vrije Universiteit Amsterdam",
+   "University of Amsterdam",
+   "Chengdu Medical College"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "05188d04407b0238",
+  "title": "Solid Fluoride Electrolytes and Their Composite with Carbon: Issues and Challenges for Rechargeable Solid State Fluoride-Ion Batteries",
+  "authors": [
+   "Antonin Grenier",
+   "Ana Gabriela Porras-Gutiérrez",
+   "Monique Body",
+   "Christophe Legein",
+   "Fabien Chrétien",
+   "Encarnación Raymundo-Piñero",
+   "Mickaël Dollé",
+   "Henri Groult",
+   "Damien Dambournet"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2017-10-24",
+  "year": 2017,
+  "doi": "10.1021/acs.jpcc.7b07988",
+  "url": "https://doi.org/10.1021/acs.jpcc.7b07988",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Sorbonne Université",
+   "PHENIX laboratory",
+   "Le Mans Université",
+   "Institut des Molécules et Matériaux du Mans",
+   "Université Bretagne Loire",
+   "Université d'Orléans",
+   "Conditions Extrêmes et Matériaux Haute Température et Irradiation",
+   "Réseau sur le Stockage Electrochimique de l'énergie",
+   "Université de Montréal"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "67ecf04ce67cfb89",
+  "title": "Electrosynthesis of vinyl sulfones from alkenes and sulfonyl hydrazides mediated by KI: Аn electrochemical mechanistic study",
+  "authors": [
+   "Alexander O. Terent’ev",
+   "Olga M. Mulina",
+   "Dmitry A. Pirgach",
+   "Alexey I. Ilovaisky",
+   "Mikhail A. Syroeshkin",
+   "N. I. Kapustina",
+   "G. I. Nikishin"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "2017-10-23",
+  "year": 2017,
+  "doi": "10.1016/j.tet.2017.10.047",
+  "url": "https://doi.org/10.1016/j.tet.2017.10.047",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "D. Mendeleyev University of Chemical Technology of Russia",
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "913fb49b732bd0c1",
+  "title": "Synthesis of Vismodegib via Directed C–H Chlorination",
+  "authors": [
+   "Philip Kocienski"
+  ],
+  "journal": "Synfacts",
+  "publisher": "Georg Thieme Verlag",
+  "published": "2017-10-19",
+  "year": 2017,
+  "doi": "10.1055/s-0036-1591408",
+  "url": "https://doi.org/10.1055/s-0036-1591408",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrochemical Halogenation"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
   "added": "2026-07-30"
  },
  {
@@ -87,6 +310,152 @@
   "relevance_score": 40,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "276db4a58433cf2f",
+  "title": "Cathodic Reduction of Aryl Halides in Organic Carbonates for Achieving Aryl–Aryl Couplings",
+  "authors": [],
+  "journal": "Catalytic science series",
+  "publisher": "",
+  "published": "2017-10-15",
+  "year": 2017,
+  "doi": "10.1142/9781786342447_0007",
+  "url": "https://doi.org/10.1142/9781786342447_0007",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d2cf71bee08e45d6",
+  "title": "Organic Electrochemistry: Basics and Applications",
+  "authors": [
+   "Serdar Abacı"
+  ],
+  "journal": "International Journal of Biosensors & Bioelectronics",
+  "publisher": "MedCrave Group",
+  "published": "2017-10-13",
+  "year": 2017,
+  "doi": "10.15406/ijbsbe.2017.03.00063",
+  "url": "https://doi.org/10.15406/ijbsbe.2017.03.00063",
+  "source": "openalex",
+  "categories": [
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Atom Economy",
+   "Green Chemistry",
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Hacettepe University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0d08f12a596ac1ed",
+  "title": "Advanced Electrochemical Oxidation of Methyl Parathion at Boron-Doped Diamond Electrodes",
+  "authors": [
+   "Eulalio Campos-González",
+   "Bernardo A. Frontana-Uribe",
+   "Rubén Vásquez-Medrano",
+   "Samuel Macías- Bravo",
+   "Jorge G. Ibáñez"
+  ],
+  "journal": "Journal of the Mexican Chemical Society",
+  "publisher": "Mexican Chemical Society",
+  "published": "2017-10-12",
+  "year": 2017,
+  "doi": "10.29356/jmcs.v58i3.138",
+  "url": "https://doi.org/10.29356/jmcs.v58i3.138",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "BDD Electrode"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Ibero American University",
+   "Universidad Autónoma del Estado de México",
+   "Universidad Nacional Autónoma de México"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "343ec61ebb5f6157",
+  "title": "Surface Hydrogenation of Boron-Doped Diamond Electrodes by Cathodic Reduction",
+  "authors": [
+   "Seiji Kasahara",
+   "Keisuke Natsui",
+   "Takeshi Watanabe",
+   "Yasuyuki Yokota",
+   "Yousoo Kim",
+   "Shota Iizuka",
+   "Yoshitaka Tateyama",
+   "Yasuaki Einaga"
+  ],
+  "journal": "Analytical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2017-10-10",
+  "year": 2017,
+  "doi": "10.1021/acs.analchem.7b02129",
+  "url": "https://doi.org/10.1021/acs.analchem.7b02129",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "BDD Electrode",
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Keio University",
+   "Aoyama Gakuin University",
+   "RIKEN",
+   "National Institute for Materials Science",
+   "Japan Science and Technology Agency"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "220bb12f184ccbbb",
+  "title": "Electrosynthesis and photoelectrochemical properties of polyaniline/SiC nanohybrid electrodes",
+  "authors": [
+   "Attila Kormányos",
+   "Róbert Ondok",
+   "Csaba Janáky"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2017-10-10",
+  "year": 2017,
+  "doi": "10.1016/j.electacta.2017.10.019",
+  "url": "https://doi.org/10.1016/j.electacta.2017.10.019",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Szeged"
   ],
   "added": "2026-07-30"
  },
@@ -154,6 +523,65 @@
    "Max Planck Graduate Center",
    "Evonik (Germany)",
    "Ruhr University Bochum"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3366e40909cc4a1a",
+  "title": "Facile electrochemical synthesis of nano iron porous coordination polymer using scrap iron for simultaneous and cost-effective removal of organic and inorganic arsenic",
+  "authors": [
+   "Mengni Zhang",
+   "Jia Jia",
+   "Ke Huang",
+   "Xiandeng Hou",
+   "Chengbin Zheng"
+  ],
+  "journal": "Chinese Chemical Letters",
+  "publisher": "Elsevier BV",
+  "published": "2017-10-05",
+  "year": 2017,
+  "doi": "10.1016/j.cclet.2017.09.062",
+  "url": "https://doi.org/10.1016/j.cclet.2017.09.062",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Sichuan University",
+   "Chengdu University of Technology",
+   "Sichuan Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "067743e6734b8f2e",
+  "title": "Synthesis and characterization of Cu2O nanowires array via an anodic oxidation method",
+  "authors": [
+   "Yanqun Lv",
+   "Baozhu Shi",
+   "Xiaofa Su",
+   "Lecheng Tian"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "2017-10-03",
+  "year": 2017,
+  "doi": "10.1016/j.matlet.2017.09.120",
+  "url": "https://doi.org/10.1016/j.matlet.2017.09.120",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Changchun University of Science and Technology"
   ],
   "added": "2026-07-30"
  },
@@ -229,6 +657,33 @@
    "Beijing University of Technology",
    "Nanyang Normal University",
    "Beijing Technology and Business University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "59449da1e5e55b64",
+  "title": "Pattern fabrication on graphene via dual probe local anodic oxidation",
+  "authors": [
+   "Sergio A. Garnica Barragan",
+   "Sören Zimmermann",
+   "Sergej Fatikow"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2017-10-01",
+  "year": 2017,
+  "doi": "10.1109/nmdc.2017.8350498",
+  "url": "https://doi.org/10.1109/nmdc.2017.8350498",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Carl von Ossietzky Universität Oldenburg"
   ],
   "added": "2026-07-30"
  }

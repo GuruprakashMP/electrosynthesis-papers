@@ -1,5 +1,59 @@
 [
  {
+  "id": "a3b4a1caf1e19e6a",
+  "title": "Characteristics and Mechanism for the Simons Electrochemical Fluorination of Methanesulfonyl Fluoride",
+  "authors": [
+   "Wenlin Xu",
+   "Baotong Li",
+   "Dawei Wang",
+   "Yaqiong Wang"
+  ],
+  "journal": "Journal of Electrochemistry",
+  "publisher": "",
+  "published": "2017-06-29",
+  "year": 2017,
+  "doi": "10.13208/j.electrochem.161043",
+  "url": "https://doi.org/10.13208/j.electrochem.161043",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "516ce2fef7a659ab",
+  "title": "Photoelectrochemical Performance of the Ag(III)-Based Oxygen-Evolving Catalyst",
+  "authors": [
+   "Fabrizio Sordello",
+   "Manuel Ghibaudo",
+   "Claudio Minero"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "publisher": "American Chemical Society",
+  "published": "2017-06-29",
+  "year": 2017,
+  "doi": "10.1021/acsami.7b05901",
+  "url": "https://doi.org/10.1021/acsami.7b05901",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Turin"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "43b4ca7f96fbbd04",
   "title": "Special issue: 15th National Symposium on organic electrochemistry and electrochemical industry",
   "authors": [
@@ -21,6 +75,377 @@
   ],
   "relevance_score": 46,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ad82456af14e7980",
+  "title": "Electrolytic CO 2 Reduction in Tandem with Oxidative Organic Chemistry",
+  "authors": [
+   "Tengfei Li",
+   "Yang Cao",
+   "Jingfu He",
+   "Curtis P. Berlinguette"
+  ],
+  "journal": "ACS Central Science",
+  "publisher": "American Chemical Society",
+  "published": "2017-06-28",
+  "year": 2017,
+  "doi": "10.1021/acscentsci.7b00207",
+  "url": "https://doi.org/10.1021/acscentsci.7b00207",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Electrolytic"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of British Columbia"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "497746507c721145",
+  "title": "Electrosynthesis and pseudocapacitance performance of ionic liquid – Cr (η6-C6H5) complex functionalized reduced graphene oxide/poly ortho aminophenol nanocomposite film",
+  "authors": [
+   "Elaheh Kowsari",
+   "Ali Ehsani",
+   "Mohammad Najafi"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2017-06-27",
+  "year": 2017,
+  "doi": "10.1016/j.jcis.2017.05.117",
+  "url": "https://doi.org/10.1016/j.jcis.2017.05.117",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Amirkabir University of Technology",
+   "University of Qom"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8a73ac99daa45df7",
+  "title": "CHARACTERIZATION OF NANOPOROUS ALUMINUM OXIDE LAYERS OBTAINED BY CONTROLLED ANODIC OXIDATION",
+  "authors": [
+   "Valentin Dumitraşcu"
+  ],
+  "journal": "International Multidisciplinary Scientific GeoConference SGEM ...",
+  "publisher": "",
+  "published": "2017-06-20",
+  "year": 2017,
+  "doi": "10.5593/sgem2017/61/s24.006",
+  "url": "https://doi.org/10.5593/sgem2017/61/s24.006",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0515d249b0f79a36",
+  "title": "Ultraviolet assists persulfate mediated anodic oxidation of organic pollutant",
+  "authors": [
+   "Haijian Luo",
+   "Chaolin Li",
+   "Xue Sun",
+   "Shuijing Chen",
+   "Binbin Ding",
+   "Liu Yang"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2017-06-20",
+  "year": 2017,
+  "doi": "10.1016/j.jelechem.2017.06.037",
+  "url": "https://doi.org/10.1016/j.jelechem.2017.06.037",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Harbin Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "55fd028b7186f757",
+  "title": "Synthesis of C3-Fluorinated Oxindoles by Electrochemical Cross-Coupling",
+  "authors": [
+   "Victor Snieckus",
+   "Liuqing Wei"
+  ],
+  "journal": "Synfacts",
+  "publisher": "Georg Thieme Verlag",
+  "published": "2017-06-19",
+  "year": 2017,
+  "doi": "10.1055/s-0036-1590584",
+  "url": "https://doi.org/10.1055/s-0036-1590584",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrochemical Cross-Coupling"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1aa15108128d9f4f",
+  "title": "Polypyrrole Nanofibers with Extended 1D Hierarchical Structure",
+  "authors": [
+   "K. Wójcik",
+   "Maria Grzeszczuk"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2017-06-19",
+  "year": 2017,
+  "doi": "10.1002/celc.201700472",
+  "url": "https://doi.org/10.1002/celc.201700472",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Wrocław"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7bbb5c67539d0be8",
+  "title": "Composition and particle size of electrolytic copper powders prepared in water-containing dimethyl sulfoxide electrolytes",
+  "authors": [
+   "Aigul Mamyrbekova",
+   "B. S. Abzhalov",
+   "Aizhan Mamyrbekova"
+  ],
+  "journal": "Russian Journal of Physical Chemistry A",
+  "publisher": "Pleiades Publishing",
+  "published": "2017-06-14",
+  "year": 2017,
+  "doi": "10.1134/s0036024417070226",
+  "url": "https://doi.org/10.1134/s0036024417070226",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Electrolysis",
+   "Electrolytic"
+  ],
+  "relevance_score": 47,
+  "affiliations": [
+   "Ahmet Yesevi University",
+   "M.Auezov South Kazakhstan State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "79467032be6bcc7e",
+  "title": "Electrochemical degradation of Thiabendazole fungicide by anodic oxidation on the tin oxide electrode (SnO2)",
+  "authors": [
+   "Ali Baddouh",
+   "Mohamed Rguiti",
+   "Mohamed Errami",
+   "Brahim El Ibrahimi",
+   "L. Bazzi",
+   "Mustapha Hilali"
+  ],
+  "journal": "Applied Journal of Environmental Engineering Science",
+  "publisher": "",
+  "published": "2017-06-13",
+  "year": 2017,
+  "doi": "10.48422/imist.prsm/ajees-v3i3.9240",
+  "url": "https://doi.org/10.48422/imist.prsm/ajees-v3i3.9240",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Galvanostatic",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Universiapolis - Université Internationale d'Agadir"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "96608bf21dc02731",
+  "title": "Electrosynthesis of a multilayer film stacked alternately by poly(3,4-ethylenedioxythiophene) and reduced graphene oxide from aqueous solution",
+  "authors": [
+   "Ichiro Imae",
+   "Daiki Fujimoto",
+   "Lu Zhang",
+   "Yutaka Harima"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2017-06-07",
+  "year": 2017,
+  "doi": "10.1016/j.elecom.2017.06.005",
+  "url": "https://doi.org/10.1016/j.elecom.2017.06.005",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hiroshima University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a4ad2a80dd196c04",
+  "title": "Noncovalent Immobilization of Molecular Electrocatalysts for Chemical Synthesis: Efficient Electrochemical Alcohol Oxidation with a Pyrene–TEMPO Conjugate",
+  "authors": [
+   "Amit Das",
+   "Shannon S. Stahl"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2017-06-06",
+  "year": 2017,
+  "doi": "10.1002/anie.201704921",
+  "url": "https://doi.org/10.1002/anie.201704921",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Controlled Potential",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Preparative Electrolysis",
+   "TEMPO"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "University of Wisconsin–Madison"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7de509e38a4dcb71",
+  "title": "Templateless electrosynthesis of conductive polymer nanostructures",
+  "authors": [
+   "Catherine Debiemme-Chouvy",
+   "H. Cachet",
+   "Ahmed Fahhry",
+   "Françoise Pillier"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2017-06-06",
+  "year": 2017,
+  "doi": "",
+  "url": "https://hal.sorbonne-universite.fr/hal-03946372",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Laboratoire Interfaces et Systèmes Électrochimiques"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e106cbe9f4b10405",
+  "title": "Anodic Oxidation of Sulphite in Alkaline Media on Platinum Nanoparticles Modified Nickel Electrode",
+  "authors": [
+   "Andreea-Floriana Enache",
+   "Mircea Laurențiu Dan",
+   "Nicolae Vaszilcsin"
+  ],
+  "journal": "Chemistry Journal of Moldova",
+  "publisher": "Institute of Chemistry of ASM",
+  "published": "2017-06-01",
+  "year": 2017,
+  "doi": "10.19261/cjm.2017.408",
+  "url": "https://doi.org/10.19261/cjm.2017.408",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Nickel Electrode"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Polytechnic University of Timişoara"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "95a867868b90fc0b",
+  "title": "An effective approach to prepare three-dimensional porous manganese dioxide electrodes by surfactant assisted electrosynthesis for improved supercapacitive properties",
+  "authors": [
+   "Haihan Zhou",
+   "Hua-Jin Zhai"
+  ],
+  "journal": "Journal of Materials Science Materials in Electronics",
+  "publisher": "Springer Science+Business Media",
+  "published": "2017-06-01",
+  "year": 2017,
+  "doi": "10.1007/s10854-017-7248-0",
+  "url": "https://doi.org/10.1007/s10854-017-7248-0",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Shanxi University"
+  ],
   "added": "2026-07-30"
  },
  {
@@ -55,6 +480,30 @@
    "Johannes Gutenberg University Mainz",
    "Covestro (Germany)"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "74d36c8998703088",
+  "title": "Electrosynthesis of Functional Polymeric Materials",
+  "authors": [
+   "信介 稲木",
+   "Shinsuke Inagi"
+  ],
+  "journal": "Institutional Repositories DataBase (IRDB)",
+  "publisher": "National Institute of Informatics",
+  "published": "2017-06-01",
+  "year": 2017,
+  "doi": "",
+  "url": "http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100746380",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
   "added": "2026-07-30"
  }
 ]
