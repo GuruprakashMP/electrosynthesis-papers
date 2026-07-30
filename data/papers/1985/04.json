@@ -1,5 +1,215 @@
 [
  {
+  "id": "29689b0a5008735b",
+  "title": "ChemInform Abstract: ELECTROREDUCTIVE CLEAVAGE OF 2‐METHYLENE‐9,10‐ANTHRAQUINONE (MAQ) ESTERS OF CARBOXYLIC ACIDS AND N‐SUBSTITUTED CARBAMIC ACIDS: PROTECTING GROUPS FOR CARBOXYLIC ACIDS AND PRIMARY AMINES",
+  "authors": [
+   "Ronald L. Blankespoor",
+   "Aldrich N. K. Lau",
+   "L. L. MILLER"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-04-23",
+  "year": 1985,
+  "doi": "10.1002/chin.198516321",
+  "url": "https://doi.org/10.1002/chin.198516321",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dc68e74129ed18cd",
+  "title": "ChemInform Abstract: SYNTHESIS OF PERFLUOROCHEMICALS FOR USE AS BLOOD SUBSTITUTES, PART I. ELECTROCHEMICAL FLUORINATION OF N‐METHYLDECAHYDROQUINOLINE AND N‐METHYLDECAHYDROISOQUINOLINE",
+  "authors": [
+   "Y. Naito",
+   "Yoshihisa Inoue",
+   "T. ONO",
+   "Yoshio Arakawa",
+   "Chikara Fukaya",
+   "Kazumasa Yokoyama",
+   "Y. KOBAYASHI",
+   "K. YAMANOUCHI"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-04-16",
+  "year": 1985,
+  "doi": "10.1002/chin.198515240",
+  "url": "https://doi.org/10.1002/chin.198515240",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6324ac6169da905a",
+  "title": "ChemInform Abstract: THE ELECTROCHEMICAL FLUORINATION OF N‐(Ω‐CHLOROALKYL)PIPECOLINES AND N‐(Ω‐CHLOROALKYL)HEXAMETHYLENIMINES",
+  "authors": [
+   "Eiji Hayashi",
+   "Takashi Abe",
+   "Hajime Baba",
+   "S. Nagase"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-04-16",
+  "year": 1985,
+  "doi": "10.1002/chin.198515151",
+  "url": "https://doi.org/10.1002/chin.198515151",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3334bef5f45efe05",
+  "title": "ChemInform Abstract: A PHOTOELECTROCHEMICAL STUDY OF THE ANODIC OXIDATION OF LEAD IN ALKALINE SOLUTION",
+  "authors": [
+   "J. Scott Buchanan",
+   "Nigel P Freestone",
+   "Laurence M. Peter"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-04-16",
+  "year": 1985,
+  "doi": "10.1002/chin.198515024",
+  "url": "https://doi.org/10.1002/chin.198515024",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "886f30df0d8d7ca7",
+  "title": "ChemInform Abstract: ELECTROOXIDATIVE NEUTRAL DEPROTECTION OF S‐TERT‐BUTYL THIOATES TO GIVE CARBOXYLIC ACIDS",
+  "authors": [
+   "Masahiro Kimura",
+   "S. Matsubara",
+   "Y. SAWAKI"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-04-09",
+  "year": 1985,
+  "doi": "10.1002/chin.198514095",
+  "url": "https://doi.org/10.1002/chin.198514095",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "45fb32566c5f2608",
+  "title": "ChemInform Abstract: STRUCTURAL CHANGES OF THE TEXTURE OF β‐LEAD DIOXIDE‐TITANIUM ANODES DURING THE OXYGEN/OZONE ELECTROSYNTHESIS IN NEUTRAL AND ACIDIC ELECTROLYTES",
+  "authors": [
+   "J. C. G. THANOS",
+   "Dietrich Wabner"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-04-09",
+  "year": 1985,
+  "doi": "10.1002/chin.198514023",
+  "url": "https://doi.org/10.1002/chin.198514023",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "48015f381d6bb330",
+  "title": "ChemInform Abstract: MECHANISTIC STUDIES WITH MASS SPECTROSCOPIC CYCLIC VOLTAMMETRY: ANODIC OXIDATION OF HYDROXYLAMINE ON PLATINUM",
+  "authors": [
+   "P. Karabinas",
+   "Olaf Wolter",
+   "J. Heitbaum"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-04-02",
+  "year": 1985,
+  "doi": "10.1002/chin.198513023",
+  "url": "https://doi.org/10.1002/chin.198513023",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "de010380ae9e24e4",
+  "title": "AN ELECTROREDUCTIVE SYNTHESIS OF ALLYLSILANES AND BENZYLSILANES",
+  "authors": [
+   "Tatsuya Shono",
+   "Yoshihiro Matsumura",
+   "Susumu Katoh",
+   "Naoki Kise"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1985-04-01",
+  "year": 1985,
+  "doi": "10.1246/cl.1985.463",
+  "url": "https://doi.org/10.1246/cl.1985.463",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "bf6b403586e5c5bb",
   "title": "Electrochemical synthesis of organosilicon compounds",
   "authors": [
@@ -24,6 +234,79 @@
   "relevance_score": 42,
   "affiliations": [
    "Kyoto Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8ae6b68e9a434930",
+  "title": "Formation of high molecular weight products from benzene during boundary lubrication",
+  "authors": [
+   "W. Morales"
+  ],
+  "journal": "NASA STI Repository (National Aeronautics and Space Administration)",
+  "publisher": "National Aeronautics and Space Administration",
+  "published": "1985-04-01",
+  "year": 1985,
+  "doi": "",
+  "url": "http://hdl.handle.net/2060/19850014333",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Mechanism",
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "405d1e2ba0201552",
+  "title": "Cathodic reduction of acetate-chloride complexes of cadmium(11) on an amalgam electrode in the method of chronopotentiometry",
+  "authors": [
+   "N.V. Deryabina"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1985-04-01",
+  "year": 1985,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/5591783-cathodic-reduction-acetate-chloride-complexes-cadmium-amalgam-electrode-method-chronopotentiometry",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "04daef8b8732a5a6",
+  "title": "MOS Capacitors on Cadmium Telluride",
+  "authors": [
+   "R. T. Talasek",
+   "A. J. Syllaios"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1985-04-01",
+  "year": 1985,
+  "doi": "10.1149/1.2113978",
+  "url": "https://doi.org/10.1149/1.2113978",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Texas Instruments (United States)"
   ],
   "added": "2026-07-30"
  }

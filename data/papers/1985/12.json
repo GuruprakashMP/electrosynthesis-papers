@@ -1,5 +1,136 @@
 [
  {
+  "id": "97da1e406504676f",
+  "title": "ChemInform Abstract: MECHANISM OF THE ANODIC OXIDATION OF N‐TYPE GALLIUM ARSENIDE",
+  "authors": [
+   "R. Sukale",
+   "P. Janietz",
+   "R. Landsberg",
+   "H. Kaukel"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-12-31",
+  "year": 1985,
+  "doi": "10.1002/chin.198552017",
+  "url": "https://doi.org/10.1002/chin.198552017",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6fb45fdecb0151c0",
+  "title": "ChemInform Abstract: ANODIC OXIDATION OF 2‐CYANOETHANOL TO CYANOACETIC ACID",
+  "authors": [
+   "Bernd Wermeckes",
+   "Fritz Beck"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-12-24",
+  "year": 1985,
+  "doi": "10.1002/chin.198551070",
+  "url": "https://doi.org/10.1002/chin.198551070",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "620111bea4d79c5c",
+  "title": "Chirale Synthesebausteine durch Kolbe ‐Elektrolyse enantiomerenreiner β‐Hydroxy‐carbonsäurederivate. ( R )‐ und ( S )‐Methyl‐sowie ( R )‐Trifluormethyl‐γ‐butyrolactone und ‐δ‐valerolactone",
+  "authors": [
+   "Dieter Seebàch",
+   "Philippe Renaud"
+  ],
+  "journal": "Helvetica Chimica Acta",
+  "publisher": "Wiley",
+  "published": "1985-12-18",
+  "year": 1985,
+  "doi": "10.1002/hlca.19850680829",
+  "url": "https://doi.org/10.1002/hlca.19850680829",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Natural Product & Total Synthesis"
+  ],
+  "tags": [
+   "Decarboxylative",
+   "Electrolysis",
+   "Kolbe Electrolysis",
+   "Natural Products"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "ETH Zurich"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a1bee451d71c41cf",
+  "title": "ChemInform Abstract: AN ANODIC OXIDATION TECHNIQUE FOR THE GROWTH OF TRANSPARENT CONDUCTING LAYERS OF TIN DIOXIDE",
+  "authors": [
+   "Sarit Dhar",
+   "Sabyasachi Sen",
+   "Dipanker Biswas"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-12-10",
+  "year": 1985,
+  "doi": "10.1002/chin.198549337",
+  "url": "https://doi.org/10.1002/chin.198549337",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9b7167ac4402c936",
+  "title": "ChemInform Abstract: ANODIC OXIDATION MECHANISM OF HYPOCHLORITE ION ON PLATINUM ELECTRODE IN ALKALINE SOLUTION",
+  "authors": [
+   "Akimasa Tasaka",
+   "T. Tojo"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-12-10",
+  "year": 1985,
+  "doi": "10.1002/chin.198549022",
+  "url": "https://doi.org/10.1002/chin.198549022",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "b76e323c6d6ba30f",
   "title": "Selectivity of the Anodic Oxidation of CH‐ and CH 2 ‐Groups; Selective Oxidation of Steroids at C‐6",
   "authors": [
@@ -26,6 +157,139 @@
   "affiliations": [
    "University of Münster"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "af37c781df4f778f",
+  "title": "Electrosynthesis of poly(1,4‐phenylene) catalyzed by nickel complexes",
+  "authors": [
+   "J.F. Fauvarque",
+   "Abdelouafi Digua",
+   "Michel-Alain Petit",
+   "Jacques Savard"
+  ],
+  "journal": "Die Makromolekulare Chemie",
+  "publisher": "Wiley",
+  "published": "1985-12-01",
+  "year": 1985,
+  "doi": "10.1002/macp.1985.021861201",
+  "url": "https://doi.org/10.1002/macp.1985.021861201",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Centre de Recherches sur les Macromolécules Végétales",
+   "Université Sorbonne Paris Nord"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a040b7f55efa62f8",
+  "title": "Effect of Axial Ligand on the Catalytic Activity of Heat‐Treated Tetraphenylporphyrinatoiron (III) Halides for the Cathodic Reduction of Oxygen",
+  "authors": [
+   "Osamu Ikeda",
+   "Hiroshi Fukuda",
+   "Tatsuhiro Kojima",
+   "Hiroki Tamura"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1985-12-01",
+  "year": 1985,
+  "doi": "10.1149/1.2113729",
+  "url": "https://doi.org/10.1149/1.2113729",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9d8ad09655a305b7",
+  "title": "Comparative study of the electrocatalytic influence of underpotential heavy metal adatoms on the anodic oxidation of monosaccharides on Pt in acid solutions",
+  "authors": [
+   "G. Kokkinidis",
+   "N. Xonoglou"
+  ],
+  "journal": "Bioelectrochemistry and Bioenergetics",
+  "publisher": "Elsevier BV",
+  "published": "1985-12-01",
+  "year": 1985,
+  "doi": "10.1016/0302-4598(85)80010-6",
+  "url": "https://doi.org/10.1016/0302-4598(85)80010-6",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Aristotle University of Thessaloniki"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "634f9b150bb260bf",
+  "title": "Temperature rise during anodic oxidation of zirconium",
+  "authors": [
+   "Joan Leach",
+   "C.N. Panagopoulos"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1985-12-01",
+  "year": 1985,
+  "doi": "10.1016/0013-4686(85)87007-9",
+  "url": "https://doi.org/10.1016/0013-4686(85)87007-9",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Nottingham"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "43d68022f71837c5",
+  "title": "Selective chlorination of toluene by anodic oxidation",
+  "authors": [
+   "Ying Hung So"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1985-12-01",
+  "year": 1985,
+  "doi": "10.1021/jo00350a100",
+  "url": "https://doi.org/10.1021/jo00350a100",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-30"
  }
 ]

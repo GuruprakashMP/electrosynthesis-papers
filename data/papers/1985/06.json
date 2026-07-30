@@ -1,5 +1,110 @@
 [
  {
+  "id": "2441682460b60aea",
+  "title": "ChemInform Abstract: ELECTROCHEMICAL FLUORINATION OF ACETAMIDE AND FORMAMIDE IN MOLTEN POTASSIUM HYDROGEN FLUORIDE (KH2F3)",
+  "authors": [
+   "Akimasa Tasaka",
+   "H. Sakaguchi",
+   "Ryoji Aki",
+   "Hiroshi Ihara",
+   "K. Saka",
+   "Tatsuhiro Yamamoto"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-06-25",
+  "year": 1985,
+  "doi": "10.1002/chin.198525081",
+  "url": "https://doi.org/10.1002/chin.198525081",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "75ce81199990550a",
+  "title": "ChemInform Abstract: CATHODIC REDUCTION OF ETHYL α‐BROMONAPHTHALENE‐1‐ AND 2‐ACTETATE: ELECTROCHEMICAL SYNTHESIS AND VOLTAMMETRIC BEHAVIOR OF MESO‐ AND DL‐DIETHYL 2,3‐DI‐1‐ AND ‐2‐NAPHTHYLSUCCINATE",
+  "authors": [
+   "Carlo De Luca",
+   "Achille Inesi",
+   "Liliana Rampazzo"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-06-18",
+  "year": 1985,
+  "doi": "10.1002/chin.198524084",
+  "url": "https://doi.org/10.1002/chin.198524084",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ecd35323288e77ca",
+  "title": "ChemInform Abstract: THE ELECTROCHEMICAL FLUORINATION OF ORGANIC COMPOUNDS: FURTHER DATA IN SUPPORT OF THE ECBECN MECHANISM",
+  "authors": [
+   "G.P. Gambaretto",
+   "Marco Napoli",
+   "L. Conte",
+   "Antonio Scipioni",
+   "R. Armelli"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-06-11",
+  "year": 1985,
+  "doi": "10.1002/chin.198523108",
+  "url": "https://doi.org/10.1002/chin.198523108",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "706f3e00cffebebd",
+  "title": "ChemInform Abstract: ELECTROSYNTHESIS OF 3,4‐DIHYDRO‐4‐HYDROXY‐3‐OXO‐2H‐1,4‐BENZOTHIAZINE 1,1‐DIOXIDE",
+  "authors": [
+   "Claus-Peter Maschmeier",
+   "Hartmut Tanneberg",
+   "H. Matschiner"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1985-06-11",
+  "year": 1985,
+  "doi": "10.1002/chin.198523232",
+  "url": "https://doi.org/10.1002/chin.198523232",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "b0678cd046ea0f70",
   "title": "Intramolecular Electroreductive cyclization",
   "authors": [
@@ -22,6 +127,96 @@
   ],
   "relevance_score": 46,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ad48878637554a49",
+  "title": "Anodic Oxidation of Cyclohexanone on Lead Dioxide Electrode in Aqueous Sulfuric Acid Solution",
+  "authors": [
+   "Atsutaka Kunai",
+   "Kazuhito Hatoh",
+   "Yoshinobu Hirano",
+   "Junji Harada",
+   "Kazuo Sasaki"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "1985-06-01",
+  "year": 1985,
+  "doi": "10.1246/bcsj.58.1717",
+  "url": "https://doi.org/10.1246/bcsj.58.1717",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolytic",
+   "Mechanism"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Hiroshima University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "66b66b47db80ca5a",
+  "title": "Studien zum Vorgang der Wasserstoffübertragung, 74 [1]. Elektroreduktive Hydrierungen an Raney-Nickel-Pulver als Kathode / Studies on the Occurrence of Hydrogen Transfer, 74 [1]. Electroreductive Hydrogenation Using Raney-Nickel-Powder as a Cathode",
+  "authors": [
+   "Leopold Horner",
+   "Ch. Franz"
+  ],
+  "journal": "Zeitschrift für Naturforschung B",
+  "publisher": "De Gruyter",
+  "published": "1985-06-01",
+  "year": 1985,
+  "doi": "10.1515/znb-1985-0619",
+  "url": "https://doi.org/10.1515/znb-1985-0619",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Quinolines"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "050e9f5ef7dc7698",
+  "title": "Recording Characteristics of Perpendicular Magnetic Medium by Anodic Oxidation Method",
+  "authors": [
+   "M. Shiraki",
+   "T. Tokushima",
+   "Y. Wakui",
+   "N. Tsuya"
+  ],
+  "journal": "IEEE Translation Journal on Magnetics in Japan",
+  "publisher": "Institute of Electrical and Electronics Engineers",
+  "published": "1985-06-01",
+  "year": 1985,
+  "doi": "10.1109/tjmj.1985.4548574",
+  "url": "https://doi.org/10.1109/tjmj.1985.4548574",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Nippon Kayaku (Japan)",
+   "Hoseo University",
+   "Hosei University"
+  ],
   "added": "2026-07-30"
  }
 ]
