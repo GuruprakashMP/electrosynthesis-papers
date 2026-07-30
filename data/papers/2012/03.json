@@ -1,5 +1,152 @@
 [
  {
+  "id": "ddd1e317ffa0d1b1",
+  "title": "Simple Preparation of One-dimensional Metal Selenide Nanomaterials Using Anodic Aluminum Oxide Template",
+  "authors": [
+   "Yuanzhe Piao"
+  ],
+  "journal": "Journal of Electrochemical Science and Technology",
+  "publisher": "",
+  "published": "2012-03-30",
+  "year": 2012,
+  "doi": "10.5229/jecst.2012.3.1.35",
+  "url": "https://doi.org/10.5229/jecst.2012.3.1.35",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Seoul National University",
+   "Advanced Institute of Convergence Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9cfb79c94cd65981",
+  "title": "Electrooxidative Cyclization of Hydroxyamino Compounds Possessing a Benzyl Group",
+  "authors": [
+   "Mitsuhiro Okimoto",
+   "Kousuke Ohashi",
+   "Haruki Yamamori",
+   "Shinnosuke Nishikawa",
+   "Masayuki Hoshi",
+   "Takashi Yoshida"
+  ],
+  "journal": "Synthesis",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2012-03-30",
+  "year": 2012,
+  "doi": "10.1055/s-0031-1290755",
+  "url": "https://doi.org/10.1055/s-0031-1290755",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kitami Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2179ae1f3b780582",
+  "title": "Electrosyntheses and Characterization of Poly-N-(9-Fluorenylmethoxycarbonyl)-L-isoleucine (PFI) with Chirality",
+  "authors": [
+   "Zhen Wang",
+   "Wenjuan Guo",
+   "Jingtian Han",
+   "Meishan Pei",
+   "Xiang-Wei Zhu"
+  ],
+  "journal": "Journal of Macromolecular Science Part B",
+  "publisher": "Taylor & Francis",
+  "published": "2012-03-23",
+  "year": 2012,
+  "doi": "10.1080/00222348.2012.672298",
+  "url": "https://doi.org/10.1080/00222348.2012.672298",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Jinan",
+   "Binzhou Medical University",
+   "Binzhou University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8d1b205ed17f7ac4",
+  "title": "Electrochemical degradation of p-aminobenzoic acid β-naphthol azo dye in alkaline solution",
+  "authors": [
+   "Pertti Sarala"
+  ],
+  "journal": "Journal of Environmental Chemistry and Ecotoxicology",
+  "publisher": "Academic Journals",
+  "published": "2012-03-22",
+  "year": 2012,
+  "doi": "10.5897/jece12.001",
+  "url": "https://doi.org/10.5897/jece12.001",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Reference Electrode",
+   "Undivided Cell",
+   "Working Electrode"
+  ],
+  "relevance_score": 69,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "160ed50c1b7a18d4",
+  "title": "X-Ray Spectroscopy and Structure Elucidation of Reactive Electrogenerated Tri-iron Carbonyl Sulfide Clusters",
+  "authors": [
+   "Joey Yeo",
+   "Mun Hon Cheah",
+   "Mark I. Bondin",
+   "Stephen P. Best"
+  ],
+  "journal": "Australian Journal of Chemistry",
+  "publisher": "CSIRO Publishing",
+  "published": "2012-03-21",
+  "year": 2012,
+  "doi": "10.1071/ch11484",
+  "url": "https://doi.org/10.1071/ch11484",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Working Electrode"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "The University of Melbourne",
+   "Unifor"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "f4d13dd83029aada",
   "title": "Electrochemical Fluorination Using Alkali‐Metal Fluorides",
   "authors": [
@@ -24,6 +171,346 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a934ab24fc7d52d8",
+  "title": "The effect of substituents on the anodic oxidation of aliphatic carboxylates and the passage towards a pseudo-Kolbe reaction",
+  "authors": [
+   "M. Galicia",
+   "Miguel A. González-Fuentes",
+   "Drochss P. Valencia",
+   "Felipe J. González"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2012-03-10",
+  "year": 2012,
+  "doi": "10.1016/j.jelechem.2012.03.001",
+  "url": "https://doi.org/10.1016/j.jelechem.2012.03.001",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Instituto Politécnico Nacional"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e1bd71eb947f43d2",
+  "title": "Rapid Mineralization of Azo-Dye Wastewater by Microwave Synergistic Electro-Fenton Oxidation Process",
+  "authors": [
+   "Yujing Wang",
+   "Hongying Zhao",
+   "Junxia Gao",
+   "Guohua Zhao",
+   "Yonggang Zhang",
+   "Yalei Zhang"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2012-03-09",
+  "year": 2012,
+  "doi": "10.1021/jp212590f",
+  "url": "https://doi.org/10.1021/jp212590f",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Flow Electrosynthesis & Scale-up",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "BDD Electrode",
+   "Continuous Flow",
+   "Electrosynthesis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tongji University",
+   "State Key Laboratory of Pollution Control and Resource Reuse"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9b970959ee10c320",
+  "title": "Polyaniline/carbon nanotube composite films electrosynthesis through diazonium salts electroreduction and electrochemical polymerization",
+  "authors": [
+   "Luisa Pilan",
+   "Matei Raicopol",
+   "Alina Prună",
+   "Viorel Brânzoi"
+  ],
+  "journal": "Surface and Interface Analysis",
+  "publisher": "Wiley",
+  "published": "2012-03-08",
+  "year": 2012,
+  "doi": "10.1002/sia.4920",
+  "url": "https://doi.org/10.1002/sia.4920",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Universitatea Națională de Știință și Tehnologie Politehnica București"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4bfc4930c219c14b",
+  "title": "Electrosynthesis and performances of cobalt–ceria nanocomposite biocoatings",
+  "authors": [
+   "Lidia Benea",
+   "S F Sorcaru",
+   "Pierre Ponthiaux",
+   "F. Wenger"
+  ],
+  "journal": "Advances in Applied Ceramics Structural Functional and Bioceramics",
+  "publisher": "Taylor & Francis",
+  "published": "2012-03-08",
+  "year": 2012,
+  "doi": "10.1179/1743676111y.0000000068",
+  "url": "https://doi.org/10.1179/1743676111y.0000000068",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "\"Dunarea de Jos\" University of Galati",
+   "École Centrale Paris"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2b9f07b237304c2a",
+  "title": "Bioactive Titanium Oxide-Based Nanostructures Prepared by One-Step Hydrothermal Anodization",
+  "authors": [
+   "Chun-Yi Chen",
+   "Kazunari Ozasa",
+   "Ken-ichi Katsumata",
+   "Mizuo Maeda",
+   "Kiyoshi Okada",
+   "Nobuhiro Matsushita"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2012-03-06",
+  "year": 2012,
+  "doi": "10.1021/jp210783w",
+  "url": "https://doi.org/10.1021/jp210783w",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tokyo Institute of Technology",
+   "RIKEN Advanced Science Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fc85c1bc76cd0c95",
+  "title": "Electrophotocatalysis of aqueous methyl tert-butyl ether on a titanium dioxide coated electrode",
+  "authors": [
+   "Ting-Nien Wu",
+   "Ting-Chung Pan",
+   "Lung-Chuan Chen"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2012-03-01",
+  "year": 2012,
+  "doi": "10.1016/j.electacta.2012.02.075",
+  "url": "https://doi.org/10.1016/j.electacta.2012.02.075",
+  "source": "openalex",
+  "categories": [
+   "Electrophotochemistry"
+  ],
+  "tags": [
+   "Electrophotocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kun Shan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bed708c4ddffd364",
+  "title": "Voltammetric and Square-Wave Anodic Stripping Determination of Amlodipine Besylate on Gold Electrode",
+  "authors": [
+   "Zora Stoiljković",
+   "Milka L. Avramov Ivić",
+   "Sandra Petrović",
+   "Dušan Mijin",
+   "Sanja Stevanović",
+   "U.Č. Lačnjevac",
+   "Аleksandar Marinković"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2012-03-01",
+  "year": 2012,
+  "doi": "10.1016/s1452-3981(23)13880-6",
+  "url": "https://doi.org/10.1016/s1452-3981(23)13880-6",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Glassy Carbon"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Zdravstveni centar",
+   "University of Belgrade",
+   "Institute for Multidisciplinary Research"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a91b38ce39848ce8",
+  "title": "Voltammetric investigations on the relative deactivation of boron-doped diamond, glassy carbon and platinum electrodes during the anodic oxidation of substituted phenols in room temperature ionic liquids",
+  "authors": [
+   "K. Saravanan",
+   "S. Sathyamoorthi",
+   "D. Velayutham",
+   "V. Suryanarayanan"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2012-03-01",
+  "year": 2012,
+  "doi": "10.1016/j.electacta.2012.02.077",
+  "url": "https://doi.org/10.1016/j.electacta.2012.02.077",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "BDD Electrode",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Council of Scientific and Industrial Research",
+   "Central Electrochemical Research Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a338a081ed799c91",
+  "title": "ChemInform Abstract: Composite Solid Electrodes ‐ Tool for Organic Electrochemistry",
+  "authors": [
+   "Tomáš Navrátil"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2012-03-01",
+  "year": 2012,
+  "doi": "10.1002/chin.201213232",
+  "url": "https://doi.org/10.1002/chin.201213232",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Czech Academy of Sciences, J. Heyrovský Institute of Physical Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7b01d552c9b7df56",
+  "title": "Analysis on 3-Dimensional spatial electric field of AFM based anodic oxidation",
+  "authors": [
+   "Zenglei Liu",
+   "Niandong Jiao",
+   "Zhidong Wang",
+   "Zaili Dong"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2012-03-01",
+  "year": 2012,
+  "doi": "10.1109/nems.2012.6196835",
+  "url": "https://doi.org/10.1109/nems.2012.6196835",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Shenyang Institute of Automation",
+   "Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5c5a34a27b54433d",
+  "title": "Cyclic voltammetry and computational chemistry studies on the evaluation of the redox behavior of parabens and other analogues",
+  "authors": [
+   "Eric de Souza Gil",
+   "Carolina Horta Andrade",
+   "Núsia L. Barbosa",
+   "Rodolpho C. Braga",
+   "Sı́lvia H.P. Serrano"
+  ],
+  "journal": "Journal of the Brazilian Chemical Society",
+  "publisher": "Brazilian Chemical Society",
+  "published": "2012-03-01",
+  "year": 2012,
+  "doi": "10.1590/s0103-50532012000300025",
+  "url": "https://doi.org/10.1590/s0103-50532012000300025",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Oxidation Potential",
+   "Redox Potential",
+   "Working Electrode"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Universidade Federal de Goiás",
+   "Universidade de São Paulo",
+   "Universidade Cidade de São Paulo"
   ],
   "added": "2026-07-30"
  }

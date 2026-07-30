@@ -1,5 +1,226 @@
 [
  {
+  "id": "020fe83c7757390d",
+  "title": "Carbon-incorporated TiO2 photoelectrodes prepared via rapid-anodic oxidation for efficient visible-light hydrogen generation",
+  "authors": [
+   "Warapong Krengvirat",
+   "Srimala Sreekantan",
+   "Ahmad-Fauzi Mohd Noor",
+   "Nobuaki Negishi",
+   "Song Yul Oh",
+   "Go Kawamura",
+   "Hiroyuki Muto",
+   "Atsunori Matsuda"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2012-04-30",
+  "year": 2012,
+  "doi": "10.1016/j.ijhydene.2012.04.004",
+  "url": "https://doi.org/10.1016/j.ijhydene.2012.04.004",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Toyohashi University of Technology",
+   "Universiti Sains Malaysia",
+   "National Institute of Advanced Industrial Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c040aa853cdb6a00",
+  "title": "Electrochemical behavior of IrxRu1−xO2 oxides as anodic electrocatalyst for electrosynthesis of dinitrogen pentoxide",
+  "authors": [
+   "Qingfa Wang",
+   "Fangmin Wu",
+   "Nan Wang",
+   "Li Wang",
+   "Xiangwen Zhang"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2012-04-24",
+  "year": 2012,
+  "doi": "10.1016/j.electacta.2012.04.060",
+  "url": "https://doi.org/10.1016/j.electacta.2012.04.060",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tianjin University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5910aa899e4025a0",
+  "title": "Electrochemical and Morphology Study of the BDD/Ti Electrodes with Different Doping Levels",
+  "authors": [
+   "Suellen Aparecida Alves",
+   "Fernanda L. Migliorini",
+   "Maurício Ribeiro Baldan",
+   "N.G. Ferreira",
+   "Marcos R.V. Lanza"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2012-04-23",
+  "year": 2012,
+  "doi": "10.1149/1.4704957",
+  "url": "https://doi.org/10.1149/1.4704957",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "BDD Electrode",
+   "Cyclic Voltammetry",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Universidade de São Paulo",
+   "Instituto Nacional de Pesquisas Espaciais"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "09541f1cafc52635",
+  "title": "Controlling the shape and gap width of silicon electrodes using local anodic oxidation and anisotropic TMAH wet etching",
+  "authors": [
+   "Jalal Rouhi",
+   "Shahrom Mahmud",
+   "Sabar D. Hutagalung",
+   "Nima Naderi",
+   "Saeid Kakooei",
+   "Mat Johar Abdullah"
+  ],
+  "journal": "Semiconductor Science and Technology",
+  "publisher": "IOP Publishing",
+  "published": "2012-04-23",
+  "year": 2012,
+  "doi": "10.1088/0268-1242/27/6/065001",
+  "url": "https://doi.org/10.1088/0268-1242/27/6/065001",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Universiti Sains Malaysia",
+   "Universiti Teknologi Petronas"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c2139687a3c13b99",
+  "title": "Electrochemical synthesis of methyl-3,5,7-trifluoroadamantane-1-carboxylate under recycling use of ionic liquid media",
+  "authors": [
+   "Miki Monoi",
+   "Shoji Hara"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2012-04-21",
+  "year": 2012,
+  "doi": "10.1016/j.jfluchem.2012.04.006",
+  "url": "https://doi.org/10.1016/j.jfluchem.2012.04.006",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4f273658cb79a60d",
+  "title": "Anodic Oxidation on a Boron‐Doped Diamond Electrode Mediated by Methoxy Radicals",
+  "authors": [
+   "Takenori Sumi",
+   "Tsuyoshi Saitoh",
+   "Keisuke Natsui",
+   "Takashi Yamamoto",
+   "Mahito Atobe",
+   "Yasuaki Einaga",
+   "Shigeru Nishiyama"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2012-04-18",
+  "year": 2012,
+  "doi": "10.1002/anie.201200878",
+  "url": "https://doi.org/10.1002/anie.201200878",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "BDD Electrode",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Keio University",
+   "Yokohama National University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "be9dc51d33e3aa10",
+  "title": "Study of Anodic Oxidation of 2,4,6-Tribromophenol",
+  "authors": [
+   "Eva Marková",
+   "P. Smyslová",
+   "Pavla Macíková",
+   "J. Sko¬palová",
+   "Petr Barták"
+  ],
+  "journal": "Chemické listy",
+  "publisher": "Czech Chemical Society",
+  "published": "2012-04-15",
+  "year": 2012,
+  "doi": "",
+  "url": "http://www.chemicke-listy.cz/ojs3/index.php/chemicke-listy/article/download/964/964",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Glassy Carbon"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Palacký University Olomouc"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "3bde895543a1adfb",
   "title": "Synthesis Assisted by Electricity",
   "authors": [
@@ -27,6 +248,163 @@
   "affiliations": [
    "Kyoto University",
    "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "aa9e6a245e6e905d",
+  "title": "Electrosynthesis and characterization of oligophenylene deriving from 4-(methoxyphenyl)acetonitrile",
+  "authors": [
+   "Sarra Ben Amor",
+   "Ayoub Haj Saı̈d",
+   "Mourad Chemek",
+   "Sahbi Ayachi",
+   "Florian Massuyeau",
+   "J. Wéry",
+   "K. Alimi",
+   "Sadok Roudeslı"
+  ],
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "published": "2012-04-12",
+  "year": 2012,
+  "doi": "10.1016/j.molstruc.2012.03.050",
+  "url": "https://doi.org/10.1016/j.molstruc.2012.03.050",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Monastir",
+   "Institut des Matériaux Jean Rouxel"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0959393bc661f416",
+  "title": "ChemInform Abstract: Electrochemically Supported Deoxygenation of Epoxides into Alkenes in Aqueous Solution.",
+  "authors": [
+   "Jing-Mei Huang",
+   "Zhiyu Lin",
+   "Dong-Song Chen"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2012-04-12",
+  "year": 2012,
+  "doi": "10.1002/chin.201219057",
+  "url": "https://doi.org/10.1002/chin.201219057",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Alkenes",
+   "Undivided Cell"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "South China University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "05bb8d5807e7ba86",
+  "title": "Soluble and Green‐light‐emitting Oligo(9‐fluorenylideneacetic acid): Electrosynthesis and Characterization",
+  "authors": [
+   "Baoyang Lu",
+   "Shuai Chen",
+   "Jiong Wang",
+   "Jingkun Xu",
+   "Xuemin Duan",
+   "Meishan Pei"
+  ],
+  "journal": "Chinese Journal of Chemistry",
+  "publisher": "Wiley",
+  "published": "2012-04-10",
+  "year": 2012,
+  "doi": "10.1002/cjoc.201100567",
+  "url": "https://doi.org/10.1002/cjoc.201100567",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrosynthesis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Shandong University",
+   "Jiangxi Science and Technology Normal University",
+   "University of Jinan"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f582bfc22e183d6d",
+  "title": "Electrosynthesis of a Sc 3 N@ I h -C 80 Methano Derivative from Trianionic Sc 3 N@ I h -C 80",
+  "authors": [
+   "Fangfang Li",
+   "Antonio Rodríguez-Fortea",
+   "Ping Peng",
+   "Guillermo A. Campos Chavez",
+   "Josep M. Poblet",
+   "Luís Echegoyen"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2012-04-05",
+  "year": 2012,
+  "doi": "10.1021/ja3008038",
+  "url": "https://doi.org/10.1021/ja3008038",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "The University of Texas at El Paso",
+   "Universitat Rovira i Virgili"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b5bb23dd00ce6491",
+  "title": "Some mechanistic studies on electrochemical carboxylation of flavones to yield flavanone-2-carboxylic acids",
+  "authors": [
+   "Hisanori Senboku",
+   "Yusuke Yamauchi",
+   "Natsuko Kobayashi",
+   "Akihiro Fukui",
+   "Shoji Hara"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2012-04-04",
+  "year": 2012,
+  "doi": "10.1016/j.electacta.2012.03.131",
+  "url": "https://doi.org/10.1016/j.electacta.2012.03.131",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hokkaido University"
   ],
   "added": "2026-07-30"
  }

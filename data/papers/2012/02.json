@@ -1,5 +1,94 @@
 [
  {
+  "id": "fbdbc07d5bc48816",
+  "title": "Electrosynthesis and Characterization of Poly( N ‐(9‐fluorenylmethoxycarbony)‐glycine)",
+  "authors": [
+   "Yu He",
+   "Wenjuan Guo",
+   "Meishan Pei",
+   "Guangyou Zhang"
+  ],
+  "journal": "Chinese Journal of Chemistry",
+  "publisher": "Wiley",
+  "published": "2012-02-29",
+  "year": 2012,
+  "doi": "10.1002/cjoc.201100283",
+  "url": "https://doi.org/10.1002/cjoc.201100283",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrosynthesis",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "University of Jinan"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7619f60797b5b5c6",
+  "title": "Palladium-Catalyzed Ullmann-Type Reductive Homocoupling of Iodoaryl Glycosides",
+  "authors": [
+   "Milan Bergeron-Brlek",
+   "Denis Giguère",
+   "Tze Chieh Shiao",
+   "Catherine Saucier",
+   "René Roy"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2012-02-27",
+  "year": 2012,
+  "doi": "10.1021/jo2025652",
+  "url": "https://doi.org/10.1021/jo2025652",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Pd Catalysis"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Université du Québec à Montréal"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "505e14e3e670aca7",
+  "title": "Electrosynthesis of polypyrrole on steel fiber for solid-phase microextraction of citalopram in serum",
+  "authors": [
+   "Azizollah Nezhadali",
+   "Golnar Ahmadi Bonakdar",
+   "Hossein Nakhaei"
+  ],
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2012-02-23",
+  "year": 2012,
+  "doi": "10.1007/s00216-012-5825-x",
+  "url": "https://doi.org/10.1007/s00216-012-5825-x",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Payame Noor University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "47febd043e5f646e",
   "title": "Novel Triarylimidazole Redox Catalysts: Synthesis, Electrochemical Properties, and Applicability to Electrooxidative C–H Activation",
   "authors": [
@@ -29,6 +118,32 @@
   "added": "2026-07-30"
  },
  {
+  "id": "f69fa3103bfa87e4",
+  "title": "Anodic Oxidation of Diphenylacetaldehyde in the Presence of Alcohols",
+  "authors": [
+   "Albert J. Fry",
+   "Rachel L. Merzel"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2012-02-15",
+  "year": 2012,
+  "doi": "10.1149/ma2012-01/13/618",
+  "url": "https://doi.org/10.1149/ma2012-01/13/618",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Wesleyan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "a3492e0b348d6c35",
   "title": "Adventures in Organic Electrochemistry: 50 Years at Indiana University",
   "authors": [
@@ -50,6 +165,32 @@
   "relevance_score": 40,
   "affiliations": [
    "Indiana University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "74237489f58e1d81",
+  "title": "Decarboxylation Versus Desilylation in the Anodic Oxidation of a-silylacetic acid, Ph 2 (Me)SiCH 2 COOH",
+  "authors": [
+   "Libi Brakha",
+   "James Y. Becker"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2012-02-15",
+  "year": 2012,
+  "doi": "10.1149/ma2012-01/13/614",
+  "url": "https://doi.org/10.1149/ma2012-01/13/614",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Ben-Gurion University of the Negev"
   ],
   "added": "2026-07-30"
  },
@@ -84,6 +225,147 @@
   "added": "2026-07-30"
  },
  {
+  "id": "1383299155dbf45f",
+  "title": "TiO2 nanotube arrays deposited on Ti substrate by anodic oxidation and their potential as a long-term drug delivery system for antimicrobial agents",
+  "authors": [
+   "Claus Moseke",
+   "Felix Hage",
+   "Elke Vorndran",
+   "Uwe Gbureck"
+  ],
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2012-02-13",
+  "year": 2012,
+  "doi": "10.1016/j.apsusc.2012.02.022",
+  "url": "https://doi.org/10.1016/j.apsusc.2012.02.022",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Würzburg"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "721256593097b0ec",
+  "title": "Anodic $\\hbox{Nb}_{2}\\hbox{O}_{5}$ Nonvolatile RRAM",
+  "authors": [
+   "Т. В. Кундозерова",
+   "А. М. Гришин",
+   "Г. Б. Стефанович",
+   "Andrei Velichko"
+  ],
+  "journal": "IEEE Transactions on Electron Devices",
+  "publisher": "Institute of Electrical and Electronics Engineers",
+  "published": "2012-02-10",
+  "year": 2012,
+  "doi": "10.1109/ted.2011.2182515",
+  "url": "https://doi.org/10.1109/ted.2011.2182515",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "KTH Royal Institute of Technology",
+   "Petrozavodsk State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8b045c6e0f115d50",
+  "title": "ChemInform Abstract: Aromatic Nuclear Acetamidation by the Anodic Oxidation at the Platinum Electrode.",
+  "authors": [
+   "Sanjeev Kumar",
+   "Sushma Singh",
+   "Ramendra K. Singh"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2012-02-09",
+  "year": 2012,
+  "doi": "10.1002/chin.201210021",
+  "url": "https://doi.org/10.1002/chin.201210021",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4d766a78ae2d5424",
+  "title": "A two‐step synthesis of deuterium labeled 8, 8, 9, 9‐ d 4 ‐hexadecane from nonanoic acid",
+  "authors": [
+   "Lei Zhou",
+   "Xinyu Bian",
+   "Shi-Zhong Yang",
+   "Bo-Zhong Mu"
+  ],
+  "journal": "Journal of Labelled Compounds and Radiopharmaceuticals",
+  "publisher": "Wiley",
+  "published": "2012-02-09",
+  "year": 2012,
+  "doi": "10.1002/jlcr.1962",
+  "url": "https://doi.org/10.1002/jlcr.1962",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Kolbe Electrolysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "East China University of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3d6019b4e5f96c2c",
+  "title": "Electroreductive five- and six-membered cyclization of aromatic β- and γ-imino esters derived from (S)-aspartic acid and (S)-glutamic acid",
+  "authors": [
+   "Yosei Takenaga",
+   "Yujiro Umesaki",
+   "Toshihiko Sakurai",
+   "Naoki Kise"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "2012-02-07",
+  "year": 2012,
+  "doi": "10.1016/j.tet.2012.01.100",
+  "url": "https://doi.org/10.1016/j.tet.2012.01.100",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tottori University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "27a461607077e618",
   "title": "Electrophilic substitution reactions using an electrogenerated ArS(ArSSAr)+ cation pool as an ArS+ equivalent",
   "authors": [
@@ -112,6 +394,158 @@
    "Kindai University",
    "Kyoto University",
    "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "964debf937e41e69",
+  "title": "Strong-bonding calcium phosphate coatings on carbon/carbon composites by ultrasound-assisted anodic oxidation treatment and electrochemical deposition",
+  "authors": [
+   "Xueni Zhao",
+   "Hejun Li",
+   "Mengdi Chen",
+   "Kezhi Li",
+   "Bin Wang",
+   "Zhanwei Xu",
+   "Sheng Cao",
+   "Leilei Zhang",
+   "Hailiang Deng",
+   "Jinhua Lu"
+  ],
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2012-02-02",
+  "year": 2012,
+  "doi": "10.1016/j.apsusc.2012.01.144",
+  "url": "https://doi.org/10.1016/j.apsusc.2012.01.144",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Northwestern Polytechnical University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7a4f9cfdfb4d6998",
+  "title": "ChemInform Abstract: Catecholthioether Derivatives: Preliminary Study of in vitro Antimicrobial and Antioxidant Activities.",
+  "authors": [
+   "Hadi Adibi",
+   "Atefeh Rashidi",
+   "Mohammad Mehdi Khodaei",
+   "Abdolhamid Alizadeh",
+   "Mohammad Bagher Majnooni",
+   "Narges Pakravan",
+   "Ramin Abiri",
+   "Davood Nematollahi"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2012-02-02",
+  "year": 2012,
+  "doi": "10.1002/chin.201209134",
+  "url": "https://doi.org/10.1002/chin.201209134",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Kermanshah University of Medical Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c23142da30b04caa",
+  "title": "Hydrothermal Synthesis of Hydroxyapatite on Titanium after Anodic Oxidation",
+  "authors": [
+   "A. Strzała",
+   "Wojciech Simka",
+   "M. Marszałek"
+  ],
+  "journal": "Acta Physica Polonica A",
+  "publisher": "Polish Academy of Sciences",
+  "published": "2012-02-01",
+  "year": 2012,
+  "doi": "10.12693/aphyspola.121.561",
+  "url": "https://doi.org/10.12693/aphyspola.121.561",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Institute of Nuclear Physics, Polish Academy of Sciences",
+   "Silesian University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9ef24f227a2f0f50",
+  "title": "Electrochemiluminescence Cell Fabrication Using TiO 2 Nanotube Produced by Anodic Oxidation",
+  "authors": [
+   "Youl-Moon Sung",
+   "Accarat Chaoumead",
+   "Minwoo Park"
+  ],
+  "journal": "Journal of Nanoscience and Nanotechnology",
+  "publisher": "American Scientific Publishers",
+  "published": "2012-02-01",
+  "year": 2012,
+  "doi": "10.1166/jnn.2012.4589",
+  "url": "https://doi.org/10.1166/jnn.2012.4589",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Kyungsung University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "13a5de45da06dea0",
+  "title": "Preparation of S-F-Codoped Titania Nanotubes Electrode and its Photoelectrocatalytic Properties",
+  "authors": [
+   "Xiu Qin Chen",
+   "Xu Ping Chen",
+   "Jie Tang",
+   "Yue-Jun Zhang",
+   "Jian Zhan"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2012-02-01",
+  "year": 2012,
+  "doi": "10.4028/www.scientific.net/amr.482-484.2609",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.482-484.2609",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Working Electrode"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Jiyang College of Zhejiang A&F University"
   ],
   "added": "2026-07-30"
  }
