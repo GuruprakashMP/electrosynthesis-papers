@@ -1,5 +1,197 @@
 [
  {
+  "id": "db27657664463fdb",
+  "title": "Parallel-local anodic oxidation of silicon surfaces by soft stamps",
+  "authors": [
+   "Cristiano Albonetti",
+   "Javier Martı́nez",
+   "N. S. Losilla",
+   "Pierpaolo Greco",
+   "Massimiliano Cavallini",
+   "F. Borgatti",
+   "Monica Montecchi",
+   "Luca Pasquali",
+   "Ricardo Garcı́a",
+   "Fabio Biscarini"
+  ],
+  "journal": "Nanotechnology",
+  "publisher": "IOP Publishing",
+  "published": "2008-09-22",
+  "year": 2008,
+  "doi": "10.1088/0957-4484/19/43/435303",
+  "url": "https://doi.org/10.1088/0957-4484/19/43/435303",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Institute of Nanostructured Materials",
+   "Consejo Superior de Investigaciones Científicas",
+   "University of Modena and Reggio Emilia"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d8c4389804224b2f",
+  "title": "Electroreductive Intramolecular Coupling of 1-Indolealkanones",
+  "authors": [
+   "Naoki Kise",
+   "Toshiyuki Mano",
+   "Toshihiko Sakurai"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2008-09-18",
+  "year": 2008,
+  "doi": "10.1021/ol801876k",
+  "url": "https://doi.org/10.1021/ol801876k",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "DFT",
+   "Electroreductive",
+   "Indoles",
+   "Mechanism",
+   "Radical Anion",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Tottori University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "56b1f42e49106eb1",
+  "title": "Self-organized TiO2 nanotubes with controlled dimensions by anodic oxidation",
+  "authors": [
+   "Ammar Elsanousi",
+   "Jun Zhang",
+   "H.M.H. Fadlalla",
+   "Feng Zhang",
+   "Hui Wang",
+   "Xiaoxia Ding",
+   "Zhixin Huang",
+   "Chengcun Tang"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "2008-09-16",
+  "year": 2008,
+  "doi": "10.1007/s10853-008-2947-9",
+  "url": "https://doi.org/10.1007/s10853-008-2947-9",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Central China Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "eb11dcf94c4181f9",
+  "title": "Electrooxidative homo-coupling of arylboronic acids catalyzed by electrogenerated cationic palladium catalysts",
+  "authors": [
+   "Koichi Mitsudo",
+   "Takuya Shiraga",
+   "Hideo Tanaka"
+  ],
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "published": "2008-09-12",
+  "year": 2008,
+  "doi": "10.1016/j.tetlet.2008.09.022",
+  "url": "https://doi.org/10.1016/j.tetlet.2008.09.022",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7d8a5f10fbd1172e",
+  "title": "Anodic Oxidation of Ketone Allylhydrazones into the Corresponding Azines",
+  "authors": [
+   "Mitsuhiro Okimoto",
+   "Takashi Yoshida",
+   "Masayuki Hoshi",
+   "Kazuyuki Hattori",
+   "Masashi Komata",
+   "Kenta Tomozawa",
+   "Tomohito Chiba"
+  ],
+  "journal": "Synthetic Communications",
+  "publisher": "Taylor & Francis",
+  "published": "2008-09-12",
+  "year": 2008,
+  "doi": "10.1080/00397910802136656",
+  "url": "https://doi.org/10.1080/00397910802136656",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Kitami Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6f04632fba12c360",
+  "title": "Novel electrosynthesis of a condensed thioheterocyclic system containing a 1,2,4-triazole ring",
+  "authors": [
+   "Lida Fotouhi",
+   "Rahim Hekmatshoar",
+   "Majid M. Heravı",
+   "Sodeh Sadjadi",
+   "Vahideh Rasmi"
+  ],
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "published": "2008-09-12",
+  "year": 2008,
+  "doi": "10.1016/j.tetlet.2008.09.023",
+  "url": "https://doi.org/10.1016/j.tetlet.2008.09.023",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Alzahra University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "c0deec41863d7fab",
   "title": "ChemInform Abstract: A New Approach to Anodic Substitution Reaction Using Acoustic Emulsification.",
   "authors": [
@@ -23,6 +215,121 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "73d38122d3a04b5d",
+  "title": "Direct Electrochemical Synthesis of a Nickel Complex with 5,10,15,20-Tetrakis( p -Hydroxyphenyl) Porphyrin",
+  "authors": [
+   "L. M. Blanco",
+   "Lucy T. González",
+   "Boris I. Kharisov",
+   "Elsa N. Aguilera",
+   "А. Д. Гарновский",
+   "Francisco E. Longoria-Rodríguez",
+   "Juan Costamagna",
+   "Г. С. Бородкин",
+   "M. S. Korobov"
+  ],
+  "journal": "Synthesis and Reactivity in Inorganic Metal-Organic and Nano-Metal Chemistry",
+  "publisher": "Marcel Dekker",
+  "published": "2008-09-03",
+  "year": 2008,
+  "doi": "10.1080/15533170802265145",
+  "url": "https://doi.org/10.1080/15533170802265145",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Universidad Autónoma de Nuevo León",
+   "Southern Federal University",
+   "Universidad de Santiago de Chile"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4523290fbf0f1336",
+  "title": "Toxicokinetics of perfluorocarboxylate isomers in rainbow trout",
+  "authors": [
+   "Amila O. De Silva",
+   "Pablo J. Tseng",
+   "Scott A. Mabury"
+  ],
+  "journal": "Environmental Toxicology and Chemistry",
+  "publisher": "Wiley",
+  "published": "2008-09-03",
+  "year": 2008,
+  "doi": "10.1897/08-088.1",
+  "url": "https://doi.org/10.1897/08-088.1",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Toronto"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cb7c191783784948",
+  "title": "ChemInform Abstract: Arenium Cation as the Key Intermediate of the Electrosynthesis of N‐(2,5‐Dimethoxyphenyl)azoles. A New Approach to the Synthesis of N‐(Dimethoxyphenyl)azoles.",
+  "authors": [
+   "V. A. Petrosyan",
+   "A. V. Burasov"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2008-09-02",
+  "year": 2008,
+  "doi": "10.1002/chin.200839089",
+  "url": "https://doi.org/10.1002/chin.200839089",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8747d9688a79ac0c",
+  "title": "Electro-Chemo-Mechanical Actuators Touching and Sensing Both, Physical and Chemical Ambient",
+  "authors": [
+   "Toribio F. Otero"
+  ],
+  "journal": "Advances in science and technology",
+  "publisher": "Trans Tech Publications",
+  "published": "2008-09-02",
+  "year": 2008,
+  "doi": "10.4028/www.scientific.net/ast.61.112",
+  "url": "https://doi.org/10.4028/www.scientific.net/ast.61.112",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolytic"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Universidad Politécnica de Cartagena"
   ],
   "added": "2026-07-30"
  },
@@ -58,6 +365,158 @@
    "Beijing University of Technology",
    "Xiangtan University",
    "In-Q-Tel"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "72ce828c9dea7a96",
+  "title": "Synthesis and use of anodic borosilicate diffusion sources",
+  "authors": [
+   "I. L. Baranov",
+   "Л. В. Табулина",
+   "L. S. Stanovaya",
+   "T. G. Rusal’skaya",
+   "Yu. A. Shostak"
+  ],
+  "journal": "Russian Microelectronics",
+  "publisher": "Pleiades Publishing",
+  "published": "2008-09-01",
+  "year": 2008,
+  "doi": "10.1134/s106373970805003x",
+  "url": "https://doi.org/10.1134/s106373970805003x",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Belarusian State University of Informatics and Radioelectronics"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "693a374b4d07d558",
+  "title": "Indirect electrochemical synthesis of active oxygen in dilute sulfate solutions",
+  "authors": [
+   "Mark M. Goldin",
+   "M. Sh. Khubutiya",
+   "В. А. Колесников",
+   "Michail M. Abakumov",
+   "А. К. Евсеев",
+   "Alexander G. Volkov"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2008-09-01",
+  "year": 2008,
+  "doi": "10.1007/s10800-008-9652-x",
+  "url": "https://doi.org/10.1007/s10800-008-9652-x",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Indirect Electrolysis"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Research Institute of Emergency Care",
+   "Oakwood University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5621ee3441ddbc62",
+  "title": "Electrochemical Reduction and Carboxylation of Ethyl Cinnamate in MeCN",
+  "authors": [
+   "Huan Wang",
+   "Yanfang Du",
+   "Mei-Yu LIN",
+   "Kai Zhang",
+   "Jiaxing Lu"
+  ],
+  "journal": "Chinese Journal of Chemistry",
+  "publisher": "Wiley",
+  "published": "2008-09-01",
+  "year": 2008,
+  "doi": "10.1002/cjoc.200890316",
+  "url": "https://doi.org/10.1002/cjoc.200890316",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation",
+   "Electrolysis",
+   "Sacrificial Anode",
+   "Undivided Cell"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "East China Normal University",
+   "In-Q-Tel"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3ba3eb32df6799bd",
+  "title": "Fundamental Research on Generation of Nanostructure by Means of Local Anodic Oxidation",
+  "authors": [
+   "Yumetaka Suehisa",
+   "Toshiaki Aoki",
+   "Jun Shimizu",
+   "Li Zhou",
+   "Hiroshi Eda"
+  ],
+  "journal": "Key engineering materials",
+  "publisher": "Trans Tech Publications",
+  "published": "2008-09-01",
+  "year": 2008,
+  "doi": "10.4028/www.scientific.net/kem.389-390.424",
+  "url": "https://doi.org/10.4028/www.scientific.net/kem.389-390.424",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Ibaraki University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "14f88e177fdf8f39",
+  "title": "Anodic Oxidation Technique using an Atomic Force Microscope to Fabricate a Single-Electron Device for a Radiation Imaging Detector",
+  "authors": [
+   "Toshio Hirano",
+   "Teruhisa Matsui",
+   "Jun Kawarabayashi",
+   "Tetsuo Iguchi"
+  ],
+  "journal": "Journal of Nuclear Science and Technology",
+  "publisher": "Taylor & Francis",
+  "published": "2008-09-01",
+  "year": 2008,
+  "doi": "10.1080/00223131.2008.10875981",
+  "url": "https://doi.org/10.1080/00223131.2008.10875981",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Nagoya University"
   ],
   "added": "2026-07-30"
  }

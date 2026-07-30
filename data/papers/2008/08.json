@@ -85,6 +85,37 @@
   "added": "2026-07-30"
  },
  {
+  "id": "c1726d48b0f42260",
+  "title": "Formation of Si Nanorod Array by Combination of Electrochemical Etching and Anodic Oxidation",
+  "authors": [
+   "Sung-Ho Woo",
+   "K Phil Kim",
+   "Hong-Keun Lyu",
+   "Hong-Seok Seo",
+   "Jung-Ho Lee",
+   "Jae Hyun Kim"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2008-08-29",
+  "year": 2008,
+  "doi": "10.1149/ma2008-02/2/314",
+  "url": "https://doi.org/10.1149/ma2008-02/2/314",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Daegu Gyeongbuk Institute of Science and Technology",
+   "Hanyang University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "ac5ae86569068f7a",
   "title": "The Effect of Poly(ethyleneglycol) as an Additive in Electrochemical Fluorination in Ionic Liquids",
   "authors": [
@@ -112,6 +143,40 @@
   "added": "2026-07-30"
  },
  {
+  "id": "93655699d7045e58",
+  "title": "Recent Advances in the Redox Chemistry of Pseudopterosins, the Reactions of Housane-derived Cation Radicals, and Enantioselective Electroreductive Cyclization",
+  "authors": [
+   "Trevor Squier",
+   "Wei Zhong",
+   "Jennifer Mallory",
+   "Young Sam Park",
+   "R. Daniel Little"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2008-08-29",
+  "year": 2008,
+  "doi": "10.1149/ma2008-02/16/1513",
+  "url": "https://doi.org/10.1149/ma2008-02/16/1513",
+  "source": "openalex",
+  "categories": [
+   "Asymmetric Electrosynthesis",
+   "Cathodic Reduction",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Enantioselective Electrosynthesis",
+   "Enantioselectivity",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "University of California, Santa Barbara"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "614f15e5c54a829d",
   "title": "Synthsis of Fluoromethyl Carboxylates Using Electrochemical Fluorination",
   "authors": [
@@ -134,6 +199,335 @@
   "relevance_score": 40,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "51913e9944b0e830",
+  "title": "Recent Studies on the Electrocatalytic Anodic Oxidation of Organic Substrates",
+  "authors": [
+   "Albert J. Fry",
+   "Anthony P. Davis",
+   "Katrina L. Adams",
+   "L. Kraig Steffen",
+   "Matthew Sagotsky",
+   "Shuk Kei Cheng",
+   "Anna J. Komor"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2008-08-29",
+  "year": 2008,
+  "doi": "10.1149/ma2008-02/16/1519",
+  "url": "https://doi.org/10.1149/ma2008-02/16/1519",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Wesleyan University",
+   "Fairfield University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "09d9c9bafb953ee8",
+  "title": "Gas Sensing Property of Porous SnO2 Fabricated by Anodic Oxidation",
+  "authors": [
+   "Jeong Hoon Jeun",
+   "Hyun Sam Ryu",
+   "Seong-Hyeon Hong"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2008-08-29",
+  "year": 2008,
+  "doi": "10.1149/ma2008-02/22/1788",
+  "url": "https://doi.org/10.1149/ma2008-02/22/1788",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Seoul National University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "de15addb10b3f4c6",
+  "title": "Electrochemical and Chemical Syntheses of Trifluoromethylating Reagents and Trifluoromethyl Substituted Compounds",
+  "authors": [
+   "Joseph Grobe",
+   "Joachim Hegge"
+  ],
+  "journal": "Zeitschrift für anorganische und allgemeine Chemie",
+  "publisher": "Wiley",
+  "published": "2008-08-28",
+  "year": 2008,
+  "doi": "10.1002/zaac.200800206",
+  "url": "https://doi.org/10.1002/zaac.200800206",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Reduction Potential",
+   "Sacrificial Anode",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "65053d487c0323b5",
+  "title": "Electrosynthesis, characterization and electrocatalytic properties of Prussian Blue (PB) nanoparticles disposed on a template",
+  "authors": [
+   "Marco Orellana",
+   "Luis Ballesteros",
+   "Rodrigo Del Río",
+   "Paula Grez",
+   "Ricardo Schrebler",
+   "R. Córdova"
+  ],
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2008-08-26",
+  "year": 2008,
+  "doi": "10.1007/s10008-008-0634-z",
+  "url": "https://doi.org/10.1007/s10008-008-0634-z",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hospital Regional de Antofagasta",
+   "Pontificia Universidad Católica de Valparaíso",
+   "Pontificia Universidad Católica de Chile"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1022c8ec11c39546",
+  "title": "Nanoporous oxide formation by anodic oxidation of Nb in sulphate–fluoride electrolytes",
+  "authors": [
+   "Bogdan Tzvetkov",
+   "Martin Bojinov",
+   "Assen Girginov"
+  ],
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2008-08-26",
+  "year": 2008,
+  "doi": "10.1007/s10008-008-0651-y",
+  "url": "https://doi.org/10.1007/s10008-008-0651-y",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Chemical Technology and Metallurgy"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9e712b4d3177ac48",
+  "title": "Electrodes modified with polyaminophenols: Immobilization of purines and pyrimidines",
+  "authors": [
+   "Diego Leoni Franco",
+   "André S. Afonso",
+   "Lucas Franco Ferreira",
+   "Rafael Ariza Gonçalves",
+   "Julien Françoise Coleta Boodts",
+   "Ana G. Brito-Madurro",
+   "João M. Madurro"
+  ],
+  "journal": "Polymer Engineering and Science",
+  "publisher": "Wiley",
+  "published": "2008-08-25",
+  "year": 2008,
+  "doi": "10.1002/pen.21044",
+  "url": "https://doi.org/10.1002/pen.21044",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Graphite Electrode"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Universidade Federal de Uberlândia"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8c99f8b829930c8e",
+  "title": "On the performances of lead dioxide and boron-doped diamond electrodes in the anodic oxidation of simulated wastewater containing the Reactive Orange 16 dye",
+  "authors": [
+   "Leonardo S. Andrade",
+   "Thiago Teixeira Tasso",
+   "Diogo L. da Silva",
+   "Romeu C. Rocha-Filho",
+   "Nerilso Bocchi",
+   "Sonia R. Biaggio"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2008-08-24",
+  "year": 2008,
+  "doi": "10.1016/j.electacta.2008.08.026",
+  "url": "https://doi.org/10.1016/j.electacta.2008.08.026",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "BDD Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Universidade Federal de São Carlos"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c4f04576198283b5",
+  "title": "Local Anodic Oxidation Induced by Electric Fields of MV/cm at AFM Silicon Nitride Tips on Silicon Surfaces",
+  "authors": [
+   "Diego K. Pinto",
+   "Sebastião Gomes dos Santos Filho"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2008-08-22",
+  "year": 2008,
+  "doi": "10.1149/1.2956058",
+  "url": "https://doi.org/10.1149/1.2956058",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Universidade de São Paulo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4b147655f96a0811",
+  "title": "Reinvestigation of Highly DiastereoselectivePentacyclic Spirolactone Formation by Direct Anodic Oxidationof 2,4-Dimethylphenol",
+  "authors": [
+   "Siegfried R. Waldvogel",
+   "J. Barjau",
+   "P. Königs",
+   "Olga Kataeva"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2008-08-21",
+  "year": 2008,
+  "doi": "10.1055/s-2008-1078276",
+  "url": "https://doi.org/10.1055/s-2008-1078276",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Diastereoselectivity"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e62236ecd343b578",
+  "title": "Facile Synthesis and Functionality-Dependent Electrochemistry of Fe-Only Hydrogenase Mimics",
+  "authors": [
+   "Gang Si",
+   "Wenguang Wang",
+   "Hongyan Wang",
+   "Chen-Ho Tung",
+   "Li-Zhu Wu"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2008-08-19",
+  "year": 2008,
+  "doi": "10.1021/ic800676y",
+  "url": "https://doi.org/10.1021/ic800676y",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Reduction Potential"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Technical Institute of Physics and Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "febd716ae654201a",
+  "title": "ChemInform Abstract: Electroreductive Acylation of Aromatic Imines with Acylimidazoles.",
+  "authors": [
+   "Naoki Kise",
+   "Shinji Morimoto"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2008-08-15",
+  "year": 2008,
+  "doi": "10.1002/chin.200837066",
+  "url": "https://doi.org/10.1002/chin.200837066",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tottori University"
   ],
   "added": "2026-07-30"
  },
@@ -165,6 +559,180 @@
    "Centre National de la Recherche Scientifique",
    "École Normale Supérieure - PSL"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e4d5be501bdf8ab0",
+  "title": "Removal of the Pesticide Methamidophos from Aqueous Solutions by Electrooxidation using Pb/PbO 2 , Ti/SnO 2 , and Si/BDD Electrodes",
+  "authors": [
+   "Carlos A. Martínez-Huitle",
+   "Achille De Battisti",
+   "Sergio Ferro",
+   "Silvia Reyna",
+   "Mónica Cerro-López",
+   "Marco A. Quiro"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "2008-08-13",
+  "year": 2008,
+  "doi": "10.1021/es8008419",
+  "url": "https://doi.org/10.1021/es8008419",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Milan",
+   "University of Ferrara"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "237ebefbf98dfe0b",
+  "title": "Catalytic Behavior of Individual Au Nanocrystals in the Local Anodic Oxidation of Si Surfaces",
+  "authors": [
+   "T. Vijaykumar",
+   "Gargi Raina",
+   "Stefan Heun",
+   "Giridhar U. Kulkarni"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2008-08-13",
+  "year": 2008,
+  "doi": "10.1021/jp804545s",
+  "url": "https://doi.org/10.1021/jp804545s",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Jawaharlal Nehru Centre for Advanced Scientific Research"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1bcf1db1256dd63a",
+  "title": "Facile electrosynthesis of nitro-group-substituted oligopyrene with bicolored emission",
+  "authors": [
+   "Baoyang Lu",
+   "Jingkun Xu",
+   "Changli Fan",
+   "Fengxing Jiang",
+   "Huaming Miao"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2008-08-07",
+  "year": 2008,
+  "doi": "10.1016/j.electacta.2008.07.075",
+  "url": "https://doi.org/10.1016/j.electacta.2008.07.075",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Jiangxi Science and Technology Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "eb94ae1a286eaafc",
+  "title": "Anodic oxidation of tungsten in sulphuric acid solution—Influence of hydrofluoric acid addition",
+  "authors": [
+   "Vasil Karastoyanov",
+   "Martin Bojinov"
+  ],
+  "journal": "Materials Chemistry and Physics",
+  "publisher": "Elsevier BV",
+  "published": "2008-08-01",
+  "year": 2008,
+  "doi": "10.1016/j.matchemphys.2008.06.029",
+  "url": "https://doi.org/10.1016/j.matchemphys.2008.06.029",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Chemical Technology and Metallurgy"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8b4cef1d01fb02f7",
+  "title": "Electrochemical synthesis of peroxodisulfates from dilute sulfate solutions for detoxification of biological media",
+  "authors": [
+   "А. К. Евсеев",
+   "M. Sh. Khubutiya",
+   "M. M. Goldin",
+   "Alexander G. Volkov",
+   "A. A. Koldaev"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2008-08-01",
+  "year": 2008,
+  "doi": "10.1134/s1023193508080041",
+  "url": "https://doi.org/10.1134/s1023193508080041",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "Indirect Electrolysis",
+   "Redox Potential"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "D. Mendeleyev University of Chemical Technology of Russia",
+   "Research Institute of Emergency Care",
+   "Oakwood University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "07ab0bcd6e1256fe",
+  "title": "Preliminary Study on Electrosynthesis of a Co-Porphyrin Based Molecularly Imprinted Polymer for the Selective Detection of the Herbicide 2,4-Dichlorophenoxy Carboxylic Acid",
+  "authors": [
+   "Elisabetta Mazzotta",
+   "Cosimino Malitesta"
+  ],
+  "journal": "Sensor Letters",
+  "publisher": "American Scientific Publishers",
+  "published": "2008-08-01",
+  "year": 2008,
+  "doi": "10.1166/sl.2008.443",
+  "url": "https://doi.org/10.1166/sl.2008.443",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
   "added": "2026-07-30"
  }
 ]

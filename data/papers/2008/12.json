@@ -1,5 +1,126 @@
 [
  {
+  "id": "f08d1fea26bf84bf",
+  "title": "Improved biological performance of low modulus Ti–24Nb–4Zr–7.9Sn implants due to surface modification by anodic oxidation",
+  "authors": [
+   "Yuan Gao",
+   "Bo Gao",
+   "Runan Wang",
+   "J. Wu",
+   "L. J. Zhang",
+   "Yulin Hao",
+   "Xiaojie Tao"
+  ],
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2008-12-28",
+  "year": 2008,
+  "doi": "10.1016/j.apsusc.2008.12.054",
+  "url": "https://doi.org/10.1016/j.apsusc.2008.12.054",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Air Force Medical University",
+   "Beijing Fengtai Hospital",
+   "Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c7f0b759243ae972",
+  "title": "Electrochemical synthesis of silica-doped high aspect-ratio titania nanotubes as nanobioceramics for implant applications",
+  "authors": [
+   "N.F. Fahim",
+   "M.F. Morks",
+   "Tohru Sekino"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2008-12-28",
+  "year": 2008,
+  "doi": "10.1016/j.electacta.2008.12.035",
+  "url": "https://doi.org/10.1016/j.electacta.2008.12.035",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tohoku University",
+   "National Research Centre",
+   "The University of Osaka",
+   "Central Metallurgical Research and Development Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a69084d7886b93d6",
+  "title": "Electrosynthesis and thermal characterization of basic copper carbonate nanoparticles",
+  "authors": [
+   "Seied Mahdi Pourmortazavi",
+   "Iraj Kohsari",
+   "Somayeh Mirsadeghi"
+  ],
+  "journal": "Open Chemistry",
+  "publisher": "De Gruyter Open",
+  "published": "2008-12-22",
+  "year": 2008,
+  "doi": "10.2478/s11532-008-0094-4",
+  "url": "https://doi.org/10.2478/s11532-008-0094-4",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Malek Ashtar University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7dd10357588e3598",
+  "title": "Significance of Chromatographic and Voltammetric Data for the Classification of Green Teas in Türkiye: A Principle Component Analysis Approach",
+  "authors": [
+   "Emrah Kilinç"
+  ],
+  "journal": "Journal of Liquid Chromatography & Related Technologies",
+  "publisher": "Taylor & Francis",
+  "published": "2008-12-19",
+  "year": 2008,
+  "doi": "10.1080/10826070802603153",
+  "url": "https://doi.org/10.1080/10826070802603153",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Oxidation Potential",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Ege University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "87d836b2bd9b6b96",
   "title": "ChemInform Abstract: Electrochemical Synthesis of 5‐Purin‐6′‐ylthiocatechols in Aqueous Medium.",
   "authors": [
@@ -50,6 +171,405 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e461d841af6aae71",
+  "title": "In-situ Electrochemical Generation of Ferrate Ion [Fe(VI)] in Acidic Conditions: A Potential Wastewater Decontamination Process",
+  "authors": [
+   "Minerva Villanueva",
+   "Aracely Hernández-Ramírez",
+   "Juan M. Peralta-Hernández",
+   "Erick R. Bandalab",
+   "Marco A. Quiróz"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2008-12-17",
+  "year": 2008,
+  "doi": "10.1149/1.3046657",
+  "url": "https://doi.org/10.1149/1.3046657",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "BDD Electrode",
+   "Electrochemical Synthesis",
+   "Electrogenerated Species",
+   "Undivided Cell"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Universidad de las Américas Puebla"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d4784661c55403d7",
+  "title": "A new family of high performance nanostructured catalysts for the electrosynthesis of sodium chlorate",
+  "authors": [
+   "Robert Schulz",
+   "S. Savoie"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2008-12-12",
+  "year": 2008,
+  "doi": "10.1016/j.jallcom.2008.07.176",
+  "url": "https://doi.org/10.1016/j.jallcom.2008.07.176",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Hydro-Québec"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c8701c1bc44657a9",
+  "title": "Electroreductions on Silver‐Based Electrocatalysts: The Use of Ag Nanoparticles for CHCl 3 to CH 4 Conversion",
+  "authors": [
+   "Sandra Rondinini",
+   "G. Aricci",
+   "Željka Krpetić",
+   "C. Locatelli",
+   "Alessandro Minguzzi",
+   "Francesca Porta",
+   "Alberto Vertova"
+  ],
+  "journal": "Fuel Cells",
+  "publisher": "Wiley",
+  "published": "2008-12-12",
+  "year": 2008,
+  "doi": "10.1002/fuce.200800083",
+  "url": "https://doi.org/10.1002/fuce.200800083",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrolytic",
+   "Preparative Electrolysis"
+  ],
+  "relevance_score": 41,
+  "affiliations": [
+   "University of Milan"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a6ed04d22e2b0fa9",
+  "title": "Electroreductive Generationof Recyclable Organic Reductant from N , N ′-Dioctyl-4,4′-bipyridiniumand Pd-Catalyzed Reductive Coupling of Aryl Halides",
+  "authors": [
+   "Hideo Tanaka",
+   "Manabu Kuroboshi",
+   "Ryoto Kobayashi",
+   "Takayuki Nakagawa"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2008-12-12",
+  "year": 2008,
+  "doi": "10.1055/s-2008-1087386",
+  "url": "https://doi.org/10.1055/s-2008-1087386",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "019a082341c5b93c",
+  "title": "ChemInform Abstract: Electrochemical Carboxylation of Fluorocontaining Imines with Preparation of Fluorinated N‐Phenylphenylglycines.",
+  "authors": [
+   "V. G. Koshechko",
+   "V. E. Titov",
+   "В. Н. Бондаренко",
+   "V. D. Pokhodenko"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2008-12-12",
+  "year": 2008,
+  "doi": "10.1002/chin.200902194",
+  "url": "https://doi.org/10.1002/chin.200902194",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Academy of Sciences of Ukraine"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "47d8cee76515ad22",
+  "title": "Comparative study of the N-isobutyl-(2E,6Z)-dodecadienamide chemical and electrochemical syntheses",
+  "authors": [
+   "Agustı́n Palma",
+   "Jorge Cárdenas",
+   "Bernardo A. Frontana-Uribe"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2008-12-11",
+  "year": 2008,
+  "doi": "10.1039/b815745f",
+  "url": "https://doi.org/10.1039/b815745f",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Natural Product & Total Synthesis",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Divided Cell",
+   "Electrosynthesis",
+   "Green Chemistry",
+   "Natural Products",
+   "Organic Electrochemistry",
+   "Organic Electrosynthesis",
+   "Total Synthesis"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "Universidad Nacional Autónoma de México"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b36acb85b9fcde26",
+  "title": "Electrochemical Polymerization of Benzanthrone and Characterization of its Excellent Green-light-emitting Polymer",
+  "authors": [
+   "Baoyang Lu",
+   "Jingkun Xu",
+   "Changli Fan",
+   "Huaming Miao",
+   "Liang Shen"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2008-12-09",
+  "year": 2008,
+  "doi": "10.1021/jp804497q",
+  "url": "https://doi.org/10.1021/jp804497q",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Jiangxi Science and Technology Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d8eedd8042f22da7",
+  "title": "Anodic oxidation of organic compounds based on the cation exchange reaction between KBF4 and solid-supported acids",
+  "authors": [
+   "Atsushi Nakajima",
+   "Toshiki Tajima"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2008-12-05",
+  "year": 2008,
+  "doi": "10.1016/j.elecom.2008.11.032",
+  "url": "https://doi.org/10.1016/j.elecom.2008.11.032",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b22a2080e75a1bd3",
+  "title": "Stable and Highly Persistent Quinoxaline-Centered Metalloorganic Radical Anions: Preparation, Structural, Spectroscopic, and Computational Investigations",
+  "authors": [
+   "Sylvie Choua",
+   "Jean-Pierre Djukic",
+   "J. Dallery",
+   "A. Bieber",
+   "R. Welter",
+   "Jean-Paul Gisselbrecht",
+   "Philippe Turek",
+   "Louis Ricard"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2008-12-03",
+  "year": 2008,
+  "doi": "10.1021/ic801434h",
+  "url": "https://doi.org/10.1021/ic801434h",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Radical Anion",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "École Polytechnique",
+   "Institut de Chimie de Strasbourg"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "de4a0d5a756df3e0",
+  "title": "An Efficient Synthesis of Thio- and Thiazoloquinazolinones by the Electrochemical Oxidation of Catechols in the Presence of 2-Mercapto-4(3 H )-quinazolinone",
+  "authors": [
+   "Ali Reza Fakhari",
+   "Kobra Sadat Hasheminasab",
+   "Hamid Ahmar",
+   "Abdolali Alizadeh"
+  ],
+  "journal": "Synthesis",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2008-12-01",
+  "year": 2008,
+  "doi": "10.1055/s-0028-1083258",
+  "url": "https://doi.org/10.1055/s-0028-1083258",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "937bed27ef447c02",
+  "title": "Generation of phenylmethylketyl radicals in aqueous solutions and study of their transformation",
+  "authors": [
+   "А. Г. Кривенко",
+   "V. A. Kurmaz",
+   "А. С. Коткин",
+   "Г. В. Симбирцева",
+   "V. P. Gul’tyai"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2008-12-01",
+  "year": 2008,
+  "doi": "10.1134/s1023193508120112",
+  "url": "https://doi.org/10.1134/s1023193508120112",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Preparative Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "Institute of Problems of Chemical Physics",
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "363dc1bc48be1d28",
+  "title": "Electrosynthesis of 4-chloro derivatives of pyrazole and alkylpyrazoles",
+  "authors": [
+   "B. V. Lyalin",
+   "V. A. Petrosyan",
+   "Б. И. Уграк"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2008-12-01",
+  "year": 2008,
+  "doi": "10.1134/s1023193508120021",
+  "url": "https://doi.org/10.1134/s1023193508120021",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Halogenation",
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1b86c97f26ddeb0a",
+  "title": "Electrochemical carboxylation of β-cyclodextrin/1-(3-phenoxyphenyl)-1-chloroethane inclusion complex on a glassy-carbon cathode in anhydrous dimethylformamide",
+  "authors": [
+   "А. А. Степанов",
+   "М. К. Грачев",
+   "G. I. Kurochkina",
+   "В. А. Гринберг"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2008-12-01",
+  "year": 2008,
+  "doi": "10.1134/s1023193508120148",
+  "url": "https://doi.org/10.1134/s1023193508120148",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation",
+   "Electrogenerated Species"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "A. N. Nesmeyanov Institute of Organoelement Compounds",
+   "Moscow State Pedagogical University",
+   "Frumkin Institute of Physical Chemistry and Electrochemistry"
   ],
   "added": "2026-07-30"
  }

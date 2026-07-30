@@ -1,5 +1,61 @@
 [
  {
+  "id": "e303a6afa957dbaa",
+  "title": "Electrochemical carboxylation of fluorocontaining imines with preparation of fluorinated N-phenylphenylglycines",
+  "authors": [
+   "V. G. Koshechko",
+   "V. E. Titov",
+   "В. Н. Бондаренко",
+   "V. D. Pokhodenko"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2008-06-23",
+  "year": 2008,
+  "doi": "10.1016/j.jfluchem.2008.06.010",
+  "url": "https://doi.org/10.1016/j.jfluchem.2008.06.010",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Academy of Sciences of Ukraine",
+   "L.V. Pisarzhevskii Institute of Physical Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "23f8aa16d48acf99",
+  "title": "Platinum–tin complexes as catalysts for the anodic oxidation of borohydride",
+  "authors": [
+   "Rima Tarozaitë",
+   "Loreta Tamašauskaitė-Tamašiūnaitė",
+   "Vitalija Jasulaitienė"
+  ],
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2008-06-23",
+  "year": 2008,
+  "doi": "10.1007/s10008-008-0606-3",
+  "url": "https://doi.org/10.1007/s10008-008-0606-3",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute of Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "eb28e3d719293292",
   "title": "Modern Strategies in Electroorganic Synthesis",
   "authors": [
@@ -29,6 +85,57 @@
   "added": "2026-07-30"
  },
  {
+  "id": "b4740063beeb4069",
+  "title": "Kinetic parameters for anodic oxidation of hypochlorite ion on Pt and Pt oxide electrodes in alkaline solution",
+  "authors": [
+   "Fumihiro Kodera",
+   "Minoru Umeda",
+   "Akifumi Yamada"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2008-06-18",
+  "year": 2008,
+  "doi": "10.1016/j.electacta.2008.06.009",
+  "url": "https://doi.org/10.1016/j.electacta.2008.06.009",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nagaoka University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5e74e7e33fbf5f44",
+  "title": "The Influence of Aspergillus niger Tiegh. on the Electrochemical Characterisation of a Polyaniline Modified Ni Electrode",
+  "authors": [
+   "Author"
+  ],
+  "journal": "Materials Science",
+  "publisher": "Kaunas University of Technology",
+  "published": "2008-06-12",
+  "year": 2008,
+  "doi": "10.5755/j02.ms.26245",
+  "url": "https://doi.org/10.5755/j02.ms.26245",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "865e23a885b9ea3d",
   "title": "Regioselective Electrochemical Monofluorination of α-Sulfonyl Sulfides",
   "authors": [
@@ -51,6 +158,95 @@
   ],
   "relevance_score": 45,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b42994b3fdc1b087",
+  "title": "ChemInform Abstract: The Effect of Substituents and Operating Conditions on the Electrochemical Fluorination of Alkyl Phenylacetates in Et 3 N×4HF Medium.",
+  "authors": [
+   "N. Ilayaraja",
+   "Arumugam Manivel",
+   "D. Velayutham",
+   "M. Noel"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2008-06-05",
+  "year": 2008,
+  "doi": "10.1002/chin.200827092",
+  "url": "https://doi.org/10.1002/chin.200827092",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Central Electrochemical Research Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0276a4a06ab92e48",
+  "title": "A Kinetic Model Enabling Controlled Electrosynthesis of Stacked Metallic Nanotubes and Nanowires",
+  "authors": [
+   "Laëtitia Philippe",
+   "Johann Michler"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2008-06-05",
+  "year": 2008,
+  "doi": "10.1002/smll.200800103",
+  "url": "https://doi.org/10.1002/smll.200800103",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Swiss Federal Laboratories for Materials Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ac5c366a97e6c83d",
+  "title": "Electrochemical synthesis and study of coordination compounds part 1: tin(II) catechol complexes",
+  "authors": [
+   "Mahdi Hesari",
+   "Davood Nematollahi",
+   "Lida Fotouhi"
+  ],
+  "journal": "Journal of Coordination Chemistry",
+  "publisher": "Taylor & Francis",
+  "published": "2008-06-04",
+  "year": 2008,
+  "doi": "10.1080/00958970701747012",
+  "url": "https://doi.org/10.1080/00958970701747012",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrochemical Synthesis",
+   "Glassy Carbon",
+   "Redox Potential",
+   "Sacrificial Anode",
+   "Undivided Cell"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "Bu-Ali Sina University",
+   "Alzahra University"
+  ],
   "added": "2026-07-30"
  },
  {
@@ -83,6 +279,92 @@
    "École Normale Supérieure - PSL",
    "Sorbonne Université",
    "Processus d'Activation Sélective par Transfert d'Énergie Uni-électronique ou Radiatif"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "600378b674178a77",
+  "title": "Anode oxidation Ce (III) &#x2192; Ce (IV) on carbon fibrous electrodes - a way of an intensification of indirect electrochemical destruction of toxic organic substances",
+  "authors": [
+   "V. K. Varentsov",
+   "Valentine I. Varentsova"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2008-06-01",
+  "year": 2008,
+  "doi": "10.1109/ifost.2008.4602843",
+  "url": "https://doi.org/10.1109/ifost.2008.4602843",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Indirect Electrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Novosibirsk State Technical University",
+   "Institute of Solid State Chemistry and Mechanochemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "480aabda7833c932",
+  "title": "Electrolytic and Plasma-electrolytic Anodic Oxidation - Complementary Techniques for Surface Treatment of Aluminium",
+  "authors": [
+   "Thomas Lampke",
+   "B. Wielage",
+   "G. Alisch",
+   "Dominik Nickel",
+   "D. Dietrich"
+  ],
+  "journal": "한국표면공학회 학술발표회 초록집",
+  "publisher": "",
+  "published": "2008-06-01",
+  "year": 2008,
+  "doi": "",
+  "url": "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01088419",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolytic"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4034758dd7937a75",
+  "title": "PbO2-TiO2 composites: Electrosynthesis and physicochemical properties",
+  "authors": [
+   "А. Б. Величенко",
+   "V. A. Knysh",
+   "T. V. Luk’yanenko",
+   "D. Devilly",
+   "Ф. И. Данилов"
+  ],
+  "journal": "Russian Journal of Applied Chemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2008-06-01",
+  "year": 2008,
+  "doi": "10.1134/s107042720806013x",
+  "url": "https://doi.org/10.1134/s107042720806013x",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Sorbonne Université",
+   "Ukrainian State University of Chemical Technology"
   ],
   "added": "2026-07-30"
  }
