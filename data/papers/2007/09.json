@@ -1,5 +1,149 @@
 [
  {
+  "id": "e699a227a28e875d",
+  "title": "Cathodic Electrosynthesis of Manganese Dioxide Films",
+  "authors": [
+   "Janice Wei",
+   "Igor Zhitomirsky"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2007-09-28",
+  "year": 2007,
+  "doi": "10.1149/ma2007-02/28/1399",
+  "url": "https://doi.org/10.1149/ma2007-02/28/1399",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "McMaster University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a47aec431de6d6ce",
+  "title": "Intensification of Rate of Diffusion Controlled Reactions in a Parallel Plate Electrochemical Reactor Stirred by a Curtain of Electrochemically Generated Gas Bubbles",
+  "authors": [
+   "G.H. Sedahmed",
+   "I. Nirdosh"
+  ],
+  "journal": "Chemical Engineering & Technology",
+  "publisher": "Wiley",
+  "published": "2007-09-28",
+  "year": 2007,
+  "doi": "10.1002/ceat.200700158",
+  "url": "https://doi.org/10.1002/ceat.200700158",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Electrogenerated Species"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Alexandria University",
+   "Lakehead University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6ce8a34ed182f87f",
+  "title": "Consideration of Curvature and Stress for the Anodic Oxidation of Tantalum",
+  "authors": [
+   "Jennifer D. Sloppy",
+   "Digby D. Macdonald",
+   "Elizabeth C. Dickey",
+   "Matthew J. Olszta"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2007-09-28",
+  "year": 2007,
+  "doi": "10.1149/ma2007-02/1/49",
+  "url": "https://doi.org/10.1149/ma2007-02/1/49",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Pennsylvania State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6abda4bf067328a2",
+  "title": "Anodic Oxidation of Various Carbon Materials in Aqueous Solution",
+  "authors": [
+   "Atsushi Mineshige",
+   "Teppei Ohtani",
+   "Masafumi Kobune",
+   "Tetsuo Yazawa"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2007-09-28",
+  "year": 2007,
+  "doi": "10.1149/ma2007-02/31/1491",
+  "url": "https://doi.org/10.1149/ma2007-02/31/1491",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Hyogo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "69d18bc40c928ab3",
+  "title": "Synthesis of Methyl Aziridine-2-Chloro-2-Carboxyletes through Electroreductive Cross Coupling of Methyl Trichloroacetate with Aromatic Imines",
+  "authors": [
+   "Ikuzo Nishiguchi",
+   "Pravin Kendrekar",
+   "Hirofumi Maekawa"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2007-09-28",
+  "year": 2007,
+  "doi": "10.1149/1.2790394",
+  "url": "https://doi.org/10.1149/1.2790394",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electroreductive",
+   "Supporting Electrolyte",
+   "Undivided Cell"
+  ],
+  "relevance_score": 80,
+  "affiliations": [
+   "Nagaoka University",
+   "Nagaoka University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "42e87d8bb73d4ba2",
   "title": "Paired Electrosynthesis Using the Concept of Site Isolation",
   "authors": [
@@ -23,6 +167,337 @@
   "relevance_score": 40,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0772b72e3526fa18",
+  "title": "Electro-oxidation of Biginelli Dihydropyrimidones",
+  "authors": [
+   "Juan Manuel Aceves-Hernández",
+   "René Miranda",
+   "C. Oliver Kappe"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2007-09-28",
+  "year": 2007,
+  "doi": "10.1149/1.2789269",
+  "url": "https://doi.org/10.1149/1.2789269",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Controlled Potential",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Heterocycles",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Universidad de Cuautitlán Izcalli",
+   "University of Graz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "978f9f4baf04fb61",
+  "title": "Electroorganic Synthesis in Oil-in-Water Nanoemulsion: TEMPO-Mediated Electrooxidation of Amphiphilic Alcohols in Water",
+  "authors": [
+   "Hideo Tanaka",
+   "Tomonori Yoshida",
+   "Manabu Kuroboshi",
+   "Jun Oshitani",
+   "Kuniaki Gotoh"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2007-09-25",
+  "year": 2007,
+  "doi": "10.1055/s-2007-991070",
+  "url": "https://doi.org/10.1055/s-2007-991070",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electroorganic",
+   "TEMPO"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b01cae0dcacf4352",
+  "title": "On the σ-dimerization of N,N-dimethyl-p-toluidine during anodic oxidation—A reinvestigation",
+  "authors": [
+   "Armin Rasche",
+   "Jürgen Heınze"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2007-09-19",
+  "year": 2007,
+  "doi": "10.1016/j.electacta.2007.09.020",
+  "url": "https://doi.org/10.1016/j.electacta.2007.09.020",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "de4915ec79013c4b",
+  "title": "Thermodynamic Aspects of Equilibrium Ozone Generation",
+  "authors": [
+   "J. Ozonek",
+   "S. Fijałkowski",
+   "J. Czerwiński"
+  ],
+  "journal": "Plasma Processes and Polymers",
+  "publisher": "Wiley",
+  "published": "2007-09-18",
+  "year": 2007,
+  "doi": "10.1002/ppap.200700024",
+  "url": "https://doi.org/10.1002/ppap.200700024",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Institute of Environmental Protection",
+   "Lublin University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "83fee7bfcb785951",
+  "title": "Patterning surface oxide nanostructures using atomic force microscope local anodic oxidation",
+  "authors": [
+   "Tae Young Kim",
+   "E. Di Zitti",
+   "D. Ricci",
+   "Silvano Cincotti"
+  ],
+  "journal": "Physica E Low-dimensional Systems and Nanostructures",
+  "publisher": "Elsevier BV",
+  "published": "2007-09-18",
+  "year": 2007,
+  "doi": "10.1016/j.physe.2007.08.085",
+  "url": "https://doi.org/10.1016/j.physe.2007.08.085",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Genoa",
+   "Italian Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "07110859e9304d7e",
+  "title": "Functional Enhancement of Metal-Semiconductor-Metal (MSM) Infrared Photodetectors on Heteroepitaxial SiGe-on-Si Using the Anodic Oxidation/Passivation Method",
+  "authors": [
+   "Ricky W. Chuang",
+   "Zhen-Liang Liao",
+   "Huai-Tzu Chiang",
+   "Noritaka Usami"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2007-09-18",
+  "year": 2007,
+  "doi": "10.7567/ssdm.2007.e-6-3",
+  "url": "https://doi.org/10.7567/ssdm.2007.e-6-3",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0c450a7c933c7345",
+  "title": "Electrochemical Aerobic Oxidation of Aminocyclopropanes to Endoperoxides",
+  "authors": [
+   "Claire Madelaine",
+   "Y. Six",
+   "Olivier Buriez"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2007-09-17",
+  "year": 2007,
+  "doi": "10.1002/anie.200702903",
+  "url": "https://doi.org/10.1002/anie.200702903",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut de Chimie des Substances Naturelles",
+   "École Normale Supérieure - PSL",
+   "Sorbonne Université",
+   "Processus d'Activation Sélective par Transfert d'Énergie Uni-électronique ou Radiatif"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7dc24f1b1a1ffe15",
+  "title": "The Reaction Mechanism of p ‐Toluenediamine Anodic Oxidation: An In Situ ESR‐UV/Vis/NIR Spectroelectrochemical Study",
+  "authors": [
+   "A. Goux",
+   "D. S. Pratt",
+   "Lothar Dunsch"
+  ],
+  "journal": "ChemPhysChem",
+  "publisher": "Wiley",
+  "published": "2007-09-13",
+  "year": 2007,
+  "doi": "10.1002/cphc.200700235",
+  "url": "https://doi.org/10.1002/cphc.200700235",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Mechanism",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Leibniz Institute for Solid State and Materials Research",
+   "Kao Corporation (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "494fbf8427a1f0ef",
+  "title": "Electrochemical synthesis of peroxomonophosphate using boron-doped diamond anodes",
+  "authors": [
+   "Elsa Weiss-Hortala",
+   "Cristina Sáez",
+   "K. Groenen-Serrano",
+   "Pablo Cañizares",
+   "A. Savall",
+   "Manuel A. Rodrigo"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2007-09-11",
+  "year": 2007,
+  "doi": "10.1007/s10800-007-9405-2",
+  "url": "https://doi.org/10.1007/s10800-007-9405-2",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "BDD Electrode",
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Toulouse III - Paul Sabatier",
+   "Laboratoire de Génie Chimique",
+   "University of Castilla-La Mancha"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "94f4d4902c1c5e42",
+  "title": "A study of the transient current during the formation of titanium oxide nanodots by AFM anodic oxidation",
+  "authors": [
+   "Tae Young Kim",
+   "D. Ricci",
+   "E. Di Zitti",
+   "Silvano Cincotti"
+  ],
+  "journal": "Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2007-09-04",
+  "year": 2007,
+  "doi": "10.1016/j.susc.2007.08.017",
+  "url": "https://doi.org/10.1016/j.susc.2007.08.017",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Genoa",
+   "Italian Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a17d9e21042fae39",
+  "title": "Characteristics of Electrolysis, Ozonation, and their Combination Process on Treatment of Municipal Wastewater",
+  "authors": [
+   "Naoyuki Kishimoto",
+   "Yukako Morita",
+   "Hiroshi Tsuno",
+   "Yuuji Yasuda"
+  ],
+  "journal": "Water Environment Research",
+  "publisher": "Wiley",
+  "published": "2007-09-01",
+  "year": 2007,
+  "doi": "10.2175/106143007x184023",
+  "url": "https://doi.org/10.2175/106143007x184023",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Ryukoku University",
+   "Kubota (Japan)",
+   "Kyoto University",
+   "Mitsubishi Heavy Industries (Japan)"
   ],
   "added": "2026-07-30"
  },
