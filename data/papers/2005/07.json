@@ -1,5 +1,384 @@
 [
  {
+  "id": "98814c61683b8184",
+  "title": "Investigations Concerning the Electrochemical Formation of Di‐ and Polysilanes",
+  "authors": [
+   "Susanne Graschy",
+   "Christa Jammegg",
+   "Edwin Hengge"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2005-07-26",
+  "year": 2005,
+  "doi": "10.1002/9783527620777.ch12a",
+  "url": "https://doi.org/10.1002/9783527620777.ch12a",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electroreductive"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Graz University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7bf062b096d61a43",
+  "title": "Electroreductive Formation of Di‐ and Polysilanes",
+  "authors": [
+   "E. Hengge",
+   "Ch. Jammegg"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2005-07-26",
+  "year": 2005,
+  "doi": "10.1002/9783527620777.ch5",
+  "url": "https://doi.org/10.1002/9783527620777.ch5",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 44,
+  "affiliations": [
+   "Graz University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7bdddc1a249eefc1",
+  "title": "Silicon Carbide and Carbonitride Precursors Via the Silicon‐Silicon Bond Formation: Chemical and Electrochemical New Perspectives",
+  "authors": [
+   "Michel Bordeau",
+   "Claude Biran",
+   "Françoise Spirau",
+   "Jean-Paul Pillot",
+   "Marc Birot",
+   "J. DUNOGUÈS"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2005-07-26",
+  "year": 2005,
+  "doi": "10.1002/9783527620777.ch86a",
+  "url": "https://doi.org/10.1002/9783527620777.ch86a",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Sacrificial Anode",
+   "Undivided Cell"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Laboratoire de Chimie Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "17cc025231f7ad2c",
+  "title": "Electrochemical Formation of Silicon‐Carbon Bonds",
+  "authors": [
+   "Helmut Fallmann",
+   "Christa Grogger"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2005-07-26",
+  "year": 2005,
+  "doi": "10.1002/9783527620777.ch37c",
+  "url": "https://doi.org/10.1002/9783527620777.ch37c",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Galvanostatic",
+   "Undivided Cell"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Graz University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4b2be44db70a2cc6",
+  "title": "A new method of ion chromatography technology for speedy determination and analysis in organic electrosynthesis of glyoxylic acid",
+  "authors": [
+   "Sheng-Pei Chen",
+   "Tao Huang",
+   "Shi-Gang Sun"
+  ],
+  "journal": "Journal of Chromatography A",
+  "publisher": "Elsevier BV",
+  "published": "2005-07-23",
+  "year": 2005,
+  "doi": "10.1016/j.chroma.2005.06.076",
+  "url": "https://doi.org/10.1016/j.chroma.2005.06.076",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Xiamen University",
+   "Collaborative Innovation Center of Chemistry for Energy Materials"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "df66dbb6833730f1",
+  "title": "Electrochemical bromination of cholest-5-enes",
+  "authors": [
+   "Smiljka Milisavljevic",
+   "Κ. Wurst",
+   "G. Laus",
+   "Mirjana Vukićević",
+   "Rstko D. Vukicevic"
+  ],
+  "journal": "Steroids",
+  "publisher": "Elsevier BV",
+  "published": "2005-07-22",
+  "year": 2005,
+  "doi": "10.1016/j.steroids.2005.06.002",
+  "url": "https://doi.org/10.1016/j.steroids.2005.06.002",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Halogenation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Prishtina",
+   "Universität Innsbruck",
+   "University of Kragujevac"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d41515990a4f1093",
+  "title": "Electrooxidative Conversion of Dibenzoylbenzene Dihydrazones into the Corresponding Bis-diazo Compounds and Bis-dimethyl Acetals",
+  "authors": [
+   "Mitsuhiro Okimoto",
+   "Kaori Numata",
+   "Kenta Tomozawa",
+   "Takamasa Shigemoto",
+   "Masayuki Hoshi",
+   "Yukio Takahashi"
+  ],
+  "journal": "Australian Journal of Chemistry",
+  "publisher": "CSIRO Publishing",
+  "published": "2005-07-21",
+  "year": 2005,
+  "doi": "10.1071/ch05090",
+  "url": "https://doi.org/10.1071/ch05090",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrooxidative"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Kitami Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "10746412921a3532",
+  "title": "Electrosyntheses of high‐quality poly(5‐nitroindole) films in boron trifluoride diethyl etherate containing additional diethyl ether",
+  "authors": [
+   "Jingkun Xu",
+   "Weiqiang Zhou",
+   "Jian Hou",
+   "Shouzhi Pu",
+   "Liushui Yan",
+   "Jingwu Wang"
+  ],
+  "journal": "Journal of Polymer Science Part A Polymer Chemistry",
+  "publisher": "Wiley",
+  "published": "2005-07-20",
+  "year": 2005,
+  "doi": "10.1002/pola.20893",
+  "url": "https://doi.org/10.1002/pola.20893",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Jiangxi Science and Technology Normal University",
+   "Nanchang University",
+   "Jiangxi University of Water Resources and Electric Power"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3db8351bce83b573",
+  "title": "Optimization of anodic oxidation and Cu–Cr oxide catalyst preparation on structured aluminum plates processed by electro discharge machining",
+  "authors": [
+   "И.З. Исмагилов",
+   "Rahul Ekatpure",
+   "L. T. Tsykoza",
+   "Е.В. Матус",
+   "Evgeny V. Rebrov",
+   "M.H.J.M. de Croon",
+   "М. А. Керженцев",
+   "J.C. Schouten"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2005-07-19",
+  "year": 2005,
+  "doi": "10.1016/j.cattod.2005.06.053",
+  "url": "https://doi.org/10.1016/j.cattod.2005.06.053",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Boreskov Institute of Catalysis",
+   "Siberian Branch of the Russian Academy of Sciences",
+   "Eindhoven University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2a6ab66371b27fd1",
+  "title": "Anodic Oxidation",
+  "authors": [],
+  "journal": "Van Nostrand's Encyclopedia of Chemistry",
+  "publisher": "",
+  "published": "2005-07-15",
+  "year": 2005,
+  "doi": "10.1002/0471740039.vec0215",
+  "url": "https://doi.org/10.1002/0471740039.vec0215",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8312d4c90bf4e5c1",
+  "title": "Electrochemical study of the anodic oxidation of terpinenes at the electrode and by homogeneous redox catalysis",
+  "authors": [
+   "Nasr Ben Salah",
+   "F. Matoussi"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-07-13",
+  "year": 2005,
+  "doi": "10.1016/j.jelechem.2004.08.025",
+  "url": "https://doi.org/10.1016/j.jelechem.2004.08.025",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Monastir"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "99b67b1c91b83b44",
+  "title": "Reaction of enamines and mediated anodic oxidation of carbohydrates with the 2,2,6,6-tetramethylpiperidine-1-oxoammonium ion (TEMPO+)",
+  "authors": [
+   "Matthias Schämann",
+   "H. Schäfer"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2005-07-07",
+  "year": 2005,
+  "doi": "10.1016/j.electacta.2005.02.077",
+  "url": "https://doi.org/10.1016/j.electacta.2005.02.077",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "TEMPO"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8661adf72eae3e52",
+  "title": "Electrochemical reduction of polyhalogenated aryl derivatives in the presence of pinacolborane: Electrosynthesis of functionalised arylboronic esters",
+  "authors": [
+   "Carine Laza",
+   "Christine Pintaric",
+   "Sandra Olivero",
+   "Élisabet Duñach"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2005-07-07",
+  "year": 2005,
+  "doi": "10.1016/j.electacta.2004.12.049",
+  "url": "https://doi.org/10.1016/j.electacta.2004.12.049",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Université Côte d'Azur",
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Chimie"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "91648944463a7e29",
   "title": "Oxidative Cyclization Reactions: Amide Trapping Groups and the Synthesis of Furanones",
   "authors": [
@@ -26,6 +405,92 @@
   "relevance_score": 57,
   "affiliations": [
    "Washington University in St. Louis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1f497b46a687096e",
+  "title": "Electrocatalytic oxygen reduction on glassy carbon grafted with anthraquinone by anodic oxidation of a carboxylate substituent",
+  "authors": [
+   "Katri Vaik",
+   "Uno Mäeorg",
+   "Fernando C. Maschion",
+   "Gilberto Maia",
+   "David J. Schiffrin",
+   "Kaido Tammeveski"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2005-07-06",
+  "year": 2005,
+  "doi": "10.1016/j.electacta.2005.01.056",
+  "url": "https://doi.org/10.1016/j.electacta.2005.01.056",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Tartu",
+   "Universidade Federal de Mato Grosso do Sul",
+   "University of Liverpool"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d201780e1b543b24",
+  "title": "Effect of Disilane Additives on the Electroreductive Polymerization of Organodichlorosilanes",
+  "authors": [
+   "Manabu Ishifune",
+   "Yasumichi Kogai",
+   "Kumao Uchida"
+  ],
+  "journal": "Journal of Macromolecular Science Part A",
+  "publisher": "Taylor & Francis",
+  "published": "2005-07-01",
+  "year": 2005,
+  "doi": "10.1081/ma-200063173",
+  "url": "https://doi.org/10.1081/ma-200063173",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Kindai University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b34ef0ebdda80c21",
+  "title": "Electroreduction of Organic Compounds, 35. Quantum Chemical Calculations of Reaction Pathways for the Cathodic Dehalogenation of Chlorodibenzofurans and Oligochlorobenzenes",
+  "authors": [
+   "D. Golinske",
+   "Jürgen Voß"
+  ],
+  "journal": "Zeitschrift für Naturforschung B",
+  "publisher": "De Gruyter",
+  "published": "2005-07-01",
+  "year": 2005,
+  "doi": "10.1515/znb-2005-0714",
+  "url": "https://doi.org/10.1515/znb-2005-0714",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Regioselectivity"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Universität Hamburg"
   ],
   "added": "2026-07-30"
  }

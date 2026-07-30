@@ -1,5 +1,65 @@
 [
  {
+  "id": "e17bea228796a5f8",
+  "title": "Evaluation of boron doped diamond electrodes for organic electrosynthesis on a preparative scale⋆",
+  "authors": [
+   "Ulrich Griesbach",
+   "Daniel Zollinger",
+   "Hermann Pütter",
+   "Christos Comninellis"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2005-09-28",
+  "year": 2005,
+  "doi": "10.1007/s10800-005-9038-2",
+  "url": "https://doi.org/10.1007/s10800-005-9038-2",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "BASF (Germany)",
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "786e51b084185e3f",
+  "title": "Electrochemical synthesis of symmetrical difunctional disilanes as precursors for organofunctional silanes",
+  "authors": [
+   "Christa Grogger",
+   "Bernhard Loidl",
+   "Harald Stueger",
+   "Thomas Kammel",
+   "Bernd Pachaly"
+  ],
+  "journal": "Journal of Organometallic Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-09-28",
+  "year": 2005,
+  "doi": "10.1016/j.jorganchem.2005.08.016",
+  "url": "https://doi.org/10.1016/j.jorganchem.2005.08.016",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Graz University of Technology",
+   "Wacker (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "d4ad92b4202975e6",
   "title": "Electroreductive Radical Cyclization of Ethyl 2‐Bromo‐3‐allyloxy‐ and‐3‐(propargyloxy)propanoates Catalyzed by (Tetramethylcyclam)nickel( I ) Electrogenerated at Carbon Cathodes in Dimethylformamide",
   "authors": [
@@ -62,6 +122,122 @@
   "added": "2026-07-30"
  },
  {
+  "id": "f4c88d5e43c924a6",
+  "title": "Production of Acetic Acid From Ethanol by Electrolysis (Electrosynthesis)",
+  "authors": [
+   "Riyanto Riyanto"
+  ],
+  "journal": "Jurnal Fakultas Hukum UII",
+  "publisher": "",
+  "published": "2005-09-20",
+  "year": 2005,
+  "doi": "10.20885/.v10i3.209",
+  "url": "https://doi.org/10.20885/.v10i3.209",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bc9129b5365a0d0b",
+  "title": "A simple electrosynthesis route for preparation of nanocrystalline titanium sulphide film",
+  "authors": [
+   "C.D. Lokhande",
+   "Sun-Ki Min",
+   "Kwang-Deog Jung",
+   "Oh-Shim Joo"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "2005-09-16",
+  "year": 2005,
+  "doi": "10.1007/s10853-005-4565-0",
+  "url": "https://doi.org/10.1007/s10853-005-4565-0",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Korea Institute of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "06b2ec9b3a069f32",
+  "title": "Electrochemical incineration of chloromethylphenoxy herbicides in acid medium by anodic oxidation with boron-doped diamond electrode",
+  "authors": [
+   "Birame Boye",
+   "Enric Brillas",
+   "Béatrice Marselli",
+   "Pierre-Alain Michaud",
+   "Christos Comninellis",
+   "Giuseppe Farnia",
+   "Giancarlo Sandonà"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2005-09-15",
+  "year": 2005,
+  "doi": "10.1016/j.electacta.2005.08.019",
+  "url": "https://doi.org/10.1016/j.electacta.2005.08.019",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "BDD Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Universitat de Barcelona",
+   "École Polytechnique Fédérale de Lausanne",
+   "University of Padua"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "02a2ff131920d47a",
+  "title": "Anodic oxidation of Co(II) complexes with amines on a rotating Au electrode: Ligand effects in relation to the application for autocatalytic metal deposition",
+  "authors": [
+   "A. Vaškelis",
+   "Aldona Jagminienė",
+   "Ina Stankevičienė"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2005-09-15",
+  "year": 2005,
+  "doi": "10.1016/j.electacta.2005.03.082",
+  "url": "https://doi.org/10.1016/j.electacta.2005.03.082",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute of Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "f0cb2fe136c225ca",
   "title": "Intramolecular Participation in Alkoxycarbenium Ion Pools",
   "authors": [
@@ -85,6 +261,241 @@
   "relevance_score": 42,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "44f1e4a7781c8eb2",
+  "title": "Cathodic Reduction of Bisulfite and Sulfur Dioxide in Aqueous Solutions on Copper Electrodes: An Electrochemical ESR Study",
+  "authors": [
+   "Ian Streeter",
+   "Andrew J. Wain",
+   "James Davis",
+   "Richard G. Compton"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2005-09-08",
+  "year": 2005,
+  "doi": "10.1021/jp058119n",
+  "url": "https://doi.org/10.1021/jp058119n",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Cyclic Voltammetry",
+   "Radical Anion",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Oxford",
+   "Nottingham Trent University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d6ffb588eaa75f83",
+  "title": "Electrochemical synthesis of new catechol derivatives",
+  "authors": [
+   "Davood Nematollahi",
+   "Mohammad Alimoradi",
+   "S. Waqif Husain"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2005-09-07",
+  "year": 2005,
+  "doi": "10.1016/j.electacta.2005.07.048",
+  "url": "https://doi.org/10.1016/j.electacta.2005.07.048",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Bu-Ali Sina University",
+   "Islamic Azad University, Science and Research Branch"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6ebb27917683f4ec",
+  "title": "Cathodic reduction of acids in dimethylformamide on platinum",
+  "authors": [
+   "Stefan S. Kurek",
+   "Barbara Laskowska",
+   "Andrzej Stokłosa"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2005-09-07",
+  "year": 2005,
+  "doi": "10.1016/j.electacta.2005.04.085",
+  "url": "https://doi.org/10.1016/j.electacta.2005.04.085",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Cracow University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "823a808abad96d82",
+  "title": "Anodic oxidation of titanium in solution containing Ca and P : Morphology of calcium phosphate deposited electrochemically",
+  "authors": [
+   "Shinpei Okawa",
+   "S Nakano",
+   "M. Kanatani",
+   "Kimitaka Watanabe",
+   "O Miyakawa"
+  ],
+  "journal": "Medical Entomology and Zoology",
+  "publisher": "Japan Society of Medical Entomology and Zoology",
+  "published": "2005-09-05",
+  "year": 2005,
+  "doi": "",
+  "url": "http://ci.nii.ac.jp/naid/110004049862/en",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "da18acb17d030f1c",
+  "title": "Preparation and photoelectrochemical characterisation of electrosynthesised titanium dioxide deposits on stainless steel substrates",
+  "authors": [
+   "J. Georgieva",
+   "S. Armyanov",
+   "E. Valova",
+   "Ioannis Poulios",
+   "S. Sotiropoulos"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2005-09-03",
+  "year": 2005,
+  "doi": "10.1016/j.electacta.2005.07.017",
+  "url": "https://doi.org/10.1016/j.electacta.2005.07.017",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Bulgarian Academy of Sciences",
+   "Institute of Physical Chemistry",
+   "Aristotle University of Thessaloniki"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c48f07924d943f17",
+  "title": "Electrosynthesis and Characterization of Composite Polypyrrole-Dextran-Sulfite Oxidase Films",
+  "authors": [
+   "Samuel B. Adeloju",
+   "Anita Ohanessian",
+   "Nguyen N. Duc"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "2005-09-01",
+  "year": 2005,
+  "doi": "10.1016/j.synthmet.2005.07.226",
+  "url": "https://doi.org/10.1016/j.synthmet.2005.07.226",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Monash University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "272f65604d8f28d2",
+  "title": "Electrosynthesis and properties of poly(3,4-ethylenedioxythiophene) films functionalized with titanocene dichloride complex",
+  "authors": [
+   "Magdalena Skompska",
+   "Mikhail A. Vorotyntsev",
+   "Monika Refczyńska",
+   "Jérôme Goux",
+   "Éric Lesniewska",
+   "Gilles Boni",
+   "Claude Moise"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2005-09-01",
+  "year": 2005,
+  "doi": "10.1016/j.electacta.2005.01.066",
+  "url": "https://doi.org/10.1016/j.electacta.2005.01.066",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Warsaw",
+   "Centre National de la Recherche Scientifique",
+   "Université de Bourgogne",
+   "Institut des Sciences de la Terre"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "095c73b5739754d9",
+  "title": "Electrocarboxylation of Carbon Tetrachloride in Dimethylformamide with Use of a Soluble Zinc Anode",
+  "authors": [
+   "V. L. Sigacheva",
+   "В. А. Фроловский",
+   "V. A. Petrosyan"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2005-09-01",
+  "year": 2005,
+  "doi": "10.1007/s11175-005-0170-4",
+  "url": "https://doi.org/10.1007/s11175-005-0170-4",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "N.D. Zelinsky Institute of Organic Chemistry"
   ],
   "added": "2026-07-30"
  }

@@ -1,5 +1,329 @@
 [
  {
+  "id": "88b978e442f85a47",
+  "title": "Synthesis and Aqueous Chemistry of α-Acetoxy- N -nitrosomorpholine: Reactive Intermediates and Products",
+  "authors": [
+   "Charles N. Zink",
+   "Hyun-Joong Kim",
+   "James C. Fishbein"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2005-11-30",
+  "year": 2005,
+  "doi": "10.1021/jo051936z",
+  "url": "https://doi.org/10.1021/jo051936z",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Maryland, Baltimore County"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8178c045f419d143",
+  "title": "Mixed Effect of the Supporting Electrolyte and the Zinc Anode in the Electrochemical Homocoupling of 2-Bromopyridines Catalyzed by Nickel Complexes in an Undivided Cell",
+  "authors": [
+   "Kelnner W. R. de França",
+   "Jadson de Lira Oliveira",
+   "Tupolevck Florêncio",
+   "Aderivaldo P. da Silva",
+   "Marcelo Navarro",
+   "Éric Léonel",
+   "Jean-Yves Nédélec"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2005-11-30",
+  "year": 2005,
+  "doi": "10.1021/jo0517491",
+  "url": "https://doi.org/10.1021/jo0517491",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Cathodic Reduction",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Ni Catalysis",
+   "Sacrificial Anode",
+   "Supporting Electrolyte",
+   "Undivided Cell"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Est Créteil",
+   "Universidade Federal de Pernambuco"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "73ae530b1f7fe8c3",
+  "title": "Evidence of material mixing during local anodic oxidation nanolithography",
+  "authors": [
+   "G. Mori",
+   "Marco Lazzarino",
+   "Daniele Ercolani",
+   "G. Biasiol",
+   "Lucia Sorba",
+   "Stefan Heun",
+   "Andrea Locatelli"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2005-11-30",
+  "year": 2005,
+  "doi": "10.1063/1.2136212",
+  "url": "https://doi.org/10.1063/1.2136212",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tecnologie Avanzate (Italy)",
+   "Istituto Nazionale per la Fisica della Materia",
+   "Elettra-Sincrotrone Trieste S.C.p.A."
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8ad430b8bdeced1b",
+  "title": "Investigation by EQCM of the electrosynthesis and the properties of polypyrrole films doped with sulphate ions and/or a Keggin-type heteropolyanion, SiMo12O404−",
+  "authors": [
+   "Catherine Debiemme-Chouvy",
+   "H. Cachet",
+   "C. Deslouis"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2005-11-29",
+  "year": 2005,
+  "doi": "10.1016/j.electacta.2005.10.016",
+  "url": "https://doi.org/10.1016/j.electacta.2005.10.016",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Sorbonne Université",
+   "Laboratoire Interfaces et Systèmes Électrochimiques"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9f78aa23a467a072",
+  "title": "Clinical evaluation of dental implants with surfaces roughened by anodic oxidation, dual acid-etched implants, and machined implants.",
+  "authors": [
+   "Alexandre-Amir Aalam",
+   "Hessam Nowzari"
+  ],
+  "journal": "PubMed",
+  "publisher": "National Institutes of Health",
+  "published": "2005-11-28",
+  "year": 2005,
+  "doi": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16274156",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Southern California"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "87c63f33f9b5c097",
+  "title": "Electrosynthesis of nanocrystalline cerium oxide/layered silicate powders",
+  "authors": [
+   "Adele Qi Wang",
+   "Nandika Anne D’Souza",
+   "Teresa D. Golden"
+  ],
+  "journal": "Journal of Materials Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2005-11-22",
+  "year": 2005,
+  "doi": "10.1039/b506976a",
+  "url": "https://doi.org/10.1039/b506976a",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of North Texas"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3a044e22bc16e890",
+  "title": "Electrochemical study of 3,4-dihydroxybenzoic acid in the presence of 4-hydroxy-1-methyl-2(1H)-quinolone: Application to electrochemical synthesis of new benzofuran derivative",
+  "authors": [
+   "Abdolmajid Bayandori Moghaddam",
+   "Farzad Kobarfard",
+   "Saied Saeed Hosseiny Davarani",
+   "Davood Nematollahi",
+   "Mojtaba Shamsipur",
+   "Ali Reza Fakhari"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-11-21",
+  "year": 2005,
+  "doi": "10.1016/j.jelechem.2005.10.012",
+  "url": "https://doi.org/10.1016/j.jelechem.2005.10.012",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Shahid Beheshti University",
+   "Shahid Beheshti University of Medical Sciences",
+   "Bu-Ali Sina University",
+   "Razi University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1cb9231b90442cfc",
+  "title": "Cleavage of alkenes by anodic oxidation",
+  "authors": [
+   "U.-St. Bäumer",
+   "H. Schäfer"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2005-11-19",
+  "year": 2005,
+  "doi": "10.1007/s10800-005-9060-4",
+  "url": "https://doi.org/10.1007/s10800-005-9060-4",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Alkenes",
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "443699b9eb19ff7e",
+  "title": "Formation of self-organized titania nano-tubes by dealloying and anodic oxidation",
+  "authors": [
+   "Fathy M. Bayoumi",
+   "Badr G. Ateya"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2005-11-17",
+  "year": 2005,
+  "doi": "10.1016/j.elecom.2005.10.014",
+  "url": "https://doi.org/10.1016/j.elecom.2005.10.014",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Central Metallurgical Research and Development Institute",
+   "Cairo University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "08ef614d01f5614b",
+  "title": "Influence of DMSO on the electroreductive Ru(bpy)(CO)2Cl2 (bpy=2,2′-bipyridine) polymer film formation",
+  "authors": [
+   "Sam Myllynen",
+   "M. Wasberg",
+   "Matti Haukka"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-11-11",
+  "year": 2005,
+  "doi": "10.1016/j.jelechem.2005.10.002",
+  "url": "https://doi.org/10.1016/j.jelechem.2005.10.002",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Åbo Akademi University",
+   "University of Turku"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6cff498afa7fd5b9",
+  "title": "Electrosynthesis of Pharmacologically Interesting New Products Having the Base Structure of 2‐Amino‐2‐p‐nitrophenyl‐1,3‐propanediol",
+  "authors": [
+   "Cécilia Cristea",
+   "Christophe Moinet",
+   "Maria Jitaru"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2005-11-09",
+  "year": 2005,
+  "doi": "10.1002/chin.200549255",
+  "url": "https://doi.org/10.1002/chin.200549255",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Université Rennes 2",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "cb38fe8ad22eea48",
   "title": "Electroreductive radical cyclization of bromo allyloxy and propargyloxy ethyl esters catalyzed by nickel(I) tetramethylcyclam electrogenerated at carbon cathodes in dimethylformamide",
   "authors": [
@@ -27,6 +351,33 @@
   ],
   "relevance_score": 55,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a72f75015b52df05",
+  "title": "Electrosynthesis of pyridines from ‘only acetonitrile’",
+  "authors": [
+   "M. Dolores Otero",
+   "Belén Batanero",
+   "Fructuoso Barba"
+  ],
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "published": "2005-11-03",
+  "year": 2005,
+  "doi": "10.1016/j.tetlet.2005.10.059",
+  "url": "https://doi.org/10.1016/j.tetlet.2005.10.059",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Alcalá"
+  ],
   "added": "2026-07-30"
  }
 ]

@@ -1,5 +1,64 @@
 [
  {
+  "id": "fe32dbc5c9a51f09",
+  "title": "Electrochemical and surface analytical study of the anodic oxidation of Fe–18% Cr steel in molten NaOH–Li2CO3 mixtures",
+  "authors": [
+   "Javor Kolchakov",
+   "Tzvety Tzvetkoff",
+   "Martin Bojinov"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "2005-04-28",
+  "year": 2005,
+  "doi": "10.1016/j.matlet.2005.03.029",
+  "url": "https://doi.org/10.1016/j.matlet.2005.03.029",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Chemical Technology and Metallurgy"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a1b82a26293ecc7f",
+  "title": "Preparation and evaluation of a multi-component catalyst by using a co-sputtering system for anodic oxidation of ethanol",
+  "authors": [
+   "Shohji Tanaka",
+   "Minoru Umeda",
+   "Hiroyuki Ojima",
+   "Yuma Usui",
+   "O. Kimura",
+   "I. Uchida"
+  ],
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "published": "2005-04-28",
+  "year": 2005,
+  "doi": "10.1016/j.jpowsour.2005.01.045",
+  "url": "https://doi.org/10.1016/j.jpowsour.2005.01.045",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Ricoh (Japan)",
+   "Nagaoka University of Technology",
+   "Tohoku University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "0048b49633af0248",
   "title": "“Cation Pool” Method Based on C−C Bond Dissociation. Effective Generation of Monocations and Dications",
   "authors": [
@@ -25,6 +84,212 @@
   "relevance_score": 52,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0c716b7ba114bd52",
+  "title": "Iridium Anodic Oxidation to Ir(III) and Ir(IV) Hydrous Oxides",
+  "authors": [
+   "Jurga Juodkazytė",
+   "Benjaminas Šebeka",
+   "Ignas Valsiūnas",
+   "K. Juodkazis"
+  ],
+  "journal": "Electroanalysis",
+  "publisher": "Wiley",
+  "published": "2005-04-22",
+  "year": 2005,
+  "doi": "10.1002/elan.200403200",
+  "url": "https://doi.org/10.1002/elan.200403200",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Working Electrode"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Institute of Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "45270955a39c70fb",
+  "title": "AOT reverse micelle, a new organized medium for the electrosynthesis of polyaromatic hydrocarbons; application to the electropolymerization of biphenyl",
+  "authors": [
+   "A. Koné",
+   "Mamadou Moustapha Dieng",
+   "Jean-Jacques Aaron",
+   "Mathieu Lazerges",
+   "Mohamed Jouini",
+   "S. Aeiyach",
+   "P.C. Lacaze"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "2005-04-11",
+  "year": 2005,
+  "doi": "10.1016/j.synthmet.2005.01.024",
+  "url": "https://doi.org/10.1016/j.synthmet.2005.01.024",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Laboratoire de Chimie Physique",
+   "Cheikh Anta Diop University",
+   "Centre National de la Recherche Scientifique",
+   "Université Paris Cité",
+   "Interfaces Traitements Organisation et Dynamique des Systèmes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "465e48e473d3d3f9",
+  "title": "Preparation of Titania Nanotubes and Their Environmental Applications as Electrode",
+  "authors": [
+   "Xie Quan",
+   "Shaogui Yang",
+   "Xiuli Ruan",
+   "Huiming Zhao"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "2005-04-07",
+  "year": 2005,
+  "doi": "10.1021/es048684o",
+  "url": "https://doi.org/10.1021/es048684o",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Dalian University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6a9f97e167148f3a",
+  "title": "Electrochemistry Special Issue",
+  "authors": [
+   "Richard John"
+  ],
+  "journal": "Australian Journal of Chemistry",
+  "publisher": "CSIRO Publishing",
+  "published": "2005-04-05",
+  "year": 2005,
+  "doi": "10.1071/ch05068",
+  "url": "https://doi.org/10.1071/ch05068",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "Redox Mediator"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Griffith University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b7348f8eedc38308",
+  "title": "Electrochemical Method for Remediation of Arsenic-Contaminated Nickel Electrorefining Baths",
+  "authors": [
+   "Jenny Weijun Wang",
+   "Dorin Bejan",
+   "Nigel J. Bunce"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2005-04-02",
+  "year": 2005,
+  "doi": "10.1021/ie048769y",
+  "url": "https://doi.org/10.1021/ie048769y",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Guelph"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a9eba164d4cf37cd",
+  "title": "Hydrogen Gas Generation by Splitting Aqueous Water Using n-Type GaN Photoelectrode with Anodic Oxidation",
+  "authors": [
+   "Katsushi Fujii",
+   "T. Karasawa",
+   "Kazuhiro Ohkawa"
+  ],
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "2005-04-01",
+  "year": 2005,
+  "doi": "10.1143/jjap.44.l543",
+  "url": "https://doi.org/10.1143/jjap.44.l543",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Working Electrode"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tokyo University of Science",
+   "Japan Science and Technology Agency"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "050894844be4e8b9",
+  "title": "Electrosynthesis of hafnium diboride from cryolite-alumina melts containing hafnium and boron oxides",
+  "authors": [
+   "Sergei Vladimirovich Devyatkin"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2005-04-01",
+  "year": 2005,
+  "doi": "10.1007/s11175-005-0081-4",
+  "url": "https://doi.org/10.1007/s11175-005-0081-4",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Academy of Sciences of Ukraine"
   ],
   "added": "2026-07-30"
  }
