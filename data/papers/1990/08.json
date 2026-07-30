@@ -1,5 +1,118 @@
 [
  {
+  "id": "fc871efebe40fb7b",
+  "title": "ChemInform Abstract: Electroreductive Ring‐Opening of α,β‐Epoxy Carbonyl Compounds and Their Homologues Through Recyclable Use of Diphenyl Diselenide or Diphenyl Ditelluride as a Mediator.",
+  "authors": [
+   "Tsutomu Inokuchi",
+   "M. KUSUMOTO",
+   "S. TORII"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1990-08-14",
+  "year": 1990,
+  "doi": "10.1002/chin.199033054",
+  "url": "https://doi.org/10.1002/chin.199033054",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ffbb1e1ee0d0dcbb",
+  "title": "Optimisation of the Electrosynthesis of Polythiophene and Polyselenophene Films",
+  "authors": [
+   "C. Chorro",
+   "Bertil Moukala",
+   "Jean-Pierre Lère-Porte",
+   "J. Petrissans"
+  ],
+  "journal": "Molecular Crystals and Liquid Crystals Incorporating Nonlinear Optics",
+  "publisher": "Taylor & Francis",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1080/00268949008036043",
+  "url": "https://doi.org/10.1080/00268949008036043",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Université de Montpellier",
+   "Laboratoire de Chimie"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ed90e629fc3cdc2e",
+  "title": "Electrochemical synthesis of perfluoroalkylchlorides",
+  "authors": [
+   "В. А. Гринберг",
+   "V. F. Cherstkov",
+   "S. R. Sterlin",
+   "Yu. B. Vasil’ev",
+   "Л. С. Герман"
+  ],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1007/bf00961499",
+  "url": "https://doi.org/10.1007/bf00961499",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Frumkin Institute of Physical Chemistry and Electrochemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cb4fed41f9535bae",
+  "title": "Electroorganic chemistry. 124. Electroreductive intramolecular coupling of .alpha.-(.omega.-bromoalkyl) .beta.-keto esters",
+  "authors": [
+   "Tatsuya Shono",
+   "Naoki Kise",
+   "Nobuyuki Uematsu",
+   "Shinji Morimoto",
+   "Eiichi Okazaki"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1021/jo00304a014",
+  "url": "https://doi.org/10.1021/jo00304a014",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroorganic",
+   "Electroreductive"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "961da39091a8085f",
   "title": "Oxidative organic electrochemistry: a novel intramolecular coupling of electron-rich olefins",
   "authors": [
