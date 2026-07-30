@@ -1,5 +1,31 @@
 [
  {
+  "id": "ef32ae62a3ac62d3",
+  "title": "Electrosynthesis of Bromothiophene and Thiophene as Conducting Copolymer and Study of their Electrochemical Relaxation",
+  "authors": [
+   "A. A. EL-MAGHRABY"
+  ],
+  "journal": "International review of physics",
+  "publisher": "",
+  "published": "2018-06-30",
+  "year": 2018,
+  "doi": "10.15866/irephy.v12i1.15796",
+  "url": "https://doi.org/10.15866/irephy.v12i1.15796",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Cairo University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "4b7314551d108bce",
   "title": "Electrochemical Synthesis of (Aza)indolines via Dehydrogenative [3+2] Annulation: Application to Total Synthesis of (±)‐Hinckdentine A",
   "authors": [
@@ -33,6 +59,87 @@
    "Collaborative Innovation Center of Chemistry for Energy Materials",
    "Chinese Academy of Sciences",
    "Fujian Institute of Research on the Structure of Matter"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1d1ab9d4c4f76718",
+  "title": "Recent Advances in TiO2 Nanotube-Based Materials for Photocatalytic Applications Designed by Anodic Oxidation",
+  "authors": [
+   "Phuoc Huu Le",
+   "Jihperng Leu"
+  ],
+  "journal": "InTech eBooks",
+  "publisher": "",
+  "published": "2018-06-27",
+  "year": 2018,
+  "doi": "10.5772/intechopen.77063",
+  "url": "https://doi.org/10.5772/intechopen.77063",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4cbe89409ba80e15",
+  "title": "An electrooxidative technique to fast fabricate copper phosphate electrodes capable of integrating high performance liquid chromatography for the label-free detection of fish freshness",
+  "authors": [
+   "Yu-Han Hsieh",
+   "Ming-Yuan Lee",
+   "Ching-Chou Wu"
+  ],
+  "journal": "Food Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2018-06-26",
+  "year": 2018,
+  "doi": "10.1016/j.foodchem.2018.06.125",
+  "url": "https://doi.org/10.1016/j.foodchem.2018.06.125",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Chung Hsing University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0d069b3e5c5edc64",
+  "title": "Preparation and Characterization of Amine- and Carboxylic Acid-functionalized Superparamagnetic Iron Oxide Nanoparticles Through a One-step Facile Electrosynthesis Method",
+  "authors": [
+   "Mustafa Aghazadeh",
+   "Isa Karimzadeh",
+   "Mohammad Reza Ganjali"
+  ],
+  "journal": "Current Nanoscience",
+  "publisher": "Bentham Science Publishers",
+  "published": "2018-06-22",
+  "year": 2018,
+  "doi": "10.2174/1573413714666180622150216",
+  "url": "https://doi.org/10.2174/1573413714666180622150216",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Atomic Energy Organization of Iran",
+   "Nuclear Science and Technology Research Institute",
+   "Islamic Azad University Central Tehran Branch",
+   "University of Tehran"
   ],
   "added": "2026-07-30"
  },
@@ -77,6 +184,55 @@
   "added": "2026-07-30"
  },
  {
+  "id": "e76772ba9b3d7f00",
+  "title": "Ambient Electrosynthesis of Ammonia: Electrode Porosity and Composition Engineering",
+  "authors": [
+   "Hong Wang",
+   "Lu Wang",
+   "Qiang Wang",
+   "Shuyang Ye",
+   "Wei Sun",
+   "Yue Shao",
+   "Zhiping Jiang",
+   "Qiao Qiao",
+   "Yimei Zhu",
+   "Pengfei Song",
+   "Debao Li",
+   "Le He",
+   "Xiaohong Zhang",
+   "Jiayin Yuan",
+   "Tom Wu",
+   "Geoffrey A. Ozin"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2018-06-20",
+  "year": 2018,
+  "doi": "10.1002/anie.201805514",
+  "url": "https://doi.org/10.1002/anie.201805514",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nankai University",
+   "Ingenierie des Materiaux polymeres",
+   "University of Toronto",
+   "Soochow University",
+   "Institute of Coal Chemistry",
+   "Brookhaven National Laboratory",
+   "Temple University",
+   "Northwest Normal University",
+   "Stockholm University",
+   "UNSW Sydney"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "d66a57e90a64bbaf",
   "title": "Recent Advances in the Electrochemical α‐C–H Bond Functionalization of Carbonyl Compounds",
   "authors": [
@@ -105,6 +261,62 @@
   "affiliations": [
    "Beijing Technology and Business University",
    "Beijing University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "af80d84c55a40b49",
+  "title": "Oxidative Activation Mechanism for Glycerol Carbonate Electrosynthesis",
+  "authors": [
+   "Hui Huang Hoe",
+   "Donald W. Kirk"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2018-06-19",
+  "year": 2018,
+  "doi": "10.1149/08513.1109ecst",
+  "url": "https://doi.org/10.1149/08513.1109ecst",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "Mechanism"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Toronto"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4996ee68bf3e7708",
+  "title": "Competition between H and CO for Active Sites Governs Copper‐Mediated Electrosynthesis of Hydrocarbon Fuels",
+  "authors": [
+   "Marcel Schreier",
+   "Youngmin Yoon",
+   "Megan N. Jackson",
+   "Yogesh Surendranath"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2018-06-19",
+  "year": 2018,
+  "doi": "10.1002/anie.201806051",
+  "url": "https://doi.org/10.1002/anie.201806051",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Massachusetts Institute of Technology"
   ],
   "added": "2026-07-30"
  },
@@ -138,6 +350,79 @@
   "added": "2026-07-30"
  },
  {
+  "id": "1b2184eeca84573a",
+  "title": "Electrochemical C−H Cyanation of Electron‐Rich (Hetero)Arenes",
+  "authors": [
+   "Davit Hayrapetyan",
+   "Raja K. Rit",
+   "Markus Kratz",
+   "Kristina Tschulik",
+   "Lukas J. Gooßen"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2018-06-14",
+  "year": 2018,
+  "doi": "10.1002/chem.201802247",
+  "url": "https://doi.org/10.1002/chem.201802247",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Arenes",
+   "Electrochemical C-H",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Evonik (Germany)",
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2580ae8d9cc61812",
+  "title": "3-D finite element calculation of electric field enhancement for nanostructures fabrication mechanism on silicon surface with AFM tip induced local anodic oxidation",
+  "authors": [
+   "Barayavuga Theogene",
+   "Jianlei Cui",
+   "Xuewen Wang",
+   "Wenjun Wang",
+   "Xuesong Mei",
+   "Peiyun Yi",
+   "Xinju Yang",
+   "Xiaoqiao He",
+   "Hui Xie"
+  ],
+  "journal": "Integrated ferroelectrics",
+  "publisher": "Taylor & Francis",
+  "published": "2018-06-13",
+  "year": 2018,
+  "doi": "10.1080/10584587.2018.1457346",
+  "url": "https://doi.org/10.1080/10584587.2018.1457346",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Shanghai Jiao Tong University",
+   "Xi'an Jiaotong University",
+   "City University of Hong Kong",
+   "Fudan University",
+   "State Key Laboratory of Surface Physics",
+   "City University of Hong Kong, Shenzhen Research Institute",
+   "Harbin Institute of Technology",
+   "State Key Laboratory of Robotics and Systems"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "226ab29f01e7fcbb",
   "title": "Electrochemistry of Hypervalent Iodine Compounds",
   "authors": [
@@ -167,6 +452,39 @@
   "added": "2026-07-30"
  },
  {
+  "id": "059ee3de2fe82dd2",
+  "title": "Electrochemical Methods as Enabling Tools for Glycosylation",
+  "authors": [
+   "Sujit Manmode",
+   "Kouichi Matsumoto",
+   "Toshiki Nokami",
+   "Toshiyuki Itoh"
+  ],
+  "journal": "Asian Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2018-06-12",
+  "year": 2018,
+  "doi": "10.1002/ajoc.201800302",
+  "url": "https://doi.org/10.1002/ajoc.201800302",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "DFT",
+   "Oxidation Potential",
+   "Single-Electron Transfer"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Tottori University",
+   "Kindai University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "ec6233a4c64879eb",
   "title": "Organic Electrochemistry and a Role Reversal: Using Synthesis To Optimize Electrochemical Methods",
   "authors": [
@@ -190,6 +508,36 @@
   "relevance_score": 46,
   "affiliations": [
    "Washington University in St. Louis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4ec059a509283cbf",
+  "title": "Development of diamond composite electrode for anodic oxidation of organic pollutants",
+  "authors": [
+   "Mohammed A. Ajeel",
+   "Thamir A.A. Hassan",
+   "Ahmed Samir Naje",
+   "Mohamed Kheireddine Aroua"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2018-06-01",
+  "year": 2018,
+  "doi": "10.1016/j.jece.2018.05.048",
+  "url": "https://doi.org/10.1016/j.jece.2018.05.048",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Al-Muthanna University",
+   "Lancaster University",
+   "Sunway University"
   ],
   "added": "2026-07-30"
  }

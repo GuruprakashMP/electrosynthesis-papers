@@ -1,5 +1,118 @@
 [
  {
+  "id": "2e7de238f18235fc",
+  "title": "Sulforaphane-decorated gold nanoparticle for anti-cancer activity: in vitro and in vivo studies",
+  "authors": [
+   "Kriti Soni",
+   "Kanchan Kohli"
+  ],
+  "journal": "Pharmaceutical Development and Technology",
+  "publisher": "Taylor & Francis",
+  "published": "2018-07-31",
+  "year": 2018,
+  "doi": "10.1080/10837450.2018.1507038",
+  "url": "https://doi.org/10.1080/10837450.2018.1507038",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Mediated Electrolysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Jamia Hamdard"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "18caa60a0d01b5b3",
+  "title": "Photo‐Electrochemical C−H Bond Activation of Cyclohexane Using a WO 3 Photoanode and Visible Light",
+  "authors": [
+   "Hiroyuki Tateno",
+   "Shoji Iguchi",
+   "Yugo Miseki",
+   "Kazuhiro Sayama"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2018-07-30",
+  "year": 2018,
+  "doi": "10.1002/anie.201805079",
+  "url": "https://doi.org/10.1002/anie.201805079",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization"
+  ],
+  "tags": [
+   "Electrochemical C-H"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "National Institute of Advanced Industrial Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ff1b7f291ffad5be",
+  "title": "Mediated electrochemical synthesis of metal nanoparticles",
+  "authors": [
+   "V. V. Yanilkin",
+   "Gulnaz R. Nasretdinova",
+   "Vladimir A. Kokorekin"
+  ],
+  "journal": "Russian Chemical Reviews",
+  "publisher": "Institute of Physics",
+  "published": "2018-07-27",
+  "year": 2018,
+  "doi": "10.1070/rcr4827",
+  "url": "https://doi.org/10.1070/rcr4827",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrochemical Synthesis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "78f96bf764bc8c70",
+  "title": "Automated Electrochemical Assembly of the β‐(1,3)‐β‐(1,6)‐Glucan Hexasaccharide Using Thioglucoside Building Blocks",
+  "authors": [
+   "Sujit Manmode",
+   "Moeko Kato",
+   "Tsuyoshi Ichiyanagi",
+   "Toshiki Nokami",
+   "Toshiyuki Itoh"
+  ],
+  "journal": "Asian Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2018-07-27",
+  "year": 2018,
+  "doi": "10.1002/ajoc.201800345",
+  "url": "https://doi.org/10.1002/ajoc.201800345",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Tottori University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "bc21e1f7ae6356c2",
   "title": "Change of the Reaction Pathway during the Phenols Anodic Cross-Coupling Oxidation Induced By Tertiary Amines. Anodic C-O Phenols Homo-Coupling a Direct Route to Diaryl Ethers",
   "authors": [
@@ -37,6 +150,102 @@
   "added": "2026-07-30"
  },
  {
+  "id": "b18620696e8fefc7",
+  "title": "Synthesis of Ti|IrO 2 -SnO 2 -Sb 2 O 3 electrodes without Chloride Precursors and Their Electrochemical Applications",
+  "authors": [
+   "Adrián Reyes",
+   "David Sánchez-Molas",
+   "Ricardo Agustín-Serrano",
+   "Alejandro Medel",
+   "Miguel A. González-Fuentes",
+   "Erika Méndez"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2018-07-23",
+  "year": 2018,
+  "doi": "10.1149/ma2018-02/58/2118",
+  "url": "https://doi.org/10.1149/ma2018-02/58/2118",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Benemérita Universidad Autónoma de Puebla",
+   "Center of Research and Technologic Development in Electrochemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7f22b715f644774d",
+  "title": "Preliminary Investigation of the Influence of Potentiodynamic Electrosynthesis of Polyaniline@Carbon Fiber on the Formation of Charge Carriers and Their Effects on Double Layer",
+  "authors": [
+   "Aline Guedes Galvao",
+   "Anne Karoline dos Santos Poli",
+   "Adriana Medeiros Gama",
+   "Joseane Mercia da Rocha Pimentel Gonçalves",
+   "Emerson Sarmento Gonçalves"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2018-07-23",
+  "year": 2018,
+  "doi": "10.1149/ma2018-02/22/832",
+  "url": "https://doi.org/10.1149/ma2018-02/22/832",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Federal Institute of São Paulo",
+   "Instituto de Aeronáutica e Espaço",
+   "Instituto Tecnológico de Aeronáutica"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3e55719daf353b95",
+  "title": "Electrochemical Synthesis of Tantalum Silicides from Chloride-Fluoride Melts",
+  "authors": [
+   "Sergei Vladimirovich Devyatkin"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2018-07-23",
+  "year": 2018,
+  "doi": "10.1149/ma2018-02/53/1861",
+  "url": "https://doi.org/10.1149/ma2018-02/53/1861",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Institute of General and Inorganic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "38408e4fe80a7646",
   "title": "(Keynote) Electrocatalysis for Electrosynthesis",
   "authors": [
@@ -59,6 +268,450 @@
   "relevance_score": 44,
   "affiliations": [
    "University of Utah"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "35f8b3eb918086cd",
+  "title": "Electrosynthesis of Ammonia Using Carbon Supported WO x /RuO y Nanoparticles",
+  "authors": [
+   "Hidenobu Shiroishi",
+   "Mae Bunshiro",
+   "Shunnosuke Tanaka",
+   "Kiya Ogasawara",
+   "Morihiro Saito",
+   "Koji Hiraoka",
+   "Kanae Endo",
+   "Shiro Seki"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2018-07-23",
+  "year": 2018,
+  "doi": "10.1149/ma2018-02/60/2174",
+  "url": "https://doi.org/10.1149/ma2018-02/60/2174",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Institute of Technology, Tokyo College",
+   "Kogakuin University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e2e13ea3b5405aba",
+  "title": "Anodic oxidation for the remediation of soils polluted with perchloroethylene",
+  "authors": [
+   "Martı́n Muñoz",
+   "Cristina Sáez",
+   "Pablo Cañizares",
+   "Manuel A. Rodrigo"
+  ],
+  "journal": "Journal of Chemical Technology & Biotechnology",
+  "publisher": "Wiley",
+  "published": "2018-07-20",
+  "year": 2018,
+  "doi": "10.1002/jctb.5774",
+  "url": "https://doi.org/10.1002/jctb.5774",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Castilla-La Mancha"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2894ce5f35a3581f",
+  "title": "Switchable Interfaces: Redox Monolayers on Si(100) by Electrochemical Trapping of Alcohol Nucleophiles",
+  "authors": [
+   "Long Zhang",
+   "Ruth Espíndola",
+   "Benjamin B. Noble",
+   "Vinícius R. Gonçales",
+   "Gordon G. Wallace",
+   "Nadim Darwish",
+   "Michelle L. Coote",
+   "Simone Ciampi"
+  ],
+  "journal": "Surfaces",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2018-07-20",
+  "year": 2018,
+  "doi": "10.3390/surfaces1010002",
+  "url": "https://doi.org/10.3390/surfaces1010002",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Ferrocene",
+   "Organic Electrosynthesis",
+   "TEMPO"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "University of Wollongong",
+   "Curtin University",
+   "ARC Centre of Excellence for Electromaterials Science",
+   "Australian National University",
+   "UNSW Sydney"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1a5f83ccbaaca14f",
+  "title": "Using Nanotechnology For Electrosynthesis Of Nitrogen-Based Fertilizer Under Ambient Conditions",
+  "authors": [
+   "Mostafa A. El-Sayed"
+  ],
+  "journal": "Science Trends",
+  "publisher": "",
+  "published": "2018-07-20",
+  "year": 2018,
+  "doi": "10.31988/scitrends.22960",
+  "url": "https://doi.org/10.31988/scitrends.22960",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dbf0e847dd1cc31a",
+  "title": "Electrochemical and chromatographic methods for synthesising and analysing aryl phosphonium salts",
+  "authors": [
+   "Saddam Hussein Almudhady"
+  ],
+  "journal": "Nottingham ePrints (University of Nottingham)",
+  "publisher": "University of Nottingham",
+  "published": "2018-07-19",
+  "year": 2018,
+  "doi": "",
+  "url": "",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "Glassy Carbon",
+   "Graphite Electrode",
+   "Working Electrode"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4463a29c540123ae",
+  "title": "Methylviologen mediated electrochemical synthesis of catalytically active ultrasmall bimetallic PdAg nanoparticles stabilized by CTAC",
+  "authors": [
+   "Gulnaz R. Nasretdinova",
+   "Rezeda R. Fazleeva",
+   "Yury N. Osin",
+   "Vladimir G. Evtjugin",
+   "А.Т. Губайдуллин",
+   "Albina Y. Ziganshinа",
+   "V. V. Yanilkin"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2018-07-19",
+  "year": 2018,
+  "doi": "10.1016/j.electacta.2018.07.109",
+  "url": "https://doi.org/10.1016/j.electacta.2018.07.109",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "A.E. Arbuzov Institute of Organic and Physical Chemistry",
+   "Kazan Federal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2257f0f517963b5a",
+  "title": "Single Nanoparticle Growth from Nanoparticle Tracking Analysis: From Monte Carlo Simulations to Nanoparticle Electrogeneration",
+  "authors": [
+   "Vitor Brasiliense",
+   "Jean-Marc Noël",
+   "Kevin Wonner",
+   "Kristina Tschulik",
+   "Catherine Combellas",
+   "Frédéric Kanoufi"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2018-07-19",
+  "year": 2018,
+  "doi": "10.1002/celc.201800742",
+  "url": "https://doi.org/10.1002/celc.201800742",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Northwestern University",
+   "Centre National de la Recherche Scientifique",
+   "Délégation Paris 7",
+   "Université Paris Cité",
+   "Sorbonne Université",
+   "Sorbonne Paris Cité",
+   "Interfaces Traitements Organisation et Dynamique des Systèmes",
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c401560b9a100009",
+  "title": "Ferrocene-Catalyzed Electrosynthesis of Oxindoles and Dihydroquinolin-2-ones",
+  "authors": [
+   "Victor Snieckus",
+   "Damith Perera"
+  ],
+  "journal": "Synfacts",
+  "publisher": "Georg Thieme Verlag",
+  "published": "2018-07-18",
+  "year": 2018,
+  "doi": "10.1055/s-0037-1610522",
+  "url": "https://doi.org/10.1055/s-0037-1610522",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrosynthesis",
+   "Ferrocene"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "72f7aa5bfc26a33a",
+  "title": "Structural and optical property studies of TiO2 nanotube arrays prepared by anodic oxidation",
+  "authors": [
+   "Xishun Jiang",
+   "Shaokang Zheng",
+   "Yonghua Shi",
+   "Zhaoqi Sun",
+   "Yuxia Zhao"
+  ],
+  "journal": "Journal of Materials Science Materials in Electronics",
+  "publisher": "Springer Science+Business Media",
+  "published": "2018-07-10",
+  "year": 2018,
+  "doi": "10.1007/s10854-018-9622-y",
+  "url": "https://doi.org/10.1007/s10854-018-9622-y",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Yanshan University",
+   "Chuzhou University",
+   "Huzhou Vocational and Technical College",
+   "Zhangzhou Vocational and Technical College"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a00c3a266abb5e55",
+  "title": "Excellent wet etching technique using pulsed anodic oxidation for homoepitaxially grown GaN layer",
+  "authors": [
+   "Fumimasa Horikiri",
+   "Yoshinobu Narita",
+   "Takehiro Yoshida"
+  ],
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "2018-07-09",
+  "year": 2018,
+  "doi": "10.7567/jjap.57.086502",
+  "url": "https://doi.org/10.7567/jjap.57.086502",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Hitachi (Japan)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8fdc71fb3422f064",
+  "title": "Water Contained Ionic Liquid Medium for Electron Mediator Generation and its Quantification: A Paired Electrolysis Investigation**",
+  "authors": [
+   "G. Muthuraman",
+   "Kurunthachalam Kannan",
+   "Il Shik Moon"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2018-07-09",
+  "year": 2018,
+  "doi": "10.20964/2018.08.15",
+  "url": "https://doi.org/10.20964/2018.08.15",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrolytic",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Sunchon National University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8b3871243b281d29",
+  "title": "Cover Feature: Anodic Deposition of Enantiopure Hexahelicene Layers (ChemElectroChem 15/2018)",
+  "authors": [
+   "Jan Vacek",
+   "Jan Hrbáč",
+   "Tomáš Strašák",
+   "Vladimı́r Cı́rkva",
+   "Ján Sýkora",
+   "Ladislav Fekete",
+   "J. Pokorný",
+   "J. Bulı́ř",
+   "Magdaléna Hromadová",
+   "Jeanne Crassous",
+   "Jan Storch"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2018-07-09",
+  "year": 2018,
+  "doi": "10.1002/celc.201800869",
+  "url": "https://doi.org/10.1002/celc.201800869",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Palacký University Olomouc",
+   "Masaryk University",
+   "Czech Academy of Sciences, Institute of Chemical Process Fundamentals",
+   "Czech Academy of Sciences",
+   "FZU ‒ Institute of Physics of the Academy of Sciences of the Czech Republic",
+   "Czech Academy of Sciences, J. Heyrovský Institute of Physical Chemistry",
+   "Centre National de la Recherche Scientifique",
+   "Institut des Sciences Chimiques de Rennes",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f485f7db962774d2",
+  "title": "Highly Efficient Electrocatalytic Carboxylation of 1-Phenylethyl Chloride at Cu Foam Cathode",
+  "authors": [
+   "La-Xia Wu",
+   "Qilong Sun",
+   "Man-Ping Yang",
+   "Yingguo Zhao",
+   "Yebin Guan",
+   "Huan Wang",
+   "Jiaxing Lu"
+  ],
+  "journal": "Catalysts",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2018-07-06",
+  "year": 2018,
+  "doi": "10.3390/catal8070273",
+  "url": "https://doi.org/10.3390/catal8070273",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Sacrificial Anode",
+   "Undivided Cell"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Anqing Normal University",
+   "East China Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b3035794d11f72d9",
+  "title": "Electrochemical degradation of azo dye methyl orange by anodic oxidation on Ti4O7 electrodes",
+  "authors": [
+   "He Wang",
+   "Ying Liu",
+   "Jinwen Ye",
+   "Guangrui Wang"
+  ],
+  "journal": "Journal of Materials Science Materials in Electronics",
+  "publisher": "Springer Science+Business Media",
+  "published": "2018-07-05",
+  "year": 2018,
+  "doi": "10.1007/s10854-018-9538-6",
+  "url": "https://doi.org/10.1007/s10854-018-9538-6",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Sichuan University"
   ],
   "added": "2026-07-30"
  },
@@ -94,6 +747,245 @@
    "University of Applied Sciences Mainz",
    "Johannes Gutenberg University Mainz",
    "Max Planck Graduate Center"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "18d2b673d5679ffb",
+  "title": "Solar-responsive sole TiO2 nanotube arrays with high photocatalytic activity prepared by one-step anodic oxidation",
+  "authors": [
+   "Liang Hao",
+   "Jiancheng Yan",
+   "Lijun Cheng",
+   "Qian Zhao",
+   "Sujun Guan",
+   "Zheng Zhu",
+   "Yun Lu"
+  ],
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2018-07-02",
+  "year": 2018,
+  "doi": "10.1007/s10008-018-4036-6",
+  "url": "https://doi.org/10.1007/s10008-018-4036-6",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tianjin University of Science and Technology",
+   "Tianjin International Joint Academy of Biomedicine",
+   "Tokyo University of Science",
+   "Chiba University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fc86cef617d3b94e",
+  "title": "The flexible route for the electrosynthesis of visible light active CdxZn1-xOnanostructures by sequential anodic dissolution of metallic electrodes",
+  "authors": [
+   "Saied Saeed Hosseiny Davarani",
+   "Hamid Reza Moazami",
+   "Taher Yousefi",
+   "Masoud Abrari"
+  ],
+  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "publisher": "",
+  "published": "2018-07-01",
+  "year": 2018,
+  "doi": "10.22090/jwent.2018.03.004",
+  "url": "https://doi.org/10.22090/jwent.2018.03.004",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Shahid Beheshti University",
+   "Atomic Energy Organization of Iran",
+   "Nuclear Science and Technology Research Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cd0b4e45976778b8",
+  "title": "Facile and convenient synthesis of 2-amino-5,10-dioxo-4-aryl-5,10-dihydro-4H-benzo[g]chromene-3-carbonitrile derivatives by electrocatalytically chemical transformation",
+  "authors": [
+   "Zahra Vafajoo",
+   "Davood Kordestani",
+   "Saba Vafajoo"
+  ],
+  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "publisher": "",
+  "published": "2018-07-01",
+  "year": 2018,
+  "doi": "",
+  "url": "https://doaj.org/article/e2b341e71c954e6fa237db2ef7c60b96",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Graphite Electrode",
+   "Supporting Electrolyte",
+   "Undivided Cell"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c677f46209d1fdf0",
+  "title": "Synthesis of the Precursor of Aluminum–Calcium Oxide Systems by Anodic Oxidation of Aluminum in Aqueous Solutions",
+  "authors": [
+   "A. F. Dresvyânnikov",
+   "Е. В. Петрова",
+   "А. И. Хайруллина"
+  ],
+  "journal": "Glass Physics and Chemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2018-07-01",
+  "year": 2018,
+  "doi": "10.1134/s1087659618040053",
+  "url": "https://doi.org/10.1134/s1087659618040053",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Kazan State Technological University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a0449e8b7de64f68",
+  "title": "Comparative Assessment of the Analytical Parameters in Ascorbic Acid and Sulphite Assay at a Spectrographic Carbon Working Electrode",
+  "authors": [
+   "Aurelia Magdalena Pisoschi",
+   "Aneta Pop"
+  ],
+  "journal": "“Agriculture for Life Life for Agriculture” Conference Proceedings",
+  "publisher": "De Gruyter",
+  "published": "2018-07-01",
+  "year": 2018,
+  "doi": "10.2478/alife-2018-0072",
+  "url": "https://doi.org/10.2478/alife-2018-0072",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Cyclic Voltammetry",
+   "Working Electrode"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Agronomic Sciences and Veterinary Medicine of Bucharest"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a0091399d8c9e67b",
+  "title": "Anodic Oxidation of Serine Anion on Smooth and Platinized Platinum",
+  "authors": [
+   "N. E. Kuleshova",
+   "А. В. Введенский",
+   "E. V. Bobrinskaya"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2018-07-01",
+  "year": 2018,
+  "doi": "10.1134/s1023193518070042",
+  "url": "https://doi.org/10.1134/s1023193518070042",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Voronezh State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8f9301df403c776e",
+  "title": "Cu2O and CuO Films Produced by Chemical and Anodic Oxidation on the Surface of Copper Foil",
+  "authors": [
+   "Д. С. Зимбовский",
+   "Б. Р. Чурагулов"
+  ],
+  "journal": "Inorganic Materials",
+  "publisher": "Pleiades Publishing",
+  "published": "2018-07-01",
+  "year": 2018,
+  "doi": "10.1134/s0020168518070208",
+  "url": "https://doi.org/10.1134/s0020168518070208",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Lomonosov Moscow State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2ca16df4efa25432",
+  "title": "A Thin-Film Platform for Chemical Gas Sensors",
+  "authors": [
+   "Ilya V. Roslyakov",
+   "Kirill S. Napolskii",
+   "V. S. Stolyarov",
+   "Е. Е. Карпов",
+   "A. V. Ivashev",
+   "V. N. Surtaev"
+  ],
+  "journal": "Russian Microelectronics",
+  "publisher": "Pleiades Publishing",
+  "published": "2018-07-01",
+  "year": 2018,
+  "doi": "10.1134/s1063739718040078",
+  "url": "https://doi.org/10.1134/s1063739718040078",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Lomonosov Moscow State University",
+   "Moscow Institute of Physics and Technology",
+   "Rosneft (Russia)"
   ],
   "added": "2026-07-30"
  }

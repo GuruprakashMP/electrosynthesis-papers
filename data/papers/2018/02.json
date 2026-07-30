@@ -1,5 +1,68 @@
 [
  {
+  "id": "30a969e0ab7925a0",
+  "title": "A Tribute to Alan Bond on his 70th Birthday: 50 Years of Electrochemistry",
+  "authors": [
+   "Lisandra L. Martin",
+   "Anthony P. O’Mullane",
+   "James F. Rusling",
+   "Fritz Scholz"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2018-02-28",
+  "year": 2018,
+  "doi": "10.1002/celc.201800133",
+  "url": "https://doi.org/10.1002/celc.201800133",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Monash University",
+   "Queensland University of Technology",
+   "University of Connecticut"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5c3154b1433b6342",
+  "title": "Oxidant-Free C(sp 2 )–H Functionalization/C–O Bond Formation: A Kolbe Oxidative Cyclization Process",
+  "authors": [
+   "Lei Zhang",
+   "Zhenxing Zhang",
+   "Junting Hong",
+   "Jian Yu",
+   "Jianning Zhang",
+   "Fanyang Mo"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2018-02-23",
+  "year": 2018,
+  "doi": "10.1021/acs.joc.8b00089",
+  "url": "https://doi.org/10.1021/acs.joc.8b00089",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Atom Economy",
+   "Oxidant-Free"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Peking University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "87dac51856586501",
   "title": "Functionalization of N -arylglycine esters: electrocatalytic access to C–C bonds mediated by n -Bu 4 NI",
   "authors": [
@@ -69,6 +132,91 @@
   "added": "2026-07-30"
  },
  {
+  "id": "20c386c7c7158bea",
+  "title": "Preparation of Well-Aligned TiO 2 Nanotubes with High Length-Diameter Aspect Ratio by Anodic Oxidation Method",
+  "authors": [
+   "Zongmin Ma",
+   "Jian Gao",
+   "Xingsheng Wu",
+   "Yan-Na Xie",
+   "Hua Yuan",
+   "Yunbo Shi"
+  ],
+  "journal": "Journal of Nanoscience and Nanotechnology",
+  "publisher": "American Scientific Publishers",
+  "published": "2018-02-20",
+  "year": 2018,
+  "doi": "10.1166/jnn.2018.15397",
+  "url": "https://doi.org/10.1166/jnn.2018.15397",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "North University of China"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cd7624646589bfcf",
+  "title": "Electrosynthesis of polypyrrole nano/micro structures using an electrogenerated oriented polypyrrole nanowire array as framework",
+  "authors": [
+   "Catherine Debiemme-Chouvy",
+   "Ahmed Fakhry",
+   "Françoise Pillier"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-19",
+  "year": 2018,
+  "doi": "10.1016/j.electacta.2018.02.092",
+  "url": "https://doi.org/10.1016/j.electacta.2018.02.092",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Sorbonne Université",
+   "Laboratoire Interfaces et Systèmes Électrochimiques"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b77ac9a7f2dd0270",
+  "title": "Electrochemical Synthesis of Iron Oxide Nanoparticles for Biomedical Application",
+  "authors": [
+   "C. A. C. Sequeira"
+  ],
+  "journal": "Organic and Medicinal Chemistry International Journal",
+  "publisher": "",
+  "published": "2018-02-19",
+  "year": 2018,
+  "doi": "10.19080/omcij.2018.05.555660",
+  "url": "https://doi.org/10.19080/omcij.2018.05.555660",
+  "source": "openalex",
+  "categories": [
+   "Late-Stage Functionalization & Medicinal Chemistry"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Medicinal Chemistry"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Lisbon"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "a23e55e37aaf5a96",
   "title": "Cobalt-catalyzed electrooxidative C-H/N-H [4+2] annulation with ethylene or ethyne",
   "authors": [
@@ -103,6 +251,31 @@
    "Wuhan University",
    "Lanzhou Institute of Chemical Physics"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b23179f648895009",
+  "title": "Continuous-Flow Electrosynthesis of Benzothiazoles and Thiazolopyridines",
+  "authors": [
+   "Victor Snieckus",
+   "Yuan Zhang"
+  ],
+  "journal": "Synfacts",
+  "publisher": "Georg Thieme Verlag",
+  "published": "2018-02-15",
+  "year": 2018,
+  "doi": "10.1055/s-0037-1609308",
+  "url": "https://doi.org/10.1055/s-0037-1609308",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
   "added": "2026-07-30"
  },
  {
@@ -141,6 +314,216 @@
   "added": "2026-07-30"
  },
  {
+  "id": "289d7c513bbdb5ec",
+  "title": "Deposition of novel bioactive nanoflower-like sodium titanate on TiO 2 coating via anodic oxidation for biomedical applications",
+  "authors": [
+   "T.C. Lee",
+   "Hasan Zuhudi Abdullah",
+   "Pramod Koshy",
+   "Maizlinda Izwana Idris"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-10",
+  "year": 2018,
+  "doi": "10.1016/j.matlet.2018.01.115",
+  "url": "https://doi.org/10.1016/j.matlet.2018.01.115",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tun Hussein Onn University of Malaysia",
+   "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+   "UNSW Sydney",
+   "Division of Materials Science and Engineering"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5da0c622f3491d29",
+  "title": "Electrosynthesis of Ti5Si3, Ti5Si3/TiC, and Ti5Si3/Ti3SiC2 from Ti-Bearing Blast Furnace Slag in Molten CaCl2",
+  "authors": [
+   "Shangshu Li",
+   "Xingli Zou",
+   "Kai Zheng",
+   "Xionggang Lu",
+   "Chaoyi Chen",
+   "Xin Li",
+   "Qian Xu",
+   "Zhongfu Zhou"
+  ],
+  "journal": "Metallurgical and Materials Transactions B",
+  "publisher": "Springer Science+Business Media",
+  "published": "2018-02-09",
+  "year": 2018,
+  "doi": "10.1007/s11663-018-1192-0",
+  "url": "https://doi.org/10.1007/s11663-018-1192-0",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Shanghai University",
+   "The University of Texas at Austin",
+   "Guizhou University",
+   "Aberystwyth University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f18c64dc6b21c759",
+  "title": "An etching of the n - -drift layer grown on the freestanding GaN substrate by a pulsed anodic oxidation",
+  "authors": [
+   "Fumimasa Horikiri",
+   "Yoshinobu Narita",
+   "Takehiro Yoshida"
+  ],
+  "journal": "The Japan Society of Applied Physics",
+  "publisher": "Japan Society of Applied Physics",
+  "published": "2018-02-08",
+  "year": 2018,
+  "doi": "",
+  "url": "https://confit.atlas.jp/guide/event/jsap2018s/subject/18a-C302-10/detail",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University Orthopedics Center"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a40145f4c69fd977",
+  "title": "Enhanced electrosynthesis performance of Moorella thermoautotrophica by improving cell permeability",
+  "authors": [
+   "Shanshan Chen",
+   "Yanlun Fang",
+   "Xianyue Jing",
+   "Hailin Luo",
+   "Jing Chen",
+   "Shungui Zhou"
+  ],
+  "journal": "Bioelectrochemistry",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-08",
+  "year": 2018,
+  "doi": "10.1016/j.bioelechem.2018.02.003",
+  "url": "https://doi.org/10.1016/j.bioelechem.2018.02.003",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Fujian Agriculture and Forestry University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8f89b2a760ea1bf5",
+  "title": "Electrochemical behaviour of selenite ions in tartaric electrolytes",
+  "authors": [
+   "V.A. Majidzade",
+   "А.Sh. Aliyev",
+   "Parvin Haydar Guliyev",
+   "Yasin Nagi Babayev",
+   "Mahmoud Elrouby",
+   "D.B. Тagiyev"
+  ],
+  "journal": "Journal of Electrochemical Science and Engineering",
+  "publisher": "International Association of Physical Chemists (IAPC)",
+  "published": "2018-02-07",
+  "year": 2018,
+  "doi": "10.5599/jese.490",
+  "url": "https://doi.org/10.5599/jese.490",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Neft Kimya Prosesləri Institutu",
+   "Nakhchivan State University",
+   "Sohag University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f5e3cf5f6ef0989b",
+  "title": "Organic electrosynthesis – A road to greater application. A mini review",
+  "authors": [
+   "Derek Pletcher"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-02",
+  "year": 2018,
+  "doi": "10.1016/j.elecom.2018.01.006",
+  "url": "https://doi.org/10.1016/j.elecom.2018.01.006",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Southampton"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b7b1a5bb7dc38311",
+  "title": "Enantioselective selectors for chiral electrochemistry and electroanalysis: Stereogenic elements and enantioselection performance",
+  "authors": [
+   "Serena Arnaboldi",
+   "Mirko Magni",
+   "Patrizia R. Mussini"
+  ],
+  "journal": "Current Opinion in Electrochemistry",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "10.1016/j.coelec.2018.01.002",
+  "url": "https://doi.org/10.1016/j.coelec.2018.01.002",
+  "source": "openalex",
+  "categories": [
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Enantioselective Electrosynthesis",
+   "Enantioselectivity"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Milan"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "addc44d5a0bba5f8",
   "title": "Electrochemically Controlled Cationic Polymerization of Vinyl Ethers",
   "authors": [
@@ -167,6 +550,102 @@
   "relevance_score": 57,
   "affiliations": [
    "Cornell University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9eccfad0e6e943cb",
+  "title": "The initial stages of atomic force microscope based local anodic oxidation of silicon",
+  "authors": [
+   "A. S. Kozhukhov",
+   "D. V. Scheglov",
+   "Л. И. Федина",
+   "А. В. Латышев"
+  ],
+  "journal": "AIP Advances",
+  "publisher": "American Institute of Physics",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "10.1063/1.5007914",
+  "url": "https://doi.org/10.1063/1.5007914",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Novosibirsk State University",
+   "Siberian Branch of the Russian Academy of Sciences",
+   "Institute of Semiconductor Physics"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9d81c9e031bfb28e",
+  "title": "Electrochemical synthesis of metal nanoparticles using a polymeric mediator, whose reduced form is adsorbed (deposited) on an electrode",
+  "authors": [
+   "V. V. Yanilkin",
+   "Н. В. Настапова",
+   "Rezeda R. Fazleeva",
+   "Gulnaz R. Nasretdinova",
+   "Elza D. Sultanova",
+   "Albina Y. Ziganshinа",
+   "А.Т. Губайдуллин",
+   "Aida I. Samigullina",
+   "Vladimir G. Evtugin",
+   "V. V. Vorobev",
+   "Yu. N. Osin"
+  ],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "10.1007/s11172-018-2062-2",
+  "url": "https://doi.org/10.1007/s11172-018-2062-2",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "A.E. Arbuzov Institute of Organic and Physical Chemistry",
+   "Kazan Federal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "508635c738bb71e9",
+  "title": "One-step electrosynthesis of MnO2/rGO nanocomposite and its enhanced electrochemical performance",
+  "authors": [
+   "Gomaa A. M. Ali",
+   "Mashitah M. Yusoff",
+   "H. Algarni",
+   "Kwok Feng Chong"
+  ],
+  "journal": "Ceramics International",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-01",
+  "year": 2018,
+  "doi": "10.1016/j.ceramint.2018.01.212",
+  "url": "https://doi.org/10.1016/j.ceramint.2018.01.212",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Universiti Malaysia Pahang Al-Sultan Abdullah",
+   "Al-Azhar University",
+   "King Khalid University"
   ],
   "added": "2026-07-30"
  }
