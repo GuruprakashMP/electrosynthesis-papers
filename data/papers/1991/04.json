@@ -1,5 +1,168 @@
 [
  {
+  "id": "93453440c5eee26c",
+  "title": "ChemInform Abstract: Electroreductive Cyclization Reactions: Attempts to Use 2(5H)Furanones (α,β‐Unsaturated Butenolides). Dominance of Acid‐Base Over Cyclization Chemistry.",
+  "authors": [
+   "Mary A. Amputch",
+   "R. Daniel Little"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1991-04-30",
+  "year": 1991,
+  "doi": "10.1002/chin.199117058",
+  "url": "https://doi.org/10.1002/chin.199117058",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of California, Santa Barbara"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "448140ab35e26990",
+  "title": "ChemInform Abstract: Electrolysis in Two‐Phase Systems. A Promising Technological Design for the Electrochemical Synthesis of Organic Compounds",
+  "authors": [
+   "А. П. Томилов",
+   "YU. D. SMIRNOV"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1991-04-16",
+  "year": 1991,
+  "doi": "10.1002/chin.199115316",
+  "url": "https://doi.org/10.1002/chin.199115316",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrolysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6352983e29f2b5f3",
+  "title": "ChemInform Abstract: Pyridine Synthesis via Anodic Oxidation of 1‐Acyldihydropyridines.",
+  "authors": [
+   "Daniel L. Comins",
+   "Michael O. Killpack"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1991-04-09",
+  "year": 1991,
+  "doi": "10.1002/chin.199114176",
+  "url": "https://doi.org/10.1002/chin.199114176",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Utah State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f33ae3c831e82b6c",
+  "title": "ChemInform Abstract: The Electrochemical Fluorination of Nitrogen‐Containing Carboxylic Acids. Fluorination of Methyl Esters of Cyclic Amino Group Substituted Carboxylic Acids.",
+  "authors": [
+   "A. TAKASHI",
+   "Eiji Hayashi",
+   "Haruhiko Fukaya",
+   "Hajime Baba"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1991-04-02",
+  "year": 1991,
+  "doi": "10.1002/chin.199113117",
+  "url": "https://doi.org/10.1002/chin.199113117",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ef7c9e1276fd4ff5",
+  "title": "ChemInform Abstract: Anodic Oxidation of Triphenylphosphine in the Presence of Enol Silyl Ethers or Enol Esters. Electrochemical One‐Step Preparation of 2‐ Oxocycloalkyltriphenylphosphonium Tetrafluoroborates.",
+  "authors": [
+   "Toshikatsu Takanami",
+   "A. ABE",
+   "Kohji Suda",
+   "H. OHMORI"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1991-04-02",
+  "year": 1991,
+  "doi": "10.1002/chin.199113209",
+  "url": "https://doi.org/10.1002/chin.199113209",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Meiji (Japan)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "32e0e21b5bf927ba",
+  "title": "ChemInform Abstract: Free‐Radical Chemistry. Part 8. Electrochemical Fluorination of Partly Fluorinated Ethers.",
+  "authors": [
+   "Richard D. Chambers",
+   "Robert W. Fuss",
+   "Michael S. Jones",
+   "P. Sartori",
+   "AlanP. Swales",
+   "R. Herkelmann"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1991-04-02",
+  "year": 1991,
+  "doi": "10.1002/chin.199113119",
+  "url": "https://doi.org/10.1002/chin.199113119",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrochemical Fluorination",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Durham University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "e56287ecc08cec7b",
   "title": "Activation of carbon dioxide by electron transfer and transition metals. Mechanism of nickel-catalyzed electrocarboxylation of aromatic halides",
   "authors": [
@@ -23,6 +186,320 @@
   ],
   "relevance_score": 46,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e3a1c37f736cea7d",
+  "title": "Electrosynthesis of quaternary ammonium hydroxides",
+  "authors": [
+   "José R. Ochoa-Gómez",
+   "M. Tarancon Estrada"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1007/bf01020223",
+  "url": "https://doi.org/10.1007/bf01020223",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centro de Investigaciones Biológicas Margarita Salas"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b0ff4313584a2e3a",
+  "title": "Electrochemical oxidation of substituted pyrroles. III. Anodic oxidation of 2,5‐diphenyl‐3‐acetylpyrrole",
+  "authors": [
+   "Salvatore Petruso",
+   "S. Caronna",
+   "Salvatore Gambino",
+   "Giuseppe Filardo",
+   "G. Silvestri"
+  ],
+  "journal": "Journal of Heterocyclic Chemistry",
+  "publisher": "Wiley",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1002/jhet.5570280342",
+  "url": "https://doi.org/10.1002/jhet.5570280342",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Indoles"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Palermo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "90cb1e7e272b16fa",
+  "title": "Electroorganic chemistry. 129. Electroreductive synthesis of chiral piperazines and enantioselective addition of diethylzinc to aldehydes in the presence of the chiral piperazines",
+  "authors": [
+   "Tatsuya Shono",
+   "Naoki Kise",
+   "Eiji Shirakawa",
+   "Hideshi Matsumoto",
+   "Eiichi Okazaki"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1021/jo00009a026",
+  "url": "https://doi.org/10.1021/jo00009a026",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic",
+   "Electroreductive",
+   "Enantioselectivity"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8eadfde645d04031",
+  "title": "Application of the SPE Method to Organic Electrochemistry. XII. Lead Dioxide as a Mediator for Electrooxidation of Cinnamyl Alcohol on Pt–Nafion",
+  "authors": [
+   "Zhen Chen",
+   "Zempachi Ogumi",
+   "Zen-ichiro Takehara"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1246/bcsj.64.1261",
+  "url": "https://doi.org/10.1246/bcsj.64.1261",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Organic Electrochemistry",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7505ed9a554e11d0",
+  "title": "Preparation of 4‐phenylbutyric [2,3‐ 2 H 2 ]‐, [4,4‐ 2 H 2 ]‐, [2,3,4,4‐ 2 H 4 ]‐, and [2,2,3,3,4,4‐ 2 H 6 ]‐acids by use of crossed kolbe electrolysis as a key reaction",
+  "authors": [
+   "Masashi Tashiro",
+   "Hirohisa Tsuzuki",
+   "Hideyuki Goto",
+   "Shoji Ogasahara",
+   "Shuntarō Mataka"
+  ],
+  "journal": "Journal of Labelled Compounds and Radiopharmaceuticals",
+  "publisher": "Wiley",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1002/jlcr.2580290413",
+  "url": "https://doi.org/10.1002/jlcr.2580290413",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Kolbe Electrolysis"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Kyushu University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6f17a91d38327e23",
+  "title": "Electrosynthesis of N-methylhydroxylamine",
+  "authors": [
+   "José R. Ochoa-Gómez"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1007/bf01020218",
+  "url": "https://doi.org/10.1007/bf01020218",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "479acf8fc4a5f244",
+  "title": "Reactions of 1,1-Diphenyl-2-methylpropene Cation Radicals with Methanol. Ketone Formation Involving Carbocation Rearrangement",
+  "authors": [
+   "Ryoichi Akaba",
+   "Shin Aihara",
+   "Hirochika Sakuragi",
+   "Katsumi Tokumaru"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1246/bcsj.64.1419",
+  "url": "https://doi.org/10.1246/bcsj.64.1419",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Tsukuba"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2ac4d2f74d08d48d",
+  "title": "Electrode reactions of nitroxide radicals. IX. Anodic oxidations of 4‐hydroxyimino‐2,2,6,6‐tetramethylpiperidine‐1‐oxyl and 4‐[(aminocarbonyl)‐hydrazone]‐2,2,6,6‐tetramethylpiperidine‐1‐oxyl in water solutions",
+  "authors": [
+   "Jose I. Martinez de Ilarduya",
+   "Paweł Krzyczmonik",
+   "H. Scholl",
+   "Grzegorz Grabowski"
+  ],
+  "journal": "Electroanalysis",
+  "publisher": "Wiley",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1002/elan.1140030316",
+  "url": "https://doi.org/10.1002/elan.1140030316",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Oxidation Potential",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "University of Łódź"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0edb87b146ce56a7",
+  "title": "Spectral Studies and Cathodic Reduction of some Thiazolylazo Derivatives",
+  "authors": [
+   "Anwar S. El-Shahawy",
+   "M. Ismail",
+   "Seddique M. Ahmed"
+  ],
+  "journal": "Journal of the Chinese Chemical Society",
+  "publisher": "Wiley",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1002/jccs.199100026",
+  "url": "https://doi.org/10.1002/jccs.199100026",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Assiut University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0d6c81e7dbe92fd0",
+  "title": "Anodic oxidation of some tertiary amines",
+  "authors": [
+   "Daniel Larumbe",
+   "Iluminada Gallardo",
+   "C.P. Andrieux"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1016/0022-0728(91)85506-k",
+  "url": "https://doi.org/10.1016/0022-0728(91)85506-k",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universitat Autònoma de Barcelona",
+   "Université Paris Cité",
+   "Laboratoire d'Electrochimie Moléculaire"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0b3b858380b2ccce",
+  "title": "Anodic oxidation of CrO3-graphite intercalation compounds in sulfuric acid",
+  "authors": [
+   "J. M. Skowroński",
+   "K. Jurewicz"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "1991-04-01",
+  "year": 1991,
+  "doi": "10.1016/0379-6779(91)91772-3",
+  "url": "https://doi.org/10.1016/0379-6779(91)91772-3",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Poznań University of Technology"
+  ],
   "added": "2026-07-30"
  }
 ]
