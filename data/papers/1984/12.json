@@ -1,5 +1,163 @@
 [
  {
+  "id": "636c81b1aed09a42",
+  "title": "Paramagnetic Centres in Aluminium-Oxide Layers Prepared by Anodic Oxidation",
+  "authors": [
+   "A. Wattekich",
+   "E. Szontagh",
+   "É. Kocsárdi"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1984-12-31",
+  "year": 1984,
+  "doi": "10.1515/9783112501764-021",
+  "url": "https://doi.org/10.1515/9783112501764-021",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a1963631eacea4d1",
+  "title": "ChemInform Abstract: ANODIC OXIDATION POTENTIALS OF SUBSTITUTED PYRROLES: DERIVATION AND ANALYSIS OF SUBSTITUENT PARTIAL POTENTIALS",
+  "authors": [
+   "Hani D. Tabba",
+   "K. M. SMITH"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1984-12-25",
+  "year": 1984,
+  "doi": "10.1002/chin.198452070",
+  "url": "https://doi.org/10.1002/chin.198452070",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d5d34523cb92bc9a",
+  "title": "Mechanistic Studies with Mass Spectroscopic Cyclic Voltammetry: Anodic Oxidation of Hydroxylamine on Pt",
+  "authors": [
+   "P. Karabinas",
+   "Olaf Wolter",
+   "J. Heitbaum"
+  ],
+  "journal": "Berichte der Bunsengesellschaft für physikalische Chemie",
+  "publisher": "",
+  "published": "1984-12-01",
+  "year": 1984,
+  "doi": "10.1002/bbpc.198400047",
+  "url": "https://doi.org/10.1002/bbpc.198400047",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Aristotle University of Thessaloniki",
+   "Alexander Technological Educational Institute of Thessaloniki"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ccfe70f1be3a703a",
+  "title": "Mediated release of glutamate and GABA by cathodic reduction of cobalt complexes",
+  "authors": [
+   "Baruch Zinger",
+   "Larry L. Miller"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1984-12-01",
+  "year": 1984,
+  "doi": "10.1016/0368-1874(84)83626-6",
+  "url": "https://doi.org/10.1016/0368-1874(84)83626-6",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Minnesota"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cb8f45b9332b0afa",
+  "title": "Teure Elektrochemie: Organic Electrochemistry, An Introduction and a Guide. Von M. M. Baizer und H. Lund. 2. Auflage, Marcel Dekker Verlag, New York 1983. 1184 S., geb., SFr. 419. ISBN 0‐8247‐6855‐8",
+  "authors": [
+   "J. Heinze"
+  ],
+  "journal": "Nachrichten aus Chemie Technik und Laboratorium",
+  "publisher": "Wiley",
+  "published": "1984-12-01",
+  "year": 1984,
+  "doi": "10.1002/nadc.19840321214",
+  "url": "https://doi.org/10.1002/nadc.19840321214",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bfd756909b3395dc",
+  "title": "The electrochemical fluorination of N-(ω-chloroalkyl)pipecolines and N-(ω-chloroalkyl)hexamethyleneimines",
+  "authors": [
+   "Eiji Hayashi",
+   "Takashi Abe",
+   "Hajime Baba",
+   "S. Nagase"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1984-12-01",
+  "year": 1984,
+  "doi": "10.1016/s0022-1139(00)80969-0",
+  "url": "https://doi.org/10.1016/s0022-1139(00)80969-0",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nagoya Industrial Science Research Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "b8d8015f4d5f4534",
   "title": "Cyclization of 3‐Allyloxycarboxylic Acids to Tetrahydrofurans by Kolbe Electrolysis",
   "authors": [
@@ -24,6 +182,144 @@
   "relevance_score": 55,
   "affiliations": [
    "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7458270892f292cf",
+  "title": "The anodic oxidation of carbon monoxide on gold in acid solutions",
+  "authors": [
+   "TR Farrugia",
+   "RA Fredlein"
+  ],
+  "journal": "Australian Journal of Chemistry",
+  "publisher": "CSIRO Publishing",
+  "published": "1984-12-01",
+  "year": 1984,
+  "doi": "10.1071/ch9842415",
+  "url": "https://doi.org/10.1071/ch9842415",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "347ba0ffd27b1b4d",
+  "title": "Synthesis of perfluorochemicals for use as blood substitutes, Part I. Electrochemical fluorination of N-methyldecahydroquinoline and N-methyldecahydroisoquinoline",
+  "authors": [
+   "Youichiro Naito",
+   "Yoshihisa Inoue",
+   "Taizo Ono",
+   "Yoshio Arakawa",
+   "Chikara Fukaya",
+   "Kazumasa Yokoyama",
+   "Yoshiro Kobayashi",
+   "Kouichi Yamanouchi"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1984-12-01",
+  "year": 1984,
+  "doi": "10.1016/s0022-1139(00)80976-8",
+  "url": "https://doi.org/10.1016/s0022-1139(00)80976-8",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Green Cross International",
+   "National Institute of Technology, Tokyo College"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1b46a70d852f264a",
+  "title": "Sacrificial Anodes in the Electrocarboxylation of Organic Chlorides",
+  "authors": [
+   "Giuseppe Silvestri",
+   "Salvatore Gambino",
+   "Giuseppe Filardo",
+   "Antonio Gulotta"
+  ],
+  "journal": "Angewandte Chemie International Edition in English",
+  "publisher": "",
+  "published": "1984-12-01",
+  "year": 1984,
+  "doi": "10.1002/anie.198409791",
+  "url": "https://doi.org/10.1002/anie.198409791",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Palermo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0a40831755664c51",
+  "title": "Effect on cathodic reduction of β-PbO2 in sulfuric acid solution of surface concentration of Pb2+ ions formed on β-PbO2",
+  "authors": [
+   "Z. Takehara",
+   "Kiyoshi Kanamura"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1984-12-01",
+  "year": 1984,
+  "doi": "10.1016/0013-4686(84)89004-0",
+  "url": "https://doi.org/10.1016/0013-4686(84)89004-0",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0874f424d74cb5ad",
+  "title": "Anodic oxidation of UO2 IV. X-ray photoelectron spectroscopic and electrochemical studies of film growth in carbonate-containing solutions",
+  "authors": [
+   "David W. Shoesmith"
+  ],
+  "journal": "Applications of Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "1984-12-01",
+  "year": 1984,
+  "doi": "10.1016/0378-5963(84)90325-8",
+  "url": "https://doi.org/10.1016/0378-5963(84)90325-8",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Atomic Energy (Canada)"
   ],
   "added": "2026-07-30"
  }
