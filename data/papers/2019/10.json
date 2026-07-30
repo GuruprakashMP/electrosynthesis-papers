@@ -1,5 +1,43 @@
 [
  {
+  "id": "9c2f0a24a49a3c2c",
+  "title": "ФОТОEЛЕКТРОКАТАЛІТИЧНА ДЕГРАДАЦІЯ АМIНОАЗОБАРВНИКІВ ДІОКСИДОМ ТИТАНА З ПОВЕРХНЕВИМИ СТАНАМИ Ti3+",
+  "authors": [
+   "G. Sokolsky",
+   "Мaksym N. Zahornyi",
+   "Тatyana F. Lobunets",
+   "N. I. Tyschenko",
+   "Alexander. V. Shyrokov",
+   "A. V. Ragulya",
+   "Serhii V. Іvanov",
+   "Nadezhda V. Gayuk",
+   "V. È. Sokol’skii",
+   "Luiza V. Zudina"
+  ],
+  "journal": "Journal of Chemistry and Technologies",
+  "publisher": "Oles Honchar Dnipro National University",
+  "published": "2019-10-31",
+  "year": 2019,
+  "doi": "10.15421/081914",
+  "url": "https://doi.org/10.15421/081914",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”",
+   "Frantsevich Institute for Problems in Materials Science",
+   "State University \"Kyiv Aviation Institute\"",
+   "National Academy of Arts",
+   "Taras Shevchenko National University of Kyiv"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "dc5f6b3856e6cc75",
   "title": "Obituary for Prof. Dr. Jun-ichi Yoshida",
   "authors": [
@@ -22,6 +60,44 @@
   "affiliations": [
    "Johannes Gutenberg University Mainz",
    "University Medical Center of the Johannes Gutenberg University Mainz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3f934418551d8673",
+  "title": "Recent Advances in Electrochemical Chalcogen (S/Se)‐Functionalization of Organic Molecules",
+  "authors": [
+   "Guilherme M. Martins",
+   "Anne G. Meirinho",
+   "Nisar Ahmed",
+   "Antônio L. Braga",
+   "Samuel R. Mendes"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2019-10-30",
+  "year": 2019,
+  "doi": "10.1002/celc.201901525",
+  "url": "https://doi.org/10.1002/celc.201901525",
+  "source": "openalex",
+  "categories": [
+   "Green & Sustainable Electrosynthesis",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Alkynes",
+   "Arenes",
+   "Electrolytic",
+   "Electrosynthesis",
+   "Green Chemistry",
+   "Heterocycles"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Universidade Federal de Santa Catarina",
+   "Cardiff University",
+   "Universidade do Estado de Santa Catarina"
   ],
   "added": "2026-07-30"
  },
@@ -52,6 +128,41 @@
   "relevance_score": 51,
   "affiliations": [
    "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e0131c5a2d9b2920",
+  "title": "Gas Diffusion Electrodes on the Electrosynthesis of Controllable Iron Oxide Nanoparticles",
+  "authors": [
+   "Rafael Prato",
+   "Vincent Van Vught",
+   "Sam Eggermont",
+   "Guillermo Pozo",
+   "Pilar Marín",
+   "Jan Fransaer",
+   "Xochitl Dominguez-Benetton"
+  ],
+  "journal": "Scientific Reports",
+  "publisher": "Nature Portfolio",
+  "published": "2019-10-25",
+  "year": 2019,
+  "doi": "10.1038/s41598-019-51185-x",
+  "url": "https://doi.org/10.1038/s41598-019-51185-x",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Flemish Institute for Technological Research",
+   "KU Leuven",
+   "Strategic Initiative Materials in Flanders",
+   "Universidad Complutense de Madrid",
+   "Consejo Superior de Investigaciones Científicas"
   ],
   "added": "2026-07-30"
  },
@@ -94,6 +205,41 @@
   "added": "2026-07-30"
  },
  {
+  "id": "b618127896c43f71",
+  "title": "Degradation of methylisothiazolinone biocide using a carbon fiber felt-based flow-through electrode system (FES) via anodic oxidation",
+  "authors": [
+   "Lu Peng",
+   "Hai Liu",
+   "Wenlong Wang",
+   "Zi-Bin Xu",
+   "Xin-Ye Ni",
+   "Yin-Hu Wu",
+   "Qian-Yuan Wu",
+   "Hong-Ying Hu"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2019-10-18",
+  "year": 2019,
+  "doi": "10.1016/j.cej.2019.123239",
+  "url": "https://doi.org/10.1016/j.cej.2019.123239",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tsinghua–Berkeley Shenzhen Institute",
+   "Tsinghua University",
+   "State Key Joint Laboratory of Environment Simulation and Pollution Control",
+   "University Town of Shenzhen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "87cd3411159003bf",
   "title": "Selective and Scalable Dehydrogenative Electrochemical Synthesis of 3,3′,5,5′-Tetramethyl-2,2′-biphenol",
   "authors": [
@@ -123,6 +269,103 @@
    "Johannes Gutenberg University Mainz",
    "Evonik (Germany)",
    "Ruhr University Bochum"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "606575eab7fba71d",
+  "title": "Electrochemical and Non-electrochemical Oxidative Dearomatization Reactions of Indoles",
+  "authors": [
+   "Ju Wu"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2019-10-17",
+  "year": 2019,
+  "doi": "",
+  "url": "https://theses.hal.science/tel-03276301",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mediated & Indirect Electrolysis",
+   "Natural Product & Total Synthesis",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis",
+   "Cross-Coupling & C-C Formation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "C-C Bond Formation",
+   "Electrolysis",
+   "Electrooxidative",
+   "Indirect Electrolysis",
+   "Indoles",
+   "Radical Cation",
+   "Radical Chemistry",
+   "Redox Mediator",
+   "Total Synthesis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5e8884ba897b8276",
+  "title": "Electrosynthesis and characterization of PdIr using electrochemical atomic layer deposition for ethanol oxidation in alkaline electrolyte",
+  "authors": [
+   "Andile Mkhohlakali",
+   "Xolile Fuku",
+   "Remegia Mmalewane Modibedi",
+   "Lindiwe Khotseng",
+   "Sekhar C. Ray",
+   "Mkhulu Mathe"
+  ],
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2019-10-17",
+  "year": 2019,
+  "doi": "10.1016/j.apsusc.2019.144158",
+  "url": "https://doi.org/10.1016/j.apsusc.2019.144158",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Council for Scientific and Industrial Research",
+   "University of the Western Cape",
+   "University of South Africa"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bea44187c881564a",
+  "title": "Environmental-Stress-Induced Increased Softness of Electroactive Biofilms, Determined with a Torsional Quartz Crystal Microbalance",
+  "authors": [
+   "Philipp Sievers",
+   "Diethelm Johannsmann"
+  ],
+  "journal": "Analytical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2019-10-15",
+  "year": 2019,
+  "doi": "10.1021/acs.analchem.9b03204",
+  "url": "https://doi.org/10.1021/acs.analchem.9b03204",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Clausthal University of Technology"
   ],
   "added": "2026-07-30"
  },
@@ -191,6 +434,309 @@
    "Xiamen University",
    "Collaborative Innovation Center of Chemistry for Energy Materials",
    "Zhengzhou University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "09316210e5840134",
+  "title": "Electrosynthesis of Pyrenediones on Carbon Nanotube Electrodes for Efficient Electron Transfer with FAD‐dependent Glucose Dehydrogenase in Biofuel Cell Anodes",
+  "authors": [
+   "Pierre-Yves Blanchard",
+   "Paulo Henrique M. Buzzetti",
+   "Bridget Davies",
+   "Yannig Nédellec",
+   "Emerson M. Girotto",
+   "Andrew J. Gross",
+   "Alan Le Goff",
+   "Yuta Nishina",
+   "Serge Cosnier",
+   "Michael Holzinger"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2019-10-15",
+  "year": 2019,
+  "doi": "10.1002/celc.201901666",
+  "url": "https://doi.org/10.1002/celc.201901666",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Redox Mediator"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Département de Chimie Moléculaire",
+   "Université Grenoble Alpes",
+   "Universidade Estadual de Maringá",
+   "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5527083a93eaf17b",
+  "title": "Kolbe Electrolysis of Biomass‐Derived Fatty Acids Over Pt Nanocrystals in an Electrochemical Cell",
+  "authors": [
+   "Gang Yuan",
+   "Chan Wu",
+   "Guorong Zeng",
+   "Xiaopo Niu",
+   "Guoqiang Shen",
+   "Li Wang",
+   "Xiangwen Zhang",
+   "Rafael Luque",
+   "Qingfa Wang"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2019-10-14",
+  "year": 2019,
+  "doi": "10.1002/cctc.201901443",
+  "url": "https://doi.org/10.1002/cctc.201901443",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Green & Sustainable Electrosynthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "DFT",
+   "Electrolysis",
+   "Kolbe Electrolysis",
+   "Renewable Electricity"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Tianjin University of Science and Technology",
+   "Tianjin University",
+   "Collaborative Innovation Center of Chemical Science and Engineering Tianjin",
+   "University of Córdoba",
+   "Peoples' Friendship University of Russia"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a4ce9717c377309f",
+  "title": "Electrochemical Coupling of Arylsulfonyl Hydrazides and Tertiary Amines for the Synthesis of β‐Amidovinyl Sulfones",
+  "authors": [
+   "Han-Sung Kim",
+   "Sunwoo Lee"
+  ],
+  "journal": "European Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2019-10-13",
+  "year": 2019,
+  "doi": "10.1002/ejoc.201901277",
+  "url": "https://doi.org/10.1002/ejoc.201901277",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Platinum Electrode",
+   "Radical Chemistry",
+   "Undivided Cell"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Chonnam National University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "329bf87375002ca5",
+  "title": "Sustainable Electrocoupling of the Biogenic Valeric Acid under in Situ Low-Field Nuclear Magnetic Resonance Conditions",
+  "authors": [
+   "Bruna Ferreira Gomes",
+   "F. Joschka Holzhäuser",
+   "Carlos Manuel Silva Lobo",
+   "Pollyana Ferreira da Silva",
+   "Ernesto Danieli",
+   "Marcelo Carmo",
+   "Luiz Alberto Colnago",
+   "Stefan Palkovits",
+   "Regina Palkovits",
+   "Bernhard Blümich"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2019-10-07",
+  "year": 2019,
+  "doi": "10.1021/acssuschemeng.9b02768",
+  "url": "https://doi.org/10.1021/acssuschemeng.9b02768",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions",
+   "Cell Design & Electrodes",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Counter Electrode",
+   "Electrolysis",
+   "Electrooxidative",
+   "Green Chemistry",
+   "Kolbe Electrolysis",
+   "Reference Electrode",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "Universidade de São Paulo",
+   "University of Bayreuth",
+   "RWTH Aachen University",
+   "Philips (Germany)",
+   "Forschungszentrum Jülich",
+   "Brazilian Agricultural Research Corporation"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b904adc03d8d5aa3",
+  "title": "Core–Shell Pt@Ir Nanothorns on Carbon Fiber Paper Electrodes for Carboxylic Acid Valorization via Kolbe Electrolysis",
+  "authors": [
+   "Gang Yuan",
+   "Li Wang",
+   "Xiangwen Zhang",
+   "Rafael Luque",
+   "Qingfa Wang"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2019-10-04",
+  "year": 2019,
+  "doi": "10.1021/acssuschemeng.9b05045",
+  "url": "https://doi.org/10.1021/acssuschemeng.9b05045",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Kolbe Electrolysis"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Tianjin University",
+   "Collaborative Innovation Center of Chemical Science and Engineering Tianjin",
+   "University of Córdoba",
+   "Peoples' Friendship University of Russia"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e190bf0a1fa335bb",
+  "title": "Application of Acrylic‐Rubber‐Based Latex Binder to High‐Voltage Spinel Electrodes of Lithium‐Ion Batteries",
+  "authors": [
+   "Shoichi Hitomi",
+   "Kei Kubota",
+   "Tatsuo Horiba",
+   "Kazuo Hida",
+   "Takashi Matsuyama",
+   "Hiroshi Oji",
+   "Satoshi Yasuno",
+   "Shinichi Komaba"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2019-10-01",
+  "year": 2019,
+  "doi": "10.1002/celc.201901227",
+  "url": "https://doi.org/10.1002/celc.201901227",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tokyo Medical University",
+   "Tokyo University of Science",
+   "Nippon Kayaku (Japan)",
+   "Japan Synchrotron Radiation Research Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "60110a6e6ce962de",
+  "title": "Anodic Oxidation of Methylene Blue Dye from Aqueous Solution Using SnO2 Electrode",
+  "authors": [
+   "Ali Baddouh",
+   "Mohamed M. Rguiti",
+   "Brahim El Ibrahimi",
+   "Sajjad Hussain",
+   "Mohamed Errami",
+   "Volodymyr Tkach",
+   "Lahcen Bazzi",
+   "Mustapha Hilali"
+  ],
+  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "publisher": "",
+  "published": "2019-10-01",
+  "year": 2019,
+  "doi": "",
+  "url": "https://doaj.org/article/8bb8ae14b50e4ce4af259f28c1806f72",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Université Ibn Zohr",
+   "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+   "Universiapolis - Université Internationale d'Agadir",
+   "International University",
+   "Yuriy Fedkovych Chernivtsi National University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "52134dc273dc2ebb",
+  "title": "2D Materials Oxidation: New Concepts for Production of Scalable Single Layer Oxidized Regions by Local Anodic Oxidation of Graphene (Small 40/2019)",
+  "authors": [
+   "Sergio Quesada",
+   "Fernando Borrás",
+   "Miguel García-Vélez",
+   "Carmen Coya",
+   "Esteban Climent-Pascual",
+   "Carmen Munuera",
+   "Ignacio J. Villar-García",
+   "Víctor A. de la Peña O’Shea",
+   "A. de Andrés",
+   "A.L. Álvarez"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2019-10-01",
+  "year": 2019,
+  "doi": "10.1002/smll.201970217",
+  "url": "https://doi.org/10.1002/smll.201970217",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Universidad Rey Juan Carlos",
+   "Universidad Politécnica de Madrid",
+   "Instituto de Ciencia de Materiales de Madrid",
+   "IMDEA Energy Institute"
   ],
   "added": "2026-07-30"
  },
