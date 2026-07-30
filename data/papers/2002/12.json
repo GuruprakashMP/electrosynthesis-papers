@@ -1,5 +1,88 @@
 [
  {
+  "id": "ab2f8718759524a8",
+  "title": "Simons electrochemical fluorination of substituted homopiperazines(hexahydro-1,4-diazepines) and piperazines",
+  "authors": [
+   "Takashi Abe",
+   "Hajime Baba",
+   "Haruhiko Fukaya",
+   "Masanori Tamura",
+   "Akira Sekiya"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2002-12-27",
+  "year": 2002,
+  "doi": "10.1016/s0022-1139(02)00247-6",
+  "url": "https://doi.org/10.1016/s0022-1139(02)00247-6",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Institute of Advanced Industrial Science and Technology",
+   "Research Institute of Innovative Technology for the Earth"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e4bc1b07d85a99d2",
+  "title": "10 GHz-range surface acoustic wave inter-digital transducers and low loss filters using anodic oxidation technology",
+  "authors": [
+   "Kosho Yamanouchi",
+   "Y. Wagatsuma",
+   "K. Aoki",
+   "T. Tsuji"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2002-12-24",
+  "year": 2002,
+  "doi": "10.1109/freq.1996.559864",
+  "url": "https://doi.org/10.1109/freq.1996.559864",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4f06b3ba38e59e43",
+  "title": "2∼10 GHz surface acoustic wave unidirectional inter-digital transducers and low-loss filters using anodic oxidation technology",
+  "authors": [
+   "Kosho Yamanouchi",
+   "Y. Wagatsuma",
+   "K. Aoki",
+   "T. Tsuji",
+   "Hiroyuki Odagawa"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2002-12-24",
+  "year": 2002,
+  "doi": "10.1109/isaf.1996.602772",
+  "url": "https://doi.org/10.1109/isaf.1996.602772",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "04550fbc3a56c212",
   "title": "TEMPO‐Mediated Anodic Oxidation of Methyl Glycosides and 1‐Methyl and 1‐Azido Disaccharides",
   "authors": [
@@ -25,6 +108,117 @@
   "affiliations": [
    "University of Münster"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8e0721615cbc15c0",
+  "title": "Cobalt-Catalyzed Direct Electrochemical Cross-Coupling between Aryl or Heteroaryl Halides and Allylic Acetates or Carbonates",
+  "authors": [
+   "Paulo Gomes",
+   "Corinne Gosmini",
+   "Jacques Périchon"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2002-12-20",
+  "year": 2002,
+  "doi": "10.1021/jo026421b",
+  "url": "https://doi.org/10.1021/jo026421b",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Co Catalysis",
+   "Cross-Coupling",
+   "Electrochemical Cross-Coupling"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris Cité"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7e49fc07cd07e195",
+  "title": "Switching Preferences",
+  "authors": [],
+  "journal": "Science",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2002-12-20",
+  "year": 2002,
+  "doi": "10.1126/science.298.5602.2287c",
+  "url": "https://doi.org/10.1126/science.298.5602.2287c",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 41,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c1798a423aa81b61",
+  "title": "Degradation of color photographic waste fix solution by anodic oxidation",
+  "authors": [
+   "Romas Ragauskas",
+   "Arvydas Dikčius",
+   "Tomas Vengris",
+   "Audrius Padarauskas"
+  ],
+  "journal": "Journal of Chemical Technology & Biotechnology",
+  "publisher": "Wiley",
+  "published": "2002-12-13",
+  "year": 2002,
+  "doi": "10.1002/jctb.747",
+  "url": "https://doi.org/10.1002/jctb.747",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Institute of Chemistry",
+   "Vilnius University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2c4d026cfdb1c873",
+  "title": "ChemInform Abstract: Electrochemical Carboxylation of N‐(2‐Bromopropionyl)‐4R‐phenyloxazolidin‐2‐one: An Efficient Route to Unsymmetrical Methylmalonic Ester Derivatives.",
+  "authors": [
+   "Marta Feroci",
+   "Achille Inesi",
+   "Monica Orsini",
+   "Laura Palombi"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2002-12-10",
+  "year": 2002,
+  "doi": "10.1002/chin.200249121",
+  "url": "https://doi.org/10.1002/chin.200249121",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-30"
  },
  {
@@ -54,6 +248,218 @@
   "relevance_score": 66,
   "affiliations": [
    "Washington University in St. Louis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f3ba64f14b93f152",
+  "title": "Stereoselectivity in Intramolecular Cyclization of Non-conjugated Unsaturated Ketones by Electroreduction",
+  "authors": [
+   "Ikuzo Nishiguchi",
+   "Satoshi Goda",
+   "Kouji Yamada",
+   "Yoshimasa Yamamoto",
+   "Hirofumi Maekawa"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "2002-12-01",
+  "year": 2002,
+  "doi": "10.1246/cl.2002.1254",
+  "url": "https://doi.org/10.1246/cl.2002.1254",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Nagaoka University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ec1f5b4de9c00ca3",
+  "title": "Preparation of Poly-N-Methylpyrrole Coated Platinum Modified Electrode in Chloroform in the Presence of Various Supporting Electrolytes and Its Use for the Catalytic Oxidation of Ascorbic Acid and Hydroquinone",
+  "authors": [
+   "Jahan Bakhsh Raoof",
+   "Reza Ojani",
+   "Mohammad Ali Roshanfekr Fallah"
+  ],
+  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "publisher": "",
+  "published": "2002-12-01",
+  "year": 2002,
+  "doi": "",
+  "url": "https://doaj.org/article/7308d82d72994faf8441c0a591e3dc9e",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Platinum Electrode",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "University of Mazandaran"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c9d7a5593e94be45",
+  "title": "A CATLYTIC SnO 2 BASED ELECTRODES FOR ELECTROSYNTHESIS AND ENERGY DEVICE APPLICATIONS",
+  "authors": [
+   "M. Anbu Kulandainathan",
+   "K. Kulangiappar",
+   "Tejas Dhanalaxmi Raju",
+   "A. Muthukumaran"
+  ],
+  "journal": "Solid State Ionics",
+  "publisher": "Elsevier BV",
+  "published": "2002-12-01",
+  "year": 2002,
+  "doi": "10.1142/9789812776259_0077",
+  "url": "https://doi.org/10.1142/9789812776259_0077",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Central Electrochemical Research Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8ccdfbfac395eec3",
+  "title": "Electrochemical reduction behaviour of α-methylbenzylchloride",
+  "authors": [
+   "Damodar Janmanchi",
+   "Shaik Khaja Lateef",
+   "S. Krishna Mohan",
+   "S. Jayarama Reddy"
+  ],
+  "journal": "Journal of Scientific & Industrial Research",
+  "publisher": "NISCAIR",
+  "published": "2002-12-01",
+  "year": 2002,
+  "doi": "",
+  "url": "http://nopr.niscair.res.in/bitstream/123456789/17741/1/JSIR%2061%2812%29%201063-1067.pdf",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Reduction Potential",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "73de0e9dee50a8e0",
+  "title": "Improvement in electrical characteristics of ultrathin thermally grown SiO 2 by selective anodic oxidation",
+  "authors": [
+   "Roy Paily",
+   "Amitava DasGupta",
+   "Nandita DasGupta"
+  ],
+  "journal": "IEEE Electron Device Letters",
+  "publisher": "Institute of Electrical and Electronics Engineers",
+  "published": "2002-12-01",
+  "year": 2002,
+  "doi": "10.1109/led.2002.805742",
+  "url": "https://doi.org/10.1109/led.2002.805742",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Indian Institute of Technology Madras",
+   "Indian Institute of Technology Indore"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7356fa63e45a84cb",
+  "title": "Phenolic antioxidants: electrochemical behavior and the mechanistic elements underlying their anodic oxidation reaction",
+  "authors": [
+   "Zhiyong Cheng",
+   "Jie Ren",
+   "Yuanzong Li",
+   "Wen-Bao Chang",
+   "Zhida Chen"
+  ],
+  "journal": "Redox Report",
+  "publisher": "Taylor & Francis",
+  "published": "2002-12-01",
+  "year": 2002,
+  "doi": "10.1179/135100002125001171",
+  "url": "https://doi.org/10.1179/135100002125001171",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Oxidation Potential",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Peking University",
+   "Beijing National Laboratory for Molecular Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "22dcd6bda026c929",
+  "title": "Reactions of Direct Electrocarboxylation of 1-Phenylethylbromide and 1-(4-Isobutylphenyl)ethyl Chloride in the Presence of β-Cyclodextrin",
+  "authors": [
+   "А. А. Степанов",
+   "Yu. Yu. Volodin",
+   "М. К. Грачев",
+   "G. I. Kurochkina",
+   "A. N. Syrtsev",
+   "В. А. Гринберг"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2002-12-01",
+  "year": 2002,
+  "doi": "10.1023/a:1021629007747",
+  "url": "https://doi.org/10.1023/a:1021629007747",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "A. N. Nesmeyanov Institute of Organoelement Compounds",
+   "Moscow State Pedagogical University",
+   "Frumkin Institute of Physical Chemistry and Electrochemistry"
   ],
   "added": "2026-07-30"
  },

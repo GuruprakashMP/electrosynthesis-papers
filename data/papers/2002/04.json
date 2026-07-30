@@ -1,5 +1,379 @@
 [
  {
+  "id": "517e6d450db1e57e",
+  "title": "Sonoelectrochemistry",
+  "authors": [
+   "Timothy J. Mason",
+   "John P. Lorimer"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2002-04-27",
+  "year": 2002,
+  "doi": "10.1002/352760054x.ch6",
+  "url": "https://doi.org/10.1002/352760054x.ch6",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrolytic",
+   "Electrooxidative",
+   "Electroreductive"
+  ],
+  "relevance_score": 44,
+  "affiliations": [
+   "Coventry University",
+   "University of Birmingham",
+   "Institut UTINAM"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f1fa37cea64ac591",
+  "title": "Anodic oxidation of the dye materials methylene blue, acid blue 25, reactive blue 2 and reactive blue 15 and the characterisation of novel intermediate compounds in the anodic oxidation of methylene blue",
+  "authors": [
+   "J. D. Donaldson",
+   "Susan M. Grimes",
+   "Nael Yasri",
+   "B.B. Wheals",
+   "John Parrick",
+   "W. Errington"
+  ],
+  "journal": "Journal of Chemical Technology & Biotechnology",
+  "publisher": "Wiley",
+  "published": "2002-04-18",
+  "year": 2002,
+  "doi": "10.1002/jctb.642",
+  "url": "https://doi.org/10.1002/jctb.642",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Brunel University of London",
+   "University of Warwick"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a8e4f65684174917",
+  "title": "Electrochemical Oxidation of N - p -Toluenesulfinamides",
+  "authors": [
+   "Marcelo G. Montes D’Oca",
+   "Dennis Russowsky",
+   "Karen Canto",
+   "Tanara Gressler",
+   "Reinaldo Simões Gonçalves"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2002-04-17",
+  "year": 2002,
+  "doi": "10.1021/ol0258381",
+  "url": "https://doi.org/10.1021/ol0258381",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Universidade Federal do Rio Grande do Sul"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6f1a878f9db013e4",
+  "title": "Electrosynthesis Cell for X-Ray Absorption Fine Structure Measurement: Reduction of Air-Sensitive Iron-Sulfur Compounds",
+  "authors": [
+   "Mark I. Bondin",
+   "G. J. Foran",
+   "Stephen P. Best"
+  ],
+  "journal": "Australian Journal of Chemistry",
+  "publisher": "CSIRO Publishing",
+  "published": "2002-04-04",
+  "year": 2002,
+  "doi": "10.1071/ch01152",
+  "url": "https://doi.org/10.1071/ch01152",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8e41d97acce63a60",
+  "title": "Electrochemical synthesis of poly(p-xylylenes) (PPXs) and poly(p-phenylenevinylenes) (PPVs) and the study of xylylene (quinodimethane) intermediates; an underrated approach",
+  "authors": [
+   "James H. P. Utley",
+   "Jonas Gruber"
+  ],
+  "journal": "Journal of Materials Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2002-04-02",
+  "year": 2002,
+  "doi": "10.1039/b200411a",
+  "url": "https://doi.org/10.1039/b200411a",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Arenes",
+   "Cathodic Reduction",
+   "Cyclic Voltammetry",
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "Queen Mary University of London",
+   "Universidade de São Paulo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "008ebd28d060c524",
+  "title": "Theoretical Insights into the Reductive Decompositions of Propylene Carbonate and Vinylene Carbonate: Density Functional Theory Studies",
+  "authors": [
+   "Yixuan Wang",
+   "Perla B. Balbuena"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2002-04-02",
+  "year": 2002,
+  "doi": "10.1021/jp014371t",
+  "url": "https://doi.org/10.1021/jp014371t",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Graphite Electrode",
+   "Radical Anion",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of South Carolina"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c6bf6fd8017bec7a",
+  "title": "The influence of cathodic reduction, Fe2+ and Cu2+ ions on the electrochemical dissolution of chalcopyrite in acidic solution",
+  "authors": [
+   "A.E. Elsherief"
+  ],
+  "journal": "Minerals Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2002-04-01",
+  "year": 2002,
+  "doi": "10.1016/s0892-6875(01)00208-4",
+  "url": "https://doi.org/10.1016/s0892-6875(01)00208-4",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Central Metallurgical Research and Development Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bd78113426324691",
+  "title": "Electrochemical synthesis of adherent polypyrrole films on zinc electrodes in acidic and neutral organic media",
+  "authors": [
+   "M. Bazzaoui",
+   "E.A. Bazzaoui",
+   "La Salete Martins",
+   "J.I. Martins"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "2002-04-01",
+  "year": 2002,
+  "doi": "10.1016/s0379-6779(01)00666-x",
+  "url": "https://doi.org/10.1016/s0379-6779(01)00666-x",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Universidade do Porto",
+   "Mohamed I University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bc149957992d2390",
+  "title": "Electrosynthesis of a biotinylated polypyrrole film and study of the avidin recognition by QCM",
+  "authors": [
+   "Luz-Maria Torres Rodrı́gez",
+   "Martial Billon",
+   "André Roget",
+   "Gérard Bidan"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2002-04-01",
+  "year": 2002,
+  "doi": "10.1016/s0022-0728(02)00725-8",
+  "url": "https://doi.org/10.1016/s0022-0728(02)00725-8",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Joseph Fourier",
+   "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+   "CEA Grenoble",
+   "Laboratoire d'Electrochimie Moléculaire"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "49813879b64df320",
+  "title": "Organoelement compounds in the electrochemical synthesis of fluoroorganics",
+  "authors": [
+   "А. А. Степанов"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2002-04-01",
+  "year": 2002,
+  "doi": "10.1016/s0022-1139(02)00041-6",
+  "url": "https://doi.org/10.1016/s0022-1139(02)00041-6",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "A. N. Nesmeyanov Institute of Organoelement Compounds"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "40874d28eb1c4e8d",
+  "title": "Barium titanate films synthesized by an anodic oxidation-based electrochemical method",
+  "authors": [
+   "Fu-Hsing Lu",
+   "Chu-Tsun Wu",
+   "Chueh-Ya Hung"
+  ],
+  "journal": "Surface and Coatings Technology",
+  "publisher": "Elsevier BV",
+  "published": "2002-04-01",
+  "year": 2002,
+  "doi": "10.1016/s0257-8972(01)01674-7",
+  "url": "https://doi.org/10.1016/s0257-8972(01)01674-7",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Chung Hsing University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "30195be5148fb240",
+  "title": "Characteristics of Schottky Diodes on 6H-SiC Surfaces after Sacrificial Anodic Oxidation",
+  "authors": [
+   "Masashi Kato",
+   "M. Ichimura",
+   "Eisuke Arai"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2002-04-01",
+  "year": 2002,
+  "doi": "10.4028/www.scientific.net/msf.389-393.933",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.389-393.933",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Nagoya Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2cfb344b735271dc",
+  "title": "Anodic oxidation of 4-methoxy-1-naphthol",
+  "authors": [
+   "Hesham R. El-Seedi",
+   "Shosuke Yamamura",
+   "Shigeru Nishiyama"
+  ],
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "published": "2002-04-01",
+  "year": 2002,
+  "doi": "10.1016/s0040-4039(02)00544-0",
+  "url": "https://doi.org/10.1016/s0040-4039(02)00544-0",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Keio University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "16362d7461937081",
   "title": "Ultrasonic effects on electroorganic processes. Part 23. Electroreduction of dimethyl maleate in acoustic fields produced by different types of ultrasonic devices",
   "authors": [

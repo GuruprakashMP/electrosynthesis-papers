@@ -1,5 +1,59 @@
 [
  {
+  "id": "c6876172af915f1a",
+  "title": "Sonoelectrochemistry – the application of ultrasound to electrochemical systems",
+  "authors": [
+   "David J. Walton"
+  ],
+  "journal": "ARKIVOC",
+  "publisher": "ARKAT USA, Inc.",
+  "published": "2002-06-29",
+  "year": 2002,
+  "doi": "10.3998/ark.5550190.0003.322",
+  "url": "https://doi.org/10.3998/ark.5550190.0003.322",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Mechanism"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Coventry University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f7a6245f72b55f69",
+  "title": "ChemInform Abstract: Anodic Oxidation of Phenols Towards the Synthesis of Bioactive Natural Products",
+  "authors": [
+   "Shosuke Yamamura",
+   "Shigeru Nishiyama"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2002-06-18",
+  "year": 2002,
+  "doi": "10.1002/chin.200224256",
+  "url": "https://doi.org/10.1002/chin.200224256",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Natural Product & Total Synthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Natural Products"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Keio University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "9fe618014fc4d2fa",
   "title": "ChemInform Abstract: Reduction of a “Cation Pool”: A New Approach to Radical Mediated C—C Bond Formation.",
   "authors": [
@@ -25,6 +79,37 @@
   "relevance_score": 55,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ee7a31eadc63d597",
+  "title": "Nanometer-sized optical waveguides fabricated by anodic oxidation using a scanning near-field optical microscope",
+  "authors": [
+   "Teppei Onuki",
+   "T. Tokizaki",
+   "Y. Watanabe",
+   "T. Tsuchiya",
+   "Tadaaki Tani"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "2002-06-17",
+  "year": 2002,
+  "doi": "10.1063/1.1486479",
+  "url": "https://doi.org/10.1063/1.1486479",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Institute of Advanced Industrial Science and Technology",
+   "Tokyo University of Science",
+   "Tokyo University of Agriculture and Technology"
   ],
   "added": "2026-07-30"
  },
@@ -81,6 +166,172 @@
   "relevance_score": 55,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6d3fe2c211f1cbe0",
+  "title": "Electroorganic Synthesis of New Benzofuro[2,3- d ]pyrimidine Derivatives",
+  "authors": [
+   "Davood Nematollahi",
+   "Hassan Goodarzi"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2002-06-05",
+  "year": 2002,
+  "doi": "10.1021/jo0200623",
+  "url": "https://doi.org/10.1021/jo0200623",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrochemical Synthesis",
+   "Electroorganic",
+   "Undivided Cell"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Bu-Ali Sina University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e2facf6c61ef5cc1",
+  "title": "Anodic oxidation of molybdenum in basic media",
+  "authors": [
+   "Zarife MISIRLIOĞLU"
+  ],
+  "journal": "DergiPark (Istanbul University)",
+  "publisher": "Istanbul University",
+  "published": "2002-06-01",
+  "year": 2002,
+  "doi": "",
+  "url": "https://dergipark.org.tr/en/pub/gefad/article/91020",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cb2fb1109b7da777",
+  "title": "Electrochemical Hydrogenation of α-Arylvinylphosphonic Acids on Platinum and Palladium Modified with Adatoms",
+  "authors": [
+   "Н. В. Смирнова",
+   "N. S. Gulyukina",
+   "E. A. Astafev",
+   "О. А. Петрий",
+   "Galina A. Tsirlina",
+   "I. P. Beletskaya"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2002-06-01",
+  "year": 2002,
+  "doi": "10.1023/a:1016002618106",
+  "url": "https://doi.org/10.1023/a:1016002618106",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrochemical Hydrogenation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Platov South-Russian State Polytechnic University",
+   "Lomonosov Moscow State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "987e93b355ef3106",
+  "title": "Free convective mass transfer at horizontal single screens and arrays of horizontal screens in relation to electrochemical reactor design",
+  "authors": [
+   "Gomma Sedahmed",
+   "I. Nirdosh"
+  ],
+  "journal": "The Canadian Journal of Chemical Engineering",
+  "publisher": "Wiley",
+  "published": "2002-06-01",
+  "year": 2002,
+  "doi": "10.1002/cjce.5450800305",
+  "url": "https://doi.org/10.1002/cjce.5450800305",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Alexandria University",
+   "Lakehead University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "10276ae5022d4649",
+  "title": "Electrochemical synthesis of organic compounds: 1. Addition of sulfinic acids to electrochemically generated o- and p-benzoquinones",
+  "authors": [
+   "Farahnaz Nour-Mohammadi",
+   "S.M. Golabi",
+   "A. Saadnia"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2002-06-01",
+  "year": 2002,
+  "doi": "10.1016/s0022-0728(02)00906-3",
+  "url": "https://doi.org/10.1016/s0022-0728(02)00906-3",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrogenerated Species"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Tabriz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0f18d8a8474557e7",
+  "title": "Electroorganic reactions. Part 56: Anodic oxidation of 2-methyl- and 2-benzylnaphthalenes: factors influencing competing pathways",
+  "authors": [
+   "James H. P. Utley",
+   "Gregor G. Rozenberg"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "2002-06-01",
+  "year": 2002,
+  "doi": "10.1016/s0040-4020(02)00495-7",
+  "url": "https://doi.org/10.1016/s0040-4020(02)00495-7",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electroorganic"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Queen Mary University of London"
   ],
   "added": "2026-07-30"
  }
