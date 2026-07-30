@@ -1,5 +1,94 @@
 [
  {
+  "id": "e32d4978761e707e",
+  "title": "Electro-oxidation of Benzyl Alcohol in a Biphasic System Consisting of Supercritical CO 2 and Ionic Liquids",
+  "authors": [
+   "Guoying Zhao",
+   "Tao Jiang",
+   "Weize Wu",
+   "Buxing Han",
+   "Zhimin Liu",
+   "Haixiang Gao"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2004-07-31",
+  "year": 2004,
+  "doi": "10.1021/jp037292l",
+  "url": "https://doi.org/10.1021/jp037292l",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Beijing National Laboratory for Molecular Sciences",
+   "Institute of Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "63989633412a326c",
+  "title": "The Electrochemistry of the Triple Bond",
+  "authors": [
+   "Hans Viertler",
+   "Vera L. Pardini",
+   "Reinaldo Romero Vargas"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2004-07-29",
+  "year": 2004,
+  "doi": "10.1002/0470024771.ch10",
+  "url": "https://doi.org/10.1002/0470024771.ch10",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Universidade de São Paulo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3bff55e547526906",
+  "title": "Synthesis of Complex Organofluorine Compounds",
+  "authors": [
+   "Peer Kirsch"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2004-07-27",
+  "year": 2004,
+  "doi": "10.1002/352760393x.ch2",
+  "url": "https://doi.org/10.1002/352760393x.ch2",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrochemical Fluorination",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Merck KGaA, Darmstadt (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "6b94933b67c0d23d",
   "title": "Ultrasonic effects on electroorganic processes. Part 25. Stereoselectivity control in cathodic debromination of stilbenedibromides",
   "authors": [
@@ -27,6 +116,123 @@
    "Tokyo Institute of Technology",
    "Asahi Kasei (Japan)",
    "National Institute of Technology, Tsuruoka College"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e48aa202681eb2a2",
+  "title": "Novel Electrosynthesis of Arylboronic Acids and Esters",
+  "authors": [
+   "Carine Laza",
+   "Élisabet Duñach"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2004-07-20",
+  "year": 2004,
+  "doi": "10.1002/chin.200432278",
+  "url": "https://doi.org/10.1002/chin.200432278",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Université Côte d'Azur"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8db648f1adf1d708",
+  "title": "Cu(I)-Mediated Alkyl Group Transfer of Alkylboranes to Carboxylic Acid Chlorides",
+  "authors": [
+   "Jung Hoon Choi"
+  ],
+  "journal": "Bulletin of the Korean Chemical Society",
+  "publisher": "Wiley",
+  "published": "2004-07-20",
+  "year": 2004,
+  "doi": "10.5012/bkcs.2004.25.7.1085",
+  "url": "https://doi.org/10.5012/bkcs.2004.25.7.1085",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Alkenes",
+   "C-C Bond Formation",
+   "Sacrificial Anode",
+   "Undivided Cell"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Hanyang University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1e378a85d03938a7",
+  "title": "Enaminones as Synthones",
+  "authors": [
+   "Uwe Kuckländer"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2004-07-20",
+  "year": 2004,
+  "doi": "10.1002/0470024763.ch10",
+  "url": "https://doi.org/10.1002/0470024763.ch10",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Alkynes",
+   "Anodic Oxidation",
+   "Indoles",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Heinrich Heine University Düsseldorf"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "36a4c96d8e0f5eb6",
+  "title": "Influence of the Experimental System and Optimization of the Selectivity for the Electrocarboxylation of Chloroacetonitrile to Cyanoacetic Acid",
+  "authors": [
+   "Onofrio Scialdone",
+   "Alessandro Galia",
+   "Carmelo Belfiore",
+   "Giuseppe Filardo",
+   "Giuseppe Silvestri"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2004-07-15",
+  "year": 2004,
+  "doi": "10.1021/ie034275+",
+  "url": "https://doi.org/10.1021/ie034275+",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation",
+   "Sacrificial Anode",
+   "Undivided Cell"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Palermo"
   ],
   "added": "2026-07-30"
  },
@@ -64,6 +270,157 @@
   "added": "2026-07-30"
  },
  {
+  "id": "34ef800367a9ec9e",
+  "title": "Organic Cross-Linked Electropolymers as Supported Oxidation Catalysts: Poly((tetrakis(9,9‘-spirobifluorenyl)porphyrin)manganese) Films",
+  "authors": [
+   "Cyril Poriel",
+   "Yann Ferrand",
+   "Paul Le Maux",
+   "Joëlle Rault-Berthelot",
+   "Gérard Simonneaux"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2004-07-09",
+  "year": 2004,
+  "doi": "10.1021/ic049641b",
+  "url": "https://doi.org/10.1021/ic049641b",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Alkenes",
+   "Anodic Oxidation",
+   "Working Electrode"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut des Sciences Chimiques de Rennes",
+   "Laboratoire d'Electrochimie Moléculaire",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "69861fce0818ffcf",
+  "title": "An efficient method for the synthesis of 1-chlorophenazines based on the selective cathodic reduction of 3,3,6,6-tetrachloro-1,2-cyclohexanedione",
+  "authors": [
+   "Antonio Guirado",
+   "Alfredo Cerezo",
+   "Raquel Andreu",
+   "José Ignacio López Sánchez",
+   "Delia Bautista"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "2004-07-07",
+  "year": 2004,
+  "doi": "10.1016/j.tet.2004.06.089",
+  "url": "https://doi.org/10.1016/j.tet.2004.06.089",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Murcia"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "32afd2b8d5e8a38c",
+  "title": "Anodic Oxidation of Tetrahydro‐β‐carboline Derivatives. Formal Oxidation of Protonated Tertiary Amines.",
+  "authors": [
+   "Loı̈c Planas",
+   "Thierry Martens",
+   "Florence Billon-Souquet",
+   "Jacques Royer"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2004-07-05",
+  "year": 2004,
+  "doi": "10.1002/chin.200430140",
+  "url": "https://doi.org/10.1002/chin.200430140",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Délégation Paris 5",
+   "Centre National de la Recherche Scientifique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4cb2e45fbad3ea96",
+  "title": "Aspects of ZnSe electrosynthesis from selenite and selenosulfite aqueous solutions",
+  "authors": [
+   "M. Bouroushian",
+   "T. Kosanovic",
+   "N. Spyrellis"
+  ],
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2004-07-02",
+  "year": 2004,
+  "doi": "10.1007/s10008-004-0556-3",
+  "url": "https://doi.org/10.1007/s10008-004-0556-3",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Technical University of Athens"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b2325317adf720f1",
+  "title": "Electrochemical behaviour of 1-{[(3-halophenyl)imino]methyl}-2-naphthol Schiff bases on graphite electrodes",
+  "authors": [
+   "Kamran Polat",
+   "Mustafa Uçar",
+   "Mehmet Levent Aksu",
+   "Hüseyin Ünver"
+  ],
+  "journal": "Canadian Journal of Chemistry",
+  "publisher": "NRC Research Press",
+  "published": "2004-07-01",
+  "year": 2004,
+  "doi": "10.1139/v04-021",
+  "url": "https://doi.org/10.1139/v04-021",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Graphite Electrode",
+   "Preparative Electrolysis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "8d8e05625093f205",
   "title": "Oxidative Cyclizations: The Asymmetric Synthesis of (−)-Alliacol A",
   "authors": [
@@ -90,6 +447,30 @@
   "affiliations": [
    "Washington University in St. Louis"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "82bc3d864c495292",
+  "title": "Polarization Curve of a Porous Hydrophobized Electrode for Electrosynthesis Involving a Side Electrochemical Reaction",
+  "authors": [
+   "Yu. V. Saltykov",
+   "В. Л. Корниенко"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2004-07-01",
+  "year": 2004,
+  "doi": "10.1023/b:ruel.0000035254.63589.6f",
+  "url": "https://doi.org/10.1023/b:ruel.0000035254.63589.6f",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-30"
  }
 ]

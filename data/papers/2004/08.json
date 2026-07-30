@@ -1,5 +1,157 @@
 [
  {
+  "id": "8782d132363a6153",
+  "title": "Synthesis of γ‐Lactones from Cycloocta‐1,5‐diene − Starting Materials for Natural‐Product Synthesis",
+  "authors": [
+   "Sandra Behr",
+   "K. Hegemann",
+   "Holger Schimanski",
+   "Roland Fröhlich",
+   "Günter Haufe"
+  ],
+  "journal": "European Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2004-08-30",
+  "year": 2004,
+  "doi": "10.1002/ejoc.200400219",
+  "url": "https://doi.org/10.1002/ejoc.200400219",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Kolbe Electrolysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "157bd1f4da37d476",
+  "title": "Electrochemical Oxidation of Aliphatic Amines and Their Attachment to Carbon and Metal Surfaces",
+  "authors": [
+   "Alain Adenier",
+   "Mohamed M. Chehimi",
+   "Iluminada Gallardo",
+   "Jean Pinson",
+   "Neus Vilà"
+  ],
+  "journal": "Langmuir",
+  "publisher": "American Chemical Society",
+  "published": "2004-08-17",
+  "year": 2004,
+  "doi": "10.1021/la049194c",
+  "url": "https://doi.org/10.1021/la049194c",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Preparative Electrolysis",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Universitat Autònoma de Barcelona",
+   "Université Paris Cité",
+   "Interfaces Traitements Organisation et Dynamique des Systèmes",
+   "Laboratoire d'Electrochimie Moléculaire"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f0182c6b66ff8635",
+  "title": "Spectroelectrochemical investigation of the anodic oxidation of dibenzo-18-crown-6",
+  "authors": [
+   "Atilla Cihaner",
+   "Ahmet M. Önal"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2004-08-05",
+  "year": 2004,
+  "doi": "10.1016/j.jelechem.2004.05.005",
+  "url": "https://doi.org/10.1016/j.jelechem.2004.05.005",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Atilim University",
+   "Middle East Technical University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f5984aaea48903cd",
+  "title": "Investigation of Structure and Properties of Low Temperature Deposited Diamond-Like Carbon Films",
+  "authors": [
+   "Charoendee Pingsuthiwong"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2004-08-01",
+  "year": 2004,
+  "doi": "10.12794/metadc4580",
+  "url": "https://doi.org/10.12794/metadc4580",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrochemical Cyclization",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Toulouse School of Economics"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cbf5c156579d610f",
+  "title": "Polarization Dependence of a Hydrophobized Electrode for Electrosynthesis of a Soluble Product",
+  "authors": [
+   "Yu. V. Saltykov",
+   "В. Л. Корниенко"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2004-08-01",
+  "year": 2004,
+  "doi": "10.1023/b:ruel.0000037948.02869.9a",
+  "url": "https://doi.org/10.1023/b:ruel.0000037948.02869.9a",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "Institute of Chemistry and Chemical Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "9704f42cd318e28a",
   "title": "Mechanism of the palladium-catalysed electrosynthesis of diethyl carbonate from carbon monoxide and ethanol",
   "authors": [
@@ -62,6 +214,41 @@
   "relevance_score": 55,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6222a80e0aee077c",
+  "title": "Electrosynthesis of Poly(3,4-ethylenedioxythiophene) and Its Composite with a Polymer Perfluorinated Sulfo-Cationite from Water–Acetonitrile Solutions",
+  "authors": [
+   "E. V. Ovsyannikova",
+   "M. Yu. Grosheva",
+   "V. V. Topolev",
+   "Sergey V. Timofeev",
+   "L. P. Bobrova",
+   "F. Jonas",
+   "Stephan Kirchmeyer",
+   "А. Д. Алиев",
+   "Н. М. Алпатова"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2004-08-01",
+  "year": 2004,
+  "doi": "10.1023/b:ruel.0000037947.57607.55",
+  "url": "https://doi.org/10.1023/b:ruel.0000037947.57607.55",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Frumkin Institute of Physical Chemistry and Electrochemistry",
+   "H.C. Starck (Germany)",
+   "Russian Academy of Sciences"
   ],
   "added": "2026-07-30"
  }

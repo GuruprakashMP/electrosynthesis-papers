@@ -1,5 +1,109 @@
 [
  {
+  "id": "760fd1e79ed11b15",
+  "title": "Dramatic effects of the electrolyte cation on the selectivity of electroreductive cycloaddition reactions of bis(enones)",
+  "authors": [
+   "Greg A. N. Felton",
+   "Nathan L. Bauld"
+  ],
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "published": "2004-09-30",
+  "year": 2004,
+  "doi": "10.1016/j.tetlet.2004.09.094",
+  "url": "https://doi.org/10.1016/j.tetlet.2004.09.094",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "The University of Texas at Austin"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3f5a7d8790d90c4f",
+  "title": "Anodic oxidation of formic acid",
+  "authors": [
+   "Miroslav Gojo",
+   "Miroslav Karšulin"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2004-09-27",
+  "year": 2004,
+  "doi": "",
+  "url": "https://www.bib.irb.hr/153999",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f858c5787f81800c",
+  "title": "The advantageous use of mediators in the electrosynthesis of poly(p-phenylenevinylene)s",
+  "authors": [
+   "Laura O. Péres",
+   "James H. P. Utley",
+   "Jonas Gruber"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2004-09-25",
+  "year": 2004,
+  "doi": "10.1016/j.elecom.2004.09.008",
+  "url": "https://doi.org/10.1016/j.elecom.2004.09.008",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidade de São Paulo",
+   "Queen Mary University of London"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8a02bbc428eb501f",
+  "title": "A user-friendly approach to local anodic oxidation",
+  "authors": [
+   "Pasqualantonio Pingue",
+   "P. Baschieri",
+   "C. Ascoli",
+   "D. E. Michel"
+  ],
+  "journal": "arXiv (Cornell University)",
+  "publisher": "Cornell University",
+  "published": "2004-09-23",
+  "year": 2004,
+  "doi": "10.48550/arxiv.cond-mat/0409608",
+  "url": "https://doi.org/10.48550/arxiv.cond-mat/0409608",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "c49d94d5f57c9abc",
   "title": "Generation of Alkoxycarbenium Ion Pools from Thioacetals and Applications to Glycosylation Chemistry",
   "authors": [
@@ -28,6 +132,146 @@
   "relevance_score": 64,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "be3d7dfc6c59f43e",
+  "title": "[2,3] Sigmatropic Rearrangement of Unstable Sulfur Ylides from Allyl Sulfonium Salts. Comparative Study of Electrochemical Reduction with the Base Method and Mechanism Elucidation by the MO Method",
+  "authors": [
+   "Yuichi Okazaki",
+   "Fumio Ando",
+   "Jugo Koketsu"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "2004-09-01",
+  "year": 2004,
+  "doi": "10.1246/bcsj.77.1687",
+  "url": "https://doi.org/10.1246/bcsj.77.1687",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Mechanism"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Chubu University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4b29c5747137439a",
+  "title": "Catalytic Hydrogenation of Organic Compounds without H2 Supply: An Electrochemical System",
+  "authors": [
+   "Daniela Maria do Amaral Ferraz Navarro",
+   "Marcelo Navarro"
+  ],
+  "journal": "Journal of Chemical Education",
+  "publisher": "American Chemical Society",
+  "published": "2004-09-01",
+  "year": 2004,
+  "doi": "10.1021/ed081p1350",
+  "url": "https://doi.org/10.1021/ed081p1350",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Sacrificial Anode",
+   "Undivided Cell"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Universidade Federal de Pernambuco"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "445e3f9d5182c53d",
+  "title": "One-Pot Assembly of Tricyclo[6.2.1.0 1,6 ]undecan-4-one and Related Polycyclic Compounds by Tandem Electroreductive Cyclization",
+  "authors": [
+   "Masahiro Toyota",
+   "Andivelu Ilangovan",
+   "Yoshitomo Kashiwagi",
+   "Masataka Ihara"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2004-09-01",
+  "year": 2004,
+  "doi": "10.1021/ol0484660",
+  "url": "https://doi.org/10.1021/ol0484660",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electroreductive",
+   "One-Pot",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Tohoku University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2da874fdea67ce6e",
+  "title": "Electrosynthesis of Mg(OH)2 Coatings on Stainless Steel Substrates",
+  "authors": [
+   "M. Dinamani",
+   "P. Vishnu Kamath"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2004-09-01",
+  "year": 2004,
+  "doi": "10.1023/b:jach.0000040437.81319.56",
+  "url": "https://doi.org/10.1023/b:jach.0000040437.81319.56",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Bangalore University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "20616e189dd6adf0",
+  "title": "Two-Layered Poly-o-phenylenediamine/Polyaniline Composite: Electrosynthesis and Spectroelectrochemical Properties",
+  "authors": [
+   "E. Yu. Pisarevskaya",
+   "E. V. Ovsyannikova",
+   "Н. М. Алпатова"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2004-09-01",
+  "year": 2004,
+  "doi": "10.1023/b:ruel.0000041365.17498.ef",
+  "url": "https://doi.org/10.1023/b:ruel.0000041365.17498.ef",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Frumkin Institute of Physical Chemistry and Electrochemistry"
   ],
   "added": "2026-07-30"
  }

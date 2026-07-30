@@ -1,5 +1,36 @@
 [
  {
+  "id": "d7e0d89fe96b6dd9",
+  "title": "First Asymmetric Synthesis of Orthoquinone Monoketal Enantiomers via Anodic Oxidation",
+  "authors": [
+   "Stéphane Quideau",
+   "Isabelle Fabre",
+   "Denis Deffieux"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2004-10-28",
+  "year": 2004,
+  "doi": "10.1021/ol048030k",
+  "url": "https://doi.org/10.1021/ol048030k",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Arenes",
+   "Diastereoselectivity"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Laboratoire de Chimie",
+   "Institut Européen de Chimie et Biologie"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "093718e4abac09f9",
   "title": "Anodic Coupling Reactions: The Use of N , O -Ketene Acetal Coupling Partners",
   "authors": [
@@ -22,6 +53,70 @@
   "relevance_score": 46,
   "affiliations": [
    "Washington University in St. Louis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e91a58f912578eaf",
+  "title": "Electrosynthesis of cadmium sulfide on sulfur- or thiol-modified polycrystalline gold electrodes",
+  "authors": [
+   "Noseung Myung",
+   "Sunyoung Ham",
+   "Byung-Hyun Choi",
+   "Norma R. de Tacconi",
+   "Krishnan Rajeshwar"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2004-10-21",
+  "year": 2004,
+  "doi": "10.1016/j.jelechem.2004.08.016",
+  "url": "https://doi.org/10.1016/j.jelechem.2004.08.016",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Konkuk University",
+   "The University of Texas at Arlington"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "48984a7e993b13fe",
+  "title": "Anion Radical [2 + 2] Cycloaddition as a Mechanistic Probe: Stoichiometry- and Concentration-Dependent Partitioning of Electron-Transfer and Alkylation Pathways in the Reaction of the Gilman Reagent Me 2 CuLi·LiI with Bis(enones)",
+  "authors": [
+   "Jingkui Yang",
+   "David F. Cauble",
+   "Adam J. Berro",
+   "Nathan L. Bauld",
+   "Michael J. Krische"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2004-10-21",
+  "year": 2004,
+  "doi": "10.1021/jo048499t",
+  "url": "https://doi.org/10.1021/jo048499t",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Arenes",
+   "Cathodic Reduction",
+   "Radical Chemistry",
+   "Single-Electron Transfer"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "The University of Texas at Austin"
   ],
   "added": "2026-07-30"
  },
@@ -49,6 +144,98 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "aaba8656c4e66dc7",
+  "title": "Fabrication of High-Performance InGaAsN Ridge Waveguide Lasers With Pulsed Anodic Oxidation",
+  "authors": [
+   "Cong Liu",
+   "Soon Fatt Yoon",
+   "S.Z. Wang",
+   "W. J. Fan",
+   "Yi Qu",
+   "Sheng Yuan"
+  ],
+  "journal": "IEEE Photonics Technology Letters",
+  "publisher": "Institute of Electrical and Electronics Engineers",
+  "published": "2004-10-19",
+  "year": 2004,
+  "doi": "10.1109/lpt.2004.835214",
+  "url": "https://doi.org/10.1109/lpt.2004.835214",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Nanyang Technological University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2afc20516e57ab49",
+  "title": "High-Power Ridge Waveguide InGaAsN Lasers Fabricated With Pulsed Anodic Oxidation",
+  "authors": [
+   "Yi Qu",
+   "Cong Liu",
+   "Shengjie MA",
+   "Sheng Yuan",
+   "Baoxue Bo",
+   "G. Liu",
+   "Huiling Jiang"
+  ],
+  "journal": "IEEE Photonics Technology Letters",
+  "publisher": "Institute of Electrical and Electronics Engineers",
+  "published": "2004-10-19",
+  "year": 2004,
+  "doi": "10.1109/lpt.2004.834879",
+  "url": "https://doi.org/10.1109/lpt.2004.834879",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Nanyang Technological University",
+   "Changchun University of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "22e38e3441ef5d5e",
+  "title": "In - Situ IR Spectroelectrochemistry Study of One-Electron Oxidations of Bis(cyclopentadienyl) Molybdenum(II)−Alkyne or −Alkene Compounds",
+  "authors": [
+   "M. E. Stoll",
+   "William E. Geiger"
+  ],
+  "journal": "Organometallics",
+  "publisher": "American Chemical Society",
+  "published": "2004-10-19",
+  "year": 2004,
+  "doi": "10.1021/om040093j",
+  "url": "https://doi.org/10.1021/om040093j",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Alkynes",
+   "Anodic Oxidation",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "University of Vermont"
   ],
   "added": "2026-07-30"
  },
@@ -83,6 +270,41 @@
   "added": "2026-07-30"
  },
  {
+  "id": "6c9c84f2747fd8f7",
+  "title": "Electrochemically Programmed, Spatially Selective Biofunctionalization of Silicon Wires",
+  "authors": [
+   "Yuri L. Bunimovich",
+   "Guanglu Ge",
+   "K. C. Beverly",
+   "Ryan S. Ries",
+   "Leroy Hood",
+   "James R. Heath"
+  ],
+  "journal": "Langmuir",
+  "publisher": "American Chemical Society",
+  "published": "2004-10-15",
+  "year": 2004,
+  "doi": "10.1021/la047913h",
+  "url": "https://doi.org/10.1021/la047913h",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Radical Chemistry",
+   "Working Electrode"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "California Institute of Technology",
+   "Institute for Systems Biology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "519fb3b862845af2",
   "title": "Cation Pool-Initiated Controlled/Living Polymerization Using Microsystems",
   "authors": [
@@ -113,6 +335,83 @@
   "added": "2026-07-30"
  },
  {
+  "id": "804f0967b1d970ae",
+  "title": "Fluoroethers and Fluoroamines",
+  "authors": [
+   "Michael G. Costello",
+   "Richard M. Flynn",
+   "John Owens"
+  ],
+  "journal": "Kirk-Othmer Encyclopedia of Chemical Technology",
+  "publisher": "",
+  "published": "2004-10-13",
+  "year": 2004,
+  "doi": "10.1002/0471238961.0612211506122514.a01.pub2",
+  "url": "https://doi.org/10.1002/0471238961.0612211506122514.a01.pub2",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "3M (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "25c8b78c217d3f95",
+  "title": "Electrochemical Processing, Organic",
+  "authors": [
+   "Albert J. Fry"
+  ],
+  "journal": "Kirk-Othmer Encyclopedia of Chemical Technology",
+  "publisher": "",
+  "published": "2004-10-13",
+  "year": 2004,
+  "doi": "10.1002/0471238961.1518070111091407.a01.pub2",
+  "url": "https://doi.org/10.1002/0471238961.1518070111091407.a01.pub2",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Wesleyan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3eb6982a8ed37735",
+  "title": "Modern Fluoroorganic Chemistry: Synthesis, Reactivity, Applications",
+  "authors": [
+   "Peer Kirsch"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2004-10-08",
+  "year": 2004,
+  "doi": "",
+  "url": "http://deposit.dnb.de/cgi-bin/dokserv?id=4126138&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrochemical Fluorination",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "ee883422a570fcdd",
   "title": "Anodic Substitution Reactions of Boronic Acids and Potassium Trifluoro(organo)borates",
   "authors": [
@@ -135,6 +434,33 @@
   ],
   "relevance_score": 40,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "946a01b9e1ebb8e0",
+  "title": "Ab initio computation of electron affinities of substituted benzalacetophenones (chalcones): a new approach to substituent effects in organic electrochemistry",
+  "authors": [
+   "Latorya D. Hicks",
+   "Albert J. Fry",
+   "Vanessa C. Kurzweil"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2004-10-05",
+  "year": 2004,
+  "doi": "10.1016/j.electacta.2004.08.003",
+  "url": "https://doi.org/10.1016/j.electacta.2004.08.003",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Wesleyan University"
+  ],
   "added": "2026-07-30"
  },
  {

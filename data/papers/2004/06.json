@@ -1,5 +1,28 @@
 [
  {
+  "id": "17e562cb40c25d4c",
+  "title": "Electrosynthesis, optical and morphological properties of poly-p-phenylene films and derivatives",
+  "authors": [
+   "Carla Eiras"
+  ],
+  "journal": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+  "publisher": "LA Referencia",
+  "published": "2004-06-28",
+  "year": 2004,
+  "doi": "",
+  "url": "https://doi.org/10.11606/T.76.2004.tde-11112013-150338",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "f1aa7059daf9900c",
   "title": "Anodic Reactions of Alkanes, Alkenes, and Aromatic Compounds",
   "authors": [
@@ -28,6 +51,66 @@
   "relevance_score": 78,
   "affiliations": [
    "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8ac016ae874add6f",
+  "title": "Electrochemistry of Heterocycles",
+  "authors": [
+   "Claude Moinet"
+  ],
+  "journal": "Encyclopedia of Electrochemistry",
+  "publisher": "",
+  "published": "2004-06-24",
+  "year": 2004,
+  "doi": "10.1002/9783527610426.bard080012",
+  "url": "https://doi.org/10.1002/9783527610426.bard080012",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Anodic Cyclization",
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Electroreductive",
+   "Heterocycles"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "83b45cbc41e7414c",
+  "title": "Electrogenerated Acids and Bases",
+  "authors": [
+   "Merete Folmer Nielsen"
+  ],
+  "journal": "Encyclopedia of Electrochemistry",
+  "publisher": "",
+  "published": "2004-06-24",
+  "year": 2004,
+  "doi": "10.1002/9783527610426.bard080014",
+  "url": "https://doi.org/10.1002/9783527610426.bard080014",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Alkenes",
+   "Anodic Oxidation",
+   "Electrogenerated Acid",
+   "Electrogenerated Base"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Copenhagen"
   ],
   "added": "2026-07-30"
  },
@@ -154,6 +237,171 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b8c2d9646f2f3835",
+  "title": "Segmented thin-gap flow cells for process intensification in electrosynthesis",
+  "authors": [
+   "Sabine Rode",
+   "Sebastian Altmeyer",
+   "M. Matlosz"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2004-06-10",
+  "year": 2004,
+  "doi": "10.1023/b:jach.0000031104.71463.03",
+  "url": "https://doi.org/10.1023/b:jach.0000031104.71463.03",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Lorraine"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d531ebd4ba837dfc",
+  "title": "InGaAs/GaAs quantum well circular ring lasers fabricated by laser direct writing and pulsed anodic oxidation",
+  "authors": [
+   "C.Y Liu",
+   "Shu Yuan"
+  ],
+  "journal": "Journal of Crystal Growth",
+  "publisher": "Elsevier BV",
+  "published": "2004-06-09",
+  "year": 2004,
+  "doi": "10.1016/j.jcrysgro.2004.04.055",
+  "url": "https://doi.org/10.1016/j.jcrysgro.2004.04.055",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Nanyang Technological University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c0e6fa2245ce0531",
+  "title": "Electrosynthesis of nickel phosphides on the basis of white phosphorus",
+  "authors": [
+   "Yulia H. Budnikova",
+   "Д. И. Тазеев",
+   "Б. А. Трофимов",
+   "Оleg G. Sinyashin"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2004-06-09",
+  "year": 2004,
+  "doi": "10.1016/j.elecom.2004.05.007",
+  "url": "https://doi.org/10.1016/j.elecom.2004.05.007",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "A.E. Arbuzov Institute of Organic and Physical Chemistry",
+   "A.E. Favorsky Irkutsk Institute of Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "006e36d2ca167541",
+  "title": "Reconstruction in Air of an Iron Passive Film Formed at −0.4 V in a Borate Buffer Solution",
+  "authors": [
+   "Deng",
+   "Ikuo Ishikawa",
+   "Michio Yoneya",
+   "Hiroshi Nanjo"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2004-06-03",
+  "year": 2004,
+  "doi": "10.1021/jp0376673",
+  "url": "https://doi.org/10.1021/jp0376673",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Electrolytic"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "National Institute of Advanced Industrial Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "06644900dd355c58",
+  "title": "Electrosynthesis in room-temperature ionic liquids: benzaldehyde reduction",
+  "authors": [
+   "Andrew P. Doherty",
+   "Claudine A. Brooks"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2004-06-02",
+  "year": 2004,
+  "doi": "10.1016/j.electacta.2003.12.058",
+  "url": "https://doi.org/10.1016/j.electacta.2003.12.058",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Queen's University Belfast"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ffddb386c1e12937",
+  "title": "Spatially directed electrosynthesis of semiconductors for photoelectrochemical applications",
+  "authors": [
+   "Krishnan Rajeshwar",
+   "N.R. de Tacconi",
+   "C. R. Chenthamarakshan"
+  ],
+  "journal": "Current Opinion in Solid State and Materials Science",
+  "publisher": "Elsevier BV",
+  "published": "2004-06-01",
+  "year": 2004,
+  "doi": "10.1016/j.cossms.2004.07.001",
+  "url": "https://doi.org/10.1016/j.cossms.2004.07.001",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "The University of Texas at Arlington"
   ],
   "added": "2026-07-30"
  }

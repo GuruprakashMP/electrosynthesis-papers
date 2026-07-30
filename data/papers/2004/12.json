@@ -1,5 +1,144 @@
 [
  {
+  "id": "116ed7d24e497ffa",
+  "title": "Electrosynthesis and electrochemical studies on polyaniline",
+  "authors": [
+   "A. K. Tiwari",
+   "Usha Misra"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2004-12-31",
+  "year": 2004,
+  "doi": "10.5281/zenodo.5833710",
+  "url": "https://doi.org/10.5281/zenodo.5833710",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "db68ed549e3e76b6",
+  "title": "A model to study the effect of selective anodic oxidation on ultrathin gate oxides",
+  "authors": [
+   "Vaibhav G. Marathe",
+   "Roy Paily",
+   "Amitava DasGupta",
+   "Nandita DasGupta"
+  ],
+  "journal": "IEEE Transactions on Electron Devices",
+  "publisher": "Institute of Electrical and Electronics Engineers",
+  "published": "2004-12-28",
+  "year": 2004,
+  "doi": "10.1109/ted.2004.841284",
+  "url": "https://doi.org/10.1109/ted.2004.841284",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Indian Institute of Technology Madras",
+   "Indian Institute of Technology Indore"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f842d2c6c74cbcfe",
+  "title": "Chemical composition of GaAs oxides grown by local anodic oxidation: a spatially resolved Auger study",
+  "authors": [
+   "Marco Lazzarino",
+   "M. Padovani",
+   "G. Mori",
+   "Lucia Sorba",
+   "Mattia Fanetti",
+   "M. Sancrotti"
+  ],
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "published": "2004-12-24",
+  "year": 2004,
+  "doi": "10.1016/j.cplett.2004.12.019",
+  "url": "https://doi.org/10.1016/j.cplett.2004.12.019",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tecnologie Avanzate (Italy)",
+   "Istituto Nazionale per la Fisica della Materia",
+   "Università Cattolica del Sacro Cuore",
+   "University of Trieste",
+   "University of Modena and Reggio Emilia"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e5d4df83b4c86d80",
+  "title": "Kinetic model for anodic oxidation of gold in thiosulfate media based on the adsorption of MS2O3− ion-pair",
+  "authors": [
+   "Gamini Senanayake"
+  ],
+  "journal": "Hydrometallurgy",
+  "publisher": "Elsevier BV",
+  "published": "2004-12-24",
+  "year": 2004,
+  "doi": "10.1016/j.hydromet.2004.11.002",
+  "url": "https://doi.org/10.1016/j.hydromet.2004.11.002",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Murdoch University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4c644419f1816b2b",
+  "title": "Localized electrosynthesis of polypyrrole by application of short voltage pulses",
+  "authors": [
+   "Márcia T. Giacomini",
+   "Rolf Schuster"
+  ],
+  "journal": "Physical Chemistry Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2004-12-22",
+  "year": 2004,
+  "doi": "10.1039/b411516c",
+  "url": "https://doi.org/10.1039/b411516c",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Fritz Haber Institute of the Max Planck Society",
+   "Technische Universität Darmstadt"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "5a8745888271c774",
   "title": "Highly selective electrochemical fluorination of organic compounds in ionic liquids",
   "authors": [
@@ -22,6 +161,117 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "53be772b6239cec3",
+  "title": "Preparation of Atomically Flat Si(111)-H Surfaces in Aqueous Ammonium Fluoride Solutions Investigated by Using Electrochemical, In Situ EC-STM and ATR-FTIR Spectroscopic Methods",
+  "authors": [
+   "Sang-Eun Bae"
+  ],
+  "journal": "Bulletin of the Korean Chemical Society",
+  "publisher": "Wiley",
+  "published": "2004-12-20",
+  "year": 2004,
+  "doi": "10.5012/bkcs.2004.25.12.1822",
+  "url": "https://doi.org/10.5012/bkcs.2004.25.12.1822",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "305b994fc87a9fdb",
+  "title": "Electrosynthesis of a copolymer containing C60 in the main chain",
+  "authors": [
+   "Carita Kvarnström",
+   "H. Kulovaara",
+   "Pia Damlin",
+   "Tiina Vuorinen",
+   "Helge Lemmetyinen",
+   "Ari Ivaska"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "2004-12-17",
+  "year": 2004,
+  "doi": "10.1016/j.synthmet.2004.10.013",
+  "url": "https://doi.org/10.1016/j.synthmet.2004.10.013",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Åbo Akademi University",
+   "Tampere University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3ab193d4f13bcc3f",
+  "title": "Synthesis of the hamigeran skeleton through an electro-oxidative coupling reaction",
+  "authors": [
+   "Jeffrey B. Sperry",
+   "Dennis L. Wright"
+  ],
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "published": "2004-12-16",
+  "year": 2004,
+  "doi": "10.1016/j.tetlet.2004.11.108",
+  "url": "https://doi.org/10.1016/j.tetlet.2004.11.108",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Dartmouth College"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d48a6d13fa11dcde",
+  "title": "Electrosynthesis and analytical performances of functionalized poly (pyrrole/β-cyclodextrin) films",
+  "authors": [
+   "Nisrine Izaoumen",
+   "Dounia Bouchta",
+   "Hanane Zejli",
+   "Mohammed El Kaoutit",
+   "Apryll M. Stalcup",
+   "Khalid Riffi Temsamani"
+  ],
+  "journal": "Talanta",
+  "publisher": "Elsevier BV",
+  "published": "2004-12-15",
+  "year": 2004,
+  "doi": "10.1016/j.talanta.2004.10.003",
+  "url": "https://doi.org/10.1016/j.talanta.2004.10.003",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Abdelmalek Essaâdi University",
+   "University of Cincinnati"
   ],
   "added": "2026-07-30"
  },
@@ -56,6 +306,96 @@
   "added": "2026-07-30"
  },
  {
+  "id": "9ebb563be059023c",
+  "title": "Electrosynthesis and characterization of o ‐phenylenediamine oligomers",
+  "authors": [
+   "M.A. del Valle",
+   "F. R. Díaz",
+   "Mario E. Bodini",
+   "Geraldo Alfonso",
+   "Giovanny M. Soto",
+   "Euddy D. Borrego"
+  ],
+  "journal": "Polymer International",
+  "publisher": "Wiley",
+  "published": "2004-12-15",
+  "year": 2004,
+  "doi": "10.1002/pi.1700",
+  "url": "https://doi.org/10.1002/pi.1700",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Working Electrode"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Pontificia Universidad Católica de Chile"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "81ee786330308c55",
+  "title": "Electrosynthesis and characterisation of poly(N-methylaniline) in organic solvents",
+  "authors": [
+   "Di Wei",
+   "Tom Lindfors",
+   "Carita Kvarnström",
+   "Leif Kronberg",
+   "Rainer Sjöholm",
+   "Ari Ivaska"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2004-12-15",
+  "year": 2004,
+  "doi": "10.1016/j.jelechem.2004.08.018",
+  "url": "https://doi.org/10.1016/j.jelechem.2004.08.018",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Åbo Akademi University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6aedcefd55ef1820",
+  "title": "Improved performance of rechargeable alkaline batteries via surfactant-mediated electrosynthesis of MnO2",
+  "authors": [
+   "Mehdi Ghaemi",
+   "L. Khosravi-Fard",
+   "Jaber Neshati"
+  ],
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "published": "2004-12-15",
+  "year": 2004,
+  "doi": "10.1016/j.jpowsour.2004.10.004",
+  "url": "https://doi.org/10.1016/j.jpowsour.2004.10.004",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tarbiat Modares University",
+   "K.N.Toosi University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "546c8fc449a19de7",
   "title": "Ultrasonic effects on electroorganic processes. Part 27. Electroreduction of acrylonitrile at suspended lead particle-electrode",
   "authors": [
@@ -79,6 +419,96 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "28dd433adacc15e0",
+  "title": "Mineralization of paracetamol in aqueous medium by anodic oxidation with a boron-doped diamond electrode",
+  "authors": [
+   "Enric Brillas",
+   "Ignasi Sirés",
+   "Conchita Arias",
+   "Pere Lluı́s Cabot",
+   "Francesc Centellas",
+   "Rosa Marı́a Rodrı́guez",
+   "José António Garrido"
+  ],
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "published": "2004-12-15",
+  "year": 2004,
+  "doi": "10.1016/j.chemosphere.2004.09.028",
+  "url": "https://doi.org/10.1016/j.chemosphere.2004.09.028",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "BDD Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Universitat de Barcelona"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9c4d0f61f64c4293",
+  "title": "Mercaptotriazole as a nucleophile in addition to o-quinone electrochemically derived from catechol: application to electrosynthesis of a new group of triazole compounds",
+  "authors": [
+   "Saeed Shahrokhian",
+   "Mandana Amiri"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2004-12-13",
+  "year": 2004,
+  "doi": "10.1016/j.elecom.2004.11.010",
+  "url": "https://doi.org/10.1016/j.elecom.2004.11.010",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Sharif University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "620d939354875949",
+  "title": "Electrochemically linking TEMPO to carbon via amine bridges",
+  "authors": [
+   "Florence Geneste",
+   "Claude Moinet"
+  ],
+  "journal": "New Journal of Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2004-12-10",
+  "year": 2004,
+  "doi": "10.1039/b413627f",
+  "url": "https://doi.org/10.1039/b413627f",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "TEMPO"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut des Sciences Chimiques de Rennes",
+   "Institut de Chimie",
+   "Université de Rennes"
   ],
   "added": "2026-07-30"
  },
@@ -139,6 +569,93 @@
   "affiliations": [
    "Tokyo Institute of Technology",
    "National Institute of Technology, Tsuruoka College"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "079c843ac2450f52",
+  "title": "Utilization of Bis(trimethylsilyl)fluorenes as Protected Fluorenes and Fluorenones. Effective Electrooxidative Conversion into Fluorenone Dimethyl Acetals",
+  "authors": [
+   "Makoto Kimura",
+   "Takahiro Kawai",
+   "Yasuhiko Sawaki"
+  ],
+  "journal": "Electrochemistry",
+  "publisher": "The Electrochemical Society of Japan",
+  "published": "2004-12-05",
+  "year": 2004,
+  "doi": "10.5796/electrochemistry.72.855",
+  "url": "https://doi.org/10.5796/electrochemistry.72.855",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrooxidative",
+   "One-Pot"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Nagoya University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b610c3e1c0e85060",
+  "title": "Synthesis of Chroman Derivatives by the Ring Expansion Reaction of Spirodienones, and an Assessment of their Plant Growth Inhibition",
+  "authors": [
+   "Fuminao Doi",
+   "Taiga Ohara",
+   "Takahisa Ogamino",
+   "Keiko Higashinakasu",
+   "Koji Hasegawa",
+   "Shigeru Nishiyama"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "2004-12-01",
+  "year": 2004,
+  "doi": "10.1246/bcsj.77.2257",
+  "url": "https://doi.org/10.1246/bcsj.77.2257",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Keio University",
+   "University of Tsukuba",
+   "Institute of Applied Biochemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "416f0c9b2715ac0d",
+  "title": "Simultaneous Photo-Oxidative Degradation of EDTA and Extro-Oxidative Recovery of Copper from Industrial Effluents",
+  "authors": [
+   "Ahmad Jonidi Jafari"
+  ],
+  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "publisher": "",
+  "published": "2004-12-01",
+  "year": 2004,
+  "doi": "10.30492/ijcce.2004.8140",
+  "url": "https://doi.org/10.30492/ijcce.2004.8140",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolytic"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Center for Environmental Health"
   ],
   "added": "2026-07-30"
  }
