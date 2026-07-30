@@ -1,5 +1,121 @@
 [
  {
+  "id": "ad822316c9856b4d",
+  "title": "ChemInform Abstract: Products and Mechanisms in the Anodic Oxidation of Solanidine‐Type Steroidal Alkaloids.",
+  "authors": [
+   "Esmir Gunić",
+   "Ibro Tabaković",
+   "Katarina M. Penov Gaši",
+   "Djordje Miljković",
+   "Ivan O. Juranić"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-08-16",
+  "year": 1994,
+  "doi": "10.1002/chin.199433273",
+  "url": "https://doi.org/10.1002/chin.199433273",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Natural Product & Total Synthesis"
+  ],
+  "tags": [
+   "Alkaloids",
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "32bb48ec1800eee7",
+  "title": "ChemInform Abstract: Electroreductive Intramolecular Coupling of Nonconjugated Aromatic Ketones.",
+  "authors": [
+   "Naoki Kise",
+   "Takeshi Suzumoto",
+   "T. SHONO"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-08-16",
+  "year": 1994,
+  "doi": "10.1002/chin.199433029",
+  "url": "https://doi.org/10.1002/chin.199433029",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "032db90ccbd9fc85",
+  "title": "ChemInform Abstract: Electrocrystallization of Thallium Oxides in Alkaline Media. Controlled Electrosynthesis of Textured Tl2O3 Films.",
+  "authors": [
+   "Galina A. Tsirlina",
+   "S. E. PRON'KIN",
+   "Ф. М. Спиридонов",
+   "S. Yu. Vasil’ev",
+   "О. А. Петрий"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-08-02",
+  "year": 1994,
+  "doi": "10.1002/chin.199431024",
+  "url": "https://doi.org/10.1002/chin.199431024",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ef70c2a1b0b50e48",
+  "title": "Direct electrochemical synthesis of tin(IV) complexes of 2-(2-mercaptoethyl)iminomethyl-phenols; the molecular structure of bis{2-(2-mercaptoethyl)iminomethyl-5-bromo-phenoxy}tin(IV)",
+  "authors": [
+   "E. Labisbal",
+   "J.A. García-Vázquez",
+   "Jaime Romero",
+   "Antonio Sousa",
+   "A. Castiñeiras",
+   "Cäcilia Maichle-Mößmer",
+   "Umberto Russo"
+  ],
+  "journal": "Inorganica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1016/0020-1693(94)03992-5",
+  "url": "https://doi.org/10.1016/0020-1693(94)03992-5",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Universidade de Santiago de Compostela",
+   "University of Tübingen",
+   "University of Padua"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "bba16adc7af29330",
   "title": "Diastereoselective cathodic reduction of chiral phenylglyoxylamides",
   "authors": [
@@ -24,6 +140,171 @@
   "relevance_score": 55,
   "affiliations": [
    "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9e78dc557567c898",
+  "title": "A new, simple, efficient electrosynthesis of functionalized benzylic zinc species and their reactivity toward aromatic aldehydes",
+  "authors": [
+   "Corinne Gosmini",
+   "Yolande Rollin",
+   "C. Gebehenne",
+   "Élisabeth Lojou",
+   "V. RATOVELOMANANA",
+   "Jacques Périchon"
+  ],
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1016/s0040-4039(00)77267-4",
+  "url": "https://doi.org/10.1016/s0040-4039(00)77267-4",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Catalyse",
+   "Laboratoire de Synthèse Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8a45bc29ab6fd625",
+  "title": "Electrosynthesis of Unsymmetrical Polyaryls by a SRN1-Type Reaction",
+  "authors": [
+   "Philippe Boy",
+   "Catherine Combellas",
+   "C. Suba",
+   "A. THIEBAULT"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1021/jo00095a024",
+  "url": "https://doi.org/10.1021/jo00095a024",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8946d5464d05e318",
+  "title": "Anodic Oxidation of In x Ga1 − x As y P 1 − y Epitaxial Layers",
+  "authors": [
+   "K. Smekalin",
+   "G. Zhang",
+   "J. Lammasniemi"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1149/1.2055108",
+  "url": "https://doi.org/10.1149/1.2055108",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tampere University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "503d61799ab19098",
+  "title": "Anodic Oxidation of Sulfur Dioxide Ⅲ.The Mechanism of Oxidation of Sulfur Dioxide on the Poly CoPP Electrode",
+  "authors": [
+   "Ju Chou",
+   "Zuolin Xue"
+  ],
+  "journal": "Chinese Journal of Applied Chemistry",
+  "publisher": "Science China Press",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.3724/j.issn.1000-0518.1994.4.8890",
+  "url": "https://doi.org/10.3724/j.issn.1000-0518.1994.4.8890",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "32a39a607758f840",
+  "title": "Coplanar interdigitated band electrodes for electrosynthesis",
+  "authors": [
+   "C. Belmont",
+   "Hubert H. Girault"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1007/bf00578085",
+  "url": "https://doi.org/10.1007/bf00578085",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Edinburgh",
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "23fbf32418d76568",
+  "title": "Oxidations of Dihydroxyalkanoates to Vicinal Tricarbonyl Compounds with a 4-BzoTEMPO-Sodium Bromite System or by Indirect Electrolysis Using 4-BzoTEMPO and Bromide Ion",
+  "authors": [
+   "Tsutomu Inokuchi",
+   "Ping Liu",
+   "Sigeru Torii"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1246/cl.1994.1411",
+  "url": "https://doi.org/10.1246/cl.1994.1411",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Indirect Electrolysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Okayama University"
   ],
   "added": "2026-07-30"
  },

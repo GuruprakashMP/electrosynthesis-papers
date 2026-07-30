@@ -1,5 +1,228 @@
 [
  {
+  "id": "73b3fb2768dfac17",
+  "title": "ChemInform Abstract: A New, Simple, Efficient Electrosynthesis of Functionalized Benzylic Zinc Species and Their Reactivity Toward Aromatic Aldehydes.",
+  "authors": [
+   "Corinne Gosmini",
+   "Yolande Rollin",
+   "C. Gebehenne",
+   "Élisabeth Lojou",
+   "V. RATOVELOMANANA",
+   "Jacques Périchon"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-12-20",
+  "year": 1994,
+  "doi": "10.1002/chin.199451106",
+  "url": "https://doi.org/10.1002/chin.199451106",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Est Créteil",
+   "Laboratoire de Synthèse Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "645256b26dd1eb13",
+  "title": "ChemInform Abstract: Electroorganic Synthesis. Part 59. Diastereoselective Cathodic Reduction of Chiral Phenylglyoxylamides.",
+  "authors": [
+   "Claudia Zielinski",
+   "H. J. SCHAEFER"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-12-20",
+  "year": 1994,
+  "doi": "10.1002/chin.199451044",
+  "url": "https://doi.org/10.1002/chin.199451044",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Diastereoselectivity",
+   "Electroorganic"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5e830067201f25a0",
+  "title": "ChemInform Abstract: Facile Synthesis of α‐Keto Carbonyl Compounds by Indirect Anodic Oxidation.",
+  "authors": [
+   "Hirofumi Maekawa",
+   "Yoshizumi Ishino",
+   "Ikuzo Nishiguchi"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-12-06",
+  "year": 1994,
+  "doi": "10.1002/chin.199449101",
+  "url": "https://doi.org/10.1002/chin.199449101",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Technology Research Institute of Osaka Prefecture"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2ccceba2d9c82734",
+  "title": "ChemInform Abstract: Anodic Oxidation of α‐Alkoxycarbonyloxy and α‐Acyloxy Organotin Compounds.",
+  "authors": [
+   "Jun-ichi Yoshida",
+   "Yuko Morita",
+   "Yuji Ishichi",
+   "S. ISOE"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-12-06",
+  "year": 1994,
+  "doi": "10.1002/chin.199449041",
+  "url": "https://doi.org/10.1002/chin.199449041",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Osaka City University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f36bebbe917c0c8a",
+  "title": "Anodic Oxidation of Diphenyl Disulfide. A Formation of Electrophilic Intermediates for Organic Synthesis and Polymerization of Specific Oligomerization",
+  "authors": [
+   "Georges LEGULLANTON",
+   "Stanisław Boryczka",
+   "Driss Elothmani",
+   "Quang Tho",
+   "Jacques Simonet"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1283",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1283",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ece5727d0e4a99a7",
+  "title": "Electrochemical One-Pot Synthesis of Hydroquinones from Phenols",
+  "authors": [
+   "K. Fujimoto",
+   "Hirofumi Maekawa",
+   "Atsushi Yamaguchi",
+   "Tsuji Kazuhide",
+   "Yoshiharu MATSUBARA",
+   "Ikuzo Nishiguchi"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1165",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1165",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "One-Pot",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ea6b10873cb6c1d8",
+  "title": "Electroreductive Dechlorination of Chlorofluoroethanes",
+  "authors": [
+   "Meguru Tezuka",
+   "Masakazu Iwasaki"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1230",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1230",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c263850eb327d641",
+  "title": "Electrochemical Generation of Trifluoroacetaldehyde from its Hemiacetal and Aldol Reaction with Active Methylene Compounds",
+  "authors": [
+   "Kenji Uneyama",
+   "Nobuaki Itano"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1151",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1151",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrogenerated Base",
+   "Electroreductive"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "b1aa969af837ea3a",
   "title": "An Electroreductive Cyclization Approach to the Bicyclo [3.2.1] Framework",
   "authors": [
@@ -25,6 +248,274 @@
   "added": "2026-07-30"
  },
  {
+  "id": "ab91c4c39812a2a6",
+  "title": "Electrochemical Fluorination of Bromobenzene in Liquid Et 4 NF・mHF",
+  "authors": [
+   "Masayuki Morita",
+   "Kunitaka Momota",
+   "Hirohide Horio",
+   "Katsuya Kato",
+   "Yoshiharu Matsuda"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1196",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1196",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Yamaguchi University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "90fce7e7237a8b16",
+  "title": "Anodic Oxidation of Benzyl Alcohol to Benzaldehyde Using Hydroquinone as Mediator in Non-Solvent System",
+  "authors": [
+   "Li Min Chen",
+   "Yi- Lin CHEN",
+   "Tse Chuan Chou"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1173",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1173",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Redox Mediator"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "812663ff9d4271d3",
+  "title": "Cathodic Reduction of Nicotinamide Coenzyme (NAD + ) Mediated with Rhodium Complex Immobilized on Electrode Surface",
+  "authors": [
+   "Yoshihiro Shimizu",
+   "Akira Kitani",
+   "Sotaro Ito",
+   "Kazuo Sasaki"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1233",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1233",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5f3406d8e4eecb11",
+  "title": "Electrochemically Promoted Michael Addition of Ethyl Nitroacetate Followed by the Electroreductive Removal of the Nitro Group",
+  "authors": [
+   "M. E. Niyazymbetov",
+   "Dennis H. Evans"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1139",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1139",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Evans Analytical Group (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "431253637b556d0a",
+  "title": "With Expectation of Great Progress in Organic Electrochemistry",
+  "authors": [
+   "Tetsuo Osa"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1103",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1103",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "40912e9ed2e9f54d",
+  "title": "Electrochemical Carboxylation of Propargylic Halides by the Use of Reactive-metal Anode",
+  "authors": [
+   "Masao Tokuda",
+   "Takashi Kabuki",
+   "Hiroshi Suginome"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1144",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1144",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2a6bc7d7cadf015f",
+  "title": "Factors Affecting the Anodic Oxidation of Isopropyl Alcohol in the Presence of Double Redox Mediators",
+  "authors": [
+   "Ming Liao Tsai",
+   "Tse Chuan Chou"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1169",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1169",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Redox Mediator"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "224f99b9fa1d87c7",
+  "title": "Electrosynthesis of Ortho-and Para-chlorobenzaldehydes with Ce 4+ Mediator",
+  "authors": [
+   "Caétane BOULANGER",
+   "Daniel Ducharme",
+   "Michel Petitclerc",
+   "Anna Velin"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1217",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1217",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "18b6230be3bfa4ca",
+  "title": "Enzymatic Synthesis via Electrochemical Regeneration of NADH at an Enzyme-Viologen Modified Electrode",
+  "authors": [
+   "Albert J. Fry",
+   "Susan B. Sobolov",
+   "Mihaela D. Leonida",
+   "Kamen I. Voivodov"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1260",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1260",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Gram-Scale"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "062bd3b960b75b01",
+  "title": "Electrogeneration of a New Family of Ionophoric Resins. Anodic Oxidation of N-Polyethereal Pyrroles",
+  "authors": [
+   "Jacques Simonet",
+   "Yvon Gache",
+   "N. SIMONET-GUEGUEN",
+   "Olivier Leclerc"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1994-12-05",
+  "year": 1994,
+  "doi": "10.5796/electrochemistry.62.1211",
+  "url": "https://doi.org/10.5796/electrochemistry.62.1211",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Territoires, Villes, Environnement & Société"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "c98af2f282d34e6a",
   "title": "Electrolytic Partial Fluorination of Organic Compounds. 14. The First Electrosynthesis of Hypervalent Iodobenzene Difluoride Derivatives and Its Application to Indirect Anodic gem-Difluorination",
   "authors": [
@@ -47,6 +538,243 @@
   ],
   "relevance_score": 55,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bc766313aa77f27a",
+  "title": "The II International Symposium on the Electroorganic Synthesis",
+  "authors": [],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1994-12-01",
+  "year": 1994,
+  "doi": "10.1007/bf00700192",
+  "url": "https://doi.org/10.1007/bf00700192",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7ee7cd476954c020",
+  "title": "Novel Electrosynthesis of Poly(cyclo‐organophosphazenes)",
+  "authors": [
+   "Mira Josowicz",
+   "Jing Li",
+   "Gregory J. Exarhos"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1994-12-01",
+  "year": 1994,
+  "doi": "10.1149/1.2059379",
+  "url": "https://doi.org/10.1149/1.2059379",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Heterocycle Synthesis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrogenerated Species",
+   "Electrosynthesis",
+   "Heterocycles",
+   "Radical Anion",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Pacific Northwest National Laboratory"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7c756e6d76d42d87",
+  "title": "Surprising formation of a new sulphurated heterocycle by cathodic reduction of 2-bromo-2,2-diphenylacetyl bromide",
+  "authors": [
+   "José I. Lozano",
+   "Fructuoso Barba"
+  ],
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "published": "1994-12-01",
+  "year": 1994,
+  "doi": "10.1016/0040-4039(94)88528-1",
+  "url": "https://doi.org/10.1016/0040-4039(94)88528-1",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Heterocycles"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Universidad de Alcalá"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "676ced045d338a12",
+  "title": "Studies of the effect of bismuth on the anodic oxidation of lead in sulphuric acid solution by photocurrent spectroscopy",
+  "authors": [
+   "Shenjiang Xia",
+   "Zhou Wei-Fang"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1994-12-01",
+  "year": 1994,
+  "doi": "10.1016/0022-0728(94)87166-3",
+  "url": "https://doi.org/10.1016/0022-0728(94)87166-3",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Fudan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5012276c203c344b",
+  "title": "Reaction of an electron-rich radical-cation with electrogenerated radicals in indirect anodic oxidation",
+  "authors": [
+   "M. Michman",
+   "Miriam Oron"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1994-12-01",
+  "year": 1994,
+  "doi": "10.1016/0013-4686(94)00226-6",
+  "url": "https://doi.org/10.1016/0013-4686(94)00226-6",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Hebrew University of Jerusalem"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "40fa7b3e7a7d7eef",
+  "title": "Electron Self-Exchange Rates in a Site-Dilutable Osmium Bipyridine Redox Polymer",
+  "authors": [
+   "Connie S. Sosnoff",
+   "Melani G. Sullivan",
+   "Royce W. Murray"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1994-12-01",
+  "year": 1994,
+  "doi": "10.1021/j100102a034",
+  "url": "https://doi.org/10.1021/j100102a034",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Paul Scherrer Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "35c5a1f7a793a37f",
+  "title": "The cathodic reduction of oxygen on uranium dioxide in dilute alkaline aqueous solution",
+  "authors": [
+   "W. H. Hocking",
+   "J.S. Betteridge",
+   "David W. Shoesmith"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1994-12-01",
+  "year": 1994,
+  "doi": "10.1016/0022-0728(94)87156-6",
+  "url": "https://doi.org/10.1016/0022-0728(94)87156-6",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Atomic Energy (Canada)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2c9c60654f14b384",
+  "title": "9th EUCHEM Meeting on organic electrochemistry",
+  "authors": [],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1994-12-01",
+  "year": 1994,
+  "doi": "10.1016/0022-0728(94)87194-9",
+  "url": "https://doi.org/10.1016/0022-0728(94)87194-9",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1ea3c84bf5e1a674",
+  "title": "Electrosynthesis and impedance studies on zinc selenide",
+  "authors": [
+   "Kehar Singh",
+   "Rajesh Kumar Pathak"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1994-12-01",
+  "year": 1994,
+  "doi": "10.1016/0013-4686(94)00298-3",
+  "url": "https://doi.org/10.1016/0013-4686(94)00298-3",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Deen Dayal Upadhyaya Gorakhpur University"
+  ],
   "added": "2026-07-30"
  }
 ]

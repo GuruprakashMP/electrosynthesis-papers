@@ -1,5 +1,60 @@
 [
  {
+  "id": "a7f4dcb9273c0a25",
+  "title": "ChemInform Abstract: Organometal Complexes in Electroorganic Synthesis",
+  "authors": [
+   "S. TORII"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-03-29",
+  "year": 1994,
+  "doi": "10.1002/chin.199413303",
+  "url": "https://doi.org/10.1002/chin.199413303",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "30dc9a62a0208a11",
+  "title": "ChemInform Abstract: Anodic Oxidation of 3,5‐Dihalogenotyrosines as a Model Reaction for the Biogenesis of the Cavernicolins, Metabolites of the Verongid Sponge Aplysina cavernicola.",
+  "authors": [
+   "Marino Cavazza",
+   "Graziano Guella",
+   "Lamberto Nucci",
+   "Francesco Pergola",
+   "Nicola Bicchierini",
+   "Francesco Pietra"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-03-22",
+  "year": 1994,
+  "doi": "10.1002/chin.199412104",
+  "url": "https://doi.org/10.1002/chin.199412104",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Pisa"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "a1fe26acf818ad17",
   "title": "Electroorganic synthesis, 57. Synthesis of advanced prostaglandin precursors by Kolbe electrolysis, II. – Preparation of coacids and anodic initiated tandem radical‐addition / radical‐coupling reaction with (1′ R ,4′ S ,3 R/S )‐3‐( cis ‐4‐acetoxycyclopent ‐2‐enyloxy)‐3‐ethoxypropionic acid",
   "authors": [
@@ -54,6 +109,245 @@
   "affiliations": [
    "University of Münster"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e1eb7c820aba6f3d",
+  "title": "On the formation of surface active by-products during the electrochemical fluorination of tertiary amines",
+  "authors": [
+   "Anton Dimitrov",
+   "Stephan Rüdiger",
+   "Jutta Pauli"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1994-03-01",
+  "year": 1994,
+  "doi": "10.1016/0022-1139(93)02920-a",
+  "url": "https://doi.org/10.1016/0022-1139(93)02920-a",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dbeabae70d338287",
+  "title": "Electroreductive Deposition of Films of Amphiphilic Ruthenium(II) Complexes. Their Photo- and Electropolymerization",
+  "authors": [
+   "Alain Deronzier",
+   "Jean-Claude Moutet",
+   "Daniela Zsoldos"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1994-03-01",
+  "year": 1994,
+  "doi": "10.1021/j100063a007",
+  "url": "https://doi.org/10.1021/j100063a007",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cd2dc6adc4f886ec",
+  "title": "Enantioselective synthesis of dimethyl 3,4-diphenyladipate by electroreductive hydrocoupling of chiral N-trans-cinnamoyl-2-oxazolidones",
+  "authors": [
+   "Naoki Kise",
+   "Mitsuaki Echigo",
+   "Tatsuya Shono"
+  ],
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "published": "1994-03-01",
+  "year": 1994,
+  "doi": "10.1016/s0040-4039(00)73190-x",
+  "url": "https://doi.org/10.1016/s0040-4039(00)73190-x",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Enantioselectivity"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "97c5aec43f3d8117",
+  "title": "Room Temperature‐Coloration of Stainless Steel by Alternating Potential Pulse Method",
+  "authors": [
+   "Kotaro Ogura",
+   "Kenji Sakurai",
+   "Sho Uehara"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1994-03-01",
+  "year": 1994,
+  "doi": "10.1149/1.2054785",
+  "url": "https://doi.org/10.1149/1.2054785",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Yamaguchi University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8eec6b14202c054f",
+  "title": "Professor Tatsuya Shono: His Career and Accomplishments",
+  "authors": [
+   "Tsutoma Nonaka"
+  ],
+  "journal": "The Electrochemical Society Interface",
+  "publisher": "Institute of Physics",
+  "published": "1994-03-01",
+  "year": 1994,
+  "doi": "10.1149/2.f05941if",
+  "url": "https://doi.org/10.1149/2.f05941if",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8d3477474ca82823",
+  "title": "ChemInform Abstract: Mechanism of Electrosynthesis of the Superconductor Ba1‐xKxBiO3.",
+  "authors": [
+   "Gerald L. Roberts",
+   "Susan M. Kauzlarich",
+   "R.S. Glass",
+   "John C. Estill"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-03-01",
+  "year": 1994,
+  "doi": "10.1002/chin.199409014",
+  "url": "https://doi.org/10.1002/chin.199409014",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of California, Davis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "632edd1dd6c5e639",
+  "title": "Electroreductive intramolecular coupling of nonconjugated aromatic ketones",
+  "authors": [
+   "Naoki Kise",
+   "Takeshi Suzumoto",
+   "Tatsuya Shono"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1994-03-01",
+  "year": 1994,
+  "doi": "10.1021/jo00085a033",
+  "url": "https://doi.org/10.1021/jo00085a033",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "599d0f31e1e55662",
+  "title": "Products and Mechanisms in the Anodic Oxidation of Solanidine-Type Steroidal Alkaloids",
+  "authors": [
+   "Esmir Gunić",
+   "Ibro Tabaković",
+   "Katarina M. Penov Gaši",
+   "Djordje Miljković",
+   "Ivan O. Juranić"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1994-03-01",
+  "year": 1994,
+  "doi": "10.1021/jo00085a011",
+  "url": "https://doi.org/10.1021/jo00085a011",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Natural Product & Total Synthesis"
+  ],
+  "tags": [
+   "Alkaloids",
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "533d9b68943d3ff2",
+  "title": "Electrosynthesis and study of phenylene-carbazolylene copolymers",
+  "authors": [
+   "Karim Faïd",
+   "D. Adès",
+   "Alain Siove",
+   "Claude Chevrot"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "1994-03-01",
+  "year": 1994,
+  "doi": "10.1016/0379-6779(94)90255-0",
+  "url": "https://doi.org/10.1016/0379-6779(94)90255-0",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-30"
  }
 ]

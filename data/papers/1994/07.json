@@ -1,5 +1,293 @@
 [
  {
+  "id": "f5f7364243cf81db",
+  "title": "ChemInform Abstract: Electroorganic Synthesis. Part 56. Synthesis of Advanced Prostaglandin Precursors by Kolbe Electrolysis. Part 1. Preparation of (1′R,4′S,3R/S) ‐3‐(cis‐4‐Acetoxycyclopent‐2‐enyloxy)‐3‐ethoxypropionic Acid (VIII).",
+  "authors": [
+   "Jens Weiguny",
+   "H. J. SCHAEFER"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-07-26",
+  "year": 1994,
+  "doi": "10.1002/chin.199430088",
+  "url": "https://doi.org/10.1002/chin.199430088",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electroorganic",
+   "Kolbe Electrolysis"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "efddf305b32c28e0",
+  "title": "ChemInform Abstract: Selective Formation of Isonitriles by Anodic Oxidation of α‐ Heteroatom‐Substituted Organotin Compounds.",
+  "authors": [
+   "Jun-ichi Yoshida",
+   "Masanori Itoh",
+   "Yuko Morita",
+   "S. ISOE"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-07-26",
+  "year": 1994,
+  "doi": "10.1002/chin.199430035",
+  "url": "https://doi.org/10.1002/chin.199430035",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Osaka City University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "451f765ec6c7dc50",
+  "title": "ChemInform Abstract: Enantioselective Synthesis of Dimethyl 3,4‐Diphenyladipate by Electroreductive Hydrocoupling of Chiral N‐trans‐Cinnamoyl‐2‐ oxazolidones.",
+  "authors": [
+   "Naoki Kise",
+   "Mitsuaki Echigo",
+   "T. SHONO"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-07-26",
+  "year": 1994,
+  "doi": "10.1002/chin.199430100",
+  "url": "https://doi.org/10.1002/chin.199430100",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Enantioselectivity"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0a38621a381ee4cf",
+  "title": "ChemInform Abstract: Electroorganic Synthesis. Part 57. Synthesis of Advanced Prostaglandin Precursors by Kolbe Electrolysis. Part 2. Preparation of Co‐Acids and Anodic Initiated Tandem Radical‐Addition/Radical‐Coupling Reaction with (1′R,4′S,3R/S)‐3‐(cis‐4‐Acetoxycyclopent‐2‐enyloxy)‐3‐ ethoxypropionic Acid",
+  "authors": [
+   "Jens Weiguny",
+   "H. J. SCHAEFER"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-07-26",
+  "year": 1994,
+  "doi": "10.1002/chin.199430107",
+  "url": "https://doi.org/10.1002/chin.199430107",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electroorganic",
+   "Kolbe Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "603abaa95c2bf2ff",
+  "title": "Total Synthesis of Myxovirescins, 1 Strategy and Construction of the “Southeastern” Part [O(1)–C(14)]",
+  "authors": [
+   "Dieter Seebàch",
+   "M.A. Maestro",
+   "Michael Sefkow",
+   "Geo Adam",
+   "Samuel Hintermann",
+   "Axel Neidlein"
+  ],
+  "journal": "Liebigs Annalen der Chemie",
+  "publisher": "Wiley",
+  "published": "1994-07-12",
+  "year": 1994,
+  "doi": "10.1002/jlac.199419940712",
+  "url": "https://doi.org/10.1002/jlac.199419940712",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Natural Product & Total Synthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Kolbe Electrolysis",
+   "Total Synthesis"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "ETH Zurich"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fecf21e58cf9a254",
+  "title": "Electrosynthesis of 5-Chloro- and 5-Azido-4-pyrazole Carboxylic Acid at the Nickel Hydroxide Electrode",
+  "authors": [
+   "M. Abdel-Azzem",
+   "M. A. Zahran"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "1994-07-01",
+  "year": 1994,
+  "doi": "10.1246/bcsj.67.1879",
+  "url": "https://doi.org/10.1246/bcsj.67.1879",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Heterocycles",
+   "Indirect Electrolysis"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Menoufia University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fd5c5c1bc0f20755",
+  "title": "Low temperature plasma anodic oxidation of silicon through thin aluminium overlayers",
+  "authors": [
+   "J Bartoš",
+   "Emil Pinčík"
+  ],
+  "journal": "Thin Solid Films",
+  "publisher": "Elsevier BV",
+  "published": "1994-07-01",
+  "year": 1994,
+  "doi": "10.1016/0040-6090(94)90796-x",
+  "url": "https://doi.org/10.1016/0040-6090(94)90796-x",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Institute of Chemistry of the Slovak Academy of Sciences",
+   "Slovak Academy of Sciences",
+   "Institute of Physics of the Slovak Academy of Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cef8fbab942b90c6",
+  "title": "Anodic Oxidation of 2,6-Dihydroxynaphthalene1 and Structural Characterization of the Oligomers",
+  "authors": [
+   "Gustavo H. Marín",
+   "V. Horák"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1994-07-01",
+  "year": 1994,
+  "doi": "10.1021/jo00094a045",
+  "url": "https://doi.org/10.1021/jo00094a045",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c1a320feb15e8e43",
+  "title": "Zur oxidativen Dimerisierung von CH‐Säuren",
+  "authors": [
+   "Reinhold Peek",
+   "Marlies Streukens",
+   "Hans Günter Thomas",
+   "AndrÉ Vanderfuhr",
+   "Ulrich Wellen"
+  ],
+  "journal": "Chemische Berichte",
+  "publisher": "Wiley",
+  "published": "1994-07-01",
+  "year": 1994,
+  "doi": "10.1002/cber.19941270713",
+  "url": "https://doi.org/10.1002/cber.19941270713",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "RWTH Aachen University",
+   "FH Aachen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a9f4d8f34df2bb25",
+  "title": "Two electrodes modified with metalloporphyrins via an ester linkage and their catalysis of the cathodic reduction of dioxygen",
+  "authors": [
+   "Dai-Wen Pang",
+   "Min Hu",
+   "Zongli Wang"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1994-07-01",
+  "year": 1994,
+  "doi": "10.1016/0022-0728(93)03284-v",
+  "url": "https://doi.org/10.1016/0022-0728(93)03284-v",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Wuhan University",
+   "Huazhong Agricultural University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "9b5bc67c9727f92c",
   "title": "Anodic oxidation of α-alkoxycarbonyloxy and α-acyloxy organotin compounds",
   "authors": [
@@ -24,6 +312,89 @@
   "relevance_score": 46,
   "affiliations": [
    "Osaka City University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8422b1b89486d896",
+  "title": "Enantioselective electropolymerization of aniline in the presence of (+)- or (−)-camphorsulfonate ion: a facile route to conducting polymers with preferred one-screw-sense helicity",
+  "authors": [
+   "Mir Reza Majidi",
+   "Leon A. P. Kane-Maguire",
+   "Gordon G. Wallace"
+  ],
+  "journal": "Polymer",
+  "publisher": "Elsevier BV",
+  "published": "1994-07-01",
+  "year": 1994,
+  "doi": "10.1016/0032-3861(94)90427-8",
+  "url": "https://doi.org/10.1016/0032-3861(94)90427-8",
+  "source": "openalex",
+  "categories": [
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Enantioselective Electrosynthesis",
+   "Enantioselectivity"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Wollongong"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "30c8e273d95995cb",
+  "title": "On the electrochemical fluorination of triethylamine. Part 1. Formation and properties of partially fluorinated compounds",
+  "authors": [
+   "Anton Dimitrov",
+   "Stephan Rüdiger",
+   "Konrad Seppelt",
+   "Tatjana Peplinski"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1994-07-01",
+  "year": 1994,
+  "doi": "10.1016/0022-1139(93)02984-m",
+  "url": "https://doi.org/10.1016/0022-1139(93)02984-m",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Freie Universität Berlin",
+   "Humboldt-Universität zu Berlin"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "18b6f19f96825528",
+  "title": "Schottky barrier study of ion implantation damage in GaAs",
+  "authors": [
+   "Y. G. Wang",
+   "S. Ashok"
+  ],
+  "journal": "Journal of Vacuum Science & Technology B Microelectronics and Nanometer Structures Processing Measurement and Phenomena",
+  "publisher": "American Institute of Physics",
+  "published": "1994-07-01",
+  "year": 1994,
+  "doi": "10.1116/1.587754",
+  "url": "https://doi.org/10.1116/1.587754",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Pennsylvania State University"
   ],
   "added": "2026-07-30"
  }
