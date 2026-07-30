@@ -1,5 +1,180 @@
 [
  {
+  "id": "3095c79023070b0f",
+  "title": "Towards a green production of chlorine dioxide by convergent paired electrosynthesis.",
+  "authors": [
+   "Jorge Guillermo Ibáñez Cornejo",
+   "Rodrigo Mena Brito",
+   "Sebastian Terrazas Moreno"
+  ],
+  "journal": "Fresenius environmental bulletin",
+  "publisher": "Technical University of Munich",
+  "published": "2009-09-28",
+  "year": 2009,
+  "doi": "",
+  "url": "http://ri.ibero.mx/handle/ibero/2134",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Ibero American University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f3405f82fe45cf2c",
+  "title": "Electroreductive Coupling of Phthalimides with α,β-Unsaturated Esters: Unusual Rearrangement of Resulting Silyl Ketene Acetals",
+  "authors": [
+   "Naoki Kise",
+   "S. Isemoto",
+   "Toshihiko Sakurai"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2009-09-25",
+  "year": 2009,
+  "doi": "10.1021/ol902016a",
+  "url": "https://doi.org/10.1021/ol902016a",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tottori University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "aeee8c3b7f9ee394",
+  "title": "The Application of Differential Hall Effect Continuous Anodic Oxidation Technique for Ultra Shallow Structures",
+  "authors": [
+   "Simon A. Prussin",
+   "Jason Reyes"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2009-09-25",
+  "year": 2009,
+  "doi": "10.1149/1.3204401",
+  "url": "https://doi.org/10.1149/1.3204401",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of California, Los Angeles"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "42574d79dac83c62",
+  "title": "Direct Oxidation of Dimethylsulphoxide and Reduction of Maleic Acid in Methanesulphonic Acid Medium",
+  "authors": [
+   "Vellasamy Devadoss",
+   "C. Ahmed Basha",
+   "Krishnamoorthy Jayaraman"
+  ],
+  "journal": "International Journal of Chemical Reactor Engineering",
+  "publisher": "De Gruyter",
+  "published": "2009-09-22",
+  "year": 2009,
+  "doi": "10.2202/1542-6580.2079",
+  "url": "https://doi.org/10.2202/1542-6580.2079",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Divided Cell",
+   "Undivided Cell"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Kalasalingam Academy of Research and Education",
+   "Central Research Institute",
+   "Central Electrochemical Research Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "73334c9ee9f939ca",
+  "title": "Electrochemical Oxidation of Catechols in the Presence of Pyrimidine-2-thiol: Application to Electrosynthesis",
+  "authors": [
+   "Lida Fotouhi",
+   "Ladan Behrozi",
+   "Majid M. Heravı",
+   "Davood Nematollahi"
+  ],
+  "journal": "Phosphorus, sulfur, and silicon and the related elements",
+  "publisher": "Taylor & Francis",
+  "published": "2009-09-21",
+  "year": 2009,
+  "doi": "10.1080/10426500802591614",
+  "url": "https://doi.org/10.1080/10426500802591614",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "Alzahra University",
+   "Bu-Ali Sina University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "436ed4a0ae41ad5c",
+  "title": "Organocatalyzed α‐Oxyamination of Aldehydes Using Anodic Oxidation",
+  "authors": [
+   "Nhat-Nguyen Bui",
+   "Xuan-Huong Ho",
+   "Sun-il Mho",
+   "Hye-Young Jang"
+  ],
+  "journal": "European Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2009-09-21",
+  "year": 2009,
+  "doi": "10.1002/ejoc.200900871",
+  "url": "https://doi.org/10.1002/ejoc.200900871",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Electrolytic",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Ajou University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "12b1c2e0a75d0dd5",
   "title": "Green Electroorganic Synthesis Using BDD Electrodes",
   "authors": [
@@ -23,6 +198,66 @@
   "relevance_score": 40,
   "affiliations": [
    "BASF (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "74fe4924f1240df2",
+  "title": "A structured catalyst: Noble metal supported on a plate-type zirconia substrate prepared by anodic oxidation for steam reforming of hydrocarbon",
+  "authors": [
+   "Choji Fukuhara",
+   "Kenji Kawamorita"
+  ],
+  "journal": "Applied Catalysis A General",
+  "publisher": "Elsevier BV",
+  "published": "2009-09-17",
+  "year": 2009,
+  "doi": "10.1016/j.apcata.2009.09.009",
+  "url": "https://doi.org/10.1016/j.apcata.2009.09.009",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Shizuoka University",
+   "Hachinohe Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "166e9f7a15087bed",
+  "title": "Adsorption of ochratoxin A (OTA) anodic oxidation product on glassy carbon electrodes in highly acidic reaction media: Its thermodynamic and kinetics characterization",
+  "authors": [
+   "Eduardo A. Ramirez",
+   "Marı́a Alicia Zón",
+   "Paola Andrea Jara Ulloa",
+   "J.A. Squella",
+   "Luis Núñez Vergara",
+   "Héctor Fernández"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2009-09-17",
+  "year": 2009,
+  "doi": "10.1016/j.electacta.2009.09.013",
+  "url": "https://doi.org/10.1016/j.electacta.2009.09.013",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Glassy Carbon"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Universidad Nacional de Río Cuarto",
+   "University of Chile"
   ],
   "added": "2026-07-30"
  },
@@ -82,6 +317,151 @@
   "relevance_score": 46,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f9acbfb73f9aec46",
+  "title": "General Approach for Monolayer Formation of Covalently Attached Aryl Groups Through Electrografting of Arylhydrazines",
+  "authors": [
+   "Kristoffer Malmos",
+   "Joseph Iruthayaraj",
+   "Steen Uttrup Pedersen",
+   "Kim Daasbjerg"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2009-09-11",
+  "year": 2009,
+  "doi": "10.1021/ja905919u",
+  "url": "https://doi.org/10.1021/ja905919u",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Aarhus University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f2c2c9ccecbf8a1d",
+  "title": "Synthesis of 2-Aryl-2,3,3,3-tetrafluoropropanoic Acids, Tetrafluorinated Fenoprofen and Ketoprofen by Electrochemical Carboxylation of Pentafluoroethylarenes",
+  "authors": [
+   "Hisanori Senboku",
+   "Yusuke Yamauchi",
+   "Kanae Sakai",
+   "Tsuyoshi Fukuhara",
+   "Shoji Hara"
+  ],
+  "journal": "Synthesis",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2009-09-08",
+  "year": 2009,
+  "doi": "10.1055/s-0029-1216993",
+  "url": "https://doi.org/10.1055/s-0029-1216993",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Arenes",
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "55938cdfd0f8cad7",
+  "title": "Nanoporous alumina membrane prepared by nanoindentation and anodic oxidation",
+  "authors": [
+   "M. Jaafar",
+   "D. Navas",
+   "M. Hernández-Vélez",
+   "J. L. Baldonedo",
+   "M. Vázquez",
+   "A. Asenjo"
+  ],
+  "journal": "Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2009-09-07",
+  "year": 2009,
+  "doi": "10.1016/j.susc.2009.09.002",
+  "url": "https://doi.org/10.1016/j.susc.2009.09.002",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Instituto de Ciencia de Materiales de Madrid",
+   "Massachusetts Institute of Technology",
+   "Universidad Autónoma de Madrid",
+   "Universidad Complutense de Madrid"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6b31a60918c78de3",
+  "title": "Anodic silver (II) oxides investigated by combined electrochemistry, ex situ XPS and in situ X‐ray absorption spectroscopy",
+  "authors": [
+   "Dirk Lützenkirchen-Hecht",
+   "Hans-Henning Strehblow"
+  ],
+  "journal": "Surface and Interface Analysis",
+  "publisher": "Wiley",
+  "published": "2009-09-01",
+  "year": 2009,
+  "doi": "10.1002/sia.3106",
+  "url": "https://doi.org/10.1002/sia.3106",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Wuppertal",
+   "Heinrich Heine University Düsseldorf"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "607fca84b1f0de8a",
+  "title": "Highly diastereoselective synthesis of pyrido[2,1-b][1,3]oxazin-4(6H)-one by intramolecular anodic oxidation",
+  "authors": [
+   "Dong-Sheng Lee"
+  ],
+  "journal": "Tetrahedron Asymmetry",
+  "publisher": "Elsevier BV",
+  "published": "2009-09-01",
+  "year": 2009,
+  "doi": "10.1016/j.tetasy.2009.08.017",
+  "url": "https://doi.org/10.1016/j.tetasy.2009.08.017",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Diastereoselectivity"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "National Chung Hsing University"
   ],
   "added": "2026-07-30"
  }

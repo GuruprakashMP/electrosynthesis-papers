@@ -1,5 +1,173 @@
 [
  {
+  "id": "94b17d2eb28b17a1",
+  "title": "One-Pot Electrosynthesis of Substituted Imidazolinium and Tetrahydropyrimidinium Salts from Secondary Alkyldiamines: An Electrochemical Route toward Ionic Liquids",
+  "authors": [
+   "Iluminada Gallardo",
+   "Neus Vilà"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2009-12-31",
+  "year": 2009,
+  "doi": "10.1021/jo9017606",
+  "url": "https://doi.org/10.1021/jo9017606",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "One-Pot",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "Universitat Autònoma de Barcelona",
+   "Centre National de la Recherche Scientifique",
+   "Université Joseph Fourier",
+   "Département de Chimie Moléculaire"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d58c29387018cc1f",
+  "title": "DiSpiroXanthene-IndenoFluorene: A New Blue Emitter for Nondoped Organic Light Emitting Diode Applications",
+  "authors": [
+   "Nicolas Cocherel",
+   "Cyril Poriel",
+   "Laurence Vignau",
+   "Jean-François Bergamini",
+   "Joëlle Rault-Berthelot"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2009-12-29",
+  "year": 2009,
+  "doi": "10.1021/ol9025952",
+  "url": "https://doi.org/10.1021/ol9025952",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Bordeaux",
+   "Institut des Sciences Chimiques de Rennes",
+   "Institut Polytechnique de Bordeaux",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "92813ad05dd89790",
+  "title": "Synthesis of Tetrahydropyrroloiminoquinone Alkaloids Based on Electrochemically Generated Hypervalent Iodine Oxidative Cyclization",
+  "authors": [
+   "Keisuke Inoue",
+   "Yuichi Ishikawa",
+   "Shigeru Nishiyama"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2009-12-29",
+  "year": 2009,
+  "doi": "10.1021/ol902566p",
+  "url": "https://doi.org/10.1021/ol902566p",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Natural Product & Total Synthesis",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Alkaloids",
+   "Anodic Oxidation",
+   "Electrogenerated Species",
+   "Quinolines"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Keio University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1a6c78aac77dcc4a",
+  "title": "Prediction of reduction potentials from calculated electron affinities for metal-salen compounds",
+  "authors": [
+   "Sarah B. Bateni",
+   "Kellie R. England",
+   "Anthony T Galatti",
+   "Handeep Kaur",
+   "Victor A Mendiola",
+   "Alexander R. Mitchell",
+   "Michael H. Vu",
+   "Benjamin F. Gherman",
+   "James A. Miranda"
+  ],
+  "journal": "Beilstein Journal of Organic Chemistry",
+  "publisher": "Beilstein Institute for the Advancement of Chemical Sciences",
+  "published": "2009-12-23",
+  "year": 2009,
+  "doi": "10.3762/bjoc.5.82",
+  "url": "https://doi.org/10.3762/bjoc.5.82",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Organic Electrochemistry",
+   "Reduction Potential"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "California State University, Sacramento"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "96c8ac429abacc53",
+  "title": "Electro‐organic synthesis of new pyrimidine and uracil derivatives",
+  "authors": [
+   "Saied Saeed Hosseiny Davarani",
+   "Neda Sheijooni Fumani",
+   "Siavash Vahidi",
+   "Mohammadali Tabatabaei",
+   "Hamid Arvinnezhad"
+  ],
+  "journal": "Journal of Heterocyclic Chemistry",
+  "publisher": "Wiley",
+  "published": "2009-12-21",
+  "year": 2009,
+  "doi": "10.1002/jhet.231",
+  "url": "https://doi.org/10.1002/jhet.231",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Heterocycles",
+   "Undivided Cell"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Shahid Beheshti University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "20310725a362e121",
   "title": "ChemInform Abstract: One‐Pot Electrochemical Synthesis of Fused Indole Derivatives Containing Active Hydroxyl Groups in Aqueous Medium.",
   "authors": [
@@ -27,6 +195,383 @@
   "relevance_score": 51,
   "affiliations": [
    "Beijing University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d625977283c2b541",
+  "title": "Room temperature ionic liquids in electrosynthesis and spectroelectrochemical characterization of poly(para-phenylene)",
+  "authors": [
+   "Michał Wagner",
+   "Carita Kvarnström",
+   "Ari Ivaska"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2009-12-17",
+  "year": 2009,
+  "doi": "10.1016/j.electacta.2009.12.020",
+  "url": "https://doi.org/10.1016/j.electacta.2009.12.020",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Åbo Akademi University",
+   "University of Turku"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bd76602660e73846",
+  "title": "Reduction of pitch of nanohole array by self-organizing anodic oxidation after nanoimprinting",
+  "authors": [
+   "Shoso Shingubara",
+   "Shoji Maruo",
+   "Tatsuyuki Yamashita",
+   "Masashi Nakao",
+   "Tomohiro Shimizu"
+  ],
+  "journal": "Microelectronic Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2009-12-17",
+  "year": 2009,
+  "doi": "10.1016/j.mee.2009.11.112",
+  "url": "https://doi.org/10.1016/j.mee.2009.11.112",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kansai University",
+   "National Institute of Information and Communications Technology",
+   "Seiko Holdings (Japan)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c06c8701272090cb",
+  "title": "The Electrochemistry of Alkyl Compounds of Germanium, Tin and Lead",
+  "authors": [
+   "M. Michman"
+  ],
+  "journal": "Patai's chemistry of functional groups",
+  "publisher": "Wiley",
+  "published": "2009-12-15",
+  "year": 2009,
+  "doi": "10.1002/9780470682531.pat0054",
+  "url": "https://doi.org/10.1002/9780470682531.pat0054",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Hebrew University of Jerusalem"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b08c267185963702",
+  "title": "Electrochemistry of Organomagnesium Compounds",
+  "authors": [
+   "Jan S. Jaworski"
+  ],
+  "journal": "Patai's chemistry of functional groups",
+  "publisher": "Wiley",
+  "published": "2009-12-14",
+  "year": 2009,
+  "doi": "10.1002/9780470682531.pat0405",
+  "url": "https://doi.org/10.1002/9780470682531.pat0405",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Warsaw"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5784c60abec6bcbe",
+  "title": "The Electrochemistry of Dienes and Polyenes",
+  "authors": [
+   "Tatsuya Shono",
+   "Shigenori Kashimura",
+   "Naoki Kise"
+  ],
+  "journal": "Patai's chemistry of functional groups",
+  "publisher": "Wiley",
+  "published": "2009-12-14",
+  "year": 2009,
+  "doi": "10.1002/9780470682531.pat0113",
+  "url": "https://doi.org/10.1002/9780470682531.pat0113",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Kindai University",
+   "Tottori University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "35fba0f689a2d458",
+  "title": "Electrochemistry of Anilines",
+  "authors": [
+   "Jan S. Jaworski",
+   "Marek Κ. Kalinowski"
+  ],
+  "journal": "Patai's chemistry of functional groups",
+  "publisher": "Wiley",
+  "published": "2009-12-14",
+  "year": 2009,
+  "doi": "10.1002/9780470682531.pat0398",
+  "url": "https://doi.org/10.1002/9780470682531.pat0398",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Warsaw"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5e57ad360554fb23",
+  "title": "Microporous Materials in Electrosynthesis and Environmental Remediation",
+  "authors": [
+   "Dom√©nech-Carb√≥"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2009-12-10",
+  "year": 2009,
+  "doi": "10.1201/9781439806340-c12",
+  "url": "https://doi.org/10.1201/9781439806340-c12",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dcb0e85c57fdbced",
+  "title": "Coatings Produced by Anodic Oxidation*",
+  "authors": [
+   "Xiaorong Zhou",
+   "P. G. Sheasby",
+   "B. A. Scott"
+  ],
+  "journal": "Elsevier eBooks",
+  "publisher": "Elsevier BV",
+  "published": "2009-12-08",
+  "year": 2009,
+  "doi": "10.1016/b978-044452787-5.00193-1",
+  "url": "https://doi.org/10.1016/b978-044452787-5.00193-1",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Manchester",
+   "Luxfer Group (United Kingdom)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c37febd4ae9f03da",
+  "title": "Anodic oxidation of 3,4-dihydroxyphenylacetic acid on carbon electrodes in acetic acid solutions",
+  "authors": [
+   "Sławomir Michałkiewicz",
+   "Agata Skorupa"
+  ],
+  "journal": "Bioelectrochemistry",
+  "publisher": "Elsevier BV",
+  "published": "2009-12-04",
+  "year": 2009,
+  "doi": "10.1016/j.bioelechem.2009.11.002",
+  "url": "https://doi.org/10.1016/j.bioelechem.2009.11.002",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Jan Kochanowski University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4936d179dd0eb498",
+  "title": "Facile electrosynthesis of novel free-standing electroactive poly((S)-(−)-1,1′-bi-2-naphthol dimethyl ether) films with enhanced main chain axial chirality",
+  "authors": [
+   "Baoyang Lu",
+   "Jingkun Xu",
+   "Yuzhen Li",
+   "Congcong Liu",
+   "Ruirui Yue",
+   "Xiaoxia Sun"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2009-12-04",
+  "year": 2009,
+  "doi": "10.1016/j.electacta.2009.11.103",
+  "url": "https://doi.org/10.1016/j.electacta.2009.11.103",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Jiangxi Science and Technology Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f9c1510e2f8f8d1b",
+  "title": "Electrochemical properties of the system of Ag—1-butyl-3-methylimidazolium bromide low-temperature ionic liquid—silver bromide",
+  "authors": [
+   "Е. П. Гришина",
+   "A. M. Pimenova",
+   "L. M. Ramenskaya"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2009-12-01",
+  "year": 2009,
+  "doi": "10.1134/s1023193509120076",
+  "url": "https://doi.org/10.1134/s1023193509120076",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "Institute of Solution Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8de7dceae5104a5a",
+  "title": "Biocompatibility and in vitro antineoplastic drug-loaded trial of titania nanotubes prepared by anodic oxidation of a pure titanium",
+  "authors": [
+   "Xilin Xiao",
+   "Lixia Yang",
+   "Manli Guo",
+   "Chunfeng Pan",
+   "Qingyun Cai",
+   "Shouzhuo Yao"
+  ],
+  "journal": "Science in China Series B Chemistry",
+  "publisher": "Springer Nature",
+  "published": "2009-12-01",
+  "year": 2009,
+  "doi": "10.1007/s11426-009-0240-7",
+  "url": "https://doi.org/10.1007/s11426-009-0240-7",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hunan University",
+   "State Key Laboratory of Chemobiosensing and Chemometrics",
+   "University of South China"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "12e00e97c25c7bc8",
+  "title": "Catalytic Electrosynthesis in Ionic Liquid: Performance of Nickel–(2,2′-Bipyridine) Complexes for Production of Aryl Propan-2-ones",
+  "authors": [
+   "Rachid Barhdadi",
+   "Hirofumi Maekawa",
+   "Clément Comminges",
+   "Michel Troupel"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "2009-12-01",
+  "year": 2009,
+  "doi": "10.1246/bcsj.82.1510",
+  "url": "https://doi.org/10.1246/bcsj.82.1510",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Divided Cell",
+   "Electroreductive",
+   "Electrosynthesis",
+   "Ni Catalysis",
+   "Sacrificial Anode",
+   "Undivided Cell"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Est Créteil",
+   "Institut de Chimie et des Matériaux Paris-Est",
+   "Nagaoka University of Technology"
   ],
   "added": "2026-07-30"
  }
