@@ -1,5 +1,119 @@
 [
  {
+  "id": "aebc08cd3e401e25",
+  "title": "Electrochemical Engineering Analysis of Multisectioned Porous Electrodes",
+  "authors": [
+   "M. Matlosz"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "10.1149/1.2044214",
+  "url": "https://doi.org/10.1149/1.2044214",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut National Polytechnique de Lorraine"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9dce94c074213925",
+  "title": "Effects of applied current density and potential step on the stress generation during anodic oxidation of tungsten in 0.1 M H2SO4 solution",
+  "authors": [
+   "Joong-Do Kim",
+   "Su-Il Pyun",
+   "R.A. Oriani"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "10.1016/0013-4686(94)00351-z",
+  "url": "https://doi.org/10.1016/0013-4686(94)00351-z",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Korea Advanced Institute of Science and Technology",
+   "University of Minnesota"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "86ad9a56e86859fa",
+  "title": "An Estrogen-Nucleic Acid Adduct. Electroreductive Intermolecular Coupling of 3,4-Estrone-o-quinone and Adenine",
+  "authors": [
+   "Yusuf J. Abul-Hajj",
+   "K. TABAKOVIC",
+   "Ibrahim Tabakovic"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "10.1021/ja00127a037",
+  "url": "https://doi.org/10.1021/ja00127a037",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute of Medicinal Plant Development",
+   "University of Minnesota",
+   "Twin Cities Orthopedics"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3ed82e78223a5de8",
+  "title": "Selective Monohydroxylation of Benzene by Anodic Oxidation",
+  "authors": [
+   "K. Fujimoto",
+   "Hirofumi Maekawa",
+   "Yuichiro Tokuda",
+   "Yoshiharu MATSUBARA",
+   "Takumi Mizuno",
+   "Ikuzo Nishiguchi"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "10.1055/s-1995-5036",
+  "url": "https://doi.org/10.1055/s-1995-5036",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Osaka Research Institute of Industrial Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "25fbd07731dea8ac",
   "title": "Electrosynthesis of 4,4-dimethyl-2-ethoxycarbonyl-5-fluoro-3-thiolanones: highly potent human type II PLA2 inhibitors",
   "authors": [
@@ -23,6 +137,32 @@
   "affiliations": [
    "Tokyo Institute of Technology"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1b1583e7282da9d4",
+  "title": "2-羥基薁-1-羧酸乙酯之電化學氧化反應",
+  "authors": [
+   "陳阿煌",
+   "楊錦華",
+   "守田忠義"
+  ],
+  "journal": "化學",
+  "publisher": "",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "10.6623/chem.1995010",
+  "url": "https://doi.org/10.6623/chem.1995010",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolytic"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
   "added": "2026-07-30"
  }
 ]

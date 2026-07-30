@@ -1,5 +1,117 @@
 [
  {
+  "id": "0aa54062713e9a5b",
+  "title": "ChemInform Abstract: Electrosynthesis of Coordination Compounds by the Dissolution of Sacrificial Metal Anodes.",
+  "authors": [
+   "M.C. Chakravorti",
+   "G. SUBRAHMANYAM"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1995-02-28",
+  "year": 1995,
+  "doi": "10.1002/chin.199509231",
+  "url": "https://doi.org/10.1002/chin.199509231",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Indian Institute of Technology Kharagpur"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "87463e28c4b35792",
+  "title": "ChemInform Abstract: Oxidations of Dihydroxyalkanoates to Vicinal Tricarbonyl Compounds with a 4‐BzoTEMPO‐Sodium Bromite System or by Indirect Electrolysis Using 4‐BzoTEMPO and Bromide Ion.",
+  "authors": [
+   "Tsutomu Inokuchi",
+   "P. LIU",
+   "S. TORII"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1995-02-14",
+  "year": 1995,
+  "doi": "10.1002/chin.199507075",
+  "url": "https://doi.org/10.1002/chin.199507075",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Indirect Electrolysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4289118b8b156ccd",
+  "title": "ChemInform Abstract: Anodic Oxidation of the N‐Cyanomethyl‐oxazolidine System: Regioselective Chlorination α to the N,O‐Acetal Function.",
+  "authors": [
+   "Thierry Martens",
+   "Florence Souquet",
+   "J. ROYER"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1995-02-14",
+  "year": 1995,
+  "doi": "10.1002/chin.199507079",
+  "url": "https://doi.org/10.1002/chin.199507079",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Regioselectivity"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut de Chimie des Substances Naturelles"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2a96fff9bc2155ef",
+  "title": "ChemInform Abstract: Electrosynthesis of Unsymmetrical Polyaryls by a SRN1‐Type Reaction.",
+  "authors": [
+   "Philippe Boy",
+   "Catherine Combellas",
+   "C. Suba",
+   "A. THIEBAULT"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1995-02-07",
+  "year": 1995,
+  "doi": "10.1002/chin.199506104",
+  "url": "https://doi.org/10.1002/chin.199506104",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Chimie Moléculaire, Macromoléculaire, Matériaux",
+   "Laboratoire d'Electrochimie Moléculaire"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "0acf6c9a45a48aae",
   "title": "Diastereoselective Coupling of Anodically Generated Radicals Bearing Chiral Amide Groups",
   "authors": [
@@ -28,6 +140,227 @@
   "relevance_score": 66,
   "affiliations": [
    "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f4fec51cf20be13b",
+  "title": "Influence of ion migration on cathodic reduction of hypochlorite anions",
+  "authors": [
+   "Miroslav Rudolf",
+   "I. Roušar",
+   "Josef Krýsa"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1995-02-01",
+  "year": 1995,
+  "doi": "10.1016/0013-4686(94)00310-w",
+  "url": "https://doi.org/10.1016/0013-4686(94)00310-w",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Chemistry and Technology, Prague"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f2b527d69141a341",
+  "title": "Electrochemical synthesis of trifluoromethylcadmium and trifluoromethylzinc species using bromotrifluoromethane and sacrificial anodes",
+  "authors": [
+   "J.M. Paratian",
+   "Éric Labbé",
+   "S. SIBILLE",
+   "Jean-Yves Nédélec",
+   "Jacques Périchon"
+  ],
+  "journal": "Journal of Organometallic Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1995-02-01",
+  "year": 1995,
+  "doi": "10.1016/0022-328x(94)05108-n",
+  "url": "https://doi.org/10.1016/0022-328x(94)05108-n",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Catalyse",
+   "Laboratoire de Synthèse Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c19b12134c4f80af",
+  "title": "Mechanism of anodic oxidation of chlorate to perchlorate on platinum electrodes",
+  "authors": [
+   "L.J.J. Janssen",
+   "P. D. L. Van Der Heyden"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1995-02-01",
+  "year": 1995,
+  "doi": "10.1007/bf00248169",
+  "url": "https://doi.org/10.1007/bf00248169",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Eindhoven University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8f8ef2b158ce2030",
+  "title": "Cathodic reduction of hypochlorite during reduction of dilute sodium chloride solution",
+  "authors": [
+   "Miroslav Rudolf",
+   "I. Roušar",
+   "Josef Krýsa"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1995-02-01",
+  "year": 1995,
+  "doi": "10.1007/bf00248173",
+  "url": "https://doi.org/10.1007/bf00248173",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Chemistry and Technology, Prague"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "81cc88cf9bb7e9d4",
+  "title": "Electrosynthesis of tetraethylsilane from elemental silicon",
+  "authors": [
+   "V. V. Zhuikov",
+   "Yu. M. Kargin"
+  ],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1995-02-01",
+  "year": 1995,
+  "doi": "10.1007/bf00702159",
+  "url": "https://doi.org/10.1007/bf00702159",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kazan Federal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7093a0c6fa961df6",
+  "title": "Electrochemical fluorination of aromatic compounds in liquid R4NF · mHF—Part IV. fluorination of chlorobenzene",
+  "authors": [
+   "Kunitaka Momota",
+   "Hirohide Horio",
+   "Katsuya Kato",
+   "Masayuki Morita",
+   "Yoshiharu Matsuda"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1995-02-01",
+  "year": 1995,
+  "doi": "10.1016/0013-4686(94)e0183-z",
+  "url": "https://doi.org/10.1016/0013-4686(94)e0183-z",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nagoya Industrial Science Research Institute",
+   "Yamaguchi University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4fae6a46237e513d",
+  "title": "Anodic oxidation of tetrasodium ethylenediaminetetraacetic acid in alkaine solutions",
+  "authors": [
+   "S. N. R. Pakalapati",
+   "Branko N. Popov",
+   "Ralph E. White",
+   "D.T. Hobbs"
+  ],
+  "journal": "University of North Texas Digital Library (University of North Texas)",
+  "publisher": "University of North Texas",
+  "published": "1995-02-01",
+  "year": 1995,
+  "doi": "",
+  "url": "https://digital.library.unt.edu/ark:/67531/metadc1278607/",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "14eda3ef3964c408",
+  "title": "Electrosynthesis and magnetic behaviour of neutral cobalt(II) complexes of pyridine-2-carbaldehyde pyridin-2?-ylhydrazone (papyH) and its analogues",
+  "authors": [
+   "Angelica M. Vecchio"
+  ],
+  "journal": "Transition Metal Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1995-02-01",
+  "year": 1995,
+  "doi": "10.1007/bf00135400",
+  "url": "https://doi.org/10.1007/bf00135400",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "The University of Melbourne"
   ],
   "added": "2026-07-30"
  }

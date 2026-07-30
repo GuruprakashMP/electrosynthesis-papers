@@ -1,5 +1,150 @@
 [
  {
+  "id": "27dbc3023263e2d2",
+  "title": "ChemInform Abstract: Electrolytic Partial Fluorination of Organic Compounds. Part 14. The First Electrosynthesis of Hypervalent Iodobenzene Difluoride Derivatives and Its Application to Indirect Anodic gem‐Difluorination.",
+  "authors": [
+   "Toshio Fuchigami",
+   "T. Fujita"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1995-07-11",
+  "year": 1995,
+  "doi": "10.1002/chin.199528032",
+  "url": "https://doi.org/10.1002/chin.199528032",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolytic",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c0c6beed34b1ff02",
+  "title": "Application of anodic oxidation for postgrowth tailoringofInGaAsP/InP asymmetric Fabry-Perot modulator reflection spectra",
+  "authors": [
+   "F.N. Timofeev",
+   "A.J. Seeds",
+   "Polina Bayvel",
+   "J.E. Midwinter",
+   "M. Hopkinson"
+  ],
+  "journal": "Electronics Letters",
+  "publisher": "Institution of Engineering and Technology",
+  "published": "1995-07-06",
+  "year": 1995,
+  "doi": "10.1049/el:19950810",
+  "url": "https://doi.org/10.1049/el:19950810",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University College London",
+   "Engineering and Physical Sciences Research Council",
+   "University of Sheffield"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f9cae1efe3ca5f20",
+  "title": "Synthesis of fluorocyclohexadienes by the electrochemical fluorination of p-difluorobenzenes on a preparative scale",
+  "authors": [
+   "Kunitaka Momota",
+   "Takanori Yonezawa",
+   "Yoshio Hayakawa",
+   "Katsuya Kato",
+   "Masayuki Morita",
+   "Yoshiharu Matsuda"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1995-07-01",
+  "year": 1995,
+  "doi": "10.1007/bf00241926",
+  "url": "https://doi.org/10.1007/bf00241926",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nagoya Industrial Science Research Institute",
+   "Yamaguchi University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e0f2a613858f0c69",
+  "title": "Anodic oxidation of pyrrhotite in simulated CIP liquors",
+  "authors": [
+   "H.G. Linge"
+  ],
+  "journal": "Minerals Engineering",
+  "publisher": "Elsevier BV",
+  "published": "1995-07-01",
+  "year": 1995,
+  "doi": "10.1016/0892-6875(95)00040-w",
+  "url": "https://doi.org/10.1016/0892-6875(95)00040-w",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Commonwealth Scientific and Industrial Research Organisation",
+   "Curtin University",
+   "CO2CRC"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dbf7981a144d18fb",
+  "title": "Photoemission of electrons into electrolyte from cadmium oxide layers formed by anodic oxidation of undeformed and plastically deformed cadmium plates",
+  "authors": [
+   "R. Dragon",
+   "S. Wacke",
+   "T. G�recki"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1995-07-01",
+  "year": 1995,
+  "doi": "10.1007/bf00241933",
+  "url": "https://doi.org/10.1007/bf00241933",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Opole University of Technology",
+   "University of Opole",
+   "Institute of Mathematics"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "d973b10464594a3a",
   "title": "Organische Elektrosynthese: Modern Electroorganic Chemistry. Hrsg. von D. Kyriacou. Springer, Heidelberg, 1994. 228 S., geb., 98,‐ DM. ISBN 3‐540‐57504‐9",
   "authors": [
@@ -20,6 +165,118 @@
   ],
   "relevance_score": 46,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9c4cb7a8e9007254",
+  "title": "Electrochemical and Thermal Behavior of Polyaniline in Aqueous Solution Containing SO 4 2 − Ions",
+  "authors": [
+   "Yasuhisa Maeda",
+   "A. Katsuta",
+   "Kunio Nagasaki",
+   "Masashi Kamiyama"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1995-07-01",
+  "year": 1995,
+  "doi": "10.1149/1.2044284",
+  "url": "https://doi.org/10.1149/1.2044284",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Toyohashi University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8a43b435b7ce39b7",
+  "title": "Oxidation of Allylic Alcohols by Means of Electrochemical Methodology. Novel Rearrangement of Prenol under Direct Anodic Oxidation Conditions",
+  "authors": [
+   "Shôjirô Maki",
+   "Katsuhiro Konno",
+   "Hiroaki Takayama"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1995-07-01",
+  "year": 1995,
+  "doi": "10.1246/cl.1995.559",
+  "url": "https://doi.org/10.1246/cl.1995.559",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Teikyo University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "555933d73d862140",
+  "title": "Mechanism of nickel catalysed dehalogenative step polymerization of aryl dibromides",
+  "authors": [
+   "Alain Siove",
+   "Aïcha Aboulkassim",
+   "Karim Faïd",
+   "D. Adès"
+  ],
+  "journal": "Polymer International",
+  "publisher": "Wiley",
+  "published": "1995-07-01",
+  "year": 1995,
+  "doi": "10.1002/pi.1995.210370304",
+  "url": "https://doi.org/10.1002/pi.1995.210370304",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Centre de Recherches sur les Macromolécules Végétales"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "49e51037381189af",
+  "title": "Electrosynthesis and stabilization of α-cobalt hydroxide in the presence of trivalent cations",
+  "authors": [
+   "Mridula Dixit",
+   "P. Vishnu Kamath"
+  ],
+  "journal": "Journal of Power Sources",
+  "publisher": "Elsevier BV",
+  "published": "1995-07-01",
+  "year": 1995,
+  "doi": "10.1016/0378-7753(95)80015-9",
+  "url": "https://doi.org/10.1016/0378-7753(95)80015-9",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Bangalore University"
+  ],
   "added": "2026-07-30"
  }
 ]

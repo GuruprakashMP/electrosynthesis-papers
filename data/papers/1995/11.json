@@ -1,5 +1,67 @@
 [
  {
+  "id": "dd68e3c1d698e4a6",
+  "title": "ChemInform Abstract: Selective Monohydroxylation of Benzene by Anodic Oxidation.",
+  "authors": [
+   "K. Fujimoto",
+   "Hirofumi Maekawa",
+   "Yuichiro Tokuda",
+   "Y. MATSUBARA",
+   "Takumi Mizuno",
+   "Ikuzo Nishiguchi"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1995-11-07",
+  "year": 1995,
+  "doi": "10.1002/chin.199545078",
+  "url": "https://doi.org/10.1002/chin.199545078",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Technology Research Institute of Osaka Prefecture"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "eebc620c76a891e6",
+  "title": "Thioglycosides as Potential Glycosyl Donors in Electrochemical Glycosylation Reactions. Part 2: Their Reactivity Toward Sugar Alcohols.",
+  "authors": [
+   "G.G.A. Balavoine",
+   "Sabine Berteina-Raboin",
+   "Aurore Gref",
+   "J. Fischer",
+   "André Lubineau"
+  ],
+  "journal": "Journal of Carbohydrate Chemistry",
+  "publisher": "Taylor & Francis",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1080/07328309508005407",
+  "url": "https://doi.org/10.1080/07328309508005407",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Chimie Organique",
+   "Institut de Chimie Moléculaire et des Matériaux d'Orsay"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "e25a0d7c7f161ffb",
   "title": "Radical Tandem Cyclizations by Anodic Decarboxylation of Carboxylic Acids",
   "authors": [
@@ -54,6 +116,152 @@
   "relevance_score": 46,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c9c79e2848ab65c1",
+  "title": "Deprotection of p-methoxyphenyl pyranosides by anodic oxidation",
+  "authors": [
+   "Sarah Iacobucci",
+   "Nina Filippova",
+   "Marc d’Alarcao"
+  ],
+  "journal": "Carbohydrate Research",
+  "publisher": "Elsevier BV",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1016/0008-6215(95)00223-g",
+  "url": "https://doi.org/10.1016/0008-6215(95)00223-g",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tufts University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a4bd33b17eb11714",
+  "title": "Thioglycosides as Potential Glycosyl Donors in Electrochemical Glycosylation Reactions. Part 1: Their Preparation and Reactivity Toward Simple Alcohols.",
+  "authors": [
+   "G.G.A. Balavoine",
+   "Sabine Berteina-Raboin",
+   "Aurore Gref",
+   "J. Fischer",
+   "André Lubineau"
+  ],
+  "journal": "Journal of Carbohydrate Chemistry",
+  "publisher": "Taylor & Francis",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1080/07328309508005406",
+  "url": "https://doi.org/10.1080/07328309508005406",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Oxidation Potential",
+   "Radical Chemistry",
+   "Undivided Cell"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Chimie Organique",
+   "Institut de Chimie Moléculaire et des Matériaux d'Orsay"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a1a0efabfcda9ebf",
+  "title": "Physical and Electrical Characterization of Thin Anodic Oxides on Si(100)",
+  "authors": [
+   "J. A. Bardwell",
+   "Patrik Schmuki",
+   "G. I. Sproule",
+   "D. Landheer",
+   "D. F. Mitchell"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1149/1.2048437",
+  "url": "https://doi.org/10.1149/1.2048437",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Institute for Microstructural Sciences",
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9a3e92ab386e08f0",
+  "title": "Electrosynthesis of β‐methylpentadecanedioic acid dimethyl ester",
+  "authors": [
+   "Zhongcheng Zhang",
+   "Jiali Liu",
+   "Shang Yuxia"
+  ],
+  "journal": "Journal of Chemical Technology & Biotechnology",
+  "publisher": "Wiley",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1002/jctb.280640304",
+  "url": "https://doi.org/10.1002/jctb.280640304",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "316e6953baa3a39b",
+  "title": "Effects of anodic oxidation on the surface structure of highly oriented pyrolytic graphite revealed by in situ electrochemical scanning tunnelling microscopy in H2SO4 solution",
+  "authors": [
+   "Bailin Zhang",
+   "Erkang Wang"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1995-11-01",
+  "year": 1995,
+  "doi": "10.1016/0013-4686(95)00111-q",
+  "url": "https://doi.org/10.1016/0013-4686(95)00111-q",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Changchun Institute of Applied Chemistry"
   ],
   "added": "2026-07-30"
  }
