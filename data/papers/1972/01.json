@@ -1,5 +1,429 @@
 [
  {
+  "id": "ff6f37b7e32e8e47",
+  "title": "Anodic oxidation of organic nitrogen compounds. Part I. Cyclization of 1-arylmethylenesemicarbazides",
+  "authors": [
+   "Ole Hammerich",
+   "Vernon D. Parker"
+  ],
+  "journal": "Journal of the Chemical Society Perkin Transactions 1",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1039/p19720001718",
+  "url": "https://doi.org/10.1039/p19720001718",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ff1e381556773421",
+  "title": "Electro-catalytic reduction of ethylene on gold and other substrates",
+  "authors": [
+   "M. Byrne",
+   "Alexander Kuhn"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 1 Physical Chemistry in Condensed Phases",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1039/f19726801898",
+  "url": "https://doi.org/10.1039/f19726801898",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fa04b88105369bf3",
+  "title": "Influence of temperature on anodic oxidation of niobium in phosphate solutions",
+  "authors": [
+   "I. A. Ammar",
+   "I.K. Ismail"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "",
+  "url": "https://inis.iaea.org/search/search.aspx?orig_q=RN:4053249",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Cairo University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f71dc39d8654f90a",
+  "title": "The Electroreductive Coupling Reaction of Activated Olefins with Alkyl Bromides",
+  "authors": [
+   "Tatsuya Shono",
+   "Michiharu Mitani"
+  ],
+  "journal": "NIPPON KAGAKU KAISHI",
+  "publisher": "Chemical Society of Japan",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1246/nikkashi.1972.2370",
+  "url": "https://doi.org/10.1246/nikkashi.1972.2370",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ea8afeea809198c0",
+  "title": "Anodic Oxidation of Ethylenediaminetetraacetic Acid on Pt in Acid Sulfate Solutions",
+  "authors": [
+   "James W. Johnson",
+   "Huijian Jiang",
+   "Samir B. Hanna",
+   "W. J. James"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1149/1.2404264",
+  "url": "https://doi.org/10.1149/1.2404264",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrochemical Decarboxylation"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Missouri University of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e17ed20ebfc9ca81",
+  "title": "Electrode Kinetic Studies on Electro-Organic Syntheses Involving Carbonium Ions",
+  "authors": [
+   "Ashok K. Vijh"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1149/1.2404292",
+  "url": "https://doi.org/10.1149/1.2404292",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electroorganic",
+   "Electrosynthesis",
+   "Graphite Electrode",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "Hydro-Québec"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d04e1e89fee87a78",
+  "title": "Anodic oxidation of Schiff bases. Part I. Oxidation of N-benzylidene-p-anisidines in acetonitrile",
+  "authors": [
+   "Masaichiro Masui",
+   "Hidenobu Ohmori"
+  ],
+  "journal": "Journal of the Chemical Society Perkin Transactions 2",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1039/p29720001882",
+  "url": "https://doi.org/10.1039/p29720001882",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Controlled Potential",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Mechanism",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 98,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ceffc4dd0fc73bd5",
+  "title": "Electrochemistry of organic sulfur compounds V. a polarographic study on the anodic oxidation of phenyl sulfides",
+  "authors": [
+   "Sigeru Torii",
+   "Kenji Uneyama",
+   "Kozo Iida",
+   "Kazuo Sasaki"
+  ],
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1016/s0040-4039(01)94355-2",
+  "url": "https://doi.org/10.1016/s0040-4039(01)94355-2",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Okayama University",
+   "Hiroshima University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c3ef22f6411aac7f",
+  "title": "The Revision of British Standard 1615: Anodic Oxidation Coatings on Aluminium",
+  "authors": [
+   "V F HENLEY"
+  ],
+  "journal": "Transactions of the IMF",
+  "publisher": "Taylor & Francis",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1080/00202967.1972.11870222",
+  "url": "https://doi.org/10.1080/00202967.1972.11870222",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Acorn",
+   "Capricorn Automotive (United Kingdom)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b869d49f5e65f1b0",
+  "title": "On the Potentiostatic Oxidation of Iron in Neutral Sulfate Solution",
+  "authors": [
+   "D. B. Gibbs",
+   "Morris Cohen"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1149/1.2404220",
+  "url": "https://doi.org/10.1149/1.2404220",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Centre de réadaptation Lethbridge-Layton-Mackay"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b7f4867cd5d3a9da",
+  "title": "Potential dependence of the rate of anodic oxidation of primary alcohols",
+  "authors": [
+   "Mihály Novák",
+   "J. Lantos",
+   "F. Márta"
+  ],
+  "journal": "Dépôt institutionnel de l'Université libre de Bruxelles (Université Libre de Bruxelles)",
+  "publisher": "Université Libre de Bruxelles",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "",
+  "url": "http://hdl.handle.net/2013/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/162429",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b6730f4db22639fd",
+  "title": "Studies in the thiophene series. III. Anodic oxidation of 2-thenyl alcohol",
+  "authors": [
+   "Miroslav Janda",
+   "J. Šrogl",
+   "M. SYNACKOVA"
+  ],
+  "journal": "Collection of Czechoslovak Chemical Communications",
+  "publisher": "Wiley-VCH",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1135/cccc19722584",
+  "url": "https://doi.org/10.1135/cccc19722584",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "aabe90c26c5347ac",
+  "title": "Anodic Oxidation of 1-Phenylazo-2-naphthylamine in the Presence of Copper(II) Acetate",
+  "authors": [
+   "Kazuo SASAKI",
+   "Tetsuro Matsumoto",
+   "Akira KITANI"
+  ],
+  "journal": "NIPPON KAGAKU KAISHI",
+  "publisher": "Chemical Society of Japan",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1246/nikkashi.1972.1039",
+  "url": "https://doi.org/10.1246/nikkashi.1972.1039",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Hiroshima University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a1c60995141ed283",
+  "title": "Nuclear Study of the Fluorine Contamination of Tantalum by Various Polishing Procedures and of Its Behavior during Subsequent Anodic Oxidation",
+  "authors": [
+   "B. Maurel",
+   "D. Dieumegard",
+   "G. Amsel"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1149/1.2404085",
+  "url": "https://doi.org/10.1149/1.2404085",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Technicolor (France)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "912d9d801dedf8e1",
+  "title": "Electro-catalytic reduction of ethylene on platinum and ruthenium",
+  "authors": [
+   "M. Byrne",
+   "Alexander Kuhn"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 1 Physical Chemistry in Condensed Phases",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1039/f19726800355",
+  "url": "https://doi.org/10.1039/f19726800355",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "85ec3f479792306f",
+  "title": "Organic Electrochemistry",
+  "authors": [],
+  "journal": "",
+  "publisher": "",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1007/bfb0051459",
+  "url": "https://doi.org/10.1007/bfb0051459",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "7fb6bbbb5bed9573",
   "title": "Electroreductive cyclization of acetylenic halides at mercury cathodes",
   "authors": [
@@ -26,6 +450,313 @@
   "added": "2026-07-30"
  },
  {
+  "id": "718aaaebcc998777",
+  "title": "A study of intermediates adsorbed on platinized platinum during the anodic oxidation of formaldehyde",
+  "authors": [
+   "P. Sidheswaran",
+   "Hira Lal"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1016/s0022-0728(72)80512-6",
+  "url": "https://doi.org/10.1016/s0022-0728(72)80512-6",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Indian Institute of Technology Bombay"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6b3c648dc61880a3",
+  "title": "The cathodic reduction of anthracene in lithium chloride–hexamethylphosphoramide",
+  "authors": [
+   "Luís Alberto Avaca",
+   "A. Bewick"
+  ],
+  "journal": "Journal of the Chemical Society Perkin Transactions 2",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1039/p29720001709",
+  "url": "https://doi.org/10.1039/p29720001709",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Electrogenerated Species",
+   "Electrolysis"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6738889c276712d2",
+  "title": "Transient Mass Transfer at the Rotating Disk Electrode",
+  "authors": [
+   "L. Nanis",
+   "Irving Klein"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1149/1.2404070",
+  "url": "https://doi.org/10.1149/1.2404070",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Philadelphia University",
+   "DuPont (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5e473d6a7b3a2776",
+  "title": "Anodic oxidation of hydrazine and its derivatives III. The oxidation of methylhydrazine on mercury electrodes in alkaline solutions",
+  "authors": [
+   "U. Eisner"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1016/0022-0728(72)80010-x",
+  "url": "https://doi.org/10.1016/0022-0728(72)80010-x",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tel Aviv University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "552d61c7d97ea5ec",
+  "title": "The origin of electrolyte effects in electrooxidative substitution reactions",
+  "authors": [
+   "Edward A. Mayeda",
+   "L. L. MILLER"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1016/0040-4020(72)88098-0",
+  "url": "https://doi.org/10.1016/0040-4020(72)88098-0",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Colorado State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "342605238887ec21",
+  "title": "Evidence for a one-electron intermediate in the anodic oxidation of hydroquinone in acetonitrile",
+  "authors": [
+   "Brian R. Eggins"
+  ],
+  "journal": "Journal of the Chemical Society Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1039/c3972000427a",
+  "url": "https://doi.org/10.1039/c3972000427a",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2f38884c41448ecc",
+  "title": "Erratum to : Studies on Aluminum Sintered Body and Its Anodic Oxidation",
+  "authors": [],
+  "journal": "Journal of the Metal Finishing Society of Japan",
+  "publisher": "The Surface Finishing Society of Japan",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.4139/sfj1950.23.6_368b",
+  "url": "https://doi.org/10.4139/sfj1950.23.6_368b",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2b80522a4e77abe3",
+  "title": "Studies on Aluminum Sintered Body and Its Anodic Oxidation",
+  "authors": [
+   "Sadao Okuma",
+   "Tomihiro Nemoto"
+  ],
+  "journal": "Journal of the Metal Finishing Society of Japan",
+  "publisher": "The Surface Finishing Society of Japan",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.4139/sfj1950.23.204",
+  "url": "https://doi.org/10.4139/sfj1950.23.204",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolytic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "220847c316f80e44",
+  "title": "Anodic oxidation of anthracenes and related compounds. Part VIII. oxidation of a quinone-methide.",
+  "authors": [
+   "Vernon D. Parker",
+   "Lennart Eberson"
+  ],
+  "journal": "Tetrahedron Letters",
+  "publisher": "Elsevier BV",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1016/s0040-4039(01)84651-7",
+  "url": "https://doi.org/10.1016/s0040-4039(01)84651-7",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Copenhagen",
+   "Ørsted (Denmark)",
+   "Lund University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1e6ca3add5b3b8ab",
+  "title": "The Field-Dependence of the Dielectric Constant during the Anodic Oxidation of Tantalum, Niobium, and Tungsten",
+  "authors": [
+   "J. L. Ord",
+   "M. A. Hopper",
+   "W. P. Wang"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1149/1.2404226",
+  "url": "https://doi.org/10.1149/1.2404226",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Waterloo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1a4da4bdd3950413",
+  "title": "Synthesis of Cyclitol Derivatives (IV) Electrolytic Reduction of DL-epi-inosose-2",
+  "authors": [
+   "Joo-Hwan Sohn",
+   "Chong-Woo Nam",
+   "Heung-Cho Park"
+  ],
+  "journal": "Journal of the Korean Chemical Society",
+  "publisher": "Korean Chemical Society",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "",
+  "url": "http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=JCGMDC_1972_v16n2_93",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolytic"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0dbf80ebca456cfb",
+  "title": "Anodic oxidation of N-methylformamide and N-methylacetamide",
+  "authors": [
+   "Manuel Finkelstein",
+   "S.D. Ross"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1016/0040-4020(72)80031-0",
+  "url": "https://doi.org/10.1016/0040-4020(72)80031-0",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "09dd143366b94966",
   "title": "Anodic Oxidation of Trihexylmethoxyborate in Presence of Butadiene",
   "authors": [
@@ -49,6 +780,30 @@
   "affiliations": [
    "University of Göttingen"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0986a1a1aeca029d",
+  "title": "Potential controlled anodic oxidation of 4-(3,4-dimethoxybenzyl)-6,7-dimethoxyisochroman-3-one",
+  "authors": [
+   "M. Sainsbury",
+   "R. F. SCHINAZI"
+  ],
+  "journal": "Journal of the Chemical Society Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1972-01-01",
+  "year": 1972,
+  "doi": "10.1039/c39720000718",
+  "url": "https://doi.org/10.1039/c39720000718",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-30"
  }
 ]

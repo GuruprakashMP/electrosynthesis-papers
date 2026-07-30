@@ -1,5 +1,32 @@
 [
  {
+  "id": "ec003d8d7774991e",
+  "title": "Direct anodic oxidation of olefins at platinum and carbon anodes in non-aqueous solutions",
+  "authors": [
+   "Michael J. Katz",
+   "P. Riemenschneider",
+   "Hartmut Wendt"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1972-09-01",
+  "year": 1972,
+  "doi": "10.1016/0013-4686(72)85050-3",
+  "url": "https://doi.org/10.1016/0013-4686(72)85050-3",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Darmstadt University of Applied Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "deae0cd05800b20d",
   "title": "Single‐Step Synthesis of 1, n ‐Dicarboxylic Diesters by Kolbe Electrolysis of Oxalic and Malonic Half Esters in the Presence of Olefins",
   "authors": [
@@ -23,6 +50,57 @@
   "relevance_score": 55,
   "affiliations": [
    "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8c3901170d5751c8",
+  "title": "Fortschritte der chemischen Forschung Topics in Current Chemistry, Organic Electrochemistry Von L. Eberson und H. Schäfer; Springer‐Verlag, Berlin, Heidelberg, New York, 1971; 182 Seiten mit 10 Bildern und 19 Tabellen; Format 15,5 × 23,5) cm, Broschur 58. — DM",
+  "authors": [
+   "Rolf Landsberg"
+  ],
+  "journal": "Zeitschrift für Chemie",
+  "publisher": "Deutscher Verlag für Grundstoffindustrie",
+  "published": "1972-09-01",
+  "year": 1972,
+  "doi": "10.1002/zfch.19720120942",
+  "url": "https://doi.org/10.1002/zfch.19720120942",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2ec77f9080d7a4b4",
+  "title": "Anodic Reaction of 2-Furoic Acids. II. Electrolysis of Methyl 5-Acetyl-2-furoate and Its Homologous in Protic Solvents",
+  "authors": [
+   "Sigeru Torii",
+   "Hideo Tanaka",
+   "Tsutomu Okamoto"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "1972-09-01",
+  "year": 1972,
+  "doi": "10.1246/bcsj.45.2783",
+  "url": "https://doi.org/10.1246/bcsj.45.2783",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Okayama University"
   ],
   "added": "2026-07-30"
  }
