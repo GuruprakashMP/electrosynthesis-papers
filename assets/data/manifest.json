@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-30 14:31 UTC",
- "total": 14479,
+ "generated": "2026-07-30 14:34 UTC",
+ "total": 14558,
  "years": [
   {
    "year": 2026,
@@ -276,6 +276,11 @@
    "year": 1972,
    "count": 88,
    "file": "papers-1972.json"
+  },
+  {
+   "year": 1971,
+   "count": 79,
+   "file": "papers-1971.json"
   },
   {
    "year": 1969,
