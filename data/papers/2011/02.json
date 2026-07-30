@@ -1,5 +1,208 @@
 [
  {
+  "id": "5c136ffa421bbdca",
+  "title": "Electrosynthesis, Characterization, and Thermal Property Analysis of Pentakis (Diethylamido) Tantalum",
+  "authors": [
+   "Jianguang Yang"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2011-02-28",
+  "year": 2011,
+  "doi": "10.1002/9781118062173.ch94",
+  "url": "https://doi.org/10.1002/9781118062173.ch94",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Central South University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "31f948979a09a89b",
+  "title": "Electrochemical characterization and quantum-mechanical studies to obtain the eletronic properties of parabens",
+  "authors": [
+   "Núsia Luísa Barbosa"
+  ],
+  "journal": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+  "publisher": "LA Referencia",
+  "published": "2011-02-28",
+  "year": 2011,
+  "doi": "",
+  "url": "http://repositorio.bc.ufg.br/tede/handle/tde/2102",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Oxidation Potential",
+   "Supporting Electrolyte",
+   "Working Electrode"
+  ],
+  "relevance_score": 69,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "59e20ff09b595b66",
+  "title": "Anodic oxidation of anthraquinone dye Alizarin Red S at Ti/BDD electrodes",
+  "authors": [
+   "Jianrui Sun",
+   "Haiyan Lu",
+   "Lili Du",
+   "Haibo Lin",
+   "Hongdong Li"
+  ],
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2011-02-27",
+  "year": 2011,
+  "doi": "10.1016/j.apsusc.2011.02.099",
+  "url": "https://doi.org/10.1016/j.apsusc.2011.02.099",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Jilin University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d4fb75f930579071",
+  "title": "Anodic oxidation of organic pollutants on a Ti/SnO2–Sb2O4 anode",
+  "authors": [
+   "Lurdes Ciríaco",
+   "D. Santos",
+   "Maria José Pacheco",
+   "Ana Lopes"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2011-02-26",
+  "year": 2011,
+  "doi": "10.1007/s10800-011-0266-3",
+  "url": "https://doi.org/10.1007/s10800-011-0266-3",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Beira Interior"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b234bf6b06175509",
+  "title": "Electroreductive intramolecular cyclisation of bromoalkoxylated derivatives catalysed by nickel(I) tetramethylcyclam in “green” media",
+  "authors": [
+   "M.J. Medeiros",
+   "Cristina Neves",
+   "Alfredo Pereira",
+   "Élisabet Duñach"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2011-02-26",
+  "year": 2011,
+  "doi": "10.1016/j.electacta.2011.02.054",
+  "url": "https://doi.org/10.1016/j.electacta.2011.02.054",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Minho",
+   "Centre National de la Recherche Scientifique",
+   "Université Côte d'Azur",
+   "Laboratoire de Chimie"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "324f3193b8b9325b",
+  "title": "A gradient anodic oxidation method for treating polyacrylonitrile‐based high‐modulus carbon fibers",
+  "authors": [
+   "Yongping Hou",
+   "Tongqing Sun",
+   "Haojing Wang"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "2011-02-25",
+  "year": 2011,
+  "doi": "10.1002/app.33761",
+  "url": "https://doi.org/10.1002/app.33761",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Beihang University",
+   "Chinese Academy of Sciences",
+   "Institute of Coal Chemistry",
+   "Xi'an Institute of Optics and Precision Mechanics"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1b2b968ffa4e6e8c",
+  "title": "Kolbe Electrosynthesis of 1,2-Di(bicyclo[2.2.1]heptan-2-yl)ethane and 1,2-Diphenylethane",
+  "authors": [
+   "António Mendonça",
+   "Massuquinini Inês",
+   "Ana Paula Esteves",
+   "Dina I. M. D. de Mendonça",
+   "M.J. Medeiros"
+  ],
+  "journal": "Synthetic Communications",
+  "publisher": "Taylor & Francis",
+  "published": "2011-02-25",
+  "year": 2011,
+  "doi": "10.1080/00397911003668588",
+  "url": "https://doi.org/10.1080/00397911003668588",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Beira Interior",
+   "Agostinho Neto University",
+   "University of Minho"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "8c1006afbc3f03d1",
   "title": "ChemInform Abstract: Organic Electrosynthesis: A Promising Green Methodology in Organic Chemistry",
   "authors": [
@@ -57,6 +260,458 @@
   "relevance_score": 93,
   "affiliations": [
    "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a1daa1ec90c42d9d",
+  "title": "HCB 11 (CF 3 ) n F 11- n − : Inert Anions with High Anodic Oxidation Potentials",
+  "authors": [
+   "Matthew G. Fete",
+   "Zdeněk Havlas",
+   "Josef Michl"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2011-02-22",
+  "year": 2011,
+  "doi": "10.1021/ja111035k",
+  "url": "https://doi.org/10.1021/ja111035k",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Oxidation Potential",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Colorado Boulder",
+   "Czech Academy of Sciences, Institute of Organic Chemistry and Biochemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "51fa4711a7444608",
+  "title": "Fabrication Of Carbon Doped Tio2 Nanotubes Via In-Situ Anodization Of Ti-Foil In Acidic Medium",
+  "authors": [
+   "Asma Milad",
+   "Mohammad B. Kassim",
+   "Wan Ramli Wan Daud"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2011-02-22",
+  "year": 2011,
+  "doi": "10.5281/zenodo.1058264",
+  "url": "https://doi.org/10.5281/zenodo.1058264",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "12c76126991c3c32",
+  "title": "Ruthenium Oxide Nanotubes Via Template Electrosynthesis",
+  "authors": [
+   "Rosalinda Inguanta",
+   "Germano Ferrara",
+   "Patrizia Livreri",
+   "S. Piazza",
+   "Carmelo Sunseri"
+  ],
+  "journal": "Current Nanoscience",
+  "publisher": "Bentham Science Publishers",
+  "published": "2011-02-21",
+  "year": 2011,
+  "doi": "10.2174/157341311794653622",
+  "url": "https://doi.org/10.2174/157341311794653622",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4e2b612227518419",
+  "title": "ChemInform Abstract: Novel Application of Electrooxidative Method for the Cyclization of N‐Benzyl‐2‐(hydroxymethyl)‐ and N‐Benzyl‐2‐(2‐hydroxyethyl)piperidines.",
+  "authors": [
+   "Mitsuhiro Okimoto",
+   "Takashi Yoshida",
+   "Masayuki Hoshi",
+   "Kousuke Ohashi"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2011-02-17",
+  "year": 2011,
+  "doi": "10.1002/chin.201111031",
+  "url": "https://doi.org/10.1002/chin.201111031",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kitami Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d8831161fd45f0b2",
+  "title": "Oxidation of sulfide ion in synthetic geothermal brines at carbon‐based anodes",
+  "authors": [
+   "Jeff Hastie",
+   "Dorin Bejan",
+   "Nigel J. Bunce"
+  ],
+  "journal": "The Canadian Journal of Chemical Engineering",
+  "publisher": "Wiley",
+  "published": "2011-02-09",
+  "year": 2011,
+  "doi": "10.1002/cjce.20454",
+  "url": "https://doi.org/10.1002/cjce.20454",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Technology Centre Prague",
+   "University of Guelph"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "123d35634ff7bcbe",
+  "title": "TMSCl-Promoted Electroreduction of Triphenylphosphine Oxide to Triphenylphosphine",
+  "authors": [
+   "Hideo Tanaka",
+   "Hiromu Kawakubo",
+   "Tomotake Yano",
+   "Kazuma Kobayashi",
+   "Syogo Kamenoue",
+   "Manabu Kuroboshi"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2011-02-08",
+  "year": 2011,
+  "doi": "10.1055/s-0030-1259529",
+  "url": "https://doi.org/10.1055/s-0030-1259529",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Constant Current",
+   "Electrolysis",
+   "Radical Chemistry",
+   "Undivided Cell"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Okayama University",
+   "Asahi Kasei (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7c6faa8e06d34c08",
+  "title": "Indirect cathodic reduction of dispersed CI Vat Blue 1 (indigo) by dihydroxy-9,10-anthraquinones in cyclic voltammetry experiments",
+  "authors": [
+   "Aurora Turcanu",
+   "Christa Fitz-Binder",
+   "Thomas Bechtold"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2011-02-07",
+  "year": 2011,
+  "doi": "10.1016/j.jelechem.2011.01.040",
+  "url": "https://doi.org/10.1016/j.jelechem.2011.01.040",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "85ba7327fc103762",
+  "title": "Effect of anodic oxidation on the properties of Ni-coated carbon fibers produced by electrodeposition",
+  "authors": [
+   "Xiaoxuan Lu",
+   "Chunxiang Lü",
+   "Yu Yang",
+   "Pucha Zhou",
+   "Feng An",
+   "He Fu"
+  ],
+  "journal": "Carbon",
+  "publisher": "Elsevier BV",
+  "published": "2011-02-04",
+  "year": 2011,
+  "doi": "10.1016/j.carbon.2010.12.033",
+  "url": "https://doi.org/10.1016/j.carbon.2010.12.033",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Institute of Coal Chemistry",
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "26fcbf541b8d565d",
+  "title": "Towards Electrosynthesis in Shewanella: Energetics of Reversing the Mtr Pathway for Reductive Metabolism",
+  "authors": [
+   "Daniel E. Ross",
+   "Jeffrey M. Flynn",
+   "Daniel Baron",
+   "Jeffrey A. Gralnick",
+   "Daniel R. Bond"
+  ],
+  "journal": "PLoS ONE",
+  "publisher": "Public Library of Science",
+  "published": "2011-02-02",
+  "year": 2011,
+  "doi": "10.1371/journal.pone.0016649",
+  "url": "https://doi.org/10.1371/journal.pone.0016649",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Graphite Electrode",
+   "Redox Mediator"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Minnesota",
+   "Biotechnology Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e092fb6516952869",
+  "title": "Indirect electrosynthesis of peracetic acid using hydrogen peroxide generated in situ in a gas diffusion electrode",
+  "authors": [
+   "N. V. Chaenko",
+   "Г. В. Корниенко",
+   "В. Л. Корниенко"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2011-02-01",
+  "year": 2011,
+  "doi": "10.1134/s1023193511020030",
+  "url": "https://doi.org/10.1134/s1023193511020030",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Indirect Electrolysis"
+  ],
+  "relevance_score": 44,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "Institute of Chemistry and Chemical Technology",
+   "Siberian Federal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "df994a526e79d1ec",
+  "title": "Kinetics and mechanisms of the catalytic reactions of formaldehyde with copper oxides and a copper ion complex in aqueous alkali",
+  "authors": [
+   "O. A. Demchenko",
+   "D. I. Belkin"
+  ],
+  "journal": "Kinetics and Catalysis",
+  "publisher": "Pleiades Publishing",
+  "published": "2011-02-01",
+  "year": 2011,
+  "doi": "10.1134/s0023158411010046",
+  "url": "https://doi.org/10.1134/s0023158411010046",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Mechanism"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Volodymyr Dahl East Ukrainian National University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d3c054307e81d5ac",
+  "title": "Electrochemically synthesised polypyrroles and their ion mobility characteristics",
+  "authors": [
+   "Danesh Roudini"
+  ],
+  "journal": "Research Repository (Kingston University London)",
+  "publisher": "Kingston Hospital NHS Trust",
+  "published": "2011-02-01",
+  "year": 2011,
+  "doi": "",
+  "url": "",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bc0d1f9c4d27e868",
+  "title": "Electrochemical behavior of zirconium in molten NaCl‐KCl‐K 2 ZrF 6 system",
+  "authors": [
+   "Yanke Wu",
+   "Zhigao Xu",
+   "Song Chen",
+   "Lijun Wang",
+   "Guoxun Li"
+  ],
+  "journal": "Rare Metals",
+  "publisher": "Springer Science+Business Media",
+  "published": "2011-02-01",
+  "year": 2011,
+  "doi": "10.1007/s12598-011-0187-7",
+  "url": "https://doi.org/10.1007/s12598-011-0187-7",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Controlled Potential",
+   "Cyclic Voltammetry",
+   "Electrolysis"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "General Research Institute for Nonferrous Metals (China)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a59ec0d4360a4c48",
+  "title": "Electrochemical oxidation of phenol on boron-doped diamond electrode",
+  "authors": [
+   "Г. В. Корниенко",
+   "N. V. Chaenko",
+   "N. G. Maksimov",
+   "В. Л. Корниенко",
+   "V. P. Varnin"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2011-02-01",
+  "year": 2011,
+  "doi": "10.1134/s102319351102011x",
+  "url": "https://doi.org/10.1134/s102319351102011x",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "BDD Electrode",
+   "Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 50,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "Institute of Chemistry and Chemical Technology",
+   "Frumkin Institute of Physical Chemistry and Electrochemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8b0da129a5566a72",
+  "title": "Electrosynthesis and analysis of the electrochemical properties of a composite material: Polyaniline + titanium oxide",
+  "authors": [
+   "Souhila Abaci",
+   "Belkacem Nessark",
+   "Rabah Boukherroub",
+   "K. Lmimouni"
+  ],
+  "journal": "Thin Solid Films",
+  "publisher": "Elsevier BV",
+  "published": "2011-02-01",
+  "year": 2011,
+  "doi": "10.1016/j.tsf.2011.01.277",
+  "url": "https://doi.org/10.1016/j.tsf.2011.01.277",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University Ferhat Abbas of Setif",
+   "Centre National de la Recherche Scientifique",
+   "Institut d'électronique de microélectronique et de nanotechnologie"
   ],
   "added": "2026-07-30"
  }

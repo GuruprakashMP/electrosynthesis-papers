@@ -1,5 +1,127 @@
 [
  {
+  "id": "7780054fe128d5a1",
+  "title": "A Comparative Study of Carbon-Supported Pt-Mo and Pt-Ru Catalysts for the Anodic Oxidation of Methanol",
+  "authors": [
+   "Orlando Ugalde Reyes",
+   "Pedro Roquero",
+   "Roberto Hernández Maya",
+   "Ana Lilia Ocampo",
+   "Eliceo Sosa Hernández"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2011-11-29",
+  "year": 2011,
+  "doi": "10.1149/1.3660595",
+  "url": "https://doi.org/10.1149/1.3660595",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Universidad Nacional Autónoma de México",
+   "Mexican Institute of Petroleum"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4f8c7ddd7fff6062",
+  "title": "Electrosynthesis of β-Ni(OH) 2 and Electrochemical Response of β-Ni(OH) 2 /CB-PVC Composite Electrode",
+  "authors": [
+   "Mario González-Perea",
+   "Martín M. Dávila-Jiménez",
+   "Aditaín García",
+   "María de la Paz Elizalde-González",
+   "Patricia Ruíz"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2011-11-29",
+  "year": 2011,
+  "doi": "10.1149/1.3660624",
+  "url": "https://doi.org/10.1149/1.3660624",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Nickel Electrode"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "Benemérita Universidad Autónoma de Puebla"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e43e625af0f99784",
+  "title": "Brief Introduction of Organic Electrochemistry",
+  "authors": [
+   "Huan Wang",
+   "Jia-Xing LU"
+  ],
+  "journal": "Dian hua xue/Dian huaxue",
+  "publisher": "",
+  "published": "2011-11-28",
+  "year": 2011,
+  "doi": "10.61558/2993-074x.2856",
+  "url": "https://doi.org/10.61558/2993-074x.2856",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic",
+   "Electrosynthesis",
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "East China Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d022032c835e30a7",
+  "title": "Electrosynthesis of blue-light-emitting oligo(1-bromopyrene) with favorable solubility",
+  "authors": [
+   "Zhen Wang",
+   "Cunyuan Lai",
+   "Baoyang Lu",
+   "Wenjuan Guo",
+   "Ruirui Yue",
+   "Meishan Pei",
+   "Jingkun Xu"
+  ],
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2011-11-25",
+  "year": 2011,
+  "doi": "10.1007/s10008-011-1588-0",
+  "url": "https://doi.org/10.1007/s10008-011-1588-0",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Jinan",
+   "Jiangxi Science and Technology Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "ee0bebd12b41de88",
   "title": "ChemInform Abstract: Selective Electrochemical Fluorination of Organic Molecules and Macromolecules in Ionic Liquids",
   "authors": [
@@ -64,6 +186,191 @@
   "added": "2026-07-30"
  },
  {
+  "id": "8c890648d34a5094",
+  "title": "Electrophotocatalytic decolorization of an azo dye on TiO2 self-organized nanotubes in a laboratory scale reactor",
+  "authors": [
+   "Andrea Turolla",
+   "Massimo Fumagalli",
+   "Massimiliano Bestetti",
+   "Manuela Antonelli"
+  ],
+  "journal": "Desalination",
+  "publisher": "Elsevier BV",
+  "published": "2011-11-23",
+  "year": 2011,
+  "doi": "10.1016/j.desal.2011.10.029",
+  "url": "https://doi.org/10.1016/j.desal.2011.10.029",
+  "source": "openalex",
+  "categories": [
+   "Electrophotochemistry"
+  ],
+  "tags": [
+   "Electrophotocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Politecnico di Milano"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b75d9e5b7f3aa1e6",
+  "title": "Electrosynthesis and charge-transport properties of poly(3′,4′-ethylenedioxy-2,2′:5′,2′′-terthiophene)",
+  "authors": [
+   "Ichiro Imae",
+   "Saki Imabayashi",
+   "Keisuke Korai",
+   "Takahiro Mashima",
+   "Yousuke Ooyama",
+   "Kenji Komaguchi",
+   "Yutaka Harima"
+  ],
+  "journal": "Materials Chemistry and Physics",
+  "publisher": "Elsevier BV",
+  "published": "2011-11-22",
+  "year": 2011,
+  "doi": "10.1016/j.matchemphys.2011.10.046",
+  "url": "https://doi.org/10.1016/j.matchemphys.2011.10.046",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hiroshima University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fa763db4b796e526",
+  "title": "Influence of PGE2 on Expression of a Functionally-Relevant p53 SNP (Pro72Arg) within Heterozygous Normal Cycling B Cells,",
+  "authors": [
+   "Shabirul Haque",
+   "Hyunjoo Lee",
+   "Jennifer Nieto",
+   "Nicholas Chiorazzi",
+   "Patricia K. A. Mongini"
+  ],
+  "journal": "Blood",
+  "publisher": "Elsevier BV",
+  "published": "2011-11-18",
+  "year": 2011,
+  "doi": "10.1182/blood.v118.21.3234.3234",
+  "url": "https://doi.org/10.1182/blood.v118.21.3234.3234",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Divided Cell",
+   "Undivided Cell"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Northwell Health",
+   "Feinstein Institute for Medical Research"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b9a6ef492d3a1953",
+  "title": "Electroreduction of Triphenylphosphine Oxide to Triphenylphosphine in the Presence of Chlorotrimethylsilane",
+  "authors": [
+   "Manabu Kuroboshi",
+   "Hideo Tanaka",
+   "Hiromu Kawakubo",
+   "Tomotake Yano",
+   "Kazuma Kobayashi",
+   "Syogo Kamenoue",
+   "Tomomi Akagi"
+  ],
+  "journal": "Synthesis",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2011-11-18",
+  "year": 2011,
+  "doi": "10.1055/s-0031-1289612",
+  "url": "https://doi.org/10.1055/s-0031-1289612",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Radical Chemistry",
+   "Undivided Cell"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "39fbdd052ac7beee",
+  "title": "Electrosynthesis",
+  "authors": [
+   "Keith B. Oldham",
+   "Jan C. Myland",
+   "Alan M. Bond"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2011-11-18",
+  "year": 2011,
+  "doi": "10.1002/9781119965992.ch4",
+  "url": "https://doi.org/10.1002/9781119965992.ch4",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Trent University",
+   "Monash University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "51bc831d20ef1364",
+  "title": "Control over the oxidative reactivity of metalloporphyrins. Efficient electrosynthesis of meso,meso-linked zinc porphyrin dimer",
+  "authors": [
+   "Abdou K. D. Dimé",
+   "Charles H. Devillers",
+   "Hélène Cattey",
+   "Benoît Habermeyer",
+   "Dominique Lucas"
+  ],
+  "journal": "Dalton Transactions",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2011-11-17",
+  "year": 2011,
+  "doi": "10.1039/c1dt11330e",
+  "url": "https://doi.org/10.1039/c1dt11330e",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Bourgogne",
+   "Institut de Chimie",
+   "Institut de Chimie Moléculaire de l'Université de Bourgogne"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "46ee51aeac55b47d",
   "title": "ChemInform Abstract: Electrosynthesis of Substituted 1H‐Indoles from o‐Nitrostyrenes.",
   "authors": [
@@ -90,6 +397,130 @@
   "relevance_score": 67,
   "affiliations": [
    "Indiana University Bloomington"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8d563951a66cbf34",
+  "title": "Electrochemical reduction and oxidation pathways for Reactive Black 5 dye using nickel electrodes in divided and undivided cells",
+  "authors": [
+   "Ana J. Méndez-Martínez",
+   "Martín M. Dávila-Jiménez",
+   "Omar Ornelas-Dávila",
+   "María P. Elizalde-González",
+   "Uriel Arroyo-Abad",
+   "Ignasi Sirés",
+   "Enric Brillas"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2011-11-14",
+  "year": 2011,
+  "doi": "10.1016/j.electacta.2011.10.047",
+  "url": "https://doi.org/10.1016/j.electacta.2011.10.047",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Nickel Electrode",
+   "Undivided Cell"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Benemérita Universidad Autónoma de Puebla",
+   "Universitat de Barcelona"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cc7214d60dc0d936",
+  "title": "Effect of the electrolyte composition on the anatase fraction of photocatalytic active TiO2 coatings prepared by plasma assisted anodic oxidation",
+  "authors": [
+   "F. Schlott",
+   "R. Ohser-Wiedemann",
+   "Torsten Jordan",
+   "G Kreisel"
+  ],
+  "journal": "Thin Solid Films",
+  "publisher": "Elsevier BV",
+  "published": "2011-11-10",
+  "year": 2011,
+  "doi": "10.1016/j.tsf.2011.10.171",
+  "url": "https://doi.org/10.1016/j.tsf.2011.10.171",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Friedrich Schiller University Jena",
+   "TU Bergakademie Freiberg"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8557ff404e90a7d3",
+  "title": "Electrochemical reduction of benzoyl chloride to benzil in ionic liquid BMIMBF 4",
+  "authors": [
+   "Qiuju Feng",
+   "Kelong Huang",
+   "Suqin Liu",
+   "Hongmei Wang",
+   "Wenbin Yan"
+  ],
+  "journal": "Journal of Physical Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2011-11-09",
+  "year": 2011,
+  "doi": "10.1002/poc.1946",
+  "url": "https://doi.org/10.1002/poc.1946",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Supporting Electrolyte",
+   "Undivided Cell"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Jishou University",
+   "Central South University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d7f8c9c0e6036672",
+  "title": "Bubble dynamics during Kolbe electrolysis of trifluoroacetic acid at Pt electrodes",
+  "authors": [
+   "D. Koutsaftis",
+   "D. Marinis",
+   "Antonis Karantonis"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2011-11-06",
+  "year": 2011,
+  "doi": "10.1016/j.electacta.2011.10.079",
+  "url": "https://doi.org/10.1016/j.electacta.2011.10.079",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Kolbe Electrolysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "National Technical University of Athens"
   ],
   "added": "2026-07-30"
  },
@@ -131,6 +562,64 @@
   "added": "2026-07-30"
  },
  {
+  "id": "46a07643a8609f23",
+  "title": "Automated sub-100 nm local anodic oxidation (LAO)-directed nanopatterning of organic monolayer-modified silicon surfaces",
+  "authors": [
+   "Bruno Fabre",
+   "Cyril Herrier"
+  ],
+  "journal": "RSC Advances",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2011-11-03",
+  "year": 2011,
+  "doi": "10.1039/c1ra00450f",
+  "url": "https://doi.org/10.1039/c1ra00450f",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut des Sciences Chimiques de Rennes",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f13a0c7d93cea74c",
+  "title": "INFLUENCE OF K + AND NA + IONS ON DIRECT ELECTROSYNTHESIS OF SOLID K 2 FEO 4 AND COMPARISON OF THE PHYSICOCHEMICAL PROPERTIES OF K 2 FEO 4 SAMPLES",
+  "authors": [
+   "Zhihua Xu",
+   "Zhaoxiong Yan",
+   "Yaping Zhou",
+   "Juncheng Hu"
+  ],
+  "journal": "Chemical Engineering Communications",
+  "publisher": "Taylor & Francis",
+  "published": "2011-11-02",
+  "year": 2011,
+  "doi": "10.1080/00986445.2011.591212",
+  "url": "https://doi.org/10.1080/00986445.2011.591212",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Huanggang Normal University",
+   "South Central Minzu University",
+   "State Ethnic Affairs Commission"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "1700fd0bb088e53e",
   "title": "Azolylborates for Electrochemical Double Layer Capacitor Electrolytes",
   "authors": [
@@ -159,6 +648,127 @@
    "University of Applied Sciences Mainz",
    "Johannes Gutenberg University Mainz",
    "Paul Scherrer Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fa7c2609db292b38",
+  "title": "Oxidation of pyrazoles containing the 2-hydroxyethyl group on a NiO(OH) electrode in aqueous alkali",
+  "authors": [
+   "B. V. Lyalin",
+   "V. A. Petrosyan"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2011-11-01",
+  "year": 2011,
+  "doi": "10.1134/s1023193511100132",
+  "url": "https://doi.org/10.1134/s1023193511100132",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Undivided Cell"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "87da4f4287163cd3",
+  "title": "Effects of KIO3 additive on the direct electrosynthesis of K2FeO4",
+  "authors": [
+   "Weichun He",
+   "Guoqin Liu",
+   "Wei Cui",
+   "Ying Tang"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2011-11-01",
+  "year": 2011,
+  "doi": "10.1134/s1023193511110097",
+  "url": "https://doi.org/10.1134/s1023193511110097",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Henan University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1eeb1e3665614f63",
+  "title": "Comparison Study of the Electrochemical Behavior of Vanadate in NaOH and KOH Solutions",
+  "authors": [
+   "Biao Liu",
+   "Shi Zheng",
+   "Hui Bin Liu",
+   "Hao Du",
+   "Shao Na Wang",
+   "Dong Hui Chen",
+   "Rui Bai"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2011-11-01",
+  "year": 2011,
+  "doi": "10.4028/www.scientific.net/amr.402.66",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.402.66",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Cyclic Voltammetry",
+   "Glassy Carbon",
+   "Reduction Potential"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "HBIS (China)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1b050a8a8ac57d0d",
+  "title": "Electrochemical Modulation of the Thickness of Polypyrrole Films by Using Different Anionic Dopants",
+  "authors": [
+   "Ulises Páramo-García",
+   "J.G. Ibanez",
+   "Nikola Batina"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2011-11-01",
+  "year": 2011,
+  "doi": "10.1016/s1452-3981(23)18397-0",
+  "url": "https://doi.org/10.1016/s1452-3981(23)18397-0",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Instituto Tecnológico de Ciudad Madero",
+   "Universidad Autónoma Metropolitana",
+   "Ibero American University"
   ],
   "added": "2026-07-30"
  }

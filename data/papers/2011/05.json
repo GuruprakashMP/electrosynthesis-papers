@@ -57,6 +57,34 @@
   "added": "2026-07-30"
  },
  {
+  "id": "5c32bb7fa83e7307",
+  "title": "Electrosynthesis and properties of the polypyrrole/dodecylbenzene sulfonate polymer. Influence of structural micellar changes of sodium dodecylbenzene sulfonate at high concentrations",
+  "authors": [
+   "Ricardo Paisal",
+   "Raul E. Martinez",
+   "Javier Padilla",
+   "Antonio J. Fernández Romero"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2011-05-20",
+  "year": 2011,
+  "doi": "10.1016/j.electacta.2011.05.024",
+  "url": "https://doi.org/10.1016/j.electacta.2011.05.024",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad Politécnica de Cartagena"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "949ab04eedc08b7e",
   "title": "Inside Cover: Efficient and Stereodivergent Electrochemical Synthesis of Optically Pure Menthylamines (Angew. Chem. Int. Ed. 24/2011)",
   "authors": [
@@ -90,6 +118,87 @@
   "added": "2026-07-30"
  },
  {
+  "id": "70f8a1b83e049df8",
+  "title": "Anodická oxidace vybraných organických barviv pomocí kompozitní uhlíkové elektrody",
+  "authors": [
+   "Petr Horák"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2011-05-18",
+  "year": 2011,
+  "doi": "",
+  "url": "https://digilib.k.utb.cz/handle/10563/16060",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Mechanism"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9c721a4785557676",
+  "title": "Improvement of n-type 4H-SiC Schottky diode characteristics using passivation of defect by anodic oxidation.",
+  "authors": [
+   "Kimura Masaya",
+   "Kato Masashi",
+   "Ichimura Masaya"
+  ],
+  "journal": "IEICE Technical Report; IEICE Tech. Rep.",
+  "publisher": "",
+  "published": "2011-05-12",
+  "year": 2011,
+  "doi": "",
+  "url": "https://www.ieice.org/ken/paper/20110519x06D/eng/",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6eebcfb17aab7206",
+  "title": "Electrosynthesis of Pd/Au hollow cone-like microstructures for electrocatalytic formic acid oxidation",
+  "authors": [
+   "Liqing Li",
+   "E Yifeng",
+   "Yuan Jumao",
+   "Xiayue Luo",
+   "Yang Yang",
+   "Louzhen Fan"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2011-05-08",
+  "year": 2011,
+  "doi": "10.1016/j.electacta.2011.02.096",
+  "url": "https://doi.org/10.1016/j.electacta.2011.02.096",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Beijing Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "9f1aebf624ff78c7",
   "title": "Electrosynthesis of Fluorinated Benzo[b]thiophene Derivatives",
   "authors": [
@@ -112,6 +221,222 @@
   ],
   "relevance_score": 40,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4154303bf5b15836",
+  "title": "Treatment of aqueous and simulated wastewater of Luganil blue N dye – a new electrochemical approach",
+  "authors": [
+   "Sarala Puttappa",
+   "Venkatesha T. Venkatarangaiah"
+  ],
+  "journal": "Environmental Technology",
+  "publisher": "Taylor & Francis",
+  "published": "2011-05-05",
+  "year": 2011,
+  "doi": "10.1080/09593330.2011.569956",
+  "url": "https://doi.org/10.1080/09593330.2011.569956",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Platinum Electrode",
+   "Reference Electrode",
+   "Supporting Electrolyte",
+   "Undivided Cell"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Kuvempu University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e27b94269385567f",
+  "title": "Electrosynthesis of Cerium Hexaboride Using Lithium Tetra Borate Melt",
+  "authors": [
+   "K. Amalajyothi",
+   "L. John Berchmans",
+   "A. Visuvasam",
+   "S. Angappan"
+  ],
+  "journal": "Materials and Manufacturing Processes",
+  "publisher": "Taylor & Francis",
+  "published": "2011-05-01",
+  "year": 2011,
+  "doi": "10.1080/10426910903229388",
+  "url": "https://doi.org/10.1080/10426910903229388",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Central Electrochemical Research Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "88d10b4254afd263",
+  "title": "A simulator for local anodic oxidation of silicon surfaces",
+  "authors": [
+   "Lado Filipovic",
+   "H. Ceric",
+   "J. Cervenka",
+   "S. Selberherr"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2011-05-01",
+  "year": 2011,
+  "doi": "10.1109/ccece.2011.6030543",
+  "url": "https://doi.org/10.1109/ccece.2011.6030543",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "TU Wien"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7e1ee5fb64207d04",
+  "title": "Synthesis of Semi-Terminated Silica Nanotubes",
+  "authors": [
+   "Ming Xing Liu",
+   "Ting Hu",
+   "Dong Lin Liu",
+   "Xianwen Wang",
+   "Kun Chen"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2011-05-01",
+  "year": 2011,
+  "doi": "10.4028/www.scientific.net/amr.236-238.1721",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.236-238.1721",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Hubei University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7714a20ff338b970",
+  "title": "Investigation on the electrochemical properties of TiO 2 nanotubes prepared by anodic oxidation",
+  "authors": [
+   "Xiuqin Chen",
+   "Xu-ping Chen"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2011-05-01",
+  "year": 2011,
+  "doi": "10.1109/icmree.2011.5930595",
+  "url": "https://doi.org/10.1109/icmree.2011.5930595",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Jiyang College of Zhejiang A&F University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6fb7bfd539525e3a",
+  "title": "Influence of the Cation Nature of the Sulphate Salt on the Electrochemical Synthesis of Sulfate-Doped Polypyrrole",
+  "authors": [
+   "Teresa de Jesús Licona-Sánchez",
+   "G.A. Álvarez-Romero",
+   "Manuel Palomar-Pardavé",
+   "Carlos Andrés Galán-Vidal",
+   "María Elena Páez-Hernández",
+   "M. T. Ramírez Silva",
+   "M. Romero-Romo"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2011-05-01",
+  "year": 2011,
+  "doi": "10.1016/s1452-3981(23)15091-7",
+  "url": "https://doi.org/10.1016/s1452-3981(23)15091-7",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Universidad Autónoma del Estado de Hidalgo",
+   "Universidad Autónoma Metropolitana"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2872ec3b082ee3ba",
+  "title": "Study on Electrocarboxylation of [(4-Methoxy-Benzylidene)-Amino] -Acetic Acid Ester",
+  "authors": [
+   "Huan Wang",
+   "Kai Zhang",
+   "Baoli Chen",
+   "Ruina Li",
+   "Jian-Qing Zhao",
+   "Jiaxing Lu"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2011-05-01",
+  "year": 2011,
+  "doi": "10.1016/s1452-3981(23)15105-4",
+  "url": "https://doi.org/10.1016/s1452-3981(23)15105-4",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrochemical Carboxylation",
+   "Sacrificial Anode",
+   "Supporting Electrolyte",
+   "Undivided Cell",
+   "Working Electrode"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "East China Normal University"
+  ],
   "added": "2026-07-30"
  }
 ]
