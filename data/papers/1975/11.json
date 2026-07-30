@@ -1,5 +1,53 @@
 [
  {
+  "id": "877db1c360e7085b",
+  "title": "Anodic Dimerisation, Addition and Substitution Reactions of Organic Compounds",
+  "authors": [
+   "L. A. MIRKIND"
+  ],
+  "journal": "Russian Chemical Reviews",
+  "publisher": "Institute of Physics",
+  "published": "1975-11-30",
+  "year": 1975,
+  "doi": "10.1070/rc1975v044n11abeh002475",
+  "url": "https://doi.org/10.1070/rc1975v044n11abeh002475",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4be965ec96be6634",
+  "title": "Electrochemical Oxidation of Organic Compounds on Anodes Consisting of Certain Transition Metal Oxides",
+  "authors": [
+   "M. Ya. Fioshin",
+   "I. A. Avrutskaya"
+  ],
+  "journal": "Russian Chemical Reviews",
+  "publisher": "Institute of Physics",
+  "published": "1975-11-30",
+  "year": 1975,
+  "doi": "10.1070/rc1975v044n11abeh002405",
+  "url": "https://doi.org/10.1070/rc1975v044n11abeh002405",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "f60a4424a15debe6",
   "title": "ChemInform Abstract: ELECTROREDUCTIVE CYCLIZATION REACTIONS OF 6‐CHLORO‐1‐PHENYL‐1‐HEXYNE AND 6‐CHLORO‐1‐PHENYL‐1,2‐HEXADIENE AT A MERCURY CATHODIC IN DMF",
   "authors": [
@@ -49,6 +97,117 @@
   "affiliations": [
    "University of Münster"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5374f4823eb1586c",
+  "title": "Studies on electrosynthesis of organic compounds. I. Electrolytic esterification in aqueous solutions",
+  "authors": [
+   "A. M. Osman",
+   "Ahmed I. Khodair",
+   "F. El-Cheikh",
+   "Ahmed Swelim",
+   "Ibrahim Aly"
+  ],
+  "journal": "Journal of Applied Chemistry and Biotechnology",
+  "publisher": "Wiley",
+  "published": "1975-11-01",
+  "year": 1975,
+  "doi": "10.1002/jctb.5020251108",
+  "url": "https://doi.org/10.1002/jctb.5020251108",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolytic",
+   "Electrosynthesis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "Assiut University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4a255ce46ddc7ff8",
+  "title": "Investigation of the cathodic reduction of lithium and arsenic ions on monocrystalline silicon by cyclic voltammetry",
+  "authors": [
+   "J. Antula",
+   "Bernhard F. Becker"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1975-11-01",
+  "year": 1975,
+  "doi": "10.1021/j100590a005",
+  "url": "https://doi.org/10.1021/j100590a005",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0cd31d9da85df0c2",
+  "title": "19 F NMR analysis of the fluorides of perfluorocyclohexane‐sulphonic acid and of 3‐trifluoromethylperfluorocyclopentane‐1‐sulphonic acid",
+  "authors": [
+   "Giorgio Gurato",
+   "L. Cavalli",
+   "G Troilo"
+  ],
+  "journal": "Organic Magnetic Resonance",
+  "publisher": "Wiley",
+  "published": "1975-11-01",
+  "year": 1975,
+  "doi": "10.1002/mrc.1270071103",
+  "url": "https://doi.org/10.1002/mrc.1270071103",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Consorzio Venezia Ricerche",
+   "Consorzio Milano Ricerche",
+   "Industriale Chimica (Italy)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0498846f2a9d4a1d",
+  "title": "Manuel M. Baizer (Ed.): Organic Electrochemistry – An Introduction and a Guide , Marcel Dekker, Inc., New York 1973, 1072 Seiten, Preis: DM 198,35",
+  "authors": [
+   "Eric Grabner"
+  ],
+  "journal": "Berichte der Bunsengesellschaft für physikalische Chemie",
+  "publisher": "",
+  "published": "1975-11-01",
+  "year": 1975,
+  "doi": "10.1002/bbpc.19750791151",
+  "url": "https://doi.org/10.1002/bbpc.19750791151",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-30"
  }
 ]

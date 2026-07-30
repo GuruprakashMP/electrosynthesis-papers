@@ -1,5 +1,135 @@
 [
  {
+  "id": "c2716c16ad340944",
+  "title": "ChemInform Abstract: SYNTHESIS OF 2,5‐DIHYDROXY‐2,5‐DIHYDROFURANS BY ANODIC OXIDATION OF FURANS",
+  "authors": [
+   "J. FROBORG",
+   "Göran Magnusson",
+   "S. THOREN"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1975-04-29",
+  "year": 1975,
+  "doi": "10.1002/chin.197517255",
+  "url": "https://doi.org/10.1002/chin.197517255",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0ab748a64b969def",
+  "title": "ChemInform Abstract: ANODIC OXIDATIONS PART 7, NUCLEAR CYANATION OF METHYLANISOLES",
+  "authors": [
+   "K. YOSHIDA",
+   "Masataka Shigi",
+   "Takayuki Fueno"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1975-04-29",
+  "year": 1975,
+  "doi": "10.1002/chin.197517229",
+  "url": "https://doi.org/10.1002/chin.197517229",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f62a10794da008eb",
+  "title": "Electrochemical synthesis of organometallic compounds",
+  "authors": [
+   "G. A. Tedoradze"
+  ],
+  "journal": "Journal of Organometallic Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1975-04-01",
+  "year": 1975,
+  "doi": "10.1016/s0022-328x(00)89328-6",
+  "url": "https://doi.org/10.1016/s0022-328x(00)89328-6",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Frumkin Institute of Physical Chemistry and Electrochemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a8be6e85ec4023ac",
+  "title": "Electrosynthesis of 2,5-dihydrothiophene-2-carboxylic acid",
+  "authors": [
+   "V. S. MIKHAILOV",
+   "V. P. Gul’tyai",
+   "S. G. Mairanovskii",
+   "S. Z. Taits",
+   "I. V. Proskurovskaya",
+   "Yu. G. Dubovik"
+  ],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1975-04-01",
+  "year": 1975,
+  "doi": "10.1007/bf00920697",
+  "url": "https://doi.org/10.1007/bf00920697",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9d821b869848289b",
+  "title": "ChemInform Abstract: ELECTRODE KINETIC STUDIES ON ELECTRO‐ORGANIC SYNTHESES INVOLVING CARBONIUM IONS PART 2, ANODIC OXIDATION OF ACETATE IONS IN PRESENCE OF DIMETHYLFORMAMIDE",
+  "authors": [
+   "G. Bélanger",
+   "Claude Lamarre",
+   "Ashok K. Vijh"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1975-04-01",
+  "year": 1975,
+  "doi": "10.1002/chin.197513113",
+  "url": "https://doi.org/10.1002/chin.197513113",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "7532e12c1919cf0e",
   "title": "Anodic Oxidation of Cyclopropane Derivatives",
   "authors": [
@@ -22,6 +152,90 @@
   "relevance_score": 46,
   "affiliations": [
    "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7251a121eef8196d",
+  "title": "Anodic oxidation of some psychotropic substances with seven-membered rings",
+  "authors": [
+   "J. Volke",
+   "M.M. Ellaithy",
+   "V. Volková"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1975-04-01",
+  "year": 1975,
+  "doi": "10.1016/s0022-0728(75)80338-x",
+  "url": "https://doi.org/10.1016/s0022-0728(75)80338-x",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Czech Academy of Sciences, J. Heyrovský Institute of Physical Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "55dc781d6e7a551b",
+  "title": "Influence of the pH on the Anodic Oxidation of Alkanes in Fluorosulfuric Acid",
+  "authors": [
+   "Chalom Pitti",
+   "Francis Bobilliart",
+   "A. THIEBAULT",
+   "Michel Herlem"
+  ],
+  "journal": "Analytical Letters",
+  "publisher": "Taylor & Francis",
+  "published": "1975-04-01",
+  "year": 1975,
+  "doi": "10.1080/00032717508058205",
+  "url": "https://doi.org/10.1080/00032717508058205",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Laboratoire de Phonétique et Phonologie",
+   "Laboratoire de Chimie Théorique",
+   "Laboratoire de Chimie"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3f16f0df50266066",
+  "title": "Anodic oxidation of hydrogen on substoichiometric tungsten trioxides",
+  "authors": [
+   "Anne-Marie Alquié-Redon",
+   "A. Aldaz",
+   "C. Lamy"
+  ],
+  "journal": "Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "1975-04-01",
+  "year": 1975,
+  "doi": "10.1016/0039-6028(75)90374-x",
+  "url": "https://doi.org/10.1016/0039-6028(75)90374-x",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Laboratoire d'Electrochimie Moléculaire"
   ],
   "added": "2026-07-30"
  }
