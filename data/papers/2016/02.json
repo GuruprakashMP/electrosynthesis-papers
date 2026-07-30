@@ -1,5 +1,183 @@
 [
  {
+  "id": "9e32941b92ed3e5e",
+  "title": "Enzymatic bioreactor for simultaneous electrosynthesis and energy production",
+  "authors": [
+   "Ievgen Mazurenko",
+   "Mathieu Etienne",
+   "Gert-Wieland Kohring",
+   "François Lapicque",
+   "Alain Walcarius"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2016-02-21",
+  "year": 2016,
+  "doi": "10.1016/j.electacta.2016.02.126",
+  "url": "https://doi.org/10.1016/j.electacta.2016.02.126",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Chimie Physique et Microbiologie pour l'Environnement",
+   "Université de Lorraine",
+   "Saarland University",
+   "Laboratoire Réactions et Génie des Procédés"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fbaac322133f14e5",
+  "title": "Toward a Green Generation of Oxidant on Demand: Practical Electrosynthesis of Ammonium Persulfate",
+  "authors": [
+   "Ju Zhu",
+   "King Kuok Hii",
+   "Klaus Hellgardt"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2016-02-19",
+  "year": 2016,
+  "doi": "10.1021/acssuschemeng.5b01372",
+  "url": "https://doi.org/10.1021/acssuschemeng.5b01372",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "BDD Electrode",
+   "Electrolysis",
+   "Electrolytic",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Imperial College London"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "669180e412802fd5",
+  "title": "Kinetics study and electrochemical synthesis of arylsulfinic acid derivatives of clozapine in green media",
+  "authors": [
+   "Esmail Tammari",
+   "Shahram Lotfi"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2016-02-17",
+  "year": 2016,
+  "doi": "10.1016/j.jelechem.2016.02.010",
+  "url": "https://doi.org/10.1016/j.jelechem.2016.02.010",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Persian Gulf University",
+   "Payame Noor University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3600d3b0ded523df",
+  "title": "N -Heterocyclic Carbene-Mediated Microfluidic Oxidative Electrosynthesis of Amides from Aldehydes",
+  "authors": [
+   "Robert A. Green",
+   "Derek Pletcher",
+   "S. Leach",
+   "Richard C. D. Brown"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2016-02-17",
+  "year": 2016,
+  "doi": "10.1021/acs.orglett.6b00339",
+  "url": "https://doi.org/10.1021/acs.orglett.6b00339",
+  "source": "openalex",
+  "categories": [
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Heterocycles"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Southampton",
+   "GlaxoSmithKline (Brazil)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b6b98ba99e3b2911",
+  "title": "Ole Hammerich and Bernd Speiser (Eds.): Organic Electrochemistry. Revised and Expanded, 5th Edn.",
+  "authors": [
+   "Grégoire Herzog"
+  ],
+  "journal": "Chromatographia",
+  "publisher": "Springer Science+Business Media",
+  "published": "2016-02-15",
+  "year": 2016,
+  "doi": "10.1007/s10337-016-3036-x",
+  "url": "https://doi.org/10.1007/s10337-016-3036-x",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Lorraine"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "33962c4b9ec87682",
+  "title": "Electrochemical Deposition of Selenium on Copper",
+  "authors": [
+   "Karolina Kołczyk-Siedlecka",
+   "Remigiusz Kowalik",
+   "Krzysztof Mech",
+   "Piotr Żabiński"
+  ],
+  "journal": "Key engineering materials",
+  "publisher": "Trans Tech Publications",
+  "published": "2016-02-15",
+  "year": 2016,
+  "doi": "10.4028/www.scientific.net/kem.682.189",
+  "url": "https://doi.org/10.4028/www.scientific.net/kem.682.189",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Electrolysis",
+   "Working Electrode"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "AGH University of Krakow"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "1f4eb5f4616a7313",
   "title": "Electrochemical Amination of Less‐Activated Alkylated Arenes Using Boron‐Doped Diamond Anodes",
   "authors": [
@@ -29,6 +207,91 @@
   "affiliations": [
    "Johannes Gutenberg University Mainz",
    "Covestro (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f07982a5af227319",
+  "title": "Towards Redox‐Driven Unidirectional Molecular Motion",
+  "authors": [
+   "Hella Logtenberg",
+   "Jetsuda Areephong",
+   "Jurica Bauer",
+   "Auke Meetsma",
+   "Ben L. Feringa",
+   "Wesley R. Browne"
+  ],
+  "journal": "ChemPhysChem",
+  "publisher": "Wiley",
+  "published": "2016-02-08",
+  "year": 2016,
+  "doi": "10.1002/cphc.201501184",
+  "url": "https://doi.org/10.1002/cphc.201501184",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Electrolysis",
+   "Preparative Electrolysis"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Groningen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "aab9eee14939cd8f",
+  "title": "Anodic oxidation of GaN surface utilizing photoelectrochemical reactions",
+  "authors": [
+   "Masaaki Edamoto",
+   "Yusuke Kumazaki",
+   "Taketomo Sato"
+  ],
+  "journal": "The Japan Society of Applied Physics",
+  "publisher": "Japan Society of Applied Physics",
+  "published": "2016-02-08",
+  "year": 2016,
+  "doi": "",
+  "url": "https://confit.atlas.jp/guide/event/jsap2016s/subject/20p-P9-12/detail",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "93b84fd931b12a64",
+  "title": "Investigation of the Transition from Local Anodic Oxidation to Electrical Breakdown During Nanoscale Atomic Force Microscopy Electric Lithography of Highly Oriented Pyrolytic Graphite",
+  "authors": [
+   "Ye Yang",
+   "Jun Lin"
+  ],
+  "journal": "Microscopy and Microanalysis",
+  "publisher": "Oxford University Press",
+  "published": "2016-02-05",
+  "year": 2016,
+  "doi": "10.1017/s1431927616000027",
+  "url": "https://doi.org/10.1017/s1431927616000027",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Shanghai Normal University"
   ],
   "added": "2026-07-30"
  },

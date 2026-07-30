@@ -1,5 +1,374 @@
 [
  {
+  "id": "3b13d6d9b2634ee4",
+  "title": "Dy Permeation through an Alloy Diaphragm Using Electrochemical Implantation and Displantation",
+  "authors": [
+   "Hirokazu Konishi",
+   "Tetsuo Oishi",
+   "Toshiyuki Nohira",
+   "Hideki Ono",
+   "Eiichi Takeuchi"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2016-08-30",
+  "year": 2016,
+  "doi": "10.1149/07515.0105ecst",
+  "url": "https://doi.org/10.1149/07515.0105ecst",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Controlled Potential",
+   "Electrolysis",
+   "Electrolytic"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "The University of Osaka",
+   "Kyoto University",
+   "Advanced Energy (United States)",
+   "Institute of Advanced Energy, Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bcf06cfd5c33fb88",
+  "title": "Microbiomes and Electroorganic Synthesis – A Fruitful Liaison for the Production of Renewable Chemicals?!",
+  "authors": [
+   "Carolin Stang",
+   "Jiajie Xu",
+   "Heike Sträuber",
+   "Tatiane R. dos Santos Dantas",
+   "Jana Mühlenberg",
+   "Claus Härtig",
+   "Largus T. Angenent",
+   "Falk Harnisch"
+  ],
+  "journal": "Chemie Ingenieur Technik",
+  "publisher": "Wiley",
+  "published": "2016-08-29",
+  "year": 2016,
+  "doi": "10.1002/cite.201650048",
+  "url": "https://doi.org/10.1002/cite.201650048",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Helmholtz Centre for Environmental Research",
+   "Cornell University",
+   "Deutsches Biomasseforschungszentrum"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5e1313f7c1547f03",
+  "title": "Electrosynthesis at BASF Classics and New Developments",
+  "authors": [
+   "Nicola Aust"
+  ],
+  "journal": "Chemie Ingenieur Technik",
+  "publisher": "Wiley",
+  "published": "2016-08-29",
+  "year": 2016,
+  "doi": "10.1002/cite.201650524",
+  "url": "https://doi.org/10.1002/cite.201650524",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "BASF (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "79de80568d5f34a5",
+  "title": "Electrooxidative phosphorylation of coumarins by bimetallic catalytic systems Ni(II)/Mn(II) or Co(II)/Mn(II)",
+  "authors": [
+   "V. V. Grinenko",
+   "Mikhail Khrizanforov",
+   "Sofia Strekalova",
+   "Vera V. Khrizanforova",
+   "Kirill V. Kholin",
+   "Tatyana V. Gryaznova",
+   "Yulia H. Budnikova"
+  ],
+  "journal": "Phosphorus, sulfur, and silicon and the related elements",
+  "publisher": "Taylor & Francis",
+  "published": "2016-08-23",
+  "year": 2016,
+  "doi": "10.1080/10426507.2016.1225062",
+  "url": "https://doi.org/10.1080/10426507.2016.1225062",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "A.E. Arbuzov Institute of Organic and Physical Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fc86efed4cb64485",
+  "title": "A Two‐step Anodic Thiocyanation of Alkenes in Formic Acid",
+  "authors": [
+   "Anna Gitkis",
+   "James Y. Becker"
+  ],
+  "journal": "Electroanalysis",
+  "publisher": "Wiley",
+  "published": "2016-08-18",
+  "year": 2016,
+  "doi": "10.1002/elan.201600197",
+  "url": "https://doi.org/10.1002/elan.201600197",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Alkenes",
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Ben-Gurion University of the Negev"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1fc601dfac8743b0",
+  "title": "Anodic Oxidative Disulfide Bond Formation in Egg Protein",
+  "authors": [
+   "Masahito Takahashi",
+   "Akihiro Handa",
+   "Risa Kodama",
+   "Kazuhiro Chiba"
+  ],
+  "journal": "Electroanalysis",
+  "publisher": "Wiley",
+  "published": "2016-08-18",
+  "year": 2016,
+  "doi": "10.1002/elan.201600204",
+  "url": "https://doi.org/10.1002/elan.201600204",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Mechanism",
+   "Redox Mediator"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Tokyo University of Agriculture and Technology",
+   "Keihin (Japan)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "98a0a309d7a23303",
+  "title": "Osmium(II) Complexes Bearing Chelating N-Heterocyclic Carbene and Pyrene-Modified Ligands: Surface Electrochemistry and Electron Transfer Mediation of Oxygen Reduction by Multicopper Enzymes",
+  "authors": [
+   "Noémie Lalaoui",
+   "Bertrand Reuillard",
+   "Christian Philouze",
+   "Michael Holzinger",
+   "Serge Cosnier",
+   "Alan Le Goff"
+  ],
+  "journal": "Organometallics",
+  "publisher": "American Chemical Society",
+  "published": "2016-08-16",
+  "year": 2016,
+  "doi": "10.1021/acs.organomet.6b00508",
+  "url": "https://doi.org/10.1021/acs.organomet.6b00508",
+  "source": "openalex",
+  "categories": [
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Heterocycles"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Grenoble Alpes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ccbecaee925cba8f",
+  "title": "Electrocatalytic Multicomponent Reaction for Synthesis of Nanoparticles of Spirooxindole Derivatives from Isatins, Malononitrile, and Dimedone",
+  "authors": [
+   "Zahra Mohammad Darvish",
+   "Behrooz Mirza",
+   "Somayeh Makarem"
+  ],
+  "journal": "Journal of Heterocyclic Chemistry",
+  "publisher": "Wiley",
+  "published": "2016-08-15",
+  "year": 2016,
+  "doi": "10.1002/jhet.2755",
+  "url": "https://doi.org/10.1002/jhet.2755",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrogenerated Base",
+   "Undivided Cell"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Islamic Azad University South Tehran Branch",
+   "Islamic Azad University, Karaj"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ad1b16a4c12a4cef",
+  "title": "Beneficial Effects of Electrochemistry in Cross‐Coupling Reactions: Electroreductive Synthesis of 4‐Aryl‐ or 4‐Heteroaryl‐6‐pyrrolylpyrimidines",
+  "authors": [
+   "Stéphane Sengmany",
+   "Stéphane Vasseur",
+   "Abdelmoumen Lajnef",
+   "Erwan Le Gall",
+   "Éric Léonel"
+  ],
+  "journal": "European Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2016-08-12",
+  "year": 2016,
+  "doi": "10.1002/ejoc.201600790",
+  "url": "https://doi.org/10.1002/ejoc.201600790",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Est Créteil",
+   "Institut de Chimie et des Matériaux Paris-Est"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "85951fc235a24749",
+  "title": "Electrosynthesis of polyquinone nanowires with dispersed platinum nanoparticles toward formic acid oxidation",
+  "authors": [
+   "M.A. del Valle",
+   "Loreto A. Hernández",
+   "A.M.R. Ramírez",
+   "F. R. Díaz"
+  ],
+  "journal": "Ionics",
+  "publisher": "Springer Science+Business Media",
+  "published": "2016-08-12",
+  "year": 2016,
+  "doi": "10.1007/s11581-016-1796-9",
+  "url": "https://doi.org/10.1007/s11581-016-1796-9",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Pontificia Universidad Católica de Chile",
+   "University of Valparaíso"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0259759f702ad2fb",
+  "title": "A green convergent paired electrochemical synthesis of 6H-pyrrolo[3,2,1-de]phenazin-1-amine derivatives and their antibacterial evaluation",
+  "authors": [
+   "Mahnaz Sharafi-Kolkeshvandi",
+   "Davood Nematollahi",
+   "Farzad Nikpour",
+   "Bita Dadpou",
+   "Hojjat Alizadeh"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2016-08-10",
+  "year": 2016,
+  "doi": "10.1016/j.electacta.2016.08.041",
+  "url": "https://doi.org/10.1016/j.electacta.2016.08.041",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "University of Kurdistan",
+   "Bu-Ali Sina University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d347187e68999754",
+  "title": "Formation of crack-free nanoporous tin oxide layers via simple one-step anodic oxidation in NaOH at low applied voltages",
+  "authors": [
+   "Leszek Zaraska",
+   "Dominika Gilek",
+   "Karolina Gawlak",
+   "Marian Jaskuła",
+   "Grzegorz D. Sulka"
+  ],
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2016-08-09",
+  "year": 2016,
+  "doi": "10.1016/j.apsusc.2016.08.043",
+  "url": "https://doi.org/10.1016/j.apsusc.2016.08.043",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Jagiellonian University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "af6da1d762dd7b5a",
   "title": "Synthesis of meta ‐Terphenyl‐2,2′′‐diols by Anodic C−C Cross‐Coupling Reactions",
   "authors": [
@@ -35,6 +404,33 @@
    "Max Planck Graduate Center",
    "Evonik (Germany)",
    "Ruhr University Bochum"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "79b2a8a5817ff7e0",
+  "title": "Electrosynthesis of metal-containing polymeric coatings based on 1-vinylimidazole and acrylamide",
+  "authors": [
+   "K. S. Margaryan",
+   "S. H. Sargsyan",
+   "A. S. Sargsyan"
+  ],
+  "journal": "Russian Journal of Applied Chemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2016-08-01",
+  "year": 2016,
+  "doi": "10.1134/s1070427216080073",
+  "url": "https://doi.org/10.1134/s1070427216080073",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Polytechnic University of Armenia"
   ],
   "added": "2026-07-30"
  }

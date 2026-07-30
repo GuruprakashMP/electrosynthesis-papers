@@ -1,5 +1,39 @@
 [
  {
+  "id": "661ed127822db592",
+  "title": "Combination of anodic oxidation and biological treatment for the removal of phenanthrene and Tween 80 from soil washing solution",
+  "authors": [
+   "Clément Trellu",
+   "Oleksandra Ganzenko",
+   "Stefano Papirio",
+   "Yoan Péchaud",
+   "Nihal Oturan",
+   "David Huguenot",
+   "Eric D. van Hullebusch",
+   "Giovanni Esposito",
+   "Mehmet A. Oturan"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2016-07-31",
+  "year": 2016,
+  "doi": "10.1016/j.cej.2016.07.108",
+  "url": "https://doi.org/10.1016/j.cej.2016.07.108",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Université Gustave Eiffel",
+   "Università degli studi di Cassino e del Lazio Meridionale"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "91998cf9699a1d40",
   "title": "Cover Picture: Selective Synthesis of Partially Protected Nonsymmetric Biphenols by Reagent‐ and Metal‐Free Anodic Cross‐Coupling Reaction (Angew. Chem. Int. Ed. 39/2016)",
   "authors": [
@@ -65,6 +99,140 @@
   "added": "2026-07-30"
  },
  {
+  "id": "b06290bd2f71a644",
+  "title": "Selective Synthesis of 2,5‐Diformylfuran by Sustainable 4‐acetamido‐TEMPO/Halogen‐Mediated Electrooxidation of 5‐Hydroxymethylfurfural",
+  "authors": [
+   "В. П. Кашпарова",
+   "Victor А. Klushin",
+   "Daria V. Leontyeva",
+   "Н. В. Смирнова",
+   "Victor M. Chernyshev",
+   "Valentine P. Ananikov"
+  ],
+  "journal": "Chemistry - An Asian Journal",
+  "publisher": "Wiley",
+  "published": "2016-07-19",
+  "year": 2016,
+  "doi": "10.1002/asia.201600801",
+  "url": "https://doi.org/10.1002/asia.201600801",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis",
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Gram-Scale",
+   "TEMPO"
+  ],
+  "relevance_score": 59,
+  "affiliations": [
+   "Platov South-Russian State Polytechnic University",
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8eb531c899810903",
+  "title": "Mineralization of p-methylphenol in aqueous medium by anodic oxidation with a boron-doped diamond electrode",
+  "authors": [
+   "Mohamed El Khames Saad",
+   "Nejmeddine Rabaaoui",
+   "Elimame Elaloui",
+   "Younes Moussaoui"
+  ],
+  "journal": "Separation and Purification Technology",
+  "publisher": "Elsevier BV",
+  "published": "2016-07-19",
+  "year": 2016,
+  "doi": "10.1016/j.seppur.2016.07.018",
+  "url": "https://doi.org/10.1016/j.seppur.2016.07.018",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "BDD Electrode"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Gafsa",
+   "University of Gabès",
+   "University of Sfax"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7dbadad0164e665f",
+  "title": "Electrochemical removal of the insecticide imidacloprid from water on a boron-doped diamond and Ta/PbO2 anodes using anodic oxidation process",
+  "authors": [
+   "Mabrouk Ben Brahim",
+   "Hafedh Belhadj Ammar",
+   "Ridha Abdelhèdi",
+   "Youssef Samet"
+  ],
+  "journal": "Korean Journal of Chemical Engineering",
+  "publisher": "Springer Science+Business Media",
+  "published": "2016-07-18",
+  "year": 2016,
+  "doi": "10.1007/s11814-016-0128-0",
+  "url": "https://doi.org/10.1007/s11814-016-0128-0",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "BDD Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Sfax"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "563c918ce91e5257",
+  "title": "Cyanide oxidation by singlet oxygen generated via reaction between H 2 O 2 from cathodic reduction and OCl − from anodic oxidation",
+  "authors": [
+   "Shichao Tian",
+   "Yibing Li",
+   "Huabin Zeng",
+   "Wei Guan",
+   "Yan Wang",
+   "Zhao Xu"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2016-07-16",
+  "year": 2016,
+  "doi": "10.1016/j.jcis.2016.07.024",
+  "url": "https://doi.org/10.1016/j.jcis.2016.07.024",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Tsinghua–Berkeley Shenzhen Institute",
+   "Key Laboratory of Nuclear Radiation and Nuclear Energy Technology",
+   "Research Center for Eco-Environmental Sciences",
+   "Hebei University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "4bc365604c20c9f6",
   "title": "Selective Synthesis of Partially Protected Nonsymmetric Biphenols by Reagent‐ and Metal‐Free Anodic Cross‐Coupling Reaction",
   "authors": [
@@ -103,6 +271,40 @@
   "added": "2026-07-30"
  },
  {
+  "id": "4472e479bac8803d",
+  "title": "Influence of the Supporting Electrolyte on the Electrochemical Polymerization of 3,4-Ethylenedioxythiophene. Effect on p- and n-Doping/Undoping, Conductivity and Morphology",
+  "authors": [
+   "M.A. del Valle",
+   "A.M.R. Ramírez",
+   "Loreto A. Hernández",
+   "Francisco Armijo",
+   "F. R. Díaz",
+   "Gean C. Arteaga"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2016-07-12",
+  "year": 2016,
+  "doi": "10.20964/2016.08.46",
+  "url": "https://doi.org/10.20964/2016.08.46",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Pontificia Universidad Católica de Chile",
+   "Universidad del Sinú"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "500b9d78fe8f5837",
   "title": "Access to Pyrazolidin‐3,5‐diones through Anodic N–N Bond Formation",
   "authors": [
@@ -133,6 +335,33 @@
   "added": "2026-07-30"
  },
  {
+  "id": "37ed51392d0969a1",
+  "title": "Site‐Specific Chemical Surface Functionalization and Electronic Patterning of Graphene by Electrooxidative Lithography",
+  "authors": [
+   "He Liu",
+   "Stephanie Hoeppener",
+   "Ulrich S. Schubert"
+  ],
+  "journal": "ChemPhysChem",
+  "publisher": "Wiley",
+  "published": "2016-07-08",
+  "year": 2016,
+  "doi": "10.1002/cphc.201600490",
+  "url": "https://doi.org/10.1002/cphc.201600490",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Friedrich Schiller University Jena"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "98c0b8f53ef4212c",
   "title": "Synthesis of fluorinated triazole and isoxazole derivatives by electrochemical fluorination",
   "authors": [
@@ -157,6 +386,96 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "542c7b81c3895e05",
+  "title": "Noble‐Metal‐Free Photocatalytic H 2 Generation: Active and Inactive ‘Black’ TiO 2 Nanotubes and Synergistic Effects",
+  "authors": [
+   "Ning Liu",
+   "Christopher Schneider",
+   "Detlef Freitag",
+   "Eva M. Zolnhofer",
+   "Karsten Meyer",
+   "Patrik Schmuki"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2016-07-05",
+  "year": 2016,
+  "doi": "10.1002/chem.201602714",
+  "url": "https://doi.org/10.1002/chem.201602714",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+   "International Council on Mining and Metals",
+   "King Abdulaziz University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "77951eca8093b1dd",
+  "title": "Elaboration of modified electrodes through a direct anodic oxidation of chitin",
+  "authors": [
+   "Nihed Rahmouni",
+   "Ben Ali Hayet",
+   "Jacques Desbrières",
+   "Salma Besbes-Hentati"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2016-07-03",
+  "year": 2016,
+  "doi": "10.1016/j.electacta.2016.07.002",
+  "url": "https://doi.org/10.1016/j.electacta.2016.07.002",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Carthage",
+   "Laboratoire de Chimie",
+   "Université de Pau et des Pays de l'Adour"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "75517c1a729ec276",
+  "title": "ChemInform Abstract: Electrochemical Synthesis of Benzazoles from Alcohols and o‐Substituted Anilines with a Catalytic Amount of Co II Salt.",
+  "authors": [
+   "Yinlong Lai",
+   "Jianshan Ye",
+   "Jing-Mei Huang"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2016-07-01",
+  "year": 2016,
+  "doi": "10.1002/chin.201633022",
+  "url": "https://doi.org/10.1002/chin.201633022",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "South China University of Technology"
   ],
   "added": "2026-07-30"
  },
@@ -192,6 +511,63 @@
   "added": "2026-07-30"
  },
  {
+  "id": "4e348f460b6c2cd4",
+  "title": "ChemInform Abstract: Anodic Oxidation of Caffeine and Theophylline in Glacial Acetic Acid.",
+  "authors": [
+   "Gloria Quintanilla",
+   "Ángela Usarralde",
+   "Iván Uribe Pérez",
+   "Maria L. Gargiulo",
+   "Goekce Yakupoglu",
+   "Avelino Martı́n",
+   "Fructuoso Barba"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2016-07-01",
+  "year": 2016,
+  "doi": "10.1002/chin.201630042",
+  "url": "https://doi.org/10.1002/chin.201630042",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Alcalá"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "14a31e3907431957",
+  "title": "Electrosynthesis in Extended Channel Length Microfluidic Electrolysis Cells",
+  "authors": [
+   "Robert A. Green",
+   "Richard C. D. Brown",
+   "Derek Pletcher"
+  ],
+  "journal": "Journal of Flow Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2016-07-01",
+  "year": 2016,
+  "doi": "10.1556/1846.2016.00028",
+  "url": "https://doi.org/10.1556/1846.2016.00028",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "0b00acc7194d3e60",
   "title": "ChemInform Abstract: Synthetic Organic Electrochemistry: An Enabling and Innately Sustainable Method",
   "authors": [
@@ -216,6 +592,33 @@
   "affiliations": [
    "Scripps Research Institute"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "02d903333b131806",
+  "title": "Boosting the local anodic oxidation of silicon through carbon nanofiber atomic force microscopy probes",
+  "authors": [
+   "Gemma Rius",
+   "Matteo Lorenzoni",
+   "Soichiro Matsui",
+   "Masaki Tanemura",
+   "Francesc Pérez-Murano"
+  ],
+  "journal": "nano Online",
+  "publisher": "",
+  "published": "2016-07-01",
+  "year": 2016,
+  "doi": "10.1515/nano.bjneah.6.20",
+  "url": "https://doi.org/10.1515/nano.bjneah.6.20",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
   "added": "2026-07-30"
  }
 ]

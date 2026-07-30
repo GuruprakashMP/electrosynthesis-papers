@@ -1,5 +1,155 @@
 [
  {
+  "id": "f9463cdea135c173",
+  "title": "Ionic‐Liquid Tag with Multiple Functions in Electrochemical Glycosylation",
+  "authors": [
+   "Toshiki Nokami",
+   "Norihiko Sasaki",
+   "Yuta Isoda",
+   "Toshiyuki Itoh"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2016-06-29",
+  "year": 2016,
+  "doi": "10.1002/celc.201600311",
+  "url": "https://doi.org/10.1002/celc.201600311",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tottori University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4603f3992197f224",
+  "title": "Preparation and structural characterization of TiO2 nanotube arrays on surface of orthopaedic titanium plate",
+  "authors": [
+   "Shaobin Huang",
+   "Wanming Wang",
+   "Jie Xiao"
+  ],
+  "journal": "Guoji shengwu yixue gongcheng zazhi",
+  "publisher": "Consortium eLearning Network Private Limited",
+  "published": "2016-06-28",
+  "year": 2016,
+  "doi": "10.3760/cma.j.issn.1673-4181.2016.03.007",
+  "url": "https://doi.org/10.3760/cma.j.issn.1673-4181.2016.03.007",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Fujian Medical University",
+   "Fuzhou General Hospital of Nanjing Military Command"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "15e28dc73cd24a42",
+  "title": "The role of the temperature in the morphology and properties of zinc oxide structures obtained by electrosynthesis in aqueous solution",
+  "authors": [
+   "U. Jaffry",
+   "Eva Mazarío",
+   "Jesús Lemus",
+   "M. Rivero",
+   "Alexandra Muñoz-Bonilla",
+   "P. Herrasti"
+  ],
+  "journal": "Materials Chemistry and Physics",
+  "publisher": "Elsevier BV",
+  "published": "2016-06-28",
+  "year": 2016,
+  "doi": "10.1016/j.matchemphys.2016.06.071",
+  "url": "https://doi.org/10.1016/j.matchemphys.2016.06.071",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad Autónoma de Madrid",
+   "University of Aveiro"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ff698128429f3657",
+  "title": "Insight into the electrochemical oxidation of N,N-dialkyl-p-phenylenediamines in the presence of malononitrile and methyl cyanoacetate. A convergent paired electrochemical method for the synthesis of cyanide and dicyanide derivatives of phenylcarbonimidoyl",
+  "authors": [
+   "Davood Nematollahi",
+   "Fatemeh Ghasemi",
+   "Mahnaz Sharafi-Kolkeshvandi",
+   "Fahimeh Varmaghani"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2016-06-27",
+  "year": 2016,
+  "doi": "10.1016/j.jelechem.2016.06.025",
+  "url": "https://doi.org/10.1016/j.jelechem.2016.06.025",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Bu-Ali Sina University",
+   "University of Kurdistan",
+   "Institute for Advanced Studies in Basic Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "440223975ec33651",
+  "title": "Investigation of pharmaceutically active ionic liquids as electrolyte for the electrosynthesis of polypyrrole and active component in controlled drug delivery",
+  "authors": [
+   "Stéphanie Carquigny",
+   "Boris Lakard",
+   "Sophie Lakard",
+   "Virginie Moutarlier",
+   "Jean-Yves Hihn",
+   "Lydie Viau"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2016-06-27",
+  "year": 2016,
+  "doi": "10.1016/j.electacta.2016.06.080",
+  "url": "https://doi.org/10.1016/j.electacta.2016.06.080",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut UTINAM"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "acbf152c5971c69a",
   "title": "The Stabilized Cation Pool Method: Metal- and Oxidant-Free Benzylic C–H/Aromatic C–H Cross-Coupling",
   "authors": [
@@ -28,6 +178,256 @@
   "affiliations": [
    "Kyoto University"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e81f9cd6f5a1eb0b",
+  "title": "Sustainable Electrochemically‐Mediated Atom Transfer Radical Polymerization with Inexpensive Non‐Platinum Electrodes",
+  "authors": [
+   "Marco Fantin",
+   "Francesca Lorandi",
+   "Abdirisak Ahmed Isse",
+   "Armando Gennaro"
+  ],
+  "journal": "Macromolecular Rapid Communications",
+  "publisher": "Wiley",
+  "published": "2016-06-22",
+  "year": 2016,
+  "doi": "10.1002/marc.201600237",
+  "url": "https://doi.org/10.1002/marc.201600237",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Platinum Electrode",
+   "Radical Chemistry",
+   "Undivided Cell"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "University of Padua",
+   "Carnegie Mellon University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8eee9cd2c93b2d10",
+  "title": "A resistive switching device based on breakdown and local anodic oxidation",
+  "authors": [
+   "Kuniyuki Kakushima",
+   "Hitoshi Wakabayashi",
+   "Kazuo Tsutsui",
+   "Hiroshi Iwai"
+  ],
+  "journal": "IEICE Technical Report; IEICE Tech. Rep.",
+  "publisher": "",
+  "published": "2016-06-22",
+  "year": 2016,
+  "doi": "",
+  "url": "https://www.ieice.org/ken/paper/201606298bJL/eng/",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4040f718cf00f193",
+  "title": "Novel conducting poly (p-nitro aniline-co-N-methyl aniline): Electrosynthesis, mechanism and in situ spectroelectrochemical characterization",
+  "authors": [
+   "Jalal Arjomandi",
+   "Hatam Makhdomi",
+   "Mohammad Hadi Parvin"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "2016-06-11",
+  "year": 2016,
+  "doi": "10.1016/j.synthmet.2016.05.030",
+  "url": "https://doi.org/10.1016/j.synthmet.2016.05.030",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Bu-Ali Sina University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fa80d9c87dcca46d",
+  "title": "Catalysis of Cascade and Multicomponent Reactions of Carbonyl Compounds and CH Acids by Electricity",
+  "authors": [
+   "Michaïl N. Elinson",
+   "A. N. Vereshchagin",
+   "Fedor V. Ryzhkov"
+  ],
+  "journal": "The Chemical Record",
+  "publisher": "Wiley",
+  "published": "2016-06-08",
+  "year": 2016,
+  "doi": "10.1002/tcr.201600044",
+  "url": "https://doi.org/10.1002/tcr.201600044",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "152f4292f38d65c9",
+  "title": "Recent progress towards the electrosynthesis of ammonia from sustainable resources",
+  "authors": [
+   "Michael Shipman",
+   "Mark D. Symes"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2016-06-08",
+  "year": 2016,
+  "doi": "10.1016/j.cattod.2016.05.008",
+  "url": "https://doi.org/10.1016/j.cattod.2016.05.008",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Glasgow"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "baec884f0c72bbb2",
+  "title": "Electrosynthesis, spectral and structural studies of a semi-conducting oligomer deriving from a methoxy-substituted chalcone",
+  "authors": [
+   "Imen Aribi",
+   "S. Ghomrasni",
+   "Sahbi Ayachi",
+   "K. Alimi",
+   "Sadok Roudeslı",
+   "Ayoub Haj Saı̈d"
+  ],
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "published": "2016-06-04",
+  "year": 2016,
+  "doi": "10.1016/j.molstruc.2016.06.010",
+  "url": "https://doi.org/10.1016/j.molstruc.2016.06.010",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Monastir"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b4190ee2b1643598",
+  "title": "Sustainable Electrochemical Synthesis of Large Grain- or Catalyst-Sized Iron",
+  "authors": [
+   "Fangfang Li",
+   "Baohui Wang",
+   "Stuart Licht"
+  ],
+  "journal": "Journal of Sustainable Metallurgy",
+  "publisher": "Springer Science+Business Media",
+  "published": "2016-06-02",
+  "year": 2016,
+  "doi": "10.1007/s40831-016-0062-8",
+  "url": "https://doi.org/10.1007/s40831-016-0062-8",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrolysis",
+   "Electrolytic",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "George Washington University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c9f86b8274258a34",
+  "title": "ChemInform Abstract: Direct Arylation of Pyrroles via Indirect Electroreductive C—H Functionalization Using Perylene Bisimide as an Electron‐Transfer Mediator.",
+  "authors": [
+   "Guo-Quan Sun",
+   "Shuya Ren",
+   "Xinhai Zhu",
+   "Manna Huang",
+   "Yiqian Wan"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2016-06-01",
+  "year": 2016,
+  "doi": "10.1002/chin.201626133",
+  "url": "https://doi.org/10.1002/chin.201626133",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Sun Yat-sen University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b6fe0d9f3809567a",
+  "title": "Electrooxidative Polymerization of Aniline in Bis(trifluoromethylsulfonyl)amide-Based Phosphonium Ionic Liquids",
+  "authors": [
+   "Katsuhiko Tsunashima"
+  ],
+  "journal": "229th ECS Meeting (May 29 - June 2, 2016)",
+  "publisher": "",
+  "published": "2016-06-01",
+  "year": 2016,
+  "doi": "",
+  "url": "https://ecs.confex.com/ecs/229/webprogram/Paper71576.html",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
   "added": "2026-07-30"
  },
  {
