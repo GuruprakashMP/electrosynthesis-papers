@@ -1,5 +1,30 @@
 [
  {
+  "id": "e72504071fe7e129",
+  "title": "Intramolecular Cyclization of Bis-Styryl Alkanes by Anodic Oxidation in Methanol",
+  "authors": [
+   "Makoto Kimura",
+   "Mutsuo NAKASHIMA",
+   "Yasuhiko Sawaki"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1997-08-05",
+  "year": 1997,
+  "doi": "10.5796/kogyobutsurikagaku.65.676",
+  "url": "https://doi.org/10.5796/kogyobutsurikagaku.65.676",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "c092a2dd71e64b7b",
   "title": "Electroorganic chemistry of group 14 element (Si, Ge, Sn) compounds; 14 zoku genso (keiso, gerumaniumu, suzu) no yuki denki kagaku",
   "authors": [
@@ -26,6 +51,153 @@
   ],
   "relevance_score": 74,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ec0cf2d08497f840",
+  "title": "ANODIC OXIDATION OF HANTZSCH ESTERS IN ACETONITRILE",
+  "authors": [
+   "Rocío Miranda",
+   "Juan M. Aceves",
+   "Martha Vilchis",
+   "Rafael Zepeda Garduno",
+   "Miguel Saloma",
+   "Maëlle Salmon"
+  ],
+  "journal": "Heterocyclic Communications",
+  "publisher": "De Gruyter",
+  "published": "1997-08-01",
+  "year": 1997,
+  "doi": "10.1515/hc.1997.3.4.323",
+  "url": "https://doi.org/10.1515/hc.1997.3.4.323",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Universidad de Cuautitlán Izcalli",
+   "Universidad Nacional Autónoma de México"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bf979c4e410ec04b",
+  "title": "XPS Analysis of the Surface of a Carbon Electrode Intercalated by Lithium Ions",
+  "authors": [
+   "Kiyoshi Kanamura",
+   "Soshi Shiraishi",
+   "Hideharu Takezawa",
+   "Zen-ichiro Takehara"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "American Chemical Society",
+  "published": "1997-08-01",
+  "year": 1997,
+  "doi": "10.1021/cm970042v",
+  "url": "https://doi.org/10.1021/cm970042v",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "766adafd0144d4f4",
+  "title": "Electrochemical and XPS investigations of the anodic substitution of an electronic conducting polymer. Cyanation of poly[(1,4-dimethoxybenzene)-co-(3-methylthiophene)]",
+  "authors": [
+   "Bruno Fabre",
+   "Frédéric Kanoufi",
+   "Jacques Simonet"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1997-08-01",
+  "year": 1997,
+  "doi": "10.1016/s0022-0728(97)00259-3",
+  "url": "https://doi.org/10.1016/s0022-0728(97)00259-3",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Substitution"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire d'Electrochimie Moléculaire",
+   "Université de Rennes",
+   "Chimie ParisTech",
+   "Laboratoire de Chimie"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "53d48e21992caaa1",
+  "title": "Electrochemiluminescence from Calixarene-Coated Porous Si Liquid Junction Cells",
+  "authors": [
+   "Libing Zhang",
+   "Jeffery L. Coffer"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "1997-08-01",
+  "year": 1997,
+  "doi": "10.1021/jp9707450",
+  "url": "https://doi.org/10.1021/jp9707450",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Arenes"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Texas Christian University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "041cff0578335933",
+  "title": "Electroreductive coupling of organic halides in alcoholic solvents. An example: The electrosynthesis of biaryls catalysed by nickel-2,2′ bipyridine complexes",
+  "authors": [
+   "Valérie Courtois",
+   "Rachid Barhdadi",
+   "Michel Troupel",
+   "Jacques Périchon"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "1997-08-01",
+  "year": 1997,
+  "doi": "10.1016/s0040-4020(97)00744-8",
+  "url": "https://doi.org/10.1016/s0040-4020(97)00744-8",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Université Paris-Est Créteil",
+   "Laboratoire de Synthèse Organique"
+  ],
   "added": "2026-07-30"
  }
 ]

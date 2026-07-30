@@ -1,5 +1,201 @@
 [
  {
+  "id": "9b542f4a1ca5c728",
+  "title": "ChemInform Abstract: Electrosynthesis of Dichloromalononitrile from Malononitrile.",
+  "authors": [
+   "YU. D. SMIRNOV",
+   "А. П. Томилов"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1997-01-21",
+  "year": 1997,
+  "doi": "10.1002/chin.199704091",
+  "url": "https://doi.org/10.1002/chin.199704091",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ea5ceca6e79f0c2f",
+  "title": "Flow-cell System with a Columu Electrode for Electrosynthesis",
+  "authors": [
+   "Fumiyo Kusu",
+   "Hiromitsu Tamanouchi",
+   "Takayuki Sato",
+   "Kensuke Arai",
+   "Kiyoko Takamura",
+   "Tetsuro Sueoka"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1997-01-05",
+  "year": 1997,
+  "doi": "10.5796/kogyobutsurikagaku.65.51",
+  "url": "https://doi.org/10.5796/kogyobutsurikagaku.65.51",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fc5105b1537e5292",
+  "title": "Cathodic reduction of enediol diesters obtained by electrochemical methods—II",
+  "authors": [
+   "Carmen Polo",
+   "Gloria Quintanilla",
+   "Fructuoso Barba"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85497-7",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85497-7",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Alcalá"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fc448f8ab05410fc",
+  "title": "Cyclic voltammetric studies of chemically and electrochemically generated oxygen species on activated carbons",
+  "authors": [
+   "Andrzej Świątkowski",
+   "M. Pakuła",
+   "S. Biniak"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(96)00359-3",
+  "url": "https://doi.org/10.1016/s0013-4686(96)00359-3",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrogenerated Species"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Military University of Technology in Warsaw",
+   "Polish Naval Academy",
+   "Nicolaus Copernicus University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fb028e188645cf31",
+  "title": "Amination Accompanied by Anodic Oxidation of p-Phenylenediamines in the Presence of Gelatin",
+  "authors": [
+   "Satoshi Kawashima",
+   "Yusuke Okaiva",
+   "Takashi Ohno",
+   "Hiroynki Kobayashi"
+  ],
+  "journal": "The Imaging Science Journal",
+  "publisher": "Taylor & Francis",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1080/13682199.1997.11736366",
+  "url": "https://doi.org/10.1080/13682199.1997.11736366",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Chiba University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fa1b39a6fe62f208",
+  "title": "Electrochemical synthesis of diphosphonium salts, their reactivity and role in organic electrosynthesis",
+  "authors": [
+   "E. V. Nikitin",
+   "A. S. Romakhin",
+   "V. A. Zagumennov",
+   "Yu.A. Babkin"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85502-8",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85502-8",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Kazan Federal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f8449ac7ae1acb2e",
+  "title": "Anodic oxidation of organics on thermally prepared oxide electrodes",
+  "authors": [
+   "György Fóti",
+   "Didier Gandini",
+   "Christos Comninellis"
+  ],
+  "journal": "Infoscience (Ecole Polytechnique Fédérale de Lausanne)",
+  "publisher": "",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "",
+  "url": "http://infoscience.epfl.ch/record/79803",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Preparative Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "f648020f0fd6f8a7",
   "title": "Electroorganic synthesis : bond formation at anode and cathode",
   "authors": [
@@ -21,6 +217,362 @@
   ],
   "relevance_score": 40,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f43622e5a00891c9",
+  "title": "Theoretical model for the anodic oxidation of organics on metal oxide electrodes",
+  "authors": [
+   "O. Simond",
+   "Vincent Schaller",
+   "Christos Comninellis"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85475-8",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85475-8",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f1e06e85dee3ed4c",
+  "title": "Electrolysis in the presence of ultrasound: cell geometries for the application of extreme rates of mass transfer in electrosynthesis",
+  "authors": [
+   "Frank Marken",
+   "Richard G. Compton",
+   "Stephen G. Davies",
+   "Steven D. Bull",
+   "Thies Thiemann",
+   "M. L. Sá e Melo",
+   "André Campos Neves",
+   "José L. Castillo",
+   "Céline Jung",
+   "André Fontana"
+  ],
+  "journal": "Journal of the Chemical Society Perkin Transactions 2",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1039/a701004d",
+  "url": "https://doi.org/10.1039/a701004d",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ef00c12df8100cda",
+  "title": "Anodic Oxidation of Nickel in Molten(Li 0.62 ,K 0.38 ) 2 CO 3",
+  "authors": [
+   "Baizeng Fang",
+   "刘新宇",
+   "王新东",
+   "段淑贞"
+  ],
+  "journal": "稀有金属：英文版",
+  "publisher": "",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "",
+  "url": "http://www.cqvip.com/QK/85314X/199701/4001000562.html",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ec82f9b817ec9161",
+  "title": "Indirect electrolysis involving an ex-cell two-phase process. Reduction of nitrobenzenes with a titanium complex as mediator",
+  "authors": [
+   "Didier Floner",
+   "Laurence Laglaine",
+   "Claude Moinet"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(96)00191-0",
+  "url": "https://doi.org/10.1016/s0013-4686(96)00191-0",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Indirect Electrolysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "eb060fd2863b95a0",
+  "title": "Technological use of propionitrile electrosynthesis",
+  "authors": [
+   "Daniel A. Löwy",
+   "Maria Jitaru",
+   "B. C. Toma",
+   "Ioan A. Silberg",
+   "L. Oniciu"
+  ],
+  "journal": "Indian Journal of Chemical Technology",
+  "publisher": "CSIR-NIScPR",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "",
+  "url": "http://nopr.niscair.res.in/bitstream/123456789/30886/1/IJCT%204%281%29%2018-24.pdf",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dff02c7631671709",
+  "title": "Spectroscopic and electroreductive characterization of new μ-oxodiiron(III) compounds with acyclic tetradentate ligands",
+  "authors": [
+   "Manuel Villagr",
+   "Juan Costamagna",
+   "Sergio A. Moya"
+  ],
+  "journal": "Transition Metal Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1023/a:1018409501327",
+  "url": "https://doi.org/10.1023/a:1018409501327",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Santiago de Chile"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dbc3b0025db64a7a",
+  "title": "Cathodic reduction of 2-bromo-2, 2-diphenylacetyl bromide in the presence of H2S",
+  "authors": [
+   "J. I. LOZANO",
+   "Fructuoso Barba"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85495-3",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85495-3",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Alcalá"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "db5f69940066db05",
+  "title": "Ring formation from 2-arylazo-3-aminocrotononitriles to 1,2,3[2H]-triazole-4-carbonitriles and pyrazoles by anodic oxidation",
+  "authors": [
+   "Xudong Wei",
+   "Bernd Speiser"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/0013-4686(96)00168-5",
+  "url": "https://doi.org/10.1016/0013-4686(96)00168-5",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Tübingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c440f7d23c54fde5",
+  "title": "Thermodynamical analysis of non-stoichiometric thallium oxides and reactivity prediction for electrosynthesis",
+  "authors": [
+   "Galina A. Tsirlina",
+   "Оlga V. Safonova",
+   "О. А. Петрий"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)00116-3",
+  "url": "https://doi.org/10.1016/s0013-4686(97)00116-3",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Lomonosov Moscow State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b9fd2df3fc7ba402",
+  "title": "Electrooxidative cleavage of C1C2 bonds in acenaphthylene and acenaphthenes",
+  "authors": [
+   "Y. N. OGIBIN",
+   "Alexey I. Ilovaisky",
+   "G. I. Nikishin"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85464-3",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85464-3",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ae862545bfb7150f",
+  "title": "Investigations on mild electrofluorination route for electroorganic synthesis",
+  "authors": [
+   "Venkatesan Suryanarayanan"
+  ],
+  "journal": "Shodhganga",
+  "publisher": "Information and Library Network",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "",
+  "url": "https://shodhganga.inflibnet.ac.in/jspui/handle/10603/197406",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "adaf5f801d4f4807",
+  "title": "Kinetics of the growth of the oxide layer during anodic oxidation of aluminum",
+  "authors": [
+   "Vladimir Izotov",
+   "Yu. A. Maletin",
+   "Larysa Koval",
+   "A. A. Mironova",
+   "N.G. Strizhakova",
+   "V.P. Nezdorovin"
+  ],
+  "journal": "Theoretical and Experimental Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1007/bf02764746",
+  "url": "https://doi.org/10.1007/bf02764746",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ac18b8083301109d",
+  "title": "Concentration of Sulfuric Acid and Color of the Films on Anodic Oxidation and Electrolytic Coloring of Aluminum by Hybrid Bath Process",
+  "authors": [
+   "Yoshihiro Sakashita",
+   "Seisaku Ohshiro",
+   "Mitsunobu Iwasaki",
+   "Seishiro Ito"
+  ],
+  "journal": "Journal of the Japan Society of Colour Material",
+  "publisher": "",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.4011/shikizai1937.70.576",
+  "url": "https://doi.org/10.4011/shikizai1937.70.576",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolytic"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Nihon Nohyaku (Japan)",
+   "Kindai University"
+  ],
   "added": "2026-07-30"
  },
  {
@@ -59,6 +611,620 @@
   "added": "2026-07-30"
  },
  {
+  "id": "9e1a2b7b231496cd",
+  "title": "Preparation of Cyclic .ALPHA.-Hydroxy Ketones from .DELTA.- and .EPSILON.-Keto Acids Induced by the Generation of a Novel Acyl Anion Equivalent from the Carboxyl Group.",
+  "authors": [
+   "Hatsuo Maeda",
+   "H. ASHIE",
+   "Toshihide Maki",
+   "Hidenobu Ohmori"
+  ],
+  "journal": "Chemical and Pharmaceutical Bulletin",
+  "publisher": "Pharmaceutical Society of Japan",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1248/cpb.45.1729",
+  "url": "https://doi.org/10.1248/cpb.45.1729",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Osaka University of Pharmaceutical Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9dfe3ee9bece928e",
+  "title": "Polymersupported triarylamines as redox catalysts in electroorganic synthesis—On the way to a redox active polyelectrolyte system",
+  "authors": [
+   "Roman Wend",
+   "Eberhard Steckhan"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85478-3",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85478-3",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electroorganic",
+   "Triarylamine"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Bonn"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9dd43245624dd4c7",
+  "title": "Electrosynthesis and in situ Multiple Internal Reflection FTIR spectroscopic (MIRFTIRS) study of poly( 1,5-diaminonaphthalene)",
+  "authors": [
+   "M.C. Pham",
+   "Mohamed Oulahyane",
+   "Malik Mostefai",
+   "P.C. Lacaze"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0379-6779(97)80807-7",
+  "url": "https://doi.org/10.1016/s0379-6779(97)80807-7",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris Cité",
+   "Laboratoire de Tribologie et Dynamique des Systèmes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9a567730b927da4f",
+  "title": "Anodic oxidation of organics on Ti/IrO2 anodes using Nafion® as electrolyte",
+  "authors": [
+   "O. Simond",
+   "Christos Comninellis"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85476-x",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85476-x",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "971925f74cb79f8e",
+  "title": "Studies on the anodic oxidation of some volatile organic halogen compounds(THM)",
+  "authors": [
+   "K.S. Yoo",
+   "S.Y. Park",
+   "S.B. Yang",
+   "Sang-Won Woo"
+  ],
+  "journal": "Analytical Science and Technology",
+  "publisher": "",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "",
+  "url": "http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=BGHHBN_1997_v10n4_264",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Glassy Carbon"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "96dd0ab08105fc6d",
+  "title": "Electrolabile protecting groups for ketones: the electrochemical reductive cleavage of 1,3-dioxolanes and 1,3-dioxanes containing nitro or halo groups",
+  "authors": [
+   "Richard Labrecque",
+   "J Mailhot",
+   "Benoit Daoust",
+   "J.M. Chapuzet",
+   "J. LESSARD"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85485-0",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85485-0",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Université de Sherbrooke"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "96429a2ae93a729e",
+  "title": "Electrochemical investigations of singly and doubly bridged imino[60]fullerenes",
+  "authors": [
+   "Jinkui Zhou",
+   "Anton Rieker",
+   "Thomas Grösser",
+   "Andreas Skiebe",
+   "Andreas Hirsch"
+  ],
+  "journal": "Journal of the Chemical Society Perkin Transactions 2",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1039/a605363g",
+  "url": "https://doi.org/10.1039/a605363g",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Cyclic Voltammetry",
+   "Reduction Potential"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8f09af7c895e5e0b",
+  "title": "Facile synthesis of aryl-substituted 2-alkenoic acids by electroreductive carboxylation of vinylic bromides using a magnesium anode",
+  "authors": [
+   "Hisato Kamekawa",
+   "Hisanori Senboku",
+   "Masao Tokuda"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85488-6",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85488-6",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "875bcff4b2d2e4f3",
+  "title": "Electrochemistry VI Electroorganic Synthesis: Bond Formation at Anode and Cathode",
+  "authors": [
+   "E. STECKHAN"
+  ],
+  "journal": "Topics in current chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1007/3-540-61454-0",
+  "url": "https://doi.org/10.1007/3-540-61454-0",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8182dadf646f5a73",
+  "title": "Regioselective Oxidation of the Hydroxyl Group in Polyhydroxylated Triterpenes by the Indirect Anodic Oxidation Method.",
+  "authors": [
+   "Masayuki Yoshikawa",
+   "Toshiyuki Murakami",
+   "Nobuhiro Yagi",
+   "Nobutoshi Murakami",
+   "Johji Yamahara",
+   "Hisashi Matsuda",
+   "Hatsuo Maeda",
+   "Hidenobu Ohmori"
+  ],
+  "journal": "Chemical and Pharmaceutical Bulletin",
+  "publisher": "Pharmaceutical Society of Japan",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1248/cpb.45.570",
+  "url": "https://doi.org/10.1248/cpb.45.570",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Regioselectivity"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7d016a5e5e8acef0",
+  "title": "A Family of α-Amino Acid Salicylaldiminates Incorporating the Binuclear V 2 O 3 3+ Core: Electrosynthesis, Structure, and Metal Valence",
+  "authors": [
+   "Sujit Mondal",
+   "Prasanta Ghosh",
+   "Animesh Chakravorty"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1021/ic960671r",
+  "url": "https://doi.org/10.1021/ic960671r",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Reduction Potential"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Indian Association for the Cultivation of Science"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7c68a517802b0e69",
+  "title": "Electrosynthetic modification of proteins: electrooxidations at methionine and tryptophan in hen egg-white lysozyme",
+  "authors": [
+   "David J. Walton",
+   "Paul G. Richards",
+   "John Heptinstall",
+   "Brian Coles"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(96)00419-7",
+  "url": "https://doi.org/10.1016/s0013-4686(96)00419-7",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Coventry University",
+   "Middlesex Hospital"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7a65e53f7dc0200b",
+  "title": "Actualities and Problems of Surface Finishing for Aluminum. Simultaneous Formation of Aluminum Oxide and Polypyrrole Layers by Anodic Oxidation.",
+  "authors": [
+   "Katsuhiko Naoi",
+   "Masayuki Takeda"
+  ],
+  "journal": "Journal of The Surface Finishing Society of Japan",
+  "publisher": "The Surface Finishing Society of Japan",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.4139/sfj.48.990",
+  "url": "https://doi.org/10.4139/sfj.48.990",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Ministry of Agriculture and Cooperatives",
+   "Tokyo University of Agriculture and Technology",
+   "Mitsubishi Chemical (Japan)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "791ff20c582fac09",
+  "title": "In situ ellipsometric characterization of films formed by cathodic reduction of chromate",
+  "authors": [
+   "Annika Ahlberg Tidblad",
+   "Jerker Mårtensson"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(96)00229-0",
+  "url": "https://doi.org/10.1016/s0013-4686(96)00229-0",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "KTH Royal Institute of Technology",
+   "Linköping University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "751765a1fd5fb20c",
+  "title": "Erratum to “Characterization of porous silicon-on-insulator films prepared by anodic oxidation” [Thin Solid Films, 276 (1996) 147–150]",
+  "authors": [
+   "Chih-Hao Lee",
+   "Chun-Chieh Yeh",
+   "H. L. Hwang",
+   "Klaus Y. J. Hsu"
+  ],
+  "journal": "Thin Solid Films",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0040-6090(96)09574-0",
+  "url": "https://doi.org/10.1016/s0040-6090(96)09574-0",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Tsing Hua University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7223beb2c7bd4dcc",
+  "title": "Electrochemistry of 9,9′ spirobifluorene derivatives: electrosynthesis of stereoisomeric 2,3-bis(2′-acetyl-9,9′-spirobifluoren-2-yl)butane-2, 3-diols and of 1-(2′-acetyl-9,9′-spirobifluoren-2-yl)ethanol and redox properties of polyacetylated spirobifluorenes",
+  "authors": [
+   "Leonardo Mattiello",
+   "Liliana Rampazzo"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85507-7",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85507-7",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Sapienza University of Rome"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6fa8b58c1af592ac",
+  "title": "Electrooxidative nitration of phenols at copper electrodes",
+  "authors": [
+   "D.J. Walton",
+   "Colin Campbell",
+   "P.G. Richards",
+   "John Heptinstall"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)00036-4",
+  "url": "https://doi.org/10.1016/s0013-4686(97)00036-4",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Coventry University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6f8b4eba598d8be6",
+  "title": "Anodic oxidation of α,β-unsaturated Sulfides to α-acetoxy ketones or α,β-diacetoxy sulfides",
+  "authors": [
+   "Junzo Nokami",
+   "Satoshi Fukutake",
+   "Hiroyuki Matsuura",
+   "Nobuyuki Imai"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85472-2",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85472-2",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Okayama University of Science"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "69c42c6d9bed0c92",
+  "title": "Anodic Oxidation with Industrial Sulfuric Acid.",
+  "authors": [
+   "Chao Zhao"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "",
+  "url": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200902134690717741",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "64fb7f797f251904",
+  "title": "Facile access to 3-allyl- and 3-benzyl-Δ3-cephems through reductive addition/cyclization of allenecarboxylate with allylic and benzylic halides in an [NiCl2(bipy)]/PbBr2/Al redox system",
+  "authors": [
+   "Hideo Tanaka",
+   "S. SUMIDA",
+   "K. SORAJO",
+   "Yutaka Kameyama",
+   "Sigeru Torii"
+  ],
+  "journal": "Journal of the Chemical Society Perkin Transactions 1",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1039/a606049h",
+  "url": "https://doi.org/10.1039/a606049h",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "64b6c1c117192dba",
+  "title": "Electrochemical fluorination of aliphatic aldehydes and cyclic ketones using Et3N-5HF electrolyte",
+  "authors": [
+   "Shengqi Chen",
+   "Tsuyoshi Hatakeyama",
+   "Tsuyoshi Fukuhara",
+   "Shoji Hara",
+   "Norihiko Yoneda"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85466-7",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85466-7",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5d8a9a0f3b8d0384",
+  "title": "Intramolecular allyl transfer reactions catalyzed by electrogenerated nickel-bipyridine complexes: electrosynthesis of homoallylic alcohols",
+  "authors": [
+   "Delphine Franco",
+   "Sandra Olivero",
+   "Élisabet Duñach"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85493-x",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85493-x",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Côte d'Azur",
+   "Laboratoire de Chimie Moléculaire"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "5c0536eeb97a43e5",
   "title": "Electrochemistry of hypervalent compounds—V. Anodic oxidation of trivalent organoantimony and organobismuth compounds",
   "authors": [
@@ -81,6 +1247,590 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5567043909721dcf",
+  "title": "Electrochemical study of catechol and some 3-substituted catechols in the presence of 4-hydroxy coumarin: application to the electro-organic synthesis of new coumestan derivatives",
+  "authors": [
+   "S.M. Golabi",
+   "Davood Nematollahi"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0022-0728(96)04804-8",
+  "url": "https://doi.org/10.1016/s0022-0728(96)04804-8",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Tabriz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "52d1bba0b3ed721f",
+  "title": "Anodic oxidation of the complexes NEt4[Cr(X)(CO)5](X = CN,I). Reactivity of the electrogenerated neutral species",
+  "authors": [
+   "W.P. Fehlhammera",
+   "Marcus Fritz",
+   "Didier Floner",
+   "C. Moinetb"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(96)00316-7",
+  "url": "https://doi.org/10.1016/s0013-4686(96)00316-7",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Freie Universität Berlin",
+   "Centre National de la Recherche Scientifique",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4c63d8d3b0ee113f",
+  "title": "Organic electroreductive coupling reactions using transition metal complexes as catalysts",
+  "authors": [
+   "Jean-Yves Nédélec",
+   "Jacques Périchon",
+   "Michel Troupel"
+  ],
+  "journal": "Topics in current chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1007/3-540-61454-0_72",
+  "url": "https://doi.org/10.1007/3-540-61454-0_72",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Est Créteil"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "46af65670bbb1c90",
+  "title": "Electrochemical fluorination of methyl cinnamates in Et3N · 3HF-MeCN",
+  "authors": [
+   "Wojciech Dmowski",
+   "Tomasz Kozłowski"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(96)00185-5",
+  "url": "https://doi.org/10.1016/s0013-4686(96)00185-5",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute of Organic Chemistry",
+   "Polish Academy of Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "45f653cd510f6d7a",
+  "title": "Anodic oxidation of N-alkylanilines",
+  "authors": [
+   "Shigeru Nishiyama",
+   "Yoko Iida",
+   "Shiro Hino",
+   "Shosuke Yamamura"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85465-5",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85465-5",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Keio University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "44d2d702ec40cf78",
+  "title": "Electrosynthesis of sulfur-containing organic compounds from cumulene derivatives using a sacrificial sulfur-graphite electrode",
+  "authors": [
+   "Akira Kunugi",
+   "Kimiko Kuwamura",
+   "Hidemitsu Uno"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(96)00430-6",
+  "url": "https://doi.org/10.1016/s0013-4686(96)00430-6",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Graphite Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Tokushima University",
+   "Ehime University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "429fb5aa9d575c1f",
+  "title": "Certain specific electrochemical behaviour of some aldehydes. Potentiodynamic investigations",
+  "authors": [
+   "Nikola Ristić",
+   "Časlav Lačnjevac",
+   "Anja Jokić",
+   "D. Tsiplakides",
+   "M. Jakšić"
+  ],
+  "journal": "AgroSpace (University of Belgrade, Faculty of Agriculture)",
+  "publisher": "University Hospital Center Dr Dragiša Mišović",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "",
+  "url": "http://aspace.agrif.bg.ac.rs/handle/123456789/112",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Mechanism"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3bd85585796af670",
+  "title": "Cathodic reduction of 2-bromo-2-nitropropane in the presence of dipolarophiles",
+  "authors": [
+   "Guillermo Montero",
+   "Gloria Quintanilla",
+   "Fructuoso Barba"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85496-5",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85496-5",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Alcalá"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "36f7301bf7fc1bf5",
+  "title": "Trends in organic electrosynthesis",
+  "authors": [
+   "James H. P. Utley"
+  ],
+  "journal": "Chemical Society Reviews",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1039/cs9972600157",
+  "url": "https://doi.org/10.1039/cs9972600157",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "C-C Bond Formation",
+   "Electrosynthesis",
+   "Organic Electrosynthesis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "353c95050c805ef7",
+  "title": "M—SPE composite powder microelectrodes used in organic electrosynthesis",
+  "authors": [
+   "Junhua Jiang",
+   "Bingliang Wu",
+   "Chuansin Cha",
+   "Yuanquan Zhou"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0022-0728(96)01016-9",
+  "url": "https://doi.org/10.1016/s0022-0728(96)01016-9",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Wuhan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "346528a47d04d66d",
+  "title": "OZONE ELECTROSYNTHESIS IN HIGH-FREQUENCY OZONIZERS WITH A GLASS CERAMIC DIELECTRIC BARRIER",
+  "authors": [
+   "E.B. Martynova",
+   "В. А. Вобликова",
+   "В. В. Лунин"
+  ],
+  "journal": "Russian Journal of Physical Chemistry A",
+  "publisher": "Pleiades Publishing",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "",
+  "url": "https://istina.msu.ru/publications/article/2970699/",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3171218a06356623",
+  "title": "Deposition of polyaniline on micro-contact printed self-assembled monolayersof ω-functionalized alkanethiols",
+  "authors": [
+   "Curtis N. Sayre",
+   "David M. Collard"
+  ],
+  "journal": "Journal of Materials Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1039/a606604f",
+  "url": "https://doi.org/10.1039/a606604f",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2eb6dbe8f6e3b2ee",
+  "title": "Covalent Modification of Carbon Surfaces by Aryl Radicals Generated from the Electrochemical Reduction of Diazonium Salts",
+  "authors": [
+   "P. Allongue",
+   "Michel Delamar",
+   "Bernard Desbat",
+   "Olivier Fagebaume",
+   "Rachid Hitmi",
+   "Jean Pinson",
+   "Jean-Michel Savéant"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1021/ja963354s",
+  "url": "https://doi.org/10.1021/ja963354s",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Preparative Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Bordeaux",
+   "Université Paris Cité",
+   "Laboratoire d'Electrochimie Moléculaire"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "25ca59f3c85aaa93",
+  "title": "Spectroelectrochemical Measurement of the Anodic Oxidation Rate of Phenidone in Physical Developers",
+  "authors": [
+   "Satoshi Kawashima",
+   "Yusuke Okawa",
+   "Takashi Ohno",
+   "Hiroyuki Kobayashi"
+  ],
+  "journal": "The Imaging Science Journal",
+  "publisher": "Taylor & Francis",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1080/13682199.1997.11736365",
+  "url": "https://doi.org/10.1080/13682199.1997.11736365",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Chiba University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1b89fcd20422c307",
+  "title": "Infrared induced visible emission from porous silicon: the mechanism of anodic oxidation",
+  "authors": [
+   "E. Stefan Kooij",
+   "Annamalai Rama",
+   "John J. Kelly"
+  ],
+  "journal": "Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0039-6028(96)00960-0",
+  "url": "https://doi.org/10.1016/s0039-6028(96)00960-0",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Utrecht University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "16ca0e62916c02c3",
+  "title": "Anodic oxidation of cyclohexene: Dependence of the product distribution on the reaction variables [1]",
+  "authors": [
+   "Kai-Christian Möller",
+   "H. Schäfer"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85469-2",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85469-2",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "162b702432216f6a",
+  "title": "EFFECT OF RARE EARTH ELEMENT ON THE ANODIC OXIDATION CHARACTERISTICS OF RUO2-SNO2-IRO2/TI TYPE MIXED OXIDE ELECTRODE",
+  "authors": [
+   "KyungSukYun",
+   "JinSikLee",
+   "ChulTaeLee"
+  ],
+  "journal": "Korean Journal of Chemical Engineering",
+  "publisher": "Springer Science+Business Media",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "",
+  "url": "http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=HHGHHL_1997_v35n2_168",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1094030915916446",
+  "title": "Enantioselective Cathodic Reduction of 4-Methylcoumarine; Dependence of Selectivity on Reaction Conditions and Investigation of the Mechanism",
+  "authors": [
+   "Merete Folmer Nielsen",
+   "Belén Batanero",
+   "Thorsten Löhl",
+   "Hans J. Schäfer",
+   "Ernst-Ulrich Würthwein",
+   "Roland Fröhlich"
+  ],
+  "journal": "Research at the University of Copenhagen (University of Copenhagen)",
+  "publisher": "University of Copenhagen",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "",
+  "url": "https://researchprofiles.ku.dk/da/publications/aee0db40-74c6-11db-bee9-02004c4f4f50",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Enantioselectivity"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0ff9b831e20b2ea8",
+  "title": "Erratum to : Composition and Morphology of Surface Films Coated by Chemical Conversion and Anodic Oxidation on Magnesium Die Cast AZ 91D",
+  "authors": [],
+  "journal": "Journal of The Surface Finishing Society of Japan",
+  "publisher": "The Surface Finishing Society of Japan",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.4139/sfj.48.4_485",
+  "url": "https://doi.org/10.4139/sfj.48.4_485",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0d3691f61edf93c3",
+  "title": "POLARIZATION BEHAVIOR OF Ni 3Al IN MOLTEN CARBONATES",
+  "authors": [
+   "WU Weitao"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "",
+  "url": "https://en.cnki.com.cn/Article_en/CJFDTOTAL-FSFJ702.014.htm",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Institute of Metal Research"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0b7550524f4460fb",
+  "title": "A nickel(II) complex catalyzed electroreductive cyclization of allyloxy radicals via 1,5-hydrogen shift",
+  "authors": [
+   "S. OZAKI",
+   "Yasuhisa Urano",
+   "Hidenobu Ohmori"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1997-01-01",
+  "year": 1997,
+  "doi": "10.1016/s0013-4686(97)85492-8",
+  "url": "https://doi.org/10.1016/s0013-4686(97)85492-8",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "The University of Osaka"
   ],
   "added": "2026-07-30"
  },

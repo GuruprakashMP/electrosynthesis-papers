@@ -1,5 +1,114 @@
 [
  {
+  "id": "b5aa6b26f8fcac10",
+  "title": "ChemInform Abstract: Electrosynthesis of α‐Aminonitriles: Anodic Cyanation of N‐ Substituted Tetrahydroquinolines and N‐Phenylpiperidines.",
+  "authors": [
+   "Erwan Le Gall",
+   "Jean-Pierre Hurvois",
+   "Tristan Renaud",
+   "Claude Moinet",
+   "A. Tallec",
+   "Philippe Uriac",
+   "Sourisak Sinbandhit",
+   "Loı̈c Toupet"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1997-12-23",
+  "year": 1997,
+  "doi": "10.1002/chin.199752166",
+  "url": "https://doi.org/10.1002/chin.199752166",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e7bb9ade2f6a0ae3",
+  "title": "In situ Monitoring of Anodic Oxidation of Aluminum Using a Quartz Crystal Microbalance:Estimation of the Water Content from an Isotopic Effect (論文特集号 電解科学技術の進展)",
+  "authors": [
+   "勝彦 直井",
+   "靖 大浦",
+   "誠 宇恵"
+  ],
+  "journal": "Medical Entomology and Zoology",
+  "publisher": "Japan Society of Medical Entomology and Zoology",
+  "published": "1997-12-05",
+  "year": 1997,
+  "doi": "",
+  "url": "http://ci.nii.ac.jp/naid/10001874230",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bd2ef9f7ce609a8d",
+  "title": "Paired Electrosynthesis of Di (2-carboxyethyl) sulfone",
+  "authors": [
+   "Wei Li",
+   "Tsutomu Nonaka"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1997-12-05",
+  "year": 1997,
+  "doi": "10.5796/kogyobutsurikagaku.65.1124",
+  "url": "https://doi.org/10.5796/kogyobutsurikagaku.65.1124",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4f33872b56152988",
+  "title": "ChemInform Abstract: Palladium‐Catalyzed Carboxylation of Vinyl Triflates. Electrosynthesis of α,β‐Unsaturated Carboxylic Acids.",
+  "authors": [
+   "Anny Jutand",
+   "Serge Négri"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1997-12-02",
+  "year": 1997,
+  "doi": "10.1002/chin.199749076",
+  "url": "https://doi.org/10.1002/chin.199749076",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Chimie ParisTech"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "fe2aa1fcab719d44",
   "title": "Enantioselective Cathodic Reduction of 4‐Methylcoumarin: Dependence of Selectivity on Reaction Conditions and Investigation of the Mechanism",
   "authors": [
@@ -37,6 +146,346 @@
   "added": "2026-07-30"
  },
  {
+  "id": "fd94e6b2830ac5d4",
+  "title": "The synthesis of bisanthraquinone derivatives as DNA bisintercalating agents",
+  "authors": [
+   "Ping Ge",
+   "Richard A. Russell"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.1016/s0040-4020(97)10196-x",
+  "url": "https://doi.org/10.1016/s0040-4020(97)10196-x",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Deakin University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fafcfd1f5516361c",
+  "title": "Electroreductive aromatization of imines and diimines",
+  "authors": [
+   "Akira Kunugi",
+   "Mikito Yasuzawa",
+   "Hiroshi Matsui",
+   "Kota Abe"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.1023/a:1018429330441",
+  "url": "https://doi.org/10.1023/a:1018429330441",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tokushima University",
+   "Osaka City University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f9ae9e632991e648",
+  "title": "In situ UV‐Vis spectroelectrochemical evidence of an EC mechanism in the electrooxidation of N‐Methylaniline",
+  "authors": [
+   "Albertas Malinauskas",
+   "Rudolf Holze"
+  ],
+  "journal": "Berichte der Bunsengesellschaft für physikalische Chemie",
+  "publisher": "",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.1002/bbpc.19971011210",
+  "url": "https://doi.org/10.1002/bbpc.19971011210",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Chemnitz University of Technology",
+   "Center for Physical Sciences and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f24ee5dcb35dba9a",
+  "title": "Nickel catalyzed electrosynthesis of ketones from organic halides and metal carbonyls",
+  "authors": [
+   "Eric Dolhem",
+   "Maïténa Oçafrain",
+   "Jean-Yves Nédélec",
+   "Michel Troupel"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.1016/s0040-4020(97)10143-0",
+  "url": "https://doi.org/10.1016/s0040-4020(97)10143-0",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Est Créteil",
+   "Université Paris Cité"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d68e5f74e28c5135",
+  "title": "The synthesis, characterization and reactivity of high oxidation state nickel fluorides",
+  "authors": [
+   "L. Chacón"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.2172/335167",
+  "url": "https://doi.org/10.2172/335167",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Fluorination",
+   "Nickel Electrode"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of California, Berkeley"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d2775e6fc48c54a9",
+  "title": "Electrosynthesis of aminotelechelic poly(acrylamide): Initiated by Ti(III)- NH 2 OH redox system",
+  "authors": [
+   "Padmalatha",
+   "B.S. Sherigara"
+  ],
+  "journal": "INDIAN JOURNAL OF CHEMISTRY- SECTION A",
+  "publisher": "CSIR-NISCAIR",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "",
+  "url": "http://nopr.niscair.res.in/bitstream/123456789/41523/1/IJCA%2036A%288%29%20722-724.pdf",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Mangalore University",
+   "Kuvempu University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c55cfebf051f193d",
+  "title": "Desenvolvimento e caracterização de recobrimentos de Ni-Co e de seus óxidos mistos para a produção de oxigênio por eletrólise alcalina da água",
+  "authors": [
+   "Sérgio Antônio Spínola Machado",
+   "Simone C. Gallani"
+  ],
+  "journal": "Química Nova",
+  "publisher": "Brazilian Chemical Society",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.1590/s0100-40421997000600009",
+  "url": "https://doi.org/10.1590/s0100-40421997000600009",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Constant Current",
+   "Cyclic Voltammetry",
+   "Electrolysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Universidade de São Paulo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "acae0976dddbd289",
+  "title": "Stereoselective Alkenylation of Activated Olefins via Nickel-Catalyzed Electroreductive Coupling",
+  "authors": [
+   "Sylvie Condon-Gueugnot",
+   "Daniel Dupré",
+   "Jean-Yves Nédélec",
+   "Jacques Périchon"
+  ],
+  "journal": "Synthesis",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.1055/s-1997-1371",
+  "url": "https://doi.org/10.1055/s-1997-1371",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Ni Catalysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Catalyse",
+   "Laboratoire de Synthèse Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8ac357863165a1bc",
+  "title": "The synthesis of anthraquinone derivatives as potential anticancer agents",
+  "authors": [
+   "Ping Ge",
+   "Richard A. Russell"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.1016/s0040-4020(97)10195-8",
+  "url": "https://doi.org/10.1016/s0040-4020(97)10195-8",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Deakin University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8a5ab3d165f99474",
+  "title": "Rearrangement oftrans-stilbene into diphenylacetaldehyde acetals induced by direct anodic oxidation",
+  "authors": [
+   "Yu. N. Ogibin",
+   "Alexey I. Ilovaisky",
+   "G. I. Nikishin"
+  ],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.1007/bf02495257",
+  "url": "https://doi.org/10.1007/bf02495257",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5e9b43b89b63be99",
+  "title": "A spectroelectrochemical study of the slow relaxation in polyaniline and its acceleration in composite films with poly(o‐phenylenediamine)",
+  "authors": [
+   "Albertas Malinauskas",
+   "Rudolf Holze"
+  ],
+  "journal": "Berichte der Bunsengesellschaft für physikalische Chemie",
+  "publisher": "",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.1002/bbpc.19971011209",
+  "url": "https://doi.org/10.1002/bbpc.19971011209",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Vilnius University",
+   "Chemnitz University of Technology",
+   "Center for Physical Sciences and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "565a39dd35fb5861",
+  "title": "One step synthesis of orthogonally protected diaminodicarboxylic acids by mixed kolbe electrolysis",
+  "authors": [
+   "Johann Hiebl",
+   "Hermann Kollmann",
+   "Franz Rovenszky",
+   "Karin Winkler"
+  ],
+  "journal": "Bioorganic & Medicinal Chemistry Letters",
+  "publisher": "Elsevier BV",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.1016/s0960-894x(97)10130-5",
+  "url": "https://doi.org/10.1016/s0960-894x(97)10130-5",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Kolbe Electrolysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Salzgitter Group (Singapore)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "4c2166f6a8afcd36",
   "title": "Electrolytic Partial Fluorination of Organic Compounds. 24. 1 Highly Regioselective Anodic Monofluorination of 2-Benzothiazolyl and 5-Chloro-2-benzothiazolyl Sulfides",
   "authors": [
@@ -66,6 +515,89 @@
   "relevance_score": 78,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3c8f15ed68b1915d",
+  "title": "Anodic oxidation of aniline and N-alkylanilines in aqueous sulphuric acid studied by electrochemical thermospray mass spectrometry",
+  "authors": [
+   "I. Stassen",
+   "G. Hambitzer"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.1016/s0022-0728(97)80059-9",
+  "url": "https://doi.org/10.1016/s0022-0728(97)80059-9",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Fraunhofer Institute for Chemical Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3c72a88fb029da3c",
+  "title": "Paired Electrosynthesis of a Nitrone",
+  "authors": [
+   "Wei Li",
+   "Tsutomu Nonaka"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.1246/cl.1997.1271",
+  "url": "https://doi.org/10.1246/cl.1997.1271",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Redox Mediator",
+   "Undivided Cell"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0f9018e65ef80aab",
+  "title": "Oxidatively Induced Reductive Eliminations. A Mechanistic Study of the Oxidation Chemistry of CnRhMe 3 (Cn = 1,4,7-Trimethyl-1,4,7-triazacyclononane)",
+  "authors": [
+   "Erik Fooladi",
+   "Mats Tilset"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1997-12-01",
+  "year": 1997,
+  "doi": "10.1021/ic970876f",
+  "url": "https://doi.org/10.1021/ic970876f",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Preparative Electrolysis"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "University of Oslo"
   ],
   "added": "2026-07-30"
  }
