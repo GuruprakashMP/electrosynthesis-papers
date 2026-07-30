@@ -1,0 +1,470 @@
+[
+ {
+  "id": "f4c7f1549e3726c6",
+  "title": "Electrochemical generation of nitrogen-centered radicals for organic synthesis",
+  "authors": [
+   "Na Chen",
+   "Hai-Chao Xu"
+  ],
+  "journal": "Green Synthesis and Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2021-03-29",
+  "year": 2021,
+  "doi": "10.1016/j.gresc.2021.03.002",
+  "url": "https://doi.org/10.1016/j.gresc.2021.03.002",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrogenerated Species",
+   "Organic Electrochemistry",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Huaqiao University",
+   "Xiamen University",
+   "Collaborative Innovation Center of Chemistry for Energy Materials"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "83cb6ec45ab7ae46",
+  "title": "Esterification of Carboxylic Acids with Aryl Halides via the Merger of Paired Electrolysis and Nickel Catalysis",
+  "authors": [
+   "Lei Wei",
+   "Zhenhua Wang",
+   "Ke-Jin Jiao",
+   "Dong Liu",
+   "Cong Ma",
+   "Ping Fang",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2021-03-26",
+  "year": 2021,
+  "doi": "10.1021/acs.joc.1c00204",
+  "url": "https://doi.org/10.1021/acs.joc.1c00204",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Cross-Coupling & C-C Formation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Counter Electrode",
+   "Electrolysis",
+   "Ni Catalysis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 93,
+  "affiliations": [
+   "Shanghai Institute of Organic Chemistry",
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "837388168d529a9b",
+  "title": "Organic Electrochemistry: Expanding the Scope of Paired Reactions",
+  "authors": [
+   "Tiandi Wu",
+   "Kevin D. Moeller"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2021-03-26",
+  "year": 2021,
+  "doi": "10.1002/anie.202100193",
+  "url": "https://doi.org/10.1002/anie.202100193",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Constant Current",
+   "Electrolysis",
+   "Organic Electrochemistry",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Washington University in St. Louis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3de9d12b3e918c90",
+  "title": "Electrochemical Oxidation Dearomatization of Anisol Derivatives toward Spiropyrrolidines and Spirolactones",
+  "authors": [
+   "Cui Zhang",
+   "Faxiang Bu",
+   "Chulin Zeng",
+   "Dan Wang",
+   "Lijun Lu",
+   "Heng Zhang",
+   "Aiwen Lei"
+  ],
+  "journal": "CCS Chemistry",
+  "publisher": "Chinese Chemical Society",
+  "published": "2021-03-25",
+  "year": 2021,
+  "doi": "10.31635/ccschem.021.202100860",
+  "url": "https://doi.org/10.31635/ccschem.021.202100860",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Flow Electrosynthesis & Scale-up",
+   "Cell Design & Electrodes",
+   "Asymmetric Electrosynthesis",
+   "Mechanism & Electroanalysis",
+   "Natural Product & Total Synthesis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Cyclic Voltammetry",
+   "Electrochemical Flow Cell",
+   "Electrosynthesis",
+   "Enantioselectivity",
+   "Flow Electrochemistry",
+   "Gram-Scale",
+   "Natural Products",
+   "Radical Cation",
+   "Substrate Scope",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Wuhan University",
+   "Molecular Sciences Institute",
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c22709c9c67199b6",
+  "title": "Mn-Catalyzed Electrooxidative Undirected C–H/P–H Cross-Coupling between Aromatics and Diphenyl Phosphine Oxides",
+  "authors": [
+   "Siyuan Wang",
+   "Qilin Xue",
+   "Zhipeng Guan",
+   "Yayu Ye",
+   "Aiwen Lei"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2021-03-23",
+  "year": 2021,
+  "doi": "10.1021/acscatal.1c00549",
+  "url": "https://doi.org/10.1021/acscatal.1c00549",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrooxidative",
+   "Undivided Cell"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Wuhan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "771b73c1c5b0b603",
+  "title": "Electrochemically driven desaturation of carbonyl compounds",
+  "authors": [
+   "Samer Gnaim",
+   "Yusuke Takahira",
+   "Henrik R. Wilke",
+   "Zhen Yao",
+   "Jinjun Li",
+   "Dominique Delbrayelle",
+   "Pierre-Georges Echeverria",
+   "Julien C. Vantourout",
+   "Phil S. Baran"
+  ],
+  "journal": "Nature Chemistry",
+  "publisher": "Nature Portfolio",
+  "published": "2021-03-23",
+  "year": 2021,
+  "doi": "10.1038/s41557-021-00640-2",
+  "url": "https://doi.org/10.1038/s41557-021-00640-2",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemically Driven"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Scripps Institution of Oceanography",
+   "Scripps (United States)",
+   "Scripps Research Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "45d1869b67e009b5",
+  "title": "Electrochemically Driven Radical Reactions: From Direct Electrolysis to Molecular Catalysis",
+  "authors": [
+   "Na Chen",
+   "Hai-Chao Xu"
+  ],
+  "journal": "The Chemical Record",
+  "publisher": "Wiley",
+  "published": "2021-03-18",
+  "year": 2021,
+  "doi": "10.1002/tcr.202100048",
+  "url": "https://doi.org/10.1002/tcr.202100048",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Electrophotochemistry",
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Anodic Oxidation",
+   "Arenes",
+   "Electrochemically Driven",
+   "Electrolysis",
+   "Electrophotocatalysis",
+   "Organic Electrochemistry",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Huaqiao University",
+   "Xiamen University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0f33644aff6bad4d",
+  "title": "Electrophotocatalytic C−H Azolation of Arenes",
+  "authors": [
+   "Zhong-Wei Hou",
+   "Hai-Chao Xu"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2021-03-17",
+  "year": 2021,
+  "doi": "10.1002/celc.202100272",
+  "url": "https://doi.org/10.1002/celc.202100272",
+  "source": "openalex",
+  "categories": [
+   "Electrophotochemistry",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Arenes",
+   "Cross-Coupling",
+   "Electrophotocatalysis",
+   "TEMPO",
+   "Undivided Cell"
+  ],
+  "relevance_score": 89,
+  "affiliations": [
+   "Xiamen University",
+   "Taizhou University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "303fe4745e4a500a",
+  "title": "Electrochemical Borylation of Carboxylic Acids",
+  "authors": [
+   "Lisa M. Barton",
+   "Longrui Chen",
+   "Donna G. Blackmond",
+   "Phil S. Baran"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2021-03-16",
+  "year": 2021,
+  "doi": "10.26434/chemrxiv.14210963",
+  "url": "https://doi.org/10.26434/chemrxiv.14210963",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Natural Product & Total Synthesis"
+  ],
+  "tags": [
+   "Natural Products",
+   "Substrate Scope",
+   "Undivided Cell"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Scripps Institution of Oceanography",
+   "Torrey Pines Institute For Molecular Studies",
+   "Scripps (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "93318892eb717ff6",
+  "title": "Unlocking the Potential of High-Throughput Experimentation for Electrochemistry with a Standardized Microscale Reactor",
+  "authors": [
+   "Jonas Rein",
+   "James R. Annand",
+   "Michael K. Wismer",
+   "Jiantao Fu",
+   "Juno C. Siu",
+   "Artis Klapars",
+   "Neil A. Strotman",
+   "Dipannita Kalyani",
+   "Dan Lehnherr",
+   "Song Lin"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2021-03-10",
+  "year": 2021,
+  "doi": "10.26434/chemrxiv.14173538.v2",
+  "url": "https://doi.org/10.26434/chemrxiv.14173538.v2",
+  "source": "openalex",
+  "categories": [
+   "Electrophotochemistry"
+  ],
+  "tags": [
+   "Electrophotochemistry",
+   "Electrosynthesis",
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Cornell University",
+   "Merck & Co., Inc., Rahway, NJ, USA (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a80ac9a3337b8355",
+  "title": "Organic Electrochemistry: Molecular Syntheses with Potential",
+  "authors": [
+   "Cuiju Zhu",
+   "Nate W. J. Ang",
+   "Tjark H. Meyer",
+   "Youai Qiu",
+   "Lutz Ackermann"
+  ],
+  "journal": "ACS Central Science",
+  "publisher": "American Chemical Society",
+  "published": "2021-03-09",
+  "year": 2021,
+  "doi": "10.1021/acscentsci.0c01532",
+  "url": "https://doi.org/10.1021/acscentsci.0c01532",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Electrosynthesis",
+   "Organic Electrochemistry",
+   "Organic Electrosynthesis",
+   "Sustainable Synthesis"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ca099d8da24035ec",
+  "title": "Catalyst‐ and Reagent‐Free Formal Aza‐Wacker Cyclizations Enabled by Continuous‐Flow Electrochemistry",
+  "authors": [
+   "Chong Huang",
+   "Zhao-Yu Li",
+   "Jinshuai Song",
+   "Hai-Chao Xu"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2021-03-05",
+  "year": 2021,
+  "doi": "10.1002/anie.202101835",
+  "url": "https://doi.org/10.1002/anie.202101835",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up",
+   "Cell Design & Electrodes",
+   "Green & Sustainable Electrosynthesis",
+   "Heterocycle Synthesis",
+   "Natural Product & Total Synthesis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Flow Electrochemistry",
+   "Heterocycles",
+   "Natural Products",
+   "Reagent-Free",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Xiamen University",
+   "Zhengzhou University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "397c03e835e70f53",
+  "title": "Integrating Continuous-Flow Electrochemistry and Photochemistry for the Synthesis of Acridinium Photocatalysts Via Site-Selective C–H Alkylation",
+  "authors": [
+   "Hong Yan",
+   "Shaobin Zhu",
+   "Hai-Chao Xu"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2021-03-05",
+  "year": 2021,
+  "doi": "10.1021/acs.oprd.1c00038",
+  "url": "https://doi.org/10.1021/acs.oprd.1c00038",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up",
+   "Cross-Coupling & C-C Formation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Flow Electrochemistry",
+   "Reduction Potential"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Xiamen University",
+   "Collaborative Innovation Center of Chemistry for Energy Materials"
+  ],
+  "added": "2026-07-30"
+ }
+]

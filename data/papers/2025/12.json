@@ -1,0 +1,69 @@
+[
+ {
+  "id": "92213bdf635fbccb",
+  "title": "e-Carbonyl: Electrochemical Synthesis of α-Keto Esters via α-Carbonyl Carbocations",
+  "authors": [
+   "Ewan V. Tushkanov",
+   "Hamid Salehzadeh",
+   "Caterina Campinoti",
+   "Charles A. I. Goodall",
+   "Marco Lessi",
+   "Antonio Del Vecchio",
+   "Kevin Lam"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2025-12-26",
+  "year": 2025,
+  "doi": "10.1021/acs.orglett.5c04372",
+  "url": "https://doi.org/10.1021/acs.orglett.5c04372",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Greenwich",
+   "University of Pisa"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bfe2013aaae8867f",
+  "title": "Electrochemical Hydrogenation of Aza-Arenes Using H 2 O as H Source",
+  "authors": [
+   "Subhabrata Dutta",
+   "Rok Narobe",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2025-12-23",
+  "year": 2025,
+  "doi": "10.1021/jacs.5c21117",
+  "url": "https://doi.org/10.1021/jacs.5c21117",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Heterocycle Synthesis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Arenes",
+   "Cell Voltage",
+   "Electrochemical Hydrogenation",
+   "FG Tolerance",
+   "Heterocycles",
+   "Quinolines"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Max Planck Institute for Chemical Energy Conversion",
+   "Karlsruhe Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ }
+]

@@ -1,0 +1,450 @@
+[
+ {
+  "id": "be8fd2e75147e4cd",
+  "title": "From Molecules to Molecular Surfaces. Exploiting the Interplay Between Organic Synthesis and Electrochemistry",
+  "authors": [
+   "Qiwei Jing",
+   "Kevin D. Moeller"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society",
+  "published": "2019-12-31",
+  "year": 2019,
+  "doi": "10.1021/acs.accounts.9b00578",
+  "url": "https://doi.org/10.1021/acs.accounts.9b00578",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Paired Electrolysis",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Constant Current",
+   "Electrolysis",
+   "Paired Electrolysis",
+   "Preparative Electrolysis",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "Washington University in St. Louis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1409e7a262634fcb",
+  "title": "Copper-Catalyzed Electrochemical Selective Bromination of 8-Aminoquinoline Amide Using NH 4 Br as the Brominating Reagent",
+  "authors": [
+   "Yang Xiang",
+   "Qi-Liang Yang",
+   "Xiangyang Wang",
+   "Hao-Han Xu",
+   "Tian-Sheng Mei",
+   "Yan Huang",
+   "Ping Fang"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2019-12-31",
+  "year": 2019,
+  "doi": "10.1021/acs.joc.9b03223",
+  "url": "https://doi.org/10.1021/acs.joc.9b03223",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cross-Coupling & C-C Formation",
+   "Flow Electrosynthesis & Scale-up",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cu Catalysis",
+   "Gram-Scale",
+   "Quinolines"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Shanghai Institute of Organic Chemistry",
+   "University of Chinese Academy of Sciences",
+   "Xinjiang University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "abd3da7459652ec9",
+  "title": "Electrophotocatalytic Undirected C−H Trifluoromethylations of (Het)Arenes",
+  "authors": [
+   "Youai Qiu",
+   "Alexej Scheremetjew",
+   "Lars H. Finger",
+   "Lutz Ackermann"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2019-12-25",
+  "year": 2019,
+  "doi": "10.1002/chem.201905774",
+  "url": "https://doi.org/10.1002/chem.201905774",
+  "source": "openalex",
+  "categories": [
+   "Electrophotochemistry",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Arenes",
+   "Electrophotocatalysis",
+   "Electrophotochemistry",
+   "Electrosynthesis",
+   "Radical Chemistry",
+   "Single-Electron Transfer"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ff434c1e08dc45e1",
+  "title": "Cobaltaelectro-catalyzed oxidative allene annulation by electro-removable hydrazides",
+  "authors": [
+   "Ruhuai Mei",
+   "Xinyue Fang",
+   "Liang He",
+   "Junmei Sun",
+   "Liang Zou",
+   "Wenbo Ma",
+   "Lutz Ackermann"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2019-12-23",
+  "year": 2019,
+  "doi": "10.1039/c9cc09076b",
+  "url": "https://doi.org/10.1039/c9cc09076b",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "C-H Functionalization",
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "C-H Activation",
+   "Chemoselectivity",
+   "Electrochemical C-H",
+   "Electrooxidative",
+   "Electroreductive",
+   "FG Tolerance",
+   "Regioselectivity",
+   "Undivided Cell"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "Antibiotic Research UK",
+   "Chengdu University",
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "daa30d1c2ea57479",
+  "title": "Metalla-electrocatalyzed C–H Activation by Earth-Abundant 3d Metals and Beyond",
+  "authors": [
+   "Lutz Ackermann"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society",
+  "published": "2019-12-19",
+  "year": 2019,
+  "doi": "10.1021/acs.accounts.9b00510",
+  "url": "https://doi.org/10.1021/acs.accounts.9b00510",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis",
+   "C-H Functionalization",
+   "Flow Electrosynthesis & Scale-up",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Alkynes",
+   "C-H Functionalization",
+   "Chemoselectivity",
+   "Continuous Flow",
+   "Electrolysis",
+   "Electrooxidative",
+   "Electrosynthesis",
+   "Indirect Electrolysis",
+   "Redox Potential",
+   "Scale-up"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "be5a23c60bacca04",
+  "title": "Electrochemistry of Organoboron Compounds",
+  "authors": [
+   "Toshio Fuchigami",
+   "Shinsuke Inagi"
+  ],
+  "journal": "Patai's chemistry of functional groups",
+  "publisher": "Wiley",
+  "published": "2019-12-18",
+  "year": 2019,
+  "doi": "10.1002/9780470682531.pat0965",
+  "url": "https://doi.org/10.1002/9780470682531.pat0965",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Electrolysis",
+   "Reduction Potential"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5211aa25a9d50cd5",
+  "title": "A Decade of Electrochemical Dehydrogenative C,C-Coupling of Aryls",
+  "authors": [
+   "Johannes L. Röckl",
+   "Dennis Pollok",
+   "Robert Franke",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society",
+  "published": "2019-12-18",
+  "year": 2019,
+  "doi": "10.1021/acs.accounts.9b00511",
+  "url": "https://doi.org/10.1021/acs.accounts.9b00511",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation",
+   "Flow Electrosynthesis & Scale-up",
+   "Natural Product & Total Synthesis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Alkaloids",
+   "BDD Electrode",
+   "C-C Bond Formation",
+   "Continuous Flow",
+   "Controlled Potential",
+   "Cross-Coupling",
+   "Electrolysis",
+   "Electroorganic",
+   "Electrosynthesis",
+   "Natural Products",
+   "Organic Electrochemistry",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "University of Applied Sciences Mainz",
+   "Johannes Gutenberg University Mainz",
+   "Evonik (Germany)",
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d4b37d0c22a55a34",
+  "title": "Catalyst-free, direct electrochemical synthesis of annulated medium-sized lactams through C–C bond cleavage",
+  "authors": [
+   "Zhongnan Xu",
+   "Zhixing Huang",
+   "Yueheng Li",
+   "Rositha Kuniyil",
+   "Chao Zhang",
+   "Lutz Ackermann",
+   "Zhixiong Ruan"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2019-12-11",
+  "year": 2019,
+  "doi": "10.1039/c9gc03901e",
+  "url": "https://doi.org/10.1039/c9gc03901e",
+  "source": "openalex",
+  "categories": [
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "Oxidant-Free"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Target (United States)",
+   "State Key Laboratory of Respiratory Disease",
+   "Guangzhou Medical University",
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a63731b87ab764bf",
+  "title": "A Survival Guide for the “Electro-curious”",
+  "authors": [
+   "Cian Kingston",
+   "Maximilian D. Palkowitz",
+   "Yusuke Takahira",
+   "Julien C. Vantourout",
+   "Byron K. Peters",
+   "Yu Kawamata",
+   "Phil S. Baran"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society",
+  "published": "2019-12-11",
+  "year": 2019,
+  "doi": "10.1021/acs.accounts.9b00539",
+  "url": "https://doi.org/10.1021/acs.accounts.9b00539",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic",
+   "Organic Electrochemistry",
+   "Regioselectivity"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Scripps Institution of Oceanography",
+   "Torrey Pines Institute For Molecular Studies",
+   "Scripps (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "401cd836554f26bc",
+  "title": "Large, Highly Modular Narrow-Gap Electrolytic Flow Cell and Application in Dehydrogenative Cross-Coupling of Phenols",
+  "authors": [
+   "Barbara Gleede",
+   "Maximilian Selt",
+   "Christoph Gütz",
+   "Andreas Stenglein",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2019-12-10",
+  "year": 2019,
+  "doi": "10.1021/acs.oprd.9b00451",
+  "url": "https://doi.org/10.1021/acs.oprd.9b00451",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrochemical Flow Cell",
+   "Electrolytic",
+   "Electroorganic",
+   "Scale-up",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2491bdd0ad2439dd",
+  "title": "Recent Advances in Electrochemical Oxidative Cross‐Coupling of Alkenes with H 2 Evolution",
+  "authors": [
+   "Pan Wang",
+   "Xinlong Gao",
+   "Peng-Fei Huang",
+   "Aiwen Lei"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2019-12-10",
+  "year": 2019,
+  "doi": "10.1002/cctc.201901773",
+  "url": "https://doi.org/10.1002/cctc.201901773",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cross-Coupling & C-C Formation",
+   "Natural Product & Total Synthesis",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Atom Economy",
+   "Cross-Coupling",
+   "Electrooxidative",
+   "Natural Products"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "Wuhan University",
+   "Molecular Sciences Institute",
+   "Jiangxi Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fbbd456a5aece60a",
+  "title": "Nickel‐Catalyzed Electrochemical Reductive Relay Cross‐Coupling of Alkyl Halides to Aryl Halides",
+  "authors": [
+   "Ke-Jin Jiao",
+   "Dong Liu",
+   "Hong-Xing Ma",
+   "Hui Qiu",
+   "Ping Fang",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2019-12-03",
+  "year": 2019,
+  "doi": "10.1002/anie.201912753",
+  "url": "https://doi.org/10.1002/anie.201912753",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electroreductive",
+   "Regioselectivity",
+   "Undivided Cell"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "Shanghai Institute of Organic Chemistry",
+   "University of Chinese Academy of Sciences",
+   "Yancheng Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ }
+]

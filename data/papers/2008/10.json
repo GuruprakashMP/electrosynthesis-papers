@@ -1,0 +1,61 @@
+[
+ {
+  "id": "f4654bd8914dd128",
+  "title": "ChemInform Abstract: Modern Strategies in Electroorganic Synthesis",
+  "authors": [
+   "Jun-ichi Yoshida",
+   "K. Kataoka",
+   "Roberto Horcajada",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2008-10-02",
+  "year": 2008,
+  "doi": "10.1002/chin.200844243",
+  "url": "https://doi.org/10.1002/chin.200844243",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4e6860823a60f676",
+  "title": "A Novel Electrosynthetic System for Anodic Substitution Reactions by Using Parallel Laminar Flow in a Microflow Reactor",
+  "authors": [
+   "Daisuke Horii",
+   "Fumihiro Amemiya",
+   "Toshio Fuchigami",
+   "Mahito Atobe"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2008-10-01",
+  "year": 2008,
+  "doi": "10.1002/chem.200801511",
+  "url": "https://doi.org/10.1002/chem.200801511",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Substitution",
+   "Electrosynthesis",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ }
+]

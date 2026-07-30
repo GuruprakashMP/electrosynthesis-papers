@@ -1,0 +1,227 @@
+[
+ {
+  "id": "8a60bacc51328a23",
+  "title": "Electrochemical CO 2 Utilization for the Synthesis of α-Hydroxy Acids",
+  "authors": [
+   "Johannes Seidler",
+   "Arne Roth",
+   "Luciana Vieira",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2022-12-28",
+  "year": 2022,
+  "doi": "10.1021/acssuschemeng.2c06046",
+  "url": "https://doi.org/10.1021/acssuschemeng.2c06046",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation",
+   "Electrolysis",
+   "Radical Chemistry",
+   "Sacrificial Anode",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Siemens (Germany)",
+   "Johannes Gutenberg University Mainz",
+   "Fraunhofer Institute for Interfacial Engineering and Biotechnology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6e3dc8f27b1449d2",
+  "title": "Front Cover: How to Harness Electrochemical Mediators for Photocatalysis – A Systematic Approach Using the Phenanthro[9,10‐ d ]imidazole Framework as a Test Case (ChemCatChem 1/2023)",
+  "authors": [
+   "Patrick Enders",
+   "Michal Májek",
+   "Chiu Marco Lam",
+   "R. Daniel Little",
+   "Robert Francke"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2022-12-27",
+  "year": 2022,
+  "doi": "10.1002/cctc.202201598",
+  "url": "https://doi.org/10.1002/cctc.202201598",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Redox Mediator"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Leibniz Institute for Catalysis",
+   "University of Rostock",
+   "Comenius University Bratislava",
+   "University of California, Santa Barbara"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "64f2ccd196b17edb",
+  "title": "Degradation of Lignosulfonate to Vanillic Acid Using Ferrate",
+  "authors": [
+   "Jana Klein",
+   "Robin Kupec",
+   "Markus Stöckl",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Advanced Sustainable Systems",
+  "publisher": "Wiley",
+  "published": "2022-12-25",
+  "year": 2022,
+  "doi": "10.1002/adsu.202200431",
+  "url": "https://doi.org/10.1002/adsu.202200431",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrogenerated Species",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "Society for Chemical Engineering and Biotechnology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "24edd329adf2be31",
+  "title": "Recent advances in electrooxidative radical transformations of alkynes",
+  "authors": [
+   "Yan Zhang",
+   "Zhenzhi Cai",
+   "Svenja Warratz",
+   "Chanchan Ma",
+   "Lutz Ackermann"
+  ],
+  "journal": "Science China Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2022-12-12",
+  "year": 2022,
+  "doi": "10.1007/s11426-022-1438-0",
+  "url": "https://doi.org/10.1007/s11426-022-1438-0",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Alkynes",
+   "Electrooxidative",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Zhejiang Normal University",
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b2f09037871c153d",
+  "title": "Electrochemical Synthesis of Pyrazolines and Pyrazoles via [3+2] Dipolar Cycloaddition",
+  "authors": [
+   "Martin Linden",
+   "Silja Hofmann",
+   "Antonia Herman",
+   "Nicole Ehler",
+   "Robin M. Bär",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-12-07",
+  "year": 2022,
+  "doi": "10.1002/anie.202214820",
+  "url": "https://doi.org/10.1002/anie.202214820",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Alkenes",
+   "Electrochemical Synthesis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "Bayer (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fb659cbfc8f703b4",
+  "title": "Inside Back Cover: Controlling Selectivity in Shuttle Hetero‐difunctionalization Reactions: Electrochemical Transfer Halo‐thiolation of Alkynes (Angew. Chem. Int. Ed. 2/2023)",
+  "authors": [
+   "Xichang Dong",
+   "Martin Klein",
+   "Siegfried R. Waldvogel",
+   "Bill Morandi"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-12-02",
+  "year": 2022,
+  "doi": "10.1002/anie.202217110",
+  "url": "https://doi.org/10.1002/anie.202217110",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Alkynes",
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "ETH Zurich",
+   "Johannes Gutenberg University Mainz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d16631f15dd969f6",
+  "title": "Electrochemical Fluorination",
+  "authors": [
+   "Toshio Fuchigami",
+   "Shinsuke Inagi"
+  ],
+  "journal": "Patai's chemistry of functional groups",
+  "publisher": "Wiley",
+  "published": "2022-12-02",
+  "year": 2022,
+  "doi": "10.1002/9780470682531.pat1010",
+  "url": "https://doi.org/10.1002/9780470682531.pat1010",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination",
+   "Electrolysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ }
+]

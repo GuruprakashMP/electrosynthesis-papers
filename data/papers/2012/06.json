@@ -1,0 +1,126 @@
+[
+ {
+  "id": "676a84fc96affb4a",
+  "title": "ChemInform Abstract: Electrochemical Oxidation of Catechols in the Presence of Ketene N,O‐Acetals: Indole Formation versus α‐Arylation.",
+  "authors": [
+   "Yuexia Bai",
+   "Da-Wei Ping",
+   "R. Daniel Little",
+   "Hongyu Tian",
+   "Liming Hu",
+   "Cheng-Chu Zeng"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2012-06-21",
+  "year": 2012,
+  "doi": "10.1002/chin.201229020",
+  "url": "https://doi.org/10.1002/chin.201229020",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Constant Current",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Indoles"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Beijing University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fc9d0fe8a8200b50",
+  "title": "Metal‐ and Chemical‐Oxidant‐Free CH/CH Cross‐Coupling of Aromatic Compounds: The Use of Radical‐Cation Pools",
+  "authors": [
+   "Tatsuya Morofuji",
+   "Akihiro Shimizu",
+   "Jun-ichi Yoshida"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2012-06-11",
+  "year": 2012,
+  "doi": "10.1002/anie.201202788",
+  "url": "https://doi.org/10.1002/anie.201202788",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Cross-Coupling & C-C Formation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cation Pool",
+   "Cross-Coupling",
+   "Electrolysis",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6a0fa90ffa2b61f7",
+  "title": "Controlling and Improvement of Electrosynthetic Reaction by Using Microreactor: Application to Intermolecular Coupling Reaction of Phenol Derivatives",
+  "authors": [
+   "Tsuneo Kashiwagi",
+   "Siegfried R. Waldvogel",
+   "Mahito Atobe"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2012-06-04",
+  "year": 2012,
+  "doi": "10.1149/ma2012-02/19/2068",
+  "url": "https://doi.org/10.1149/ma2012-02/19/2068",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Microreactor"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Tokyo Institute of Technology",
+   "Johannes Gutenberg University Mainz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "293ba8116f7effe3",
+  "title": "Paired Electrochemical Reaction of a Poly(Fluorenol) Derivative",
+  "authors": [
+   "Hiroyuki Nagai",
+   "Shinsuke Inagi",
+   "Toshio Fuchigami"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2012-06-04",
+  "year": 2012,
+  "doi": "10.1149/ma2012-02/19/2088",
+  "url": "https://doi.org/10.1149/ma2012-02/19/2088",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ }
+]

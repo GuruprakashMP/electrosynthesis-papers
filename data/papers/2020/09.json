@@ -1,0 +1,220 @@
+[
+ {
+  "id": "30c19fa0289bba4c",
+  "title": "Electrochemical Palladium‐Catalyzed Intramolecular C—H Amination of 2‐Amidobiaryls for Synthesis of Carbazoles",
+  "authors": [
+   "Qingqing Wang",
+   "Xiao-Jing Zhang",
+   "Pan Wang",
+   "Xinlong Gao",
+   "Heng Zhang",
+   "Aiwen Lei"
+  ],
+  "journal": "Chinese Journal of Chemistry",
+  "publisher": "Wiley",
+  "published": "2020-09-25",
+  "year": 2020,
+  "doi": "10.1002/cjoc.202000407",
+  "url": "https://doi.org/10.1002/cjoc.202000407",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Undivided Cell"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Wuhan University",
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Organic Chemistry",
+   "Jiangxi Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "55a141720df5cb7d",
+  "title": "Electrochemical Ring Expansion to Synthesize Medium-Sized Lactams Through C–C Bond Cleavage",
+  "authors": [
+   "Kun Liu",
+   "Chunlan Song",
+   "Xu Jiang",
+   "Xin Dong",
+   "Yuqi Deng",
+   "Wenxu Song",
+   "Yanpei Yang",
+   "Aiwen Lei"
+  ],
+  "journal": "CCS Chemistry",
+  "publisher": "Chinese Chemical Society",
+  "published": "2020-09-24",
+  "year": 2020,
+  "doi": "10.31635/ccschem.020.202000469",
+  "url": "https://doi.org/10.31635/ccschem.020.202000469",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "C-H Functionalization",
+   "Cell Design & Electrodes",
+   "Mediated & Indirect Electrolysis",
+   "Cross-Coupling & C-C Formation",
+   "Flow Electrosynthesis & Scale-up",
+   "Green & Sustainable Electrosynthesis",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Controlled Potential",
+   "Cross-Coupling",
+   "Cyclic Voltammetry",
+   "Electrochemical C-H",
+   "Electrochemical Synthesis",
+   "FG Tolerance",
+   "Glassy Carbon",
+   "Gram-Scale",
+   "Heterocycles",
+   "Indirect Electrolysis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Wuhan University",
+   "Molecular Sciences Institute",
+   "Shanghai Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cfcca0d5084a013e",
+  "title": "Electrochemical Decarboxylative N -Alkylation of Heterocycles",
+  "authors": [
+   "Tao Sheng",
+   "Hai-Jun Zhang",
+   "Ming Shang",
+   "Chi He",
+   "Julien C. Vantourout",
+   "Phil S. Baran"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2020-09-17",
+  "year": 2020,
+  "doi": "10.1021/acs.orglett.0c02799",
+  "url": "https://doi.org/10.1021/acs.orglett.0c02799",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Decarboxylative",
+   "Electrochemical Decarboxylation",
+   "Electrochemically Driven",
+   "Heterocycles",
+   "Substrate Scope"
+  ],
+  "relevance_score": 91,
+  "affiliations": [
+   "Scripps Institution of Oceanography",
+   "Torrey Pines Institute For Molecular Studies",
+   "Scripps (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cedac21b7f85b36e",
+  "title": "Manganese-Catalyzed Oxidative Azidation of C(sp 3 )–H Bonds under Electrophotocatalytic Conditions",
+  "authors": [
+   "Linbin Niu",
+   "Chongyu Jiang",
+   "Yuwei Liang",
+   "Dingdong Liu",
+   "Faxiang Bu",
+   "Renyi Shi",
+   "Hong Chen",
+   "Abhishek Dutta Chowdhury",
+   "Aiwen Lei"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2020-09-17",
+  "year": 2020,
+  "doi": "10.1021/jacs.0c08437",
+  "url": "https://doi.org/10.1021/jacs.0c08437",
+  "source": "openalex",
+  "categories": [
+   "Electrophotochemistry",
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Electrophotocatalysis",
+   "Gram-Scale"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Wuhan University",
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f5aabba4d4341d68",
+  "title": "Electrosynthesis: A practical and versatile method for small molecule synthesis",
+  "authors": [
+   "Matthew C. Leech",
+   "Kevin Lam"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2020-09-16",
+  "year": 2020,
+  "doi": "10.1021/scimeetings.0c06685",
+  "url": "https://doi.org/10.1021/scimeetings.0c06685",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 56,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0511f0b9c1fc224f",
+  "title": "Gas bubbles have controversial effects on Taylor flow electrochemistry",
+  "authors": [
+   "Yiran Cao",
+   "Cíntia Soares",
+   "Natan Padoin",
+   "Timothy Noël"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2020-09-01",
+  "year": 2020,
+  "doi": "10.1016/j.cej.2020.126811",
+  "url": "https://doi.org/10.1016/j.cej.2020.126811",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrochemical Flow Reactor",
+   "Flow Electrochemistry",
+   "TEMPO"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "Eindhoven University of Technology",
+   "Universidade Federal de Santa Catarina"
+  ],
+  "added": "2026-07-30"
+ }
+]

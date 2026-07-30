@@ -1,0 +1,166 @@
+[
+ {
+  "id": "46ab5d39bd1bc889",
+  "title": "Deep Electroreductive Chemistry: Harnessing Carbon- and Silicon-Based Reactive Intermediates in Organic Synthesis",
+  "authors": [
+   "Wen Zhang",
+   "Weiyang Guan",
+   "Jesus I. Martinez Alvarado",
+   "Luiz F. T. Novaes",
+   "Song Lin"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2023-05-31",
+  "year": 2023,
+  "doi": "10.1021/acscatal.3c01174",
+  "url": "https://doi.org/10.1021/acscatal.3c01174",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Electrosynthesis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Cornell University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d794361dba7c2b38",
+  "title": "Anodic Cyclizations and Umpolung Reactions Involving Imines",
+  "authors": [
+   "Zach Medcalf",
+   "Essence G. Redd",
+   "J. M. Oh",
+   "Chang Ji",
+   "Kevin D. Moeller"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2023-05-30",
+  "year": 2023,
+  "doi": "10.1021/acs.orglett.3c01399",
+  "url": "https://doi.org/10.1021/acs.orglett.3c01399",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Cyclization"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Washington University in St. Louis",
+   "Texas State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "610748b769d10179",
+  "title": "Recent advances in electrooxidative radical/radical cross-coupling",
+  "authors": [
+   "Pingsen Shi",
+   "Hong Yi",
+   "Aiwen Lei"
+  ],
+  "journal": "Chinese Science Bulletin (Chinese Version)",
+  "publisher": "Science China Press",
+  "published": "2023-05-24",
+  "year": 2023,
+  "doi": "10.1360/tb-2023-0205",
+  "url": "https://doi.org/10.1360/tb-2023-0205",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cross-Coupling & C-C Formation",
+   "Decarboxylative & Radical Reactions",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Chemoselectivity",
+   "Cross-Coupling",
+   "Electrooxidative",
+   "Electrosynthesis",
+   "Heterocycles",
+   "Organic Electrosynthesis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b87055010aaf2ea1",
+  "title": "Ni-Catalyzed Electro-Reductive Cross-Electrophile Couplings of Alkyl Amine-Derived Radical Precursors with Aryl Iodides",
+  "authors": [
+   "Lars J. Wesenberg",
+   "Alessandra Sivo",
+   "Gianvito Vilé",
+   "Timothy Noël"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2023-05-23",
+  "year": 2023,
+  "doi": "10.1021/acs.joc.3c00859",
+  "url": "https://doi.org/10.1021/acs.joc.3c00859",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cross-Coupling & C-C Formation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electroreductive",
+   "Ni Catalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of Amsterdam",
+   "Politecnico di Milano"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dff6b41286365748",
+  "title": "Direct Anodic Conversion of 4-Hydroxybenzaldehydes into Benzoquinones",
+  "authors": [
+   "Fiona Sprang",
+   "Jana Klein",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2023-05-09",
+  "year": 2023,
+  "doi": "10.1021/acssuschemeng.3c00257",
+  "url": "https://doi.org/10.1021/acssuschemeng.3c00257",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrosynthesis",
+   "Green Chemistry",
+   "Reagent-Free",
+   "Redox Mediator"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "Center for Systems Biology Dresden"
+  ],
+  "added": "2026-07-30"
+ }
+]

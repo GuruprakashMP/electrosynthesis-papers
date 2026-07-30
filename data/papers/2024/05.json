@@ -1,0 +1,113 @@
+[
+ {
+  "id": "e0ec2c23b92e541b",
+  "title": "Nickel-Catalyzed α-Arylation of α-Cyanoacetates Enabled by Electrochemistry",
+  "authors": [
+   "Zimeng Li",
+   "Zhang-Jian Li",
+   "Anat Milo",
+   "Ping Fang",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "Dian hua xue/Dian huaxue",
+  "publisher": "",
+  "published": "2024-05-24",
+  "year": 2024,
+  "doi": "10.61558/2993-074x.3435",
+  "url": "https://doi.org/10.61558/2993-074x.3435",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Cross-Coupling & C-C Formation",
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "DFT",
+   "Electrolysis",
+   "Ni Catalysis",
+   "Paired Electrolysis",
+   "Radical Chemistry",
+   "Reduction Potential"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Shanghai Institute of Organic Chemistry",
+   "University of Chinese Academy of Sciences",
+   "Ben-Gurion University of the Negev"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1187e28c7fde191e",
+  "title": "Choice of the Right Supporting Electrolyte in Electrochemical Reductions: A Principal Component Analysis",
+  "authors": [
+   "Florian Mast",
+   "Maximilian M. Hielscher",
+   "Tom Wirtanen",
+   "Max Erichsen",
+   "Jürgen Gauß",
+   "Gregor Diezemann",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2024-05-24",
+  "year": 2024,
+  "doi": "10.1021/jacs.4c00910",
+  "url": "https://doi.org/10.1021/jacs.4c00910",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "VTT Technical Research Centre of Finland"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "eede5ba89082c1b0",
+  "title": "Cobaltaelectro‐Catalyzed C–H Activation for Central and Axial Double Enantio‐Induction",
+  "authors": [
+   "Tristan von Münchow",
+   "Yi-Ru Liu",
+   "Rahul Parmar",
+   "Sven Erik Peters",
+   "Sven Trienes",
+   "Lutz Ackermann"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2024-05-17",
+  "year": 2024,
+  "doi": "10.1002/anie.202405423",
+  "url": "https://doi.org/10.1002/anie.202405423",
+  "source": "openalex",
+  "categories": [
+   "Asymmetric Electrosynthesis",
+   "C-H Functionalization",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Alkenes",
+   "C-H Activation",
+   "Co Catalysis",
+   "Diastereoselectivity",
+   "Enantioselective Electrosynthesis",
+   "Enantioselectivity"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ }
+]

@@ -1,0 +1,126 @@
+[
+ {
+  "id": "3513cacd7e7b5da2",
+  "title": "Nickel/biimidazole-catalyzed electrochemical enantioselective reductive cross-coupling of aryl aziridines with aryl iodides",
+  "authors": [
+   "Yun-Zhao Wang",
+   "Zhenhua Wang",
+   "Inbal L. Eshel",
+   "Bing Sun",
+   "Dong Liu",
+   "Yu-Cheng Gu",
+   "Anat Milo",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2023-04-22",
+  "year": 2023,
+  "doi": "10.1038/s41467-023-37965-0",
+  "url": "https://doi.org/10.1038/s41467-023-37965-0",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Asymmetric Electrosynthesis",
+   "Cross-Coupling & C-C Formation",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Cyclic Voltammetry",
+   "Enantioselectivity",
+   "FG Tolerance",
+   "Radical Chemistry",
+   "Reduction Potential",
+   "Undivided Cell"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Shanghai Institute of Organic Chemistry",
+   "University of Chinese Academy of Sciences",
+   "Ben-Gurion University of the Negev",
+   "Syngenta (United Kingdom)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "592964059cd4e308",
+  "title": "C(sp 3 )–H Aerobic Alkenylation of Tetrahydroisoquinolines via Organic Electrosynthesis",
+  "authors": [
+   "Zeng He",
+   "Huilin Liu",
+   "Zhenhua Wang",
+   "Ke-Jing Jiao",
+   "Zimeng Li",
+   "Zhang-Jian Li",
+   "Ping Fang",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2023-04-14",
+  "year": 2023,
+  "doi": "10.1021/acs.joc.3c00223",
+  "url": "https://doi.org/10.1021/acs.joc.3c00223",
+  "source": "openalex",
+  "categories": [
+   "Asymmetric Electrosynthesis",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Enantioselectivity",
+   "Organic Electrosynthesis",
+   "TEMPO"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "Shanghai Institute of Organic Chemistry",
+   "University of Chinese Academy of Sciences",
+   "Sichuan Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a67d2473712cfe7a",
+  "title": "Overcoming the limitations of Kolbe coupling with waveform-controlled electrosynthesis",
+  "authors": [
+   "Yu̅ta Hioki",
+   "Matteo Costantini",
+   "Jeremy Griffin",
+   "Kaid C. Harper",
+   "Melania Prado Merini",
+   "Benedikt Nissl",
+   "Yu Kawamata",
+   "Phil S. Baran"
+  ],
+  "journal": "Science",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2023-04-06",
+  "year": 2023,
+  "doi": "10.1126/science.adf4762",
+  "url": "https://doi.org/10.1126/science.adf4762",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "C-C Bond Formation",
+   "Chemoselectivity",
+   "Decarboxylative",
+   "Electrochemical Decarboxylation",
+   "Electrosynthesis",
+   "Kolbe Electrolysis"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "Scripps Institution of Oceanography",
+   "Mitsubishi Chemical (Japan)",
+   "Scripps (United States)",
+   "AbbVie (United States)"
+  ],
+  "added": "2026-07-30"
+ }
+]

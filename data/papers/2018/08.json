@@ -1,0 +1,214 @@
+[
+ {
+  "id": "bc854c7249f29526",
+  "title": "Copper-Catalyzed Electrochemical C–H Amination of Arenes with Secondary Amines",
+  "authors": [
+   "Qi-Liang Yang",
+   "Xiangyang Wang",
+   "Jiayan Lu",
+   "Li-Pu Zhang",
+   "Ping Fang",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2018-08-30",
+  "year": 2018,
+  "doi": "10.1021/jacs.8b07380",
+  "url": "https://doi.org/10.1021/jacs.8b07380",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation",
+   "Mediated & Indirect Electrolysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Arenes",
+   "C-H Functionalization",
+   "Cu Catalysis",
+   "Divided Cell",
+   "Electrochemical C-H",
+   "Radical Chemistry",
+   "Redox Mediator"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "East China University of Science and Technology",
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "99c043d1fc1e62d2",
+  "title": "Metal‐ and Oxidant‐Free Alkenyl C−H/Aromatic C−H Cross‐Coupling Using Electrochemically Generated Iodosulfonium Ions",
+  "authors": [
+   "Ryutaro Hayashi",
+   "Akihiro Shimizu",
+   "J. Davies",
+   "Yu Ishizaki",
+   "Chris Willis",
+   "Jun-ichi Yoshida"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2018-08-29",
+  "year": 2018,
+  "doi": "10.1002/anie.201807592",
+  "url": "https://doi.org/10.1002/anie.201807592",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Cross-Coupling & C-C Formation",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrogenerated Species",
+   "Oxidant-Free"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Kyoto University",
+   "University of Bristol",
+   "National Institute of Technology, Suzuka College"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3116a6d7c29ca1c8",
+  "title": "Dehydrogenative reagent-free annulation of alkenes with diols for the synthesis of saturated O-heterocycles",
+  "authors": [
+   "Chen-Yan Cai",
+   "Hai-Chao Xu"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2018-08-28",
+  "year": 2018,
+  "doi": "10.1038/s41467-018-06020-8",
+  "url": "https://doi.org/10.1038/s41467-018-06020-8",
+  "source": "openalex",
+  "categories": [
+   "Green & Sustainable Electrosynthesis",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Electrolytic",
+   "Electrosynthesis",
+   "Heterocycles",
+   "Reagent-Free",
+   "Substrate Scope"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Xiamen University",
+   "Collaborative Innovation Center of Chemistry for Energy Materials"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e30152e622660596",
+  "title": "Electrooxidative Allene Annulations by Mild Cobalt-Catalyzed C–H Activation",
+  "authors": [
+   "Tjark H. Meyer",
+   "João C. A. Oliveira",
+   "Samaresh Sau",
+   "Nate W. J. Ang",
+   "Lutz Ackermann"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2018-08-15",
+  "year": 2018,
+  "doi": "10.1021/acscatal.8b03066",
+  "url": "https://doi.org/10.1021/acscatal.8b03066",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "C-H Functionalization",
+   "Cross-Coupling & C-C Formation",
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Chemoselectivity",
+   "Co Catalysis",
+   "Electrochemical C-H",
+   "Electrooxidative",
+   "Gram-Scale",
+   "Regioselectivity"
+  ],
+  "relevance_score": 95,
+  "affiliations": [
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f3f9334b66e22115",
+  "title": "Regioselective Metal‐ and Reagent‐Free Arylation of Benzothiophenes by Dehydrogenative Electrosynthesis",
+  "authors": [
+   "Sebastian Lips",
+   "Dieter Schollmeyer",
+   "Robert Franke",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2018-08-13",
+  "year": 2018,
+  "doi": "10.1002/anie.201808555",
+  "url": "https://doi.org/10.1002/anie.201808555",
+  "source": "openalex",
+  "categories": [
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Reagent-Free",
+   "Regioselectivity"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "Evonik (Germany)",
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7f7c3c1e8670002b",
+  "title": "Electrochemical oxidative oxysulfenylation and aminosulfenylation of alkenes with hydrogen evolution",
+  "authors": [
+   "Yong Yuan",
+   "Yixuan Chen",
+   "Shan Tang",
+   "Zhiliang Huang",
+   "Aiwen Lei"
+  ],
+  "journal": "Science Advances",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2018-08-01",
+  "year": 2018,
+  "doi": "10.1126/sciadv.aat5312",
+  "url": "https://doi.org/10.1126/sciadv.aat5312",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Alkenes",
+   "Electrooxidative"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Wuhan University",
+   "Chinese Academy of Sciences",
+   "Lanzhou Institute of Chemical Physics"
+  ],
+  "added": "2026-07-30"
+ }
+]

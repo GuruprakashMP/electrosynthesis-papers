@@ -1,0 +1,213 @@
+[
+ {
+  "id": "bb07bdcde7b17669",
+  "title": "Boosting the valorization of biomass and green electrons to chemical building blocks: A study on the kinetics and mass transfer during the electrochemical conversion of HMF to FDCA in a microreactor",
+  "authors": [
+   "Amin Delparish",
+   "Alperen Uslu",
+   "Yiran Cao",
+   "Thijs de Groot",
+   "J. van der Schaaf",
+   "Timothy Noël",
+   "M.F. Neira d’Angelo"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2022-02-23",
+  "year": 2022,
+  "doi": "10.1016/j.cej.2022.135393",
+  "url": "https://doi.org/10.1016/j.cej.2022.135393",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Counter Electrode",
+   "Electrochemical Microreactor",
+   "Microreactor"
+  ],
+  "relevance_score": 50,
+  "affiliations": [
+   "Eindhoven University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "96be6fead3ee3fdf",
+  "title": "Molecular Catalysts for the Reductive Homocoupling of CO 2 towards C 2+ Compounds",
+  "authors": [
+   "Hong-Qing Liang",
+   "Torsten Beweries",
+   "Robert Francke",
+   "Matthias Beller"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-02-21",
+  "year": 2022,
+  "doi": "10.1002/anie.202200723",
+  "url": "https://doi.org/10.1002/anie.202200723",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Leibniz Institute for Catalysis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cca0f4b78d22d309",
+  "title": "Rhodaelectro‐Catalyzed peri ‐Selective Direct Alkenylations with Weak O ‐Coordination Enabled by the Hydrogen Evolution Reaction (HER)",
+  "authors": [
+   "Bartłomiej Sadowski",
+   "Binbin Yuan",
+   "Zhipeng Lin",
+   "Lutz Ackermann"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-02-18",
+  "year": 2022,
+  "doi": "10.1002/anie.202117188",
+  "url": "https://doi.org/10.1002/anie.202117188",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Constant Current",
+   "Electrolysis",
+   "Electrooxidative",
+   "FG Tolerance",
+   "Heterocycles"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "39ce007b984009e3",
+  "title": "Distal Ruthenaelectro‐Catalyzed meta ‐C−H Bromination with Aqueous HBr",
+  "authors": [
+   "Yulei Wang",
+   "Hendrik Simon",
+   "Xinran Chen",
+   "Zhipeng Lin",
+   "Shan Chen",
+   "Lutz Ackermann"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-02-16",
+  "year": 2022,
+  "doi": "10.1002/anie.202201595",
+  "url": "https://doi.org/10.1002/anie.202201595",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Undivided Cell"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Zhejiang University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dd8db274dfe6a1e5",
+  "title": "Scalable Rhodaelectro-Catalyzed Expedient Access to Seven-Membered Azepino[3,2,1- hi ]indoles via [5 + 2] C–H/N–H Annulation",
+  "authors": [
+   "Yumeng Yuan",
+   "Jinlan Zhu",
+   "Zhongyuan Yang",
+   "Shao-Fei Ni",
+   "Qiufeng Huang",
+   "Lutz Ackermann"
+  ],
+  "journal": "CCS Chemistry",
+  "publisher": "Chinese Chemical Society",
+  "published": "2022-02-10",
+  "year": 2022,
+  "doi": "10.31635/ccschem.022.202101654",
+  "url": "https://doi.org/10.31635/ccschem.022.202101654",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "C-H Functionalization",
+   "Cell Design & Electrodes",
+   "Heterocycle Synthesis",
+   "Cross-Coupling & C-C Formation",
+   "Flow Electrosynthesis & Scale-up",
+   "Green & Sustainable Electrosynthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "C-H Activation",
+   "C-H Functionalization",
+   "Cross-Coupling",
+   "Cu Catalysis",
+   "Cyclic Voltammetry",
+   "Electrochemical Annulation",
+   "Electrochemical C-H",
+   "Electrochemical Synthesis",
+   "Electrooxidative",
+   "Gram-Scale",
+   "Undivided Cell"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "Fujian Normal University",
+   "Shantou University",
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3a7531f986c2453a",
+  "title": "RETRACTED: Chiral Organocopper Electrocatalyst-Enabled Oxidative Kinetic Resolution of Primary Alcohols",
+  "authors": [
+   "Pei-Sen Gao",
+   "Huilin Liu",
+   "Youliang He",
+   "Ke-Jin Jiao",
+   "Cong Ma",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2022-02-10",
+  "year": 2022,
+  "doi": "10.26434/chemrxiv-2022-dgtcq",
+  "url": "https://doi.org/10.26434/chemrxiv-2022-dgtcq",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Asymmetric Electrosynthesis",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrooxidative",
+   "Enantioselectivity",
+   "TEMPO"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Shanghai Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ }
+]

@@ -1,0 +1,239 @@
+[
+ {
+  "id": "54e5b24d1c00fe60",
+  "title": "Electrochemical C-H Amination from a Primary Amine via a Cobalt Nitrene Intermediate",
+  "authors": [
+   "Demi D. Snabilié",
+   "Emil Hodžić",
+   "Pim Broersen",
+   "Julian Buchholz",
+   "Rens Ham",
+   "Siegfried R. Waldvogel",
+   "Amanda C. Garcia",
+   "Joost N. H. Reek",
+   "Bas de Bruin"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-01-23",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.10001532/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.10001532/v1",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization"
+  ],
+  "tags": [
+   "Electrochemical C-H",
+   "Electrolysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Netherlands eScience Center",
+   "Max Planck Institute for Chemical Energy Conversion"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4ccc3407bbf6dedc",
+  "title": "Tuning Proton-Electron Synergy for Electrooxidative Alkyne Annulation: Mechanistic Insights and Synthetic Application",
+  "authors": [
+   "Sven Erik Peters",
+   "Yang Xu",
+   "Felix Gerlich",
+   "Lutz Ackermann"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2026-01-22",
+  "year": 2026,
+  "doi": "10.1055/a-2779-2213",
+  "url": "https://doi.org/10.1055/a-2779-2213",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Alkynes",
+   "Electrooxidative",
+   "Green Chemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a2eb9c5d0a1a00e5",
+  "title": "Upcycling of persistent pollutants: Toward an electrochemically driven circular halogen economy",
+  "authors": [
+   "Sebastian B. Beil",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Chem",
+  "publisher": "Elsevier BV",
+  "published": "2026-01-20",
+  "year": 2026,
+  "doi": "10.1016/j.chempr.2025.102831",
+  "url": "https://doi.org/10.1016/j.chempr.2025.102831",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemically Driven"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Max Planck Institute for Chemical Energy Conversion",
+   "Karlsruhe Institute of Technology",
+   "European Centre for Minority Issues"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b87709470d579bc1",
+  "title": "Parallel paired electrolysis of industrial exhaust SO2 and diols for value-added sulfite esters synthesis",
+  "authors": [
+   "Jingcheng Hu",
+   "J. C. Hu",
+   "Yatao Wang",
+   "Chen Zeng",
+   "Heng Zhang",
+   "Zhenwei Wei",
+   "Wu Li",
+   "Hong Yi",
+   "Aiwen Lei"
+  ],
+  "journal": "Nature Synthesis",
+  "publisher": "Nature Portfolio",
+  "published": "2026-01-16",
+  "year": 2026,
+  "doi": "10.1038/s44160-025-00968-4",
+  "url": "https://doi.org/10.1038/s44160-025-00968-4",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Wuhan University",
+   "Molecular Sciences Institute",
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d109255b23c22f1d",
+  "title": "Bayesian Optimized Electrosynthesis of Azobenzenes in a Self- Optimizing Flow Set-up: from DoE-guidance to Gram-Scale Preparation",
+  "authors": [
+   "Alexander H. J. Lohmann",
+   "Taline Kerackian",
+   "Andreas Burger",
+   "Jens Pickenbrock",
+   "Darryl F. Nater",
+   "Shi Xuan Leong",
+   "Alán Aspuru-Guzik",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-01-12",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv-2026-8rd5c",
+  "url": "https://doi.org/10.26434/chemrxiv-2026-8rd5c",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Gram-Scale"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Max Planck Institute for Chemical Energy Conversion",
+   "University of Toronto",
+   "Vector Institute",
+   "Nanyang Technological University",
+   "Karlsruhe Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8b471035d04ab2d7",
+  "title": "Thiol-Regulated Rhodium Nanocatalyst for Electrochemical Reductive Perdeuteration of Alkenes",
+  "authors": [
+   "Faxiang Bu",
+   "Yuqi Deng",
+   "Pingsen Shi",
+   "Renjie Huang",
+   "J A Tan",
+   "Huize Li",
+   "Yi Chen",
+   "Aiwen Lei",
+   "Wu Li"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2026-01-02",
+  "year": 2026,
+  "doi": "10.1021/jacs.5c19410",
+  "url": "https://doi.org/10.1021/jacs.5c19410",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Alkenes",
+   "Electroreductive"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Wuhan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "22e40ed6e9669212",
+  "title": "From Polyhalo-organic and Persistent Waste to Acetals: An Electrochemical Transfer Approach",
+  "authors": [
+   "Dominik Weis",
+   "Simon Horsinka",
+   "Ritwik Bhattacharya",
+   "Till Langner",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "ACS electrochemistry.",
+  "publisher": "American Chemical Society",
+  "published": "2026-01-02",
+  "year": 2026,
+  "doi": "10.1021/acselectrochem.5c00498",
+  "url": "https://doi.org/10.1021/acselectrochem.5c00498",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Scale-up"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "Gerresheimer (Germany)",
+   "Max Planck Institute for Chemical Energy Conversion",
+   "Merck KGaA, Darmstadt (Germany)",
+   "Applied Materials (United Kingdom)"
+  ],
+  "added": "2026-07-30"
+ }
+]

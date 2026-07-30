@@ -1,0 +1,186 @@
+[
+ {
+  "id": "b905444e56620096",
+  "title": "Linear Paired Electrolysis Enables Redox-Neutral (3 + 2) Annulation of Benzofuran with Vinyldiazo Compounds",
+  "authors": [
+   "Lei Nie",
+   "Jia-Yi Yang",
+   "Zhao Liu",
+   "Shibo Zhou",
+   "Suming Chen",
+   "Xiaotian Qi",
+   "Aiwen Lei",
+   "Hong Yi"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2024-10-31",
+  "year": 2024,
+  "doi": "10.1021/jacs.4c12925",
+  "url": "https://doi.org/10.1021/jacs.4c12925",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Paired Electrolysis",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 99,
+  "affiliations": [
+   "Wuhan University",
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d421d29889426ead",
+  "title": "eCyanation Using 5-Aminotetrazole As a Safer Electrophilic and Nucleophilic Cyanide Source",
+  "authors": [
+   "Valerio Morlacci",
+   "Marco Milia",
+   "Jérémy Saiter",
+   "Irene Preet Bhela",
+   "Matthew C. Leech",
+   "Kevin Lam"
+  ],
+  "journal": "JACS Au",
+  "publisher": "American Chemical Society",
+  "published": "2024-10-30",
+  "year": 2024,
+  "doi": "10.1021/jacsau.4c00768",
+  "url": "https://doi.org/10.1021/jacsau.4c00768",
+  "source": "openalex",
+  "categories": [
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Heterocycles"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Greenwich"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ca734a2f4ffa327a",
+  "title": "Anodic Desulfurization of Heterocyclic Thiones – A Synthesis to Imidazoles and Analogues",
+  "authors": [
+   "Davide Cesca",
+   "Philip Arnold",
+   "Dainis Kaldre",
+   "Fabio Falivene",
+   "Filippo Sladojevich",
+   "Kurt Puentener",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2024-10-28",
+  "year": 2024,
+  "doi": "10.1021/acs.orglett.4c03413",
+  "url": "https://doi.org/10.1021/acs.orglett.4c03413",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Constant Current",
+   "Electrolysis",
+   "Heterocycles",
+   "Undivided Cell"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "Roche (Switzerland)",
+   "Karlsruhe Institute of Technology",
+   "Max Planck Institute for Chemical Energy Conversion"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2ccba26dfad2b31d",
+  "title": "Pyrolytic Carbon: An Inexpensive, Robust, and Versatile Electrode for Synthetic Organic Electrochemistry",
+  "authors": [
+   "Tamara El-Hayek Ewing",
+   "Nils Kurig",
+   "Yoshio Robert Yamaki",
+   "Jiawei Sun",
+   "Timothy Knowles",
+   "Asha Gollapudi",
+   "Yu Kawamata",
+   "Phil S. Baran"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2024-10-25",
+  "year": 2024,
+  "doi": "10.1002/anie.202417122",
+  "url": "https://doi.org/10.1002/anie.202417122",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Scripps Institution of Oceanography",
+   "Torrey Pines Institute For Molecular Studies",
+   "Scripps (United States)",
+   "Sharp Memorial Hospital",
+   "Scripps Research Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ba3f3bfb2fcb9aa4",
+  "title": "Electrochemical Synthesis of Quinones and Hydroquinones",
+  "authors": [
+   "Fiona Sprang",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "ACS electrochemistry.",
+  "publisher": "American Chemical Society",
+  "published": "2024-10-03",
+  "year": 2024,
+  "doi": "10.1021/acselectrochem.4c00049",
+  "url": "https://doi.org/10.1021/acselectrochem.4c00049",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Flow Electrosynthesis & Scale-up",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrolysis",
+   "Oxidation Potential",
+   "Scale-up",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "Karlsruhe Institute of Technology",
+   "Max Planck Institute for Chemical Energy Conversion"
+  ],
+  "added": "2026-07-30"
+ }
+]

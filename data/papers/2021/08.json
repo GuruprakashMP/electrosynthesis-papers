@@ -1,0 +1,113 @@
+[
+ {
+  "id": "10137c3488762f4f",
+  "title": "Dehydrogenative Azolation of Arenes in a Microflow Electrochemical Reactor",
+  "authors": [
+   "Laura Buglioni",
+   "Marko Beslać",
+   "Timothy Noël"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2021-08-30",
+  "year": 2021,
+  "doi": "10.1021/acs.joc.1c01409",
+  "url": "https://doi.org/10.1021/acs.joc.1c01409",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "C-H Functionalization"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Arenes",
+   "C-H Functionalization",
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Eindhoven University of Technology",
+   "University of Amsterdam"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "eadb20e3d71d485e",
+  "title": "On the performance of liquid-liquid Taylor flow electrochemistry in a microreactor – A CFD study",
+  "authors": [
+   "Yiran Cao",
+   "Natan Padoin",
+   "Cíntia Soares",
+   "Timothy Noël"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2021-08-10",
+  "year": 2021,
+  "doi": "10.1016/j.cej.2021.131443",
+  "url": "https://doi.org/10.1016/j.cej.2021.131443",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Electrochemical Flow Reactor",
+   "Electrochemical Microreactor",
+   "Electroorganic",
+   "Flow Electrochemistry",
+   "Microreactor"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Eindhoven University of Technology",
+   "Universidade Federal de Santa Catarina",
+   "University of Amsterdam"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2f0e4f67d366da6b",
+  "title": "Electrochemical Palladium-Catalyzed Oxidative Sonogashira Carbonylation of Arylhydrazines and Alkynes to Ynones",
+  "authors": [
+   "Yong Wu",
+   "Li Zeng",
+   "Haoran Li",
+   "Yue Cao",
+   "Jingcheng Hu",
+   "Minghao Xu",
+   "Renyi Shi",
+   "Hong Yi",
+   "Aiwen Lei"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2021-08-04",
+  "year": 2021,
+  "doi": "10.1021/jacs.1c06036",
+  "url": "https://doi.org/10.1021/jacs.1c06036",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation",
+   "Flow Electrosynthesis & Scale-up",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Alkynes",
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Pd Catalysis",
+   "Scale-up",
+   "Undivided Cell"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "Wuhan University",
+   "Xi'an Jiaotong University",
+   "Chinese Academy of Sciences",
+   "Lanzhou Institute of Chemical Physics"
+  ],
+  "added": "2026-07-30"
+ }
+]

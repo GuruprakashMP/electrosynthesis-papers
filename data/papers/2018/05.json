@@ -1,0 +1,200 @@
+[
+ {
+  "id": "34c99772f2eb64ad",
+  "title": "Electroremovable Traceless Hydrazides for Cobalt-Catalyzed Electro-Oxidative C–H/N–H Activation with Internal Alkynes",
+  "authors": [
+   "Ruhuai Mei",
+   "Nicolas Sauermann",
+   "João C. A. Oliveira",
+   "Lutz Ackermann"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2018-05-29",
+  "year": 2018,
+  "doi": "10.1021/jacs.8b03521",
+  "url": "https://doi.org/10.1021/jacs.8b03521",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "C-H Functionalization",
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Alkynes",
+   "Co Catalysis",
+   "DFT",
+   "Electrochemical C-H",
+   "Electrooxidative",
+   "Electroreductive",
+   "Regioselectivity",
+   "Undivided Cell"
+  ],
+  "relevance_score": 99,
+  "affiliations": [
+   "University of Göttingen",
+   "University of Pavia"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "676bbb246f26319e",
+  "title": "Stereoselective nucleophilic addition reactions to cyclic N -acyliminium ions using the indirect cation pool method: Elucidation of stereoselectivity by spectroscopic conformational analysis and DFT calculations",
+  "authors": [
+   "Koichi Mitsudo",
+   "Junya Yamamoto",
+   "Tomoya Akagi",
+   "Atsuhiro Yamashita",
+   "M. Haisa",
+   "Kazuki Yoshioka",
+   "Hiroki Mandai",
+   "Koji Ueoka",
+   "Christian Hempel",
+   "Jun-ichi Yoshida",
+   "Seiji Suga"
+  ],
+  "journal": "Beilstein Journal of Organic Chemistry",
+  "publisher": "Beilstein Institute for the Advancement of Chemical Sciences",
+  "published": "2018-05-24",
+  "year": 2018,
+  "doi": "10.3762/bjoc.14.100",
+  "url": "https://doi.org/10.3762/bjoc.14.100",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Cation Pool",
+   "DFT",
+   "Diastereoselectivity"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Okayama University",
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "496860dab12636e6",
+  "title": "A Regio‐ and Diastereoselective Anodic Aryl–Aryl Coupling in the Biomimetic Total Synthesis of (−)‐Thebaine",
+  "authors": [
+   "Alexander Lipp",
+   "Dorota Ferenc",
+   "Christoph Gütz",
+   "Mario Geffe",
+   "Nina Vierengel",
+   "Dieter Schollmeyer",
+   "Hans J. Schäfer",
+   "Siegfried R. Waldvogel",
+   "Till Opatz"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2018-05-22",
+  "year": 2018,
+  "doi": "10.1002/anie.201803887",
+  "url": "https://doi.org/10.1002/anie.201803887",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Natural Product & Total Synthesis",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Anodic Coupling",
+   "Diastereoselectivity",
+   "Electrochemical Synthesis",
+   "Regioselectivity",
+   "Total Synthesis"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a07eea3946135002",
+  "title": "Electro‐Oxidative S−H/S−H Cross‐Coupling with Hydrogen Evolution: Facile Access to Unsymmetrical Disulfides",
+  "authors": [
+   "Peng-Fei Huang",
+   "Pan Wang",
+   "Shan Tang",
+   "Zhuang-Jiong Fu",
+   "Aiwen Lei"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2018-05-09",
+  "year": 2018,
+  "doi": "10.1002/anie.201803464",
+  "url": "https://doi.org/10.1002/anie.201803464",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation",
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Gram-Scale",
+   "Undivided Cell"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Wuhan University",
+   "Molecular Sciences Institute",
+   "Jiangxi Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4c40410c667e243e",
+  "title": "Cobalt-Catalyzed Electrochemical Oxidative C–H/N–H Carbonylation with Hydrogen Evolution",
+  "authors": [
+   "Li Zeng",
+   "Haoran Li",
+   "Shan Tang",
+   "Xinlong Gao",
+   "Yi Deng",
+   "Guoting Zhang",
+   "Chih-Wen Pao",
+   "Jeng-Lung Chen",
+   "Jyh-Fu Lee",
+   "Aiwen Lei"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2018-05-04",
+  "year": 2018,
+  "doi": "10.1021/acscatal.8b00683",
+  "url": "https://doi.org/10.1021/acscatal.8b00683",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cross-Coupling & C-C Formation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Co Catalysis",
+   "Electrooxidative",
+   "FG Tolerance",
+   "Mechanism"
+  ],
+  "relevance_score": 89,
+  "affiliations": [
+   "Wuhan University",
+   "National Synchrotron Radiation Research Center",
+   "Chinese Academy of Sciences",
+   "Lanzhou Institute of Chemical Physics"
+  ],
+  "added": "2026-07-30"
+ }
+]

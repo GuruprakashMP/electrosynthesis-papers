@@ -1,0 +1,89 @@
+[
+ {
+  "id": "eb28e3d719293292",
+  "title": "Modern Strategies in Electroorganic Synthesis",
+  "authors": [
+   "Jun-ichi Yoshida",
+   "K. Kataoka",
+   "Roberto Horcajada",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "Chemical Reviews",
+  "publisher": "American Chemical Society",
+  "published": "2008-06-20",
+  "year": 2008,
+  "doi": "10.1021/cr0680843",
+  "url": "https://doi.org/10.1021/cr0680843",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electroorganic"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "865e23a885b9ea3d",
+  "title": "Regioselective Electrochemical Monofluorination of α-Sulfonyl Sulfides",
+  "authors": [
+   "Toshio Fuchigami",
+   "Hirokatsu Nagura"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2008-06-11",
+  "year": 2008,
+  "doi": "10.1055/s-2008-1078498",
+  "url": "https://doi.org/10.1055/s-2008-1078498",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Regioselectivity"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b453d9c36333a0e8",
+  "title": "Electrochemically Driven Release of Picomole Amounts of Calcium Ions with Temporal and Spatial Resolution",
+  "authors": [
+   "Christian Amatore",
+   "Damiano Genovese",
+   "Emmanuel Maisonhaute",
+   "Noureddine Raouafi",
+   "Bernd Schöllhorn"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2008-06-02",
+  "year": 2008,
+  "doi": "10.1002/anie.200705274",
+  "url": "https://doi.org/10.1002/anie.200705274",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrochemically Driven",
+   "TEMPO"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "École Normale Supérieure - PSL",
+   "Sorbonne Université",
+   "Processus d'Activation Sélective par Transfert d'Énergie Uni-électronique ou Radiatif"
+  ],
+  "added": "2026-07-30"
+ }
+]

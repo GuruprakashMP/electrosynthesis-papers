@@ -1,0 +1,180 @@
+[
+ {
+  "id": "617d847463c02d69",
+  "title": "Nickel‐Catalyzed Electrooxidative C−H Amination: Support for Nickel(IV)",
+  "authors": [
+   "Shou-Kun Zhang",
+   "Ramesh C. Samanta",
+   "Nicolas Sauermann",
+   "Lutz Ackermann"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2018-10-31",
+  "year": 2018,
+  "doi": "10.1002/chem.201805441",
+  "url": "https://doi.org/10.1002/chem.201805441",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "C-H Functionalization",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "C-H Activation",
+   "Electrochemical C-H",
+   "Electrooxidative",
+   "Ni Catalysis"
+  ],
+  "relevance_score": 80,
+  "affiliations": [
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "aea50e94ec4a030f",
+  "title": "Electrochemical Oxidative Alkoxysulfonylation of Alkenes Using Sulfonyl Hydrazines and Alcohols with Hydrogen Evolution",
+  "authors": [
+   "Yong Yuan",
+   "Yangmin Cao",
+   "Yueping Lin",
+   "Yongli Li",
+   "Zhiliang Huang",
+   "Aiwen Lei"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2018-10-24",
+  "year": 2018,
+  "doi": "10.1021/acscatal.8b03302",
+  "url": "https://doi.org/10.1021/acscatal.8b03302",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Alkenes",
+   "Electrooxidative"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Wuhan University",
+   "Jiangxi Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "735aed884cf1f96f",
+  "title": "Electrochemical Oxidative C—H Sulfenylation of Imidazopyridines with Hydrogen Evolution",
+  "authors": [
+   "Yong Yuan",
+   "Yangmin Cao",
+   "Jin Li Qiao",
+   "Yueping Lin",
+   "Xiaomei Jiang",
+   "Yaqing Weng",
+   "Shan Tang",
+   "Aiwen Lei"
+  ],
+  "journal": "Chinese Journal of Chemistry",
+  "publisher": "Wiley",
+  "published": "2018-10-24",
+  "year": 2018,
+  "doi": "10.1002/cjoc.201800405",
+  "url": "https://doi.org/10.1002/cjoc.201800405",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrolytic",
+   "Electrooxidative",
+   "Heterocycles"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Wuhan University",
+   "Molecular Sciences Institute",
+   "Jiangxi Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7d69f601cef25861",
+  "title": "Palladium-Catalyzed Electrochemical C–H Alkylation of Arenes",
+  "authors": [
+   "Qi-Liang Yang",
+   "Chuan-Zeng Li",
+   "Liangwei Zhang",
+   "Yuyan Li",
+   "Xiaofeng Tong",
+   "Xin-Yan Wu",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "Organometallics",
+  "publisher": "American Chemical Society",
+  "published": "2018-10-08",
+  "year": 2018,
+  "doi": "10.1021/acs.organomet.8b00550",
+  "url": "https://doi.org/10.1021/acs.organomet.8b00550",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization",
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Arenes",
+   "C-H Functionalization",
+   "Cathodic Reduction",
+   "Divided Cell",
+   "Electrochemical C-H",
+   "Electrolysis",
+   "Pd Catalysis"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "East China University of Science and Technology",
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Organic Chemistry",
+   "China Pharmaceutical University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "59dad5312a87e59a",
+  "title": "Electrochemical Synthesis of 5‐Aryl‐phenanthridin‐6‐one by Dehydrogenative N,C Bond Formation",
+  "authors": [
+   "Anton Kehl",
+   "Valentina M. Breising",
+   "Dieter Schollmeyer",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2018-10-08",
+  "year": 2018,
+  "doi": "10.1002/chem.201804638",
+  "url": "https://doi.org/10.1002/chem.201804638",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Divided Cell",
+   "Electrochemical Synthesis",
+   "Radical Chemistry",
+   "Supporting Electrolyte",
+   "Undivided Cell"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz"
+  ],
+  "added": "2026-07-30"
+ }
+]

@@ -1,0 +1,203 @@
+[
+ {
+  "id": "ca9cb8883d2ec1b2",
+  "title": "Dehydrogenative Electrochemical Synthesis of N ‐Aryl‐3,4‐Dihydroquinolin‐2‐ones by Iodine(III)‐Mediated Coupling Reaction",
+  "authors": [
+   "Jessica C. Bieniek",
+   "Boris Mashtakov",
+   "Dieter Schollmeyer",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2023-11-29",
+  "year": 2023,
+  "doi": "10.1002/chem.202303388",
+  "url": "https://doi.org/10.1002/chem.202303388",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Cell Design & Electrodes",
+   "Mediated & Indirect Electrolysis",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrogenerated Species",
+   "FG Tolerance",
+   "Heterocycles",
+   "Mechanism",
+   "Redox Mediator",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "Max Planck Institute for Chemical Energy Conversion"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "27115b742d2ac5a2",
+  "title": "Telescoped synthesis of vicinal diamines via ring-opening of electrochemically generated aziridines in flow",
+  "authors": [
+   "Marharyta V. Laktsevich-Iskryk",
+   "Anastasiya Krech",
+   "Mihhail Fokin",
+   "Mariliis Kimm",
+   "Tatsiana Jarg",
+   "Timothy Noël",
+   "Maksim Ošeka"
+  ],
+  "journal": "Journal of Flow Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2023-11-29",
+  "year": 2023,
+  "doi": "10.1007/s41981-023-00296-8",
+  "url": "https://doi.org/10.1007/s41981-023-00296-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrogenerated Species"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tallinn University of Technology",
+   "University of Amsterdam"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "86d0aa11c56d48ac",
+  "title": "Electroreductive Synthesis of Nickel(0) Complexes**",
+  "authors": [
+   "Camille Rubel",
+   "Yilin Cao",
+   "Tamara El-Hayek Ewing",
+   "Gabriele Laudadio",
+   "Gregory L. Beutner",
+   "Steven R. Wisniewski",
+   "Xiangyu Wu",
+   "Phil S. Baran",
+   "Julien C. Vantourout",
+   "Keary M. Engle"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2023-11-21",
+  "year": 2023,
+  "doi": "10.1002/anie.202311557",
+  "url": "https://doi.org/10.1002/anie.202311557",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electroreductive"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Université Claude Bernard Lyon 1",
+   "Scripps Research Institute",
+   "Centre National de la Recherche Scientifique",
+   "Institut de Chimie et Biochimie Moléculaires et Supramoléculaires",
+   "Bristol-Myers Squibb (United States)",
+   "Bristol-Myers Squibb (United Kingdom)",
+   "Cornell University",
+   "Syngenta (Switzerland)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9774147596aae68a",
+  "title": "Accelerated Electrophotocatalytic C(sp 3 )−H Heteroarylation Enabled by an Efficient Continuous‐Flow Reactor**",
+  "authors": [
+   "Dimitris I. Ioannou",
+   "Luca Capaldo",
+   "Jiri Sanramat",
+   "Joost N. H. Reek",
+   "Timothy Noël"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2023-11-17",
+  "year": 2023,
+  "doi": "10.1002/anie.202315881",
+  "url": "https://doi.org/10.1002/anie.202315881",
+  "source": "openalex",
+  "categories": [
+   "Electrophotochemistry"
+  ],
+  "tags": [
+   "Electrophotocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centrum Wiskunde & Informatica",
+   "Amsterdam University of Applied Sciences",
+   "University of Amsterdam",
+   "University of Parma",
+   "Institute for Molecular Science"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5ffe994d6e4bbcb1",
+  "title": "Microelectrode Arrays, Electrocatalysis, and the Need for Proper Characterization",
+  "authors": [
+   "Albert Huang",
+   "Ruby Krueger",
+   "Kevin D. Moeller"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2023-11-17",
+  "year": 2023,
+  "doi": "10.1002/celc.202300457",
+  "url": "https://doi.org/10.1002/celc.202300457",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Indirect Electrolysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Washington University in St. Louis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "497f3d5c8ec3bc27",
+  "title": "Rapid Alternating Polarity as a Unique Tool for Synthetic Electrochemistry",
+  "authors": [
+   "Yu Kawamata",
+   "Phil S. Baran"
+  ],
+  "journal": "Journal of Synthetic Organic Chemistry Japan",
+  "publisher": "Society of Synthetic Organic Chemistry, Japan",
+  "published": "2023-11-01",
+  "year": 2023,
+  "doi": "10.5059/yukigoseikyokaishi.81.1020",
+  "url": "https://doi.org/10.5059/yukigoseikyokaishi.81.1020",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Chemoselectivity",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Scripps Research Institute"
+  ],
+  "added": "2026-07-30"
+ }
+]

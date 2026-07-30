@@ -1,0 +1,114 @@
+[
+ {
+  "id": "0672a6b6d00896d6",
+  "title": "Electrochemical selective deuterium labelling of N-heteroarenes",
+  "authors": [
+   "Feiyu Qiu",
+   "Yi Chen",
+   "Pei-Qin Liao",
+   "Yuan Gao",
+   "M.-S. GUO",
+   "Heng Zhang",
+   "Aiwen Lei",
+   "Wu Li"
+  ],
+  "journal": "Green Synthesis and Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2024-06-24",
+  "year": 2024,
+  "doi": "10.1016/j.gresc.2024.06.003",
+  "url": "https://doi.org/10.1016/j.gresc.2024.06.003",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "DFT",
+   "Electrolysis",
+   "Paired Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Wuhan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1f15467ff012ed84",
+  "title": "Scalable and Selective Electrochemical Hydrogenation of Polycyclic Arenes",
+  "authors": [
+   "Hao Li",
+   "Yan Li",
+   "Jiaye Chen",
+   "Lijun Lu",
+   "Pengjie Wang",
+   "Jingcheng Hu",
+   "Rui Ma",
+   "Yiming Gao",
+   "Hong Yi",
+   "Wu Li",
+   "Aiwen Lei"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2024-06-21",
+  "year": 2024,
+  "doi": "10.1002/anie.202407392",
+  "url": "https://doi.org/10.1002/anie.202407392",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Arenes",
+   "Electrochemical Hydrogenation"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Wuhan University",
+   "Chinese Academy of Sciences",
+   "Lanzhou Institute of Chemical Physics",
+   "Jiangxi Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a354cb76b90e944b",
+  "title": "Improved Electrosynthesis of Biomass Derived Furanic Compounds via Nitroxyl Radical Redox Mediation",
+  "authors": [
+   "Emily Carroll",
+   "Sarah L. Parker",
+   "Anna Fukushima",
+   "Sophie Downey",
+   "Delaney E. Miller",
+   "Zachary A. Nguyen",
+   "Dylan G. Boucher",
+   "Shelley D. Minteer"
+  ],
+  "journal": "Chem & Bio Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2024-06-06",
+  "year": 2024,
+  "doi": "10.1021/cbe.4c00034",
+  "url": "https://doi.org/10.1021/cbe.4c00034",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Radical Chemistry",
+   "TEMPO"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Utah",
+   "Missouri University of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ }
+]

@@ -1,0 +1,132 @@
+[
+ {
+  "id": "3cbc560b77203986",
+  "title": "Highly Modular Flow Cell for Electroorganic Synthesis",
+  "authors": [
+   "Christoph Gütz",
+   "Andreas Stenglein",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2017-04-26",
+  "year": 2017,
+  "doi": "10.1021/acs.oprd.7b00123",
+  "url": "https://doi.org/10.1021/acs.oprd.7b00123",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "BDD Electrode",
+   "Electrochemical Flow Cell",
+   "Electroorganic",
+   "Undivided Cell"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7093b20b0a76cf0b",
+  "title": "Electrochemical Properties and Reactions of Organoboron Compounds",
+  "authors": [
+   "Junji Suzuki",
+   "Masahiro Tanigawa",
+   "Yu Kuriyama",
+   "Kazuhiro Ohtsuka",
+   "Naoki Shida",
+   "Shinsuke Inagi",
+   "Toshio Fuchigami"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2017-04-15",
+  "year": 2017,
+  "doi": "10.1149/ma2017-01/36/1713",
+  "url": "https://doi.org/10.1149/ma2017-01/36/1713",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Organic Electrochemistry",
+   "Oxidation Potential",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "60f0164539c7b9d4",
+  "title": "Photoredox Catalyst Based on an Arylimidazole Oxidative Electrochemical Mediator",
+  "authors": [
+   "Chiu Marco Lam",
+   "R. Daniel Little"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2017-04-15",
+  "year": 2017,
+  "doi": "10.1149/ma2017-01/36/1693",
+  "url": "https://doi.org/10.1149/ma2017-01/36/1693",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Radical Cation",
+   "Radical Chemistry",
+   "Redox Mediator"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "University of California, Santa Barbara"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "43faee390dd6f357",
+  "title": "Metal- and Oxidant-Free Benzylic C-H/Aromatic C-H Cross Coupling Based on the Stabilized Cation Pool Method",
+  "authors": [
+   "Jun-ichi Yoshida",
+   "Ryutaro Hayashi",
+   "Akihiro Shimizu"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2017-04-15",
+  "year": 2017,
+  "doi": "10.1149/ma2017-01/36/1689",
+  "url": "https://doi.org/10.1149/ma2017-01/36/1689",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Cross-Coupling & C-C Formation",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Cation Pool",
+   "Cross-Coupling",
+   "Electrogenerated Species",
+   "Electrolysis",
+   "Electroorganic",
+   "Oxidant-Free"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "id": "9c9ac223e421de13",
+  "title": "Electroreduction Enables Regioselective 1,2‐Diarylation of Alkenes with Two Electrophiles",
+  "authors": [
+   "Weijie Yu",
+   "Shengchun Wang",
+   "Meng He",
+   "Zhou Jiang",
+   "Yi Yu",
+   "Jinping Lan",
+   "Jin Luo",
+   "Pengjie Wang",
+   "Xiaotian Qi",
+   "Tao Wang",
+   "Aiwen Lei"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2023-02-24",
+  "year": 2023,
+  "doi": "10.1002/anie.202219166",
+  "url": "https://doi.org/10.1002/anie.202219166",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Alkenes",
+   "Electrolysis",
+   "Mediated Electrolysis",
+   "Radical Anion",
+   "Radical Chemistry",
+   "Regioselectivity"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Jiangxi Normal University",
+   "Wuhan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bd71964457b01932",
+  "title": "Electrochemical oxidative C(sp3)–H cross-coupling with hydrogen evolution",
+  "authors": [
+   "Zhaoliang Yang",
+   "Wenyan Shi",
+   "Hesham Alhumade",
+   "Hong Yi",
+   "Aiwen Lei"
+  ],
+  "journal": "Nature Synthesis",
+  "publisher": "Nature Portfolio",
+  "published": "2023-02-16",
+  "year": 2023,
+  "doi": "10.1038/s44160-022-00221-2",
+  "url": "https://doi.org/10.1038/s44160-022-00221-2",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrooxidative"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Wuhan University",
+   "King Abdulaziz University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ccb2d5cf24df5c55",
+  "title": "Deuterodehalogenation Under Net Reductive or Redox‐Neutral Conditions Enabled by Paired Electrolysis",
+  "authors": [
+   "Devin Wood",
+   "Song Lin"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2023-02-04",
+  "year": 2023,
+  "doi": "10.1002/anie.202218858",
+  "url": "https://doi.org/10.1002/anie.202218858",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Late-Stage Functionalization & Medicinal Chemistry",
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "API",
+   "Electrolysis",
+   "Mechanism",
+   "Paired Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Cornell University"
+  ],
+  "added": "2026-07-30"
+ }
+]

@@ -1,0 +1,200 @@
+[
+ {
+  "id": "ac2a2e4eb8d77822",
+  "title": "Paired electrolysis-enabled nickel-catalyzed enantioselective reductive cross-coupling between α-chloroesters and aryl bromides",
+  "authors": [
+   "Dong Liu",
+   "Zhao-Ran Liu",
+   "Zhenhua Wang",
+   "Cong Ma",
+   "Simon A. Herbert",
+   "Hartmut Schirok",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2022-11-28",
+  "year": 2022,
+  "doi": "10.1038/s41467-022-35073-z",
+  "url": "https://doi.org/10.1038/s41467-022-35073-z",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Anodic Oxidation",
+   "Asymmetric Electrosynthesis",
+   "Cathodic Reduction",
+   "Cross-Coupling & C-C Formation",
+   "Mechanism & Electroanalysis",
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Asymmetric Electrosynthesis",
+   "Cathodic Reduction",
+   "Cross-Coupling",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrolytic",
+   "Enantioselectivity",
+   "Ni Catalysis",
+   "Paired Electrolysis",
+   "Radical Chemistry",
+   "Working Electrode"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "Shanghai Institute of Organic Chemistry",
+   "University of Chinese Academy of Sciences",
+   "Bayer (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2b1036cabdd5f953",
+  "title": "Direct Electrochemical Synthesis of 2,3‐Disubstituted Quinoline N‐ oxides by Cathodic Reduction of Nitro Arenes",
+  "authors": [
+   "J. Winter",
+   "Tobias Prenzel",
+   "Tom Wirtanen",
+   "Dieter Schollmeyer",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2022-11-25",
+  "year": 2022,
+  "doi": "10.1002/chem.202203319",
+  "url": "https://doi.org/10.1002/chem.202203319",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Flow Electrosynthesis & Scale-up",
+   "Green & Sustainable Electrosynthesis",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Arenes",
+   "Atom Economy",
+   "Cathodic Reduction",
+   "Constant Current",
+   "Electrochemical Synthesis",
+   "Electrolysis",
+   "Quinolines",
+   "Reagent-Free",
+   "Scale-up",
+   "Undivided Cell"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2874c8bbf3a618af",
+  "title": "TEMPO‐Modified Polymethacrylates as Mediators in Electrosynthesis: Influence of the Molecular Weight on Redox Properties and Electrocatalytic Activity",
+  "authors": [
+   "Adrian Prudlik",
+   "Nayereh Mohebbati",
+   "Laura Hildebrandt",
+   "Alina G. Heck",
+   "Lutz Nuhn",
+   "Robert Francke"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2022-11-25",
+  "year": 2022,
+  "doi": "10.1002/chem.202202730",
+  "url": "https://doi.org/10.1002/chem.202202730",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Organic Electrosynthesis",
+   "Preparative Electrolysis",
+   "TEMPO"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Leibniz Institute for Catalysis",
+   "University of Rostock",
+   "University of Würzburg",
+   "Max Planck Institute for Polymer Research"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "84107f30de6676c2",
+  "title": "High-Throughput Experimentation for Electrochemistry",
+  "authors": [
+   "Jonas Rein",
+   "Song Lin",
+   "Dipannita Kalyani",
+   "Dan Lehnherr"
+  ],
+  "journal": "ACS symposium series",
+  "publisher": "American Chemical Society",
+  "published": "2022-11-15",
+  "year": 2022,
+  "doi": "10.1021/bk-2022-1419.ch010",
+  "url": "https://doi.org/10.1021/bk-2022-1419.ch010",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Cornell University",
+   "Merck & Co., Inc., Rahway, NJ, USA (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e61366daa8d53333",
+  "title": "Controlling Selectivity in Shuttle Hetero‐difunctionalization Reactions: Electrochemical Transfer Halo‐thiolation of Alkynes",
+  "authors": [
+   "Xichang Dong",
+   "Martin Klein",
+   "Siegfried R. Waldvogel",
+   "Bill Morandi"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-11-07",
+  "year": 2022,
+  "doi": "10.1002/anie.202213630",
+  "url": "https://doi.org/10.1002/anie.202213630",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Paired Electrolysis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Alkynes",
+   "Anodic Oxidation",
+   "Chemoselectivity",
+   "Electrolysis",
+   "Paired Electrolysis",
+   "Redox Potential"
+  ],
+  "relevance_score": 85,
+  "affiliations": [
+   "ETH Zurich",
+   "Johannes Gutenberg University Mainz"
+  ],
+  "added": "2026-07-30"
+ }
+]

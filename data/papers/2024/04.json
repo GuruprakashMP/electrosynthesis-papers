@@ -1,0 +1,147 @@
+[
+ {
+  "id": "84ee003a0a17eae1",
+  "title": "Electrochemical Synthesis of a Sitagliptin Precursor",
+  "authors": [
+   "Elisabeth K. Oehl",
+   "Paul T. Jirsch",
+   "Jasmin Hammes",
+   "Andreas Stenglein",
+   "Marı́a Méndez",
+   "Sven Ruf",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2024-04-24",
+  "year": 2024,
+  "doi": "10.1021/acs.joc.4c00428",
+  "url": "https://doi.org/10.1021/acs.joc.4c00428",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrochemical Synthesis",
+   "Ni Catalysis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "Sanofi (Germany)",
+   "Karlsruhe Institute of Technology",
+   "Max Planck Institute for Chemical Energy Conversion"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "411d8d05915c47ab",
+  "title": "Efficient and Sustainable Electrosynthesis of N -Sulfonyl Iminophosphoranes by the Dehydrogenative P–N Coupling Reaction",
+  "authors": [
+   "Jessica C. Bieniek",
+   "Darryl F. Nater",
+   "Sara L. Eberwein",
+   "Dieter Schollmeyer",
+   "Martin Klein",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "JACS Au",
+  "publisher": "American Chemical Society",
+  "published": "2024-04-18",
+  "year": 2024,
+  "doi": "10.1021/jacsau.4c00156",
+  "url": "https://doi.org/10.1021/jacsau.4c00156",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Mechanism",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "Max Planck Institute for Chemical Energy Conversion",
+   "Center for Systems Biology Dresden"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "78fa00c0895ffe99",
+  "title": "Synergistic use of photocatalysis and convergent paired electrolysis for nickel-catalyzed arylation of cyclic alcohols",
+  "authors": [
+   "Zhao-Ran Liu",
+   "Xiaoyu Zhu",
+   "Jianfeng Guo",
+   "Cong Ma",
+   "Zhiwei Zuo",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "中国科学通报：英文版",
+  "publisher": "",
+  "published": "2024-04-16",
+  "year": 2024,
+  "doi": "10.1016/j.scib.2024.04.031",
+  "url": "https://doi.org/10.1016/j.scib.2024.04.031",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Ni Catalysis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Shanghai Institute of Organic Chemistry",
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "765f86c2c47f07ac",
+  "title": "Highly selective scalable electrosynthesis of 4-hydroxybenzo[e]-1,2,4-thiadiazine-1,1-dioxides",
+  "authors": [
+   "J. Winter",
+   "Tobias Prenzel",
+   "Tom Wirtanen",
+   "María de Jesús Gálvez-Vázquez",
+   "Kamil Hofman",
+   "Dieter Schollmeyer",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Cell Reports Physical Science",
+  "publisher": "Elsevier BV",
+  "published": "2024-04-15",
+  "year": 2024,
+  "doi": "10.1016/j.xcrp.2024.101927",
+  "url": "https://doi.org/10.1016/j.xcrp.2024.101927",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Arenes",
+   "Electrosynthesis",
+   "Gram-Scale",
+   "Heterocycles"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "Max Planck Institute for Chemical Energy Conversion"
+  ],
+  "added": "2026-07-30"
+ }
+]

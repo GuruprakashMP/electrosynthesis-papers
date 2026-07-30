@@ -1,0 +1,93 @@
+[
+ {
+  "id": "c678ca781ddf2912",
+  "title": "Reactor Design for the Direct Electrosynthesis of Periodate",
+  "authors": [
+   "Sebastian Arndt",
+   "Richard Rücker",
+   "Andreas Stenglein",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2022-08-08",
+  "year": 2022,
+  "doi": "10.1021/acs.oprd.2c00116",
+  "url": "https://doi.org/10.1021/acs.oprd.2c00116",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1fb1c732b85589f3",
+  "title": "Concepts for sustainable organic electrosynthesis",
+  "authors": [
+   "Robert Francke"
+  ],
+  "journal": "Current Opinion in Electrochemistry",
+  "publisher": "Elsevier BV",
+  "published": "2022-08-06",
+  "year": 2022,
+  "doi": "10.1016/j.coelec.2022.101111",
+  "url": "https://doi.org/10.1016/j.coelec.2022.101111",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Leibniz Institute for Catalysis",
+   "University of Rostock"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ff5d0b37194b1ed3",
+  "title": "How to Harness Electrochemical Mediators for Photocatalysis – A Systematic Approach Using the Phenanthro[9,10‐ d ]imidazole Framework as a Test Case",
+  "authors": [
+   "Patrick Enders",
+   "Michal Májek",
+   "Chiu Marco Lam",
+   "R. Daniel Little",
+   "Robert Francke"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2022-08-04",
+  "year": 2022,
+  "doi": "10.1002/cctc.202200830",
+  "url": "https://doi.org/10.1002/cctc.202200830",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Redox Mediator",
+   "Redox Potential"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Leibniz Institute for Catalysis",
+   "University of Rostock",
+   "Comenius University Bratislava",
+   "University of California, Santa Barbara"
+  ],
+  "added": "2026-07-30"
+ }
+]

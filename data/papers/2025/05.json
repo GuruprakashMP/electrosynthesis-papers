@@ -1,0 +1,68 @@
+[
+ {
+  "id": "b7b1243f5acebfd4",
+  "title": "Electrochemical Ammoxidation of Unprotected Glycosides",
+  "authors": [
+   "Imke M. A. Bartels",
+   "Md Asmaul Hoque",
+   "J. Prathap Kaniraj",
+   "Mathew R. Johnson",
+   "Sebastian B. Beil",
+   "Shannon S. Stahl",
+   "Martin D. Witte",
+   "Adriaan J. Minnaard"
+  ],
+  "journal": "ACS electrochemistry.",
+  "publisher": "American Chemical Society",
+  "published": "2025-05-15",
+  "year": 2025,
+  "doi": "10.1021/acselectrochem.5c00111",
+  "url": "https://doi.org/10.1021/acselectrochem.5c00111",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Constant Current",
+   "Electrolysis",
+   "TEMPO"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "University of Groningen",
+   "University of Wisconsin–Madison",
+   "Max Planck Institute for Chemical Energy Conversion"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f52fa6ef2a718f2a",
+  "title": "Nitro Substrates in Reductive Electrosynthesis: A Review",
+  "authors": [
+   "Sebastián O. Simonetti",
+   "Sebastian B. Beil",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "ACS electrochemistry.",
+  "publisher": "American Chemical Society",
+  "published": "2025-05-07",
+  "year": 2025,
+  "doi": "10.1021/acselectrochem.5c00081",
+  "url": "https://doi.org/10.1021/acselectrochem.5c00081",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Max Planck Institute for Chemical Energy Conversion",
+   "Karlsruhe Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ }
+]

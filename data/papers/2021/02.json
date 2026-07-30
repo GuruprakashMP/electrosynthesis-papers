@@ -1,0 +1,238 @@
+[
+ {
+  "id": "b73eab5735c1c37a",
+  "title": "Frontispiece: Metal‐Free Electrochemical Synthesis of Sulfonamides Directly from (Hetero)arenes, SO 2 , and Amines",
+  "authors": [
+   "Stephan P. Blum",
+   "Tarik Karakaya",
+   "Dieter Schollmeyer",
+   "Artis Klapars",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2021-02-22",
+  "year": 2021,
+  "doi": "10.1002/anie.202181061",
+  "url": "https://doi.org/10.1002/anie.202181061",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Arenes",
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "Merck & Co., Inc., Rahway, NJ, USA (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "52c3a133afa3905d",
+  "title": "Electrochemical Synthesis of Benzimidazoles via Dehydrogenative Cyclization of Amidines",
+  "authors": [
+   "Huaibo Zhao",
+   "Jinliang Zhuang",
+   "Hai-Chao Xu"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2021-02-19",
+  "year": 2021,
+  "doi": "10.1002/cssc.202100254",
+  "url": "https://doi.org/10.1002/cssc.202100254",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Heterocycles",
+   "Undivided Cell"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Guizhou Normal University",
+   "Xiamen University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "025c7c3948331cf1",
+  "title": "N-Ammonium Ylide Mediators for Selective Electrochemical C–H Oxidation",
+  "authors": [
+   "Masato Saito",
+   "Yu Kawamata",
+   "Michael Meanwell",
+   "Rafael Navrátil",
+   "Debora Chiodi",
+   "Ethan Carlson",
+   "Pengfei Hu",
+   "Longrui Chen",
+   "Sagar Udyavara",
+   "Cian Kingston",
+   "Mayank Tanwar",
+   "Sameer Tyagi",
+   "Bruce P. McKillican",
+   "Moses G. Gichinga",
+   "Michael A. Schmidt",
+   "Martin D. Eastgate",
+   "Max Lamberto",
+   "Chi He",
+   "Tianhua Tang",
+   "Christian A. Malapit",
+   "Matthew S. Sigman",
+   "Shelley D. Minteer",
+   "Matthew Neurock",
+   "Phil S. Baran"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2021-02-19",
+  "year": 2021,
+  "doi": "10.26434/chemrxiv.14054783",
+  "url": "https://doi.org/10.26434/chemrxiv.14054783",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization"
+  ],
+  "tags": [
+   "Chemoselectivity",
+   "Electrochemical C-H",
+   "Electrochemically Driven"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Scripps Research Institute",
+   "University of Minnesota",
+   "University of Utah",
+   "Syngenta (United States)",
+   "Bristol-Myers Squibb (Germany)",
+   "Bristol-Myers Squibb (United Kingdom)",
+   "Monmouth University",
+   "Scripps Institution of Oceanography",
+   "Scripps (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1fe8044e612e50fe",
+  "title": "Nickel‐Catalyzed N ‐Arylation of NH ‐Sulfoximines with Aryl Halides via Paired Electrolysis",
+  "authors": [
+   "Dong Liu",
+   "Zhao-Ran Liu",
+   "Cong Ma",
+   "Ke-Jin Jiao",
+   "Bing Sun",
+   "Lei Wei",
+   "Julien Lefranc",
+   "Simon A. Herbert",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2021-02-12",
+  "year": 2021,
+  "doi": "10.1002/anie.202016310",
+  "url": "https://doi.org/10.1002/anie.202016310",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "FG Tolerance",
+   "Ni Catalysis",
+   "Paired Electrolysis",
+   "Sacrificial Anode",
+   "Undivided Cell"
+  ],
+  "relevance_score": 93,
+  "affiliations": [
+   "Shanghai Institute of Organic Chemistry",
+   "University of Chinese Academy of Sciences",
+   "Nuvisan (Germany)",
+   "Bayer (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ae126160661a99e2",
+  "title": "Organocatalyzed Photoelectrochemical C−H Amination of Arenes",
+  "authors": [
+   "Zhong-Wei Hou",
+   "Hong Yan",
+   "Jinshuai Song",
+   "Hai-Chao Xu"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2021-02-05",
+  "year": 2021,
+  "doi": "10.26434/chemrxiv.13718392.v1",
+  "url": "https://doi.org/10.26434/chemrxiv.13718392.v1",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Arenes",
+   "Cross-Coupling",
+   "Undivided Cell"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Xiamen University",
+   "Zhengzhou University",
+   "Taizhou University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "82c723b56e737b96",
+  "title": "Electrooxidative Iridium-Catalyzed Regioselective Annulation of Benzoic Acids with Internal Alkynes",
+  "authors": [
+   "Qi-Liang Yang",
+   "Hong-Wei Jia",
+   "Ying Liu",
+   "Yi-Kang Xing",
+   "Rui-Cong Ma",
+   "Manman Wang",
+   "Gui-Rong Qu",
+   "Tian-Sheng Mei",
+   "Hai-Ming Guo"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2021-02-04",
+  "year": 2021,
+  "doi": "10.1021/acs.orglett.0c04168",
+  "url": "https://doi.org/10.1021/acs.orglett.0c04168",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Alkynes",
+   "Electrochemically Driven",
+   "Electrooxidative",
+   "Regioselectivity"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Henan Normal University",
+   "Shanghai Institute of Organic Chemistry",
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-30"
+ }
+]

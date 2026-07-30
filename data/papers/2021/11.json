@@ -1,0 +1,280 @@
+[
+ {
+  "id": "c169a04b1a00020b",
+  "title": "Cover Feature: Electrochemical Reductive Arylation of Nitroarenes with Arylboronic Acids (ChemSusChem 24/2021)",
+  "authors": [
+   "Dan Wang",
+   "Zhaohua Wan",
+   "Heng Zhang",
+   "Hesham Alhumade",
+   "Hong Yi",
+   "Aiwen Lei"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2021-11-30",
+  "year": 2021,
+  "doi": "10.1002/cssc.202102410",
+  "url": "https://doi.org/10.1002/cssc.202102410",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Wuhan University",
+   "Chinese Academy of Agricultural Sciences",
+   "Oil Crops Research Institute",
+   "Wuhan Institute of Technology",
+   "King Abdulaziz University",
+   "Renewable Energy Systems (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "37ce68a943eb3349",
+  "title": "Anodic Oxidation of Aminotetrazoles: A Mild and Safe Route to Isocyanides",
+  "authors": [
+   "Matthew C. Leech",
+   "Alessia Petti",
+   "Nour Tanbouza",
+   "Andrea Mastrodonato",
+   "Iain C. A. Goodall",
+   "Thierry Ollevier",
+   "Adrian P. Dobbs",
+   "Kevin Lam"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2021-11-29",
+  "year": 2021,
+  "doi": "10.1021/acs.orglett.1c03475",
+  "url": "https://doi.org/10.1021/acs.orglett.1c03475",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Flow Electrosynthesis & Scale-up",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrogenerated Species",
+   "Electrosynthesis",
+   "Flow Electrochemistry",
+   "Scale-up"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Greenwich",
+   "Université Laval"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a9e8ab3f0f66f06e",
+  "title": "Challenges in the Electrochemical Synthesis of Si 2 Cl 6 Starting from Tetrachlorosilane and Trichlorosilane",
+  "authors": [
+   "Alexander D. Beck",
+   "Stefan Haufe",
+   "Jan Tillmann",
+   "Siegfried R. Waldvogel"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2021-11-23",
+  "year": 2021,
+  "doi": "10.1002/celc.202101374",
+  "url": "https://doi.org/10.1002/celc.202101374",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrochemical Synthesis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Johannes Gutenberg University Mainz",
+   "Wacker Group (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "18e9c43fb37fd5b0",
+  "title": "Recent Applications of Homogeneous Catalysis in Electrochemical Organic Synthesis",
+  "authors": [
+   "Xu Cheng",
+   "Aiwen Lei",
+   "Tian-Sheng Mei",
+   "Hai-Chao Xu",
+   "Kun Xu",
+   "Cheng-Chu Zeng"
+  ],
+  "journal": "CCS Chemistry",
+  "publisher": "Chinese Chemical Society",
+  "published": "2021-11-22",
+  "year": 2021,
+  "doi": "10.31635/ccschem.021.202101451",
+  "url": "https://doi.org/10.31635/ccschem.021.202101451",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "C-H Functionalization",
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation",
+   "Fluorination & Halogenation",
+   "Asymmetric Electrosynthesis",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "C-H Functionalization",
+   "Cathodic Reduction",
+   "Co Catalysis",
+   "Divided Cell",
+   "Electrochemical C-H",
+   "Electrochemical Cross-Coupling",
+   "Electrochemical Halogenation",
+   "Electrooxidative",
+   "Sacrificial Anode",
+   "Shono Oxidation",
+   "Undivided Cell"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Nanjing University",
+   "Wuhan University",
+   "Molecular Sciences Institute",
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Organic Chemistry",
+   "Xiamen University",
+   "Beijing University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8f25c41e68cba9f1",
+  "title": "Advances on the Merger of Electrochemistry and Transition Metal Catalysis for Organic Synthesis",
+  "authors": [
+   "Christian A. Malapit",
+   "Matthew B. Prater",
+   "Jaime R. Cabrera-Pardo",
+   "Min Li",
+   "Tammy Dung Pham",
+   "Timothy Patrick McFadden",
+   "Skylar Blank",
+   "Shelley D. Minteer"
+  ],
+  "journal": "Chemical Reviews",
+  "publisher": "American Chemical Society",
+  "published": "2021-11-19",
+  "year": 2021,
+  "doi": "10.1021/acs.chemrev.1c00614",
+  "url": "https://doi.org/10.1021/acs.chemrev.1c00614",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Utah"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9492d71665d3374a",
+  "title": "Electrochemical C–H phosphorylation of arenes in continuous flow suitable for late-stage functionalization",
+  "authors": [
+   "Hao Long",
+   "Chong Huang",
+   "Yun-Tao Zheng",
+   "Zhaoyu Li",
+   "Lianghua Jie",
+   "Jinshuai Song",
+   "Shaobin Zhu",
+   "Hai-Chao Xu"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2021-11-16",
+  "year": 2021,
+  "doi": "10.1038/s41467-021-26960-y",
+  "url": "https://doi.org/10.1038/s41467-021-26960-y",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization",
+   "Late-Stage Functionalization & Medicinal Chemistry",
+   "Flow Electrosynthesis & Scale-up",
+   "Green & Sustainable Electrosynthesis",
+   "Mechanism & Electroanalysis",
+   "Natural Product & Total Synthesis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Arenes",
+   "Continuous Flow",
+   "Electrochemical C-H",
+   "Electrosynthesis",
+   "Late-Stage Functionalization",
+   "Natural Products",
+   "Oxidant-Free",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 92,
+  "affiliations": [
+   "Xiamen University",
+   "Zhengzhou University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "15e79d125a9b635e",
+  "title": "Continuous Flow Electrochemical Oxidative Cyclization and Successive Functionalization of 2-Pyrrolidinones",
+  "authors": [
+   "Mathilde Quertenmont",
+   "Frédéric C. Toussaint",
+   "Thierry Defrance",
+   "Kevin Lam",
+   "István E. Markó",
+   "Olivier Riant"
+  ],
+  "journal": "Organic Process Research & Development",
+  "publisher": "American Chemical Society",
+  "published": "2021-11-09",
+  "year": 2021,
+  "doi": "10.1021/acs.oprd.1c00188",
+  "url": "https://doi.org/10.1021/acs.oprd.1c00188",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Continuous Flow",
+   "Electrolysis",
+   "Electrooxidative",
+   "Electrosynthesis",
+   "Flow Electrochemistry",
+   "Organic Electrosynthesis",
+   "Scale-up"
+  ],
+  "relevance_score": 93,
+  "affiliations": [
+   "UCLouvain",
+   "UCB Pharma (Belgium)",
+   "University of Greenwich"
+  ],
+  "added": "2026-07-30"
+ }
+]

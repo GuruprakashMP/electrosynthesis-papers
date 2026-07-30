@@ -1,5 +1,43 @@
 [
  {
+  "id": "abcc663a3825166b",
+  "title": "Anodic Alcohol Oxidation in Catalytically Active Suspensions of Carbon Particles and TEMPO‐Modified Polymethacrylates",
+  "authors": [
+   "Aija Gudkova",
+   "Hariharan Ravi Kavitha",
+   "Shaofeng Huang",
+   "Yushi Ohno",
+   "Shinsuke Inagi",
+   "Wei Zhang",
+   "Adam Holewinski",
+   "Robert Francke"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2026-06-23",
+  "year": 2026,
+  "doi": "10.1002/celc.70260",
+  "url": "https://doi.org/10.1002/celc.70260",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Organic Electrosynthesis",
+   "Substrate Scope",
+   "TEMPO"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "Leibniz Institute for Catalysis",
+   "University of Colorado Boulder",
+   "University of Colorado System"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "573afb65538f26ff",
   "title": "Development of Kilogram-Scale Electrochemical Ni-Catalyzed Cross Electrophile Coupling in Flow.",
   "authors": [
@@ -30,6 +68,84 @@
    "Organic Electrosynthesis"
   ],
   "relevance_score": 79,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c96d04174e115110",
+  "title": "Generalization of Titanocene-Catalyzed Arylation of Epoxides through Radical Polar Crossover by Consecutive Paired Electrolysis",
+  "authors": [
+   "Niklas Schmickler",
+   "Darryl F. Nater",
+   "Siegfried R. Waldvogel",
+   "Andreas Gansäuer"
+  ],
+  "journal": "JACS Au",
+  "publisher": "American Chemical Society",
+  "published": "2026-06-11",
+  "year": 2026,
+  "doi": "10.1021/jacsau.6c00215",
+  "url": "https://doi.org/10.1021/jacsau.6c00215",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Electrolysis",
+   "Electroorganic",
+   "Galvanostatic",
+   "Paired Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "University of Bonn",
+   "Max Planck Institute for Chemical Energy Conversion",
+   "Karlsruhe Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "62b5d30f3cb95ecb",
+  "title": "Electrochemistry Goes Mainstream: Applications in Modern Total Synthesis",
+  "authors": [
+   "Alexandros S. Pollatos",
+   "Yu Kawamata",
+   "Phil S. Baran"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-06-02",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15004225/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15004225/v1",
+  "source": "openalex",
+  "categories": [
+   "Natural Product & Total Synthesis",
+   "Cross-Coupling & C-C Formation",
+   "Decarboxylative & Radical Reactions",
+   "Flow Electrosynthesis & Scale-up",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Chemoselectivity",
+   "Cross-Coupling",
+   "Decarboxylative",
+   "Diastereoselectivity",
+   "Electrolysis",
+   "Gram-Scale",
+   "Natural Products",
+   "Organic Electrochemistry",
+   "Radical Chemistry",
+   "Total Synthesis"
+  ],
+  "relevance_score": 78,
   "affiliations": [],
   "added": "2026-07-30"
  }

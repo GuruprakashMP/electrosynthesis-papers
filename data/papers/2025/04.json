@@ -1,0 +1,239 @@
+[
+ {
+  "id": "e1b5d6d34769ec67",
+  "title": "Cathodic oxygen reduction-enabled rhodium-catalyzed (5 + 1) C–H/O–H annulation inspired by fuel cells",
+  "authors": [
+   "Yuanqiong Huang",
+   "Li Zhu",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2025-04-30",
+  "year": 2025,
+  "doi": "10.1038/s41467-025-59405-x",
+  "url": "https://doi.org/10.1038/s41467-025-59405-x",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization",
+   "Cell Design & Electrodes",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Alkynes",
+   "Electrochemical C-H",
+   "Heterocycles",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Shanghai Institute of Organic Chemistry",
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6f23663634b73c22",
+  "title": "TEMPO-Mediated Electrochemical α-Allylation of Tetrahydroisoquinolines",
+  "authors": [
+   "Youliang He",
+   "Zhen-Hua Wang",
+   "Huilin Liu",
+   "Ping Fang",
+   "Cong Ma",
+   "Hao Xu",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2025-04-25",
+  "year": 2025,
+  "doi": "10.1021/acs.orglett.5c00738",
+  "url": "https://doi.org/10.1021/acs.orglett.5c00738",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Shono Oxidation",
+   "TEMPO"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Central China Normal University",
+   "Shanghai Institute of Organic Chemistry",
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3cf53768534b7352",
+  "title": "eFluorination for the Rapid Synthesis of Fluorothioformates from Oxalic Acid Monothioesters",
+  "authors": [
+   "Feba Thomas Pulikkottil",
+   "Marco Galzignato",
+   "Jérémy Saiter",
+   "Iain C. A. Goodall",
+   "Bini Claringbold",
+   "Kevin Lam"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2025-04-10",
+  "year": 2025,
+  "doi": "10.1021/acs.orglett.5c00513",
+  "url": "https://doi.org/10.1021/acs.orglett.5c00513",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrochemical Fluorination",
+   "One-Pot",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "University of Greenwich"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "33b17927c5585330",
+  "title": "Photoelectrochemistry-Promoted Ni-Catalyzed C–O Cross-Couplings",
+  "authors": [
+   "Zhao-Ran Liu",
+   "Ye Wang",
+   "Cong Ma",
+   "Tian-Sheng Mei"
+  ],
+  "journal": "Precision Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2025-04-10",
+  "year": 2025,
+  "doi": "10.1021/prechem.5c00015",
+  "url": "https://doi.org/10.1021/prechem.5c00015",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrochemical Cross-Coupling",
+   "Ni Catalysis"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "30527051cbb3f374",
+  "title": "Electrochemical Deoxyarylation of Aromatic Aldehydes and Ketones",
+  "authors": [
+   "Fengze Yao",
+   "Yuan Gao",
+   "Yachun Wang",
+   "Li Zeng",
+   "Aiwen Lei",
+   "Wu Li"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2025-04-10",
+  "year": 2025,
+  "doi": "10.1021/acs.orglett.5c00537",
+  "url": "https://doi.org/10.1021/acs.orglett.5c00537",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Wuhan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "930a62b6890f8f7e",
+  "title": "Highly‐Selective Electrochemical Decarboxylative Late‐Stage Functionalization of Amino Acids",
+  "authors": [
+   "Adrija Ghosh",
+   "Vishal Kumar Parida",
+   "Tristan von Münchow",
+   "Lutz Ackermann",
+   "Debasis Banerjee"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2025-04-07",
+  "year": 2025,
+  "doi": "10.1002/chem.202501287",
+  "url": "https://doi.org/10.1002/chem.202501287",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Late-Stage Functionalization & Medicinal Chemistry"
+  ],
+  "tags": [
+   "Decarboxylative",
+   "Drug Molecules",
+   "Electrochemical Decarboxylation",
+   "Late-Stage Functionalization"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Indian Institute of Technology Roorkee",
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1774f846e614aca0",
+  "title": "All Electrochemical Synthesis of Performic Acid Starting from CO 2 , O 2 , and H 2 O",
+  "authors": [
+   "Ida Dinges",
+   "Markus Pyschik",
+   "Julian Philipp Schütz",
+   "Selina Schneider",
+   "Elias Klemm",
+   "Siegfried R. Waldvogel",
+   "Markus Stöckl"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2025-04-07",
+  "year": 2025,
+  "doi": "10.1002/cssc.202500180",
+  "url": "https://doi.org/10.1002/cssc.202500180",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Society for Chemical Engineering and Biotechnology",
+   "Max Planck Institute for Chemical Energy Conversion",
+   "DECHEMA-Forschungsinstitut",
+   "University of Stuttgart",
+   "Karlsruhe Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ }
+]

@@ -1,0 +1,71 @@
+[
+ {
+  "id": "fb9ab2422e6532fa",
+  "title": "A practical guide to electrosynthesis",
+  "authors": [
+   "Matthew C. Leech",
+   "Kevin Lam"
+  ],
+  "journal": "Nature Reviews Chemistry",
+  "publisher": "Nature Portfolio",
+  "published": "2022-03-21",
+  "year": 2022,
+  "doi": "10.1038/s41570-022-00372-y",
+  "url": "https://doi.org/10.1038/s41570-022-00372-y",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Greenwich"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d9fa94ccb3d08275",
+  "title": "A Flow Electrochemical Cell with Split Bipolar Electrode for Anodic Oxidation of Organic Compounds",
+  "authors": [
+   "Hiroki Sakagami",
+   "Hiroaki Takenaka",
+   "Suguru Iwai",
+   "Naoki Shida",
+   "Elena Villani",
+   "Akihiro Gotou",
+   "Tomohiro Isogai",
+   "Akiyoshi Yamauchi",
+   "Yosuke Kishikawa",
+   "Toshio Fuchigami",
+   "Ikuyoshi Tomita",
+   "Shinsuke Inagi"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2022-03-16",
+  "year": 2022,
+  "doi": "10.1002/celc.202200084",
+  "url": "https://doi.org/10.1002/celc.202200084",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Coupling",
+   "Anodic Oxidation",
+   "Electrosynthesis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Tokyo Institute of Technology",
+   "Yokohama National University",
+   "Daikin (Japan)",
+   "Japan Science and Technology Agency"
+  ],
+  "added": "2026-07-30"
+ }
+]
