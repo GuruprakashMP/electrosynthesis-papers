@@ -1,5 +1,67 @@
 [
  {
+  "id": "d28c41a0017163cf",
+  "title": "Self-supported ultrathin Co3O4 nanoarray enabling efficient paired electrolysis of 5-hydroxymethylfurfural for simultaneous dihydroxymethylfuran (DHMF) and furandicarboxylic acid (FDCA) production",
+  "authors": [
+   "Xiaoqiang Pan",
+   "Shu-Chuan Mei",
+   "Wujun Liu"
+  ],
+  "journal": "Chinese Chemical Letters",
+  "publisher": "Elsevier BV",
+  "published": "2022-11-30",
+  "year": 2022,
+  "doi": "10.1016/j.cclet.2022.108034",
+  "url": "https://doi.org/10.1016/j.cclet.2022.108034",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "CAS Key Laboratory of Urban Pollutant Conversion"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "61baaa424514c5eb",
+  "title": "Green electro-organic synthesis of a novel catechol derivative based on o -benzoquinone nucleophilic addition",
+  "authors": [
+   "Mohamed Abd-Elsabour",
+   "Hytham F. Assaf",
+   "Ahmed M. Abo-Bakr",
+   "Abdulrahman G. Alhamzani",
+   "Mortaga M. Abou-Krisha",
+   "Aamal A. Al-Mutairi",
+   "Hesham M. Alsoghier"
+  ],
+  "journal": "New Journal of Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-11-30",
+  "year": 2022,
+  "doi": "10.1039/d2nj04530c",
+  "url": "https://doi.org/10.1039/d2nj04530c",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electroorganic"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "South Valley University",
+   "Imam Mohammad ibn Saud Islamic University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "ac2a2e4eb8d77822",
   "title": "Paired electrolysis-enabled nickel-catalyzed enantioselective reductive cross-coupling between α-chloroesters and aryl bromides",
   "authors": [
@@ -47,6 +109,48 @@
    "Shanghai Institute of Organic Chemistry",
    "University of Chinese Academy of Sciences",
    "Bayer (Germany)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2d168207ffe28d0f",
+  "title": "Crystalline Unipolymer Monolayer with High Modulus and Conductivity",
+  "authors": [
+   "Jinxin Wang",
+   "Hao Zhang",
+   "Shumu Li",
+   "Caijun Ding",
+   "Yongjie Zhao",
+   "Xiuzhen Long",
+   "Chang Wei",
+   "Yanfang Wang",
+   "Yongfang Li",
+   "Lingyun Shen",
+   "Shuxun Cui",
+   "Wenjing Hong",
+   "Mao Li"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-11-28",
+  "year": 2022,
+  "doi": "10.1002/anie.202216838",
+  "url": "https://doi.org/10.1002/anie.202216838",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Chinese Academy of Sciences",
+   "Changchun Institute of Applied Chemistry",
+   "State Key Laboratory of Polymer Physics and Chemistry",
+   "Xiamen University",
+   "Southwest Jiaotong University"
   ],
   "added": "2026-07-30"
  },
@@ -132,6 +236,436 @@
   "added": "2026-07-30"
  },
  {
+  "id": "096986c71bfab5a0",
+  "title": "Low‐Coordinated Pd Site within Amorphous Palladium Selenide for Active, Selective, and Stable H 2 O 2 Electrosynthesis",
+  "authors": [
+   "Zhiyong Yu",
+   "Shengyao Lv",
+   "Qing Yao",
+   "Nan Fang",
+   "Yong Xu",
+   "Qi Shao",
+   "Chih-Wen Pao",
+   "Jyh-Fu Lee",
+   "Guoliang Li",
+   "Li-Ming Yang",
+   "Xiaoqing Huang"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "",
+  "published": "2022-11-25",
+  "year": 2022,
+  "doi": "10.1002/adma.202208101",
+  "url": "https://doi.org/10.1002/adma.202208101",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Xiamen University",
+   "Soochow University",
+   "South China Normal University",
+   "Medical Protective",
+   "Huazhong University of Science and Technology",
+   "Guangdong University of Technology",
+   "National Synchrotron Radiation Research Center"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7cacf2b8348c07ba",
+  "title": "Electrochemical-Induced Cascade Reaction of 2-Formyl Benzonitrile with Anilines: Synthesis of N-Aryl Isoindolinones",
+  "authors": [
+   "Valerio Morlacci",
+   "Tonino Caruso",
+   "Marco Chiarini",
+   "Antonio Arcadi",
+   "Massimiliano Aschi",
+   "Laura Palombi"
+  ],
+  "journal": "Molecules",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2022-11-24",
+  "year": 2022,
+  "doi": "10.3390/molecules27238199",
+  "url": "https://doi.org/10.3390/molecules27238199",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Constant Current",
+   "DFT",
+   "Divided Cell",
+   "Electrolysis",
+   "Supporting Electrolyte",
+   "Working Electrode"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of L'Aquila",
+   "University of Salerno",
+   "University of Teramo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "842b5bec7fdc35eb",
+  "title": "A Liquid‐Liquid‐Solid System to Manipulate the Cascade Reaction for Highly Selective Electrosynthesis of Aldehyde",
+  "authors": [
+   "Hongling Huang",
+   "Xuedan Song",
+   "Chang Yu",
+   "Qianbing Wei",
+   "Lin Ni",
+   "Xiaotong Han",
+   "Huawei Huang",
+   "Yingnan Han",
+   "Jieshan Qiu"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-11-23",
+  "year": 2022,
+  "doi": "10.1002/anie.202216321",
+  "url": "https://doi.org/10.1002/anie.202216321",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Dalian University of Technology",
+   "Dalian University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3fca97e1b811ef37",
+  "title": "Operando NMR Spectroscopy Reveals an Oxygen Blocking Mechanism in Formate Electrosynthesis",
+  "authors": [
+   "Beibei Xu",
+   "Ying Liu",
+   "Yuanwei Liu",
+   "Xiaomeng You",
+   "Yi Xu",
+   "Hang Zhou",
+   "Peng Fei Liu",
+   "Haifeng Wang",
+   "Hua Gui Yang",
+   "Xue Lu Wang",
+   "Ye-Feng Yao"
+  ],
+  "journal": "Research Square",
+  "publisher": "",
+  "published": "2022-11-23",
+  "year": 2022,
+  "doi": "10.21203/rs.3.rs-2263105/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-2263105/v1",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "East China University of Science and Technology",
+   "East China Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f155a0ae6bf4c6b4",
+  "title": "Anionic alkene-azide cycloaddition (AAAC) strategy toward electrosynthesis of multifunctionalized [60]fullerene derivatives and further applications",
+  "authors": [
+   "Xing-Xing Yan",
+   "Chuang Niu",
+   "Zheng-Chun Yin",
+   "Wen-Qiang Lu",
+   "Guan-Wu Wang"
+  ],
+  "journal": "中国科学通报：英文版",
+  "publisher": "",
+  "published": "2022-11-21",
+  "year": 2022,
+  "doi": "10.1016/j.scib.2022.11.023",
+  "url": "https://doi.org/10.1016/j.scib.2022.11.023",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Hefei National Center for Physical Sciences at Nanoscale"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d7fb598125c03efd",
+  "title": "Greywater treatment by anodic oxidation, photoelectro-Fenton and solar photoelectro-Fenton processes: Influence of relevant parameters and toxicity evolution",
+  "authors": [
+   "Paulo Renato dos Santos",
+   "Maria Eduarda de Oliveira Dourados",
+   "Ignasi Sirés",
+   "Enric Brillas",
+   "Rodrigo Pereira Cavalcante",
+   "Priscila Sabioni Cavalheri",
+   "Paula Loureiro Paulo",
+   "Diego Roberto Vieira Guelfi",
+   "Silvio César de Oliveira",
+   "Fábio Gozzi",
+   "Amílcar Machulek"
+  ],
+  "journal": "Process Safety and Environmental Protection",
+  "publisher": "Elsevier BV",
+  "published": "2022-11-21",
+  "year": 2022,
+  "doi": "10.1016/j.psep.2022.11.058",
+  "url": "https://doi.org/10.1016/j.psep.2022.11.058",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidade Federal de Mato Grosso do Sul",
+   "Universitat de Barcelona",
+   "Universidade Federal do Acre"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0a8173488ea3bae6",
+  "title": "Cobalt-electrocatalytic C–H hydroxyalkylation of N -heteroarenes with trifluoromethyl ketones",
+  "authors": [
+   "Tianyu He",
+   "Chaoqiang Liang",
+   "Shenlin Huang"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2022-11-21",
+  "year": 2022,
+  "doi": "10.1039/d2sc05198b",
+  "url": "https://doi.org/10.1039/d2sc05198b",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Decarboxylative & Radical Reactions",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Atom Economy",
+   "Electrolysis",
+   "Paired Electrolysis",
+   "Radical Chemistry",
+   "Regioselectivity"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Nanjing Forestry University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b26a9fc9b14e86bd",
+  "title": "Recent Advances in the Nickel‐catalysed Electrochemical Coupling Reactions with a Focus on the Type of Bond Formed",
+  "authors": [
+   "Jisna Jose",
+   "Elizabeth J. Diana",
+   "U. S. Kanchana",
+   "Thomas Mathew"
+  ],
+  "journal": "Asian Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2022-11-19",
+  "year": 2022,
+  "doi": "10.1002/ajoc.202200593",
+  "url": "https://doi.org/10.1002/ajoc.202200593",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Single-Electron Transfer"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Government Medical College"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2b29f5c423c6920c",
+  "title": "Water oxidation couples to electrocatalytic hydrogenation of carbonyl compounds and unsaturated carbon–carbon bonds by nickel",
+  "authors": [
+   "Leila Behrouzi",
+   "Zahra Zand",
+   "Mobina Fotuhi",
+   "Babak Kaboudin",
+   "Mohammad Mahdi Najafpour"
+  ],
+  "journal": "Scientific Reports",
+  "publisher": "Nature Portfolio",
+  "published": "2022-11-19",
+  "year": 2022,
+  "doi": "10.1038/s41598-022-23777-7",
+  "url": "https://doi.org/10.1038/s41598-022-23777-7",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Alkynes",
+   "Atom Economy",
+   "Green Chemistry",
+   "Undivided Cell"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Institute for Advanced Studies in Basic Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "74e2c1adb87cba58",
+  "title": "Electro‐Synthesis of Organic Compounds with Heterogeneous Catalysis",
+  "authors": [
+   "Tariq Ali",
+   "Haiyan Wang",
+   "Waseem Iqbal",
+   "Tariq Bashir",
+   "Rahim Shah",
+   "Yong Hu"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2022-11-18",
+  "year": 2022,
+  "doi": "10.1002/advs.202205077",
+  "url": "https://doi.org/10.1002/advs.202205077",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Paired Electrolysis",
+   "Late-Stage Functionalization & Medicinal Chemistry"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Electrolysis",
+   "Electroorganic",
+   "Electrosynthesis",
+   "Medicinal Chemistry",
+   "Organic Electrochemistry",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Zhejiang Normal University",
+   "Industriale Chimica (Italy)",
+   "University of Calabria",
+   "Soochow University",
+   "University of Swat",
+   "Hangzhou Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "51a2cd96d35965a8",
+  "title": "Valence-Oriented Electrosynthesis Strategies of Cu-Based 5-Nitrotetrazolate for Environmentally Acceptable Primary Explosives",
+  "authors": [
+   "Chunpei Yu",
+   "Bonan Gu",
+   "Jiaxin Wang",
+   "Junhong Chen",
+   "Wenchao Zhang",
+   "Wei Shi",
+   "Gexing Yang",
+   "Xiaoting Lei",
+   "Junwu Zhu"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2022-11-17",
+  "year": 2022,
+  "doi": "10.1021/acs.inorgchem.2c03183",
+  "url": "https://doi.org/10.1021/acs.inorgchem.2c03183",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nanjing University of Science and Technology",
+   "Ministry of Industry and Information Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2870f8194ac505a6",
+  "title": "Site‐Selective Electrochemical C−H Carboxylation of Arenes with CO 2",
+  "authors": [
+   "Zhiwei Zhao",
+   "Yin Liu",
+   "Siyi Wang",
+   "Shunyao Tang",
+   "Dengke Ma",
+   "Zile Zhu",
+   "Chengcheng Guo",
+   "Youai Qiu"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-11-16",
+  "year": 2022,
+  "doi": "10.1002/anie.202214710",
+  "url": "https://doi.org/10.1002/anie.202214710",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Green & Sustainable Electrosynthesis",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Arenes",
+   "Atom Economy",
+   "Electrochemical Carboxylation",
+   "Quinolines",
+   "Regioselectivity"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Nankai University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "84107f30de6676c2",
   "title": "High-Throughput Experimentation for Electrochemistry",
   "authors": [
@@ -158,6 +692,214 @@
   "affiliations": [
    "Cornell University",
    "Merck & Co., Inc., Rahway, NJ, USA (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6e2b539e97ab9464",
+  "title": "Membrane-less Paired Electrolysis for Cooperative Conversion of Complex NO in a Complexing Absorption System",
+  "authors": [
+   "Jingjing Jin",
+   "Lida Wang",
+   "Wen Sun",
+   "Zhengqing Yang",
+   "Xu Chen",
+   "Haiyan Wang",
+   "Guichang Liu"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2022-11-15",
+  "year": 2022,
+  "doi": "10.1021/acs.iecr.2c02312",
+  "url": "https://doi.org/10.1021/acs.iecr.2c02312",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Dalian University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "64572cd1bfe8aedf",
+  "title": "Electrochemical Synthesis of Imidazopyridine and Benzylidene Malononitrile",
+  "authors": [
+   "Nitin R. Deore",
+   "Tushar Janardan Pawar",
+   "Yadav Kacharu Nagare",
+   "Sachin V. Patil"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2022-11-14",
+  "year": 2022,
+  "doi": "10.3390/ecsoc-26-13567",
+  "url": "https://doi.org/10.3390/ecsoc-26-13567",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "One-Pot"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Savitribai Phule Pune University",
+   "Instituto de Ecología",
+   "Birla Institute of Technology and Science, Pilani"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d04640a889c35086",
+  "title": "Toward green syntheses of carboxylates: Considerations of mechanisms and reactions at the electrodes for electrocarboxylation of organohalides and alkenes",
+  "authors": [
+   "Teera Chantarojsiri",
+   "Tassaneewan Soisuwan",
+   "Pornwimon Kongkiatkrai"
+  ],
+  "journal": "CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION)",
+  "publisher": "Elsevier BV",
+  "published": "2022-11-09",
+  "year": 2022,
+  "doi": "10.1016/s1872-2067(22)64180-9",
+  "url": "https://doi.org/10.1016/s1872-2067(22)64180-9",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Alkenes",
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Mahidol University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "916d22c13f8d686a",
+  "title": "Preface to the special issue on electrocatalysis and electrosynthesis",
+  "authors": [
+   "Yanguang Li",
+   "Yujie Sun"
+  ],
+  "journal": "CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION)",
+  "publisher": "Elsevier BV",
+  "published": "2022-11-09",
+  "year": 2022,
+  "doi": "10.1016/s1872-2067(22)64182-2",
+  "url": "https://doi.org/10.1016/s1872-2067(22)64182-2",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Cincinnati"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "174873255c0cd83b",
+  "title": "Electrochemically Induced Synthesis of Imidazoles from Vinyl Azides and Benzyl Amines",
+  "authors": [
+   "Vera A. Vil’",
+   "Sergei S. Grishin",
+   "Alexander O. Terent’ev"
+  ],
+  "journal": "Molecules",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2022-11-09",
+  "year": 2022,
+  "doi": "10.3390/molecules27227721",
+  "url": "https://doi.org/10.3390/molecules27227721",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Undivided Cell"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "89023e5edb362819",
+  "title": "Smooth semicompact multilayer coating of TiO2 obtained by combining anodic oxidation and sol-gel techniques",
+  "authors": [
+   "Jonathan M. Schuster",
+   "María Laura Vera",
+   "Carlos E. Schvezov",
+   "Mario Roberto Rosenberger"
+  ],
+  "journal": "Surface and Coatings Technology",
+  "publisher": "Elsevier BV",
+  "published": "2022-11-08",
+  "year": 2022,
+  "doi": "10.1016/j.surfcoat.2022.129035",
+  "url": "https://doi.org/10.1016/j.surfcoat.2022.129035",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Consejo Nacional de Investigaciones Científicas y Técnicas",
+   "National University of Misiones",
+   "National University of General San Martín",
+   "Comisión Nacional de Energía Atómica"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7d1c6ca53a5357ab",
+  "title": "Recent advances in paired electrolysis coupling CO2 reduction with alternative oxidation reactions",
+  "authors": [
+   "Deng Li",
+   "Jiangfan Yang",
+   "Juhong Lian",
+   "Junqing Yan",
+   "Shengzhong Liu"
+  ],
+  "journal": "Journal of Energy Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2022-11-08",
+  "year": 2022,
+  "doi": "10.1016/j.jechem.2022.10.031",
+  "url": "https://doi.org/10.1016/j.jechem.2022.10.031",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "Shaanxi Normal University",
+   "Weinan Normal University"
   ],
   "added": "2026-07-30"
  },
@@ -194,6 +936,478 @@
   "affiliations": [
    "ETH Zurich",
    "Johannes Gutenberg University Mainz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5a1465641364a4cf",
+  "title": "Convergent paired electrosynthesis of different types of bis-β-diketone derivatives based on the knoevenagel condensation reaction under green conditions",
+  "authors": [
+   "Mahmood Masoudi-Khoram",
+   "Mitra Zargarian",
+   "Davood Nematollahi",
+   "Mohammad Ali Zolfigol",
+   "Hassan Sepehrmansourie",
+   "Sadegh Khazalpour"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2022-11-07",
+  "year": 2022,
+  "doi": "10.1016/j.electacta.2022.141512",
+  "url": "https://doi.org/10.1016/j.electacta.2022.141512",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Bu-Ali Sina University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4e62b1eb86f797eb",
+  "title": "Tunable Electrochemical Peptide Modifications: Unlocking New Levels of Orthogonality for Side‐Chain Functionalization",
+  "authors": [
+   "Dhanya Karipal Padinjare Veedu",
+   "Luke A. Connal",
+   "Lara R. Malins"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-11-07",
+  "year": 2022,
+  "doi": "10.1002/anie.202215470",
+  "url": "https://doi.org/10.1002/anie.202215470",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Australian National University",
+   "Australian Research Council"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "875cc2a37238e9bc",
+  "title": "Recent advances in electrochemical C—H phosphorylation",
+  "authors": [
+   "Yulia H. Budnikova",
+   "Egor L. Dolengovsky",
+   "Maxim V. Tarasov",
+   "Tatyana V. Gryaznova"
+  ],
+  "journal": "Frontiers in Chemistry",
+  "publisher": "Frontiers Media",
+  "published": "2022-11-03",
+  "year": 2022,
+  "doi": "10.3389/fchem.2022.1054116",
+  "url": "https://doi.org/10.3389/fchem.2022.1054116",
+  "source": "openalex",
+  "categories": [
+   "Late-Stage Functionalization & Medicinal Chemistry",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Medicinal Chemistry",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Kazan Scientific Center",
+   "Kazan State Technological University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9862a02c354a8c3a",
+  "title": "Designing Modular Assembly of Electrochemical Flow Microreactor as an Enabling Technology of Electrosynthesis in Laminar Flow",
+  "authors": [
+   "Ayano Yata",
+   "Yuto Nakamura",
+   "Kazuhiro Okamoto",
+   "Naoki Shida",
+   "Mahito Atobe"
+  ],
+  "journal": "European Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2022-11-02",
+  "year": 2022,
+  "doi": "10.1002/ejoc.202200980",
+  "url": "https://doi.org/10.1002/ejoc.202200980",
+  "source": "openalex",
+  "categories": [
+   "Electrophotochemistry",
+   "Flow Electrosynthesis & Scale-up",
+   "Cell Design & Electrodes",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrophotocatalysis",
+   "Electrophotochemistry",
+   "Electrosynthesis",
+   "Ferrocene",
+   "Microreactor",
+   "Organic Electrosynthesis",
+   "Reference Electrode"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "Yokohama National University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "77cb34f884e28b17",
+  "title": "Intramolecular hydrosilylation of alkynes by electroreductive nickel catalysis",
+  "authors": [
+   "Mathias Reboli",
+   "Muriel Durandetti"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2022-11-02",
+  "year": 2022,
+  "doi": "",
+  "url": "https://normandie-univ.hal.science/hal-03854310",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Alkynes",
+   "Electroreductive",
+   "Ni Catalysis"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Génétique Moléculaire Génomique Microbiologie",
+   "Laboratoire COBRA"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fa92576a85a974c6",
+  "title": "Organic Electrosynthesis without an Electric Power Supply : Electropolymerization of Aromatic Monomers",
+  "authors": [
+   "信介 稲木",
+   "Shinsuke Inagi",
+   "優 岩井",
+   "Suguru Iwai",
+   "Elena Villani",
+   "尚毅 信田",
+   "Naoki Shida",
+   "育義 冨田",
+   "Ikuyoshi Tomita"
+  ],
+  "journal": "Institutional Repositories DataBase (IRDB)",
+  "publisher": "National Institute of Informatics",
+  "published": "2022-11-01",
+  "year": 2022,
+  "doi": "",
+  "url": "http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100888045",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e9ee59677210ce19",
+  "title": "Electrochemical Oxidation of 3-Aryl-2-cyanothioacrylamides",
+  "authors": [
+   "V. I. Osminin",
+   "A. A. Mironenko",
+   "P. G. Dahno",
+   "М. А. Назаренко",
+   "А. И. Офлиди",
+   "В. В. Доценко",
+   "В. Д. Стрелков",
+   "Nicolai A. Aksenov",
+   "И. В. Аксенова"
+  ],
+  "journal": "Russian Journal of General Chemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2022-11-01",
+  "year": 2022,
+  "doi": "10.1134/s1070363222110068",
+  "url": "https://doi.org/10.1134/s1070363222110068",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Mechanism",
+   "Undivided Cell"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Kuban State University",
+   "North-Caucasus Federal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b344f8d6a4cd0168",
+  "title": "Water-Soluble Phthalocyanine with Ionogenic Groups as a Molecular Template for Electropolymerization of 3,4-Ethylenedioxythiophene",
+  "authors": [
+   "O. L. Gribkova",
+   "V. A. Kabanova",
+   "Alexey V. Yagodin",
+   "А. А. Аверин",
+   "A. A. Nekrasov"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2022-11-01",
+  "year": 2022,
+  "doi": "10.1134/s1023193522110076",
+  "url": "https://doi.org/10.1134/s1023193522110076",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Frumkin Institute of Physical Chemistry and Electrochemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8a81185e174519c9",
+  "title": "Molecular Electrochemistry: A tool for mechanism analysis in electrosynthesis and catalysis",
+  "authors": [
+   "Cyrille Costentin"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2022-11-01",
+  "year": 2022,
+  "doi": "",
+  "url": "https://hal.science/hal-04945483",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Département de Chimie Moléculaire"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7bac3e8c65bed5d8",
+  "title": "Recent Advances in the Use of Transition Metal Catalysts in the Electro-Organic Synthesis",
+  "authors": [
+   "Toreshettahally R. Swaroop",
+   "Muddegowda Umashankara",
+   "Vijay Kumar Thakur",
+   "Kanchugarakoppal S. Rangappa"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "2022-11-01",
+  "year": 2022,
+  "doi": "10.1149/1945-7111/aca0c4",
+  "url": "https://doi.org/10.1149/1945-7111/aca0c4",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Atom Economy",
+   "Electroorganic",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "University of Mysore",
+   "Karnataka State Open University",
+   "Scotland's Rural College",
+   "King's College Hospital"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3dd70ddc917ccb3c",
+  "title": "Correction to “Transition-Metal-Free, Site-Selective C–F Arylation of Polyfluoroarenes via Electrophotocatalysis”",
+  "authors": [
+   "Yajing Chen",
+   "Wenhao Deng",
+   "Jia-Dong Guo",
+   "Rui-Nan Ci",
+   "Chao Zhou",
+   "Bin Chen",
+   "Xu-Bing Li",
+   "Xiaoning Guo",
+   "Rong-Zhen Liao",
+   "Chen-Ho Tung",
+   "Li-Zhu Wu"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2022-11-01",
+  "year": 2022,
+  "doi": "10.1021/jacs.2c10720",
+  "url": "https://doi.org/10.1021/jacs.2c10720",
+  "source": "openalex",
+  "categories": [
+   "Electrophotochemistry"
+  ],
+  "tags": [
+   "Electrophotocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2e8769d0f4207113",
+  "title": "Unraveling Electroreductive Mechanisms of Biomass-Derived Aldehydes via Tailoring Interfacial Environments",
+  "authors": [
+   "Hengzhou Liu",
+   "Deep M. Patel",
+   "Yifu Chen",
+   "Jungkuk Lee",
+   "Ting-Han Lee",
+   "Sarah D. Cady",
+   "Eric W. Cochran",
+   "Luke T. Roling",
+   "Wenzhen Li"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2022-11-01",
+  "year": 2022,
+  "doi": "10.1021/acscatal.2c03163",
+  "url": "https://doi.org/10.1021/acscatal.2c03163",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Green & Sustainable Electrosynthesis",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Radical Chemistry",
+   "Renewable Electricity",
+   "Single-Electron Transfer"
+  ],
+  "relevance_score": 50,
+  "affiliations": [
+   "Iowa State University",
+   "Bissell (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1b8c93ea8b5eb498",
+  "title": "Molten salt electrosynthesis of silicon carbide nanoparticles and their photoluminescence property",
+  "authors": [
+   "Zhongya Pang",
+   "Li Xiang",
+   "Xue-qiang ZHANG",
+   "Jin-jian LI",
+   "Shu-juan WANG",
+   "Xiaolu Xiong",
+   "Guangshi Li",
+   "Qian Xu",
+   "Zhongfu Zhou",
+   "Xingli Zou",
+   "Xionggang Lu"
+  ],
+  "journal": "Transactions of Nonferrous Metals Society of China",
+  "publisher": "Elsevier BV",
+  "published": "2022-11-01",
+  "year": 2022,
+  "doi": "10.1016/s1003-6326(22)66058-8",
+  "url": "https://doi.org/10.1016/s1003-6326(22)66058-8",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Mechanism"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Shanghai University",
+   "Aberystwyth University",
+   "Shanghai Dianji University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "09026d4f8dd1d4d4",
+  "title": "Electrochemical Synthesis and Characterization of Poly(Rhodamine B) Coating on FTO",
+  "authors": [
+   "Khadija Bahend",
+   "M. El Fazdoune",
+   "S. Ben Jadi",
+   "Abdelqader El Guerraf",
+   "A. Asserghine",
+   "Carlos M. Sánchez-Sánchez",
+   "E.A. Bazzaoui",
+   "F.J. García-García",
+   "M. Bazzaoui"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "2022-11-01",
+  "year": 2022,
+  "doi": "10.1149/1945-7111/ac9ee3",
+  "url": "https://doi.org/10.1149/1945-7111/ac9ee3",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "Oxidation Potential",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Université Ibn Zohr",
+   "Mohamed I University",
+   "Centre Hospitalo-Universitaire Mohammed VI d'Oujda",
+   "Centre National de la Recherche Scientifique",
+   "Sorbonne Université",
+   "Laboratoire Interfaces et Systèmes Électrochimiques",
+   "Técnicas y Servicios de Ingeniería (Spain)",
+   "Universidad de Sevilla"
   ],
   "added": "2026-07-30"
  }
