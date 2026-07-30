@@ -1,5 +1,147 @@
 [
  {
+  "id": "51a9951545489590",
+  "title": "The Scientific Legacy of Su-Moon Park: a Personal View",
+  "authors": [
+   "Donald A. Tryk"
+  ],
+  "journal": "Journal of Electrochemical Science and Technology",
+  "publisher": "",
+  "published": "2013-12-31",
+  "year": 2013,
+  "doi": "10.33961/jecst.2013.4.4.119",
+  "url": "https://doi.org/10.33961/jecst.2013.4.4.119",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "09e7a069fca2cac8",
+  "title": "Influence of Trivalent-Dopants on the Structural and Electrochemical Properties of Uranium Dioxide (UO 2 )",
+  "authors": [
+   "Mayuri Razdan",
+   "David W. Shoesmith"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "2013-12-27",
+  "year": 2013,
+  "doi": "10.1149/2.047403jes",
+  "url": "https://doi.org/10.1149/2.047403jes",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 41,
+  "affiliations": [
+   "Western University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3f0783d135505556",
+  "title": "Fabrication of a TiO2 photocatalyst by anodic oxidation of Ti in an acetic acid electrolyte",
+  "authors": [
+   "Yoshiteru Mizukoshi",
+   "Naoya Masahashi"
+  ],
+  "journal": "Surface and Coatings Technology",
+  "publisher": "Elsevier BV",
+  "published": "2013-12-22",
+  "year": 2013,
+  "doi": "10.1016/j.surfcoat.2013.12.030",
+  "url": "https://doi.org/10.1016/j.surfcoat.2013.12.030",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tohoku University",
+   "Institute for Materials Research, Tohoku University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "745ced0d2d5e27ae",
+  "title": "Ionic liquids for solid-state electrolytes and electrosynthesis",
+  "authors": [
+   "M.J. Neto",
+   "R. Leones",
+   "F. Sentanin",
+   "José M. S. S. Esperança",
+   "M.J. Medeiros",
+   "Agnieszka Pawlicka",
+   "M.M. Silva"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2013-12-19",
+  "year": 2013,
+  "doi": "10.1016/j.jelechem.2013.12.013",
+  "url": "https://doi.org/10.1016/j.jelechem.2013.12.013",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Minho",
+   "Universidade de São Paulo",
+   "Universidade Nova de Lisboa"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "687e36b98720ebba",
+  "title": "Anodic oxidation induced [2+2] carbon-carbon coupling reactions of terminal alkenes using organo-Re(II) electron transfer mediator",
+  "authors": [
+   "Joshua Paul May"
+  ],
+  "journal": "Cardinal Scholar (Ball State University)",
+  "publisher": "Ball State University",
+  "published": "2013-12-14",
+  "year": 2013,
+  "doi": "",
+  "url": "http://cardinalscholar.bsu.edu/handle/123456789/197807",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Alkenes",
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Radical Cation",
+   "Radical Chemistry",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "220a997868fefc8c",
   "title": "Optimizing Electron Transfer Mediators Based on Arylimidazoles by Ring Fusion: Synthesis, Electrochemistry, and Computational Analysis of 2-Aryl-1-methylphenanthro[9,10- d ]imidazoles",
   "authors": [
@@ -62,6 +204,215 @@
   "affiliations": [
    "Xiamen University",
    "Washington University in St. Louis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ea139050eb02400c",
+  "title": "ChemInform Abstract: Electrosynthesis of Oxadiazoles from Benzoylhydrazines.",
+  "authors": [
+   "Huan-Yue Ma",
+   "Zhenggen Zha",
+   "Zhen-Lei Zhang",
+   "Li Meng",
+   "Zhiyong Wang"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2013-12-05",
+  "year": 2013,
+  "doi": "10.1002/chin.201352140",
+  "url": "https://doi.org/10.1002/chin.201352140",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "University of Science and Technology of China"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "aaa554b42293a3ef",
+  "title": "Preparation of Ti/SnO2-Sb electrodes modified by carbon nanotube for anodic oxidation of dye wastewater and combination with nanofiltration",
+  "authors": [
+   "Lichao Zhang",
+   "Li Xu",
+   "Jing He",
+   "Jiejing Zhang"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2013-12-04",
+  "year": 2013,
+  "doi": "10.1016/j.electacta.2013.11.117",
+  "url": "https://doi.org/10.1016/j.electacta.2013.11.117",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tianjin University",
+   "Lanzhou Jiaotong University",
+   "Jilin Agricultural University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8282121f736b8e84",
+  "title": "Electrosynthesis and protection role of polyaniline–polvinylalcohol composite on stainless steel",
+  "authors": [
+   "A.A. Hermas",
+   "Mohamed Abdel Salam",
+   "Salih S. Al-Juaid",
+   "Abdullah H. Qusti",
+   "Magdy Y. Abdelaal"
+  ],
+  "journal": "Progress in Organic Coatings",
+  "publisher": "Elsevier BV",
+  "published": "2013-12-02",
+  "year": 2013,
+  "doi": "10.1016/j.porgcoat.2013.11.002",
+  "url": "https://doi.org/10.1016/j.porgcoat.2013.11.002",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "King Abdulaziz University",
+   "Assiut University",
+   "Mansoura University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6c5223910194451d",
+  "title": "Electroreductive dechlorination of chlorophenols with Pd catalyst supported on solid electrode",
+  "authors": [
+   "Caixia",
+   "Atsushi Matsunaga",
+   "Meguru Tezuka"
+  ],
+  "journal": "Journal of Environmental Sciences",
+  "publisher": "Elsevier BV",
+  "published": "2013-12-01",
+  "year": 2013,
+  "doi": "10.1016/s1001-0742(14)60646-x",
+  "url": "https://doi.org/10.1016/s1001-0742(14)60646-x",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Saitama Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "67ebe1d6ea4aac53",
+  "title": "Electrochemical behavior of nickel and its oxides in concentrated sodium hydroxide solutions",
+  "authors": [
+   "А. Б. Килимник",
+   "E. Yu. Nikiforova"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2013-12-01",
+  "year": 2013,
+  "doi": "10.1134/s1023193513120033",
+  "url": "https://doi.org/10.1134/s1023193513120033",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Preparative Electrolysis"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Tambov State Technical University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "61d21d1e50e41bb6",
+  "title": "Preparation of Modified Ti/SnO 2 Electrode and its Application to Degradation of Simulated Pesticide Intermediate Wastewater",
+  "authors": [
+   "Shuo Wang",
+   "He Sheng Li",
+   "Xin Wei",
+   "Jinlong Yan",
+   "Cheng Ding",
+   "Song Chen"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-12-01",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/amr.864-867.1192",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.864-867.1192",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Constant Current",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Yancheng Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2c90a25b1d39d113",
+  "title": "Anodic Oxidation of Titanium in Mixture of β-Glycerophosphate (β-GP) and Calcium Acetate (CA)",
+  "authors": [
+   "Hasan Zuhudi Abdullah",
+   "Pramod Koshy",
+   "Charles C. Sorrell"
+  ],
+  "journal": "Key engineering materials",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-12-01",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/kem.594-595.275",
+  "url": "https://doi.org/10.4028/www.scientific.net/kem.594-595.275",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tun Hussein Onn University of Malaysia",
+   "UNSW Sydney"
   ],
   "added": "2026-07-30"
  }

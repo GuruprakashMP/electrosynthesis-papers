@@ -1,5 +1,36 @@
 [
  {
+  "id": "49085fc07f5f1fcb",
+  "title": "ChemInform Abstract: Direct Electrosynthesis of Ketones from Benzylic Methylenes by Electrooxidative C—H Activation.",
+  "authors": [
+   "Lijian Meng",
+   "Ji-Hu Su",
+   "Zhenggen Zha",
+   "Li Zhang",
+   "Zhenlei Zhang",
+   "Zhiyong Wang"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2013-08-30",
+  "year": 2013,
+  "doi": "10.1002/chin.201338080",
+  "url": "https://doi.org/10.1002/chin.201338080",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Science and Technology of China"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "2ced6d116776c9aa",
   "title": "ChemInform Abstract: Integration of Electrooxidative Cyclization and Chemical Oxidation via Alkoxysulfoniums Ions. Synthesis of Exocyclic Ketones from Alkenes with Cyclization.",
   "authors": [
@@ -24,6 +55,223 @@
   "relevance_score": 55,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "24ef505e886fd885",
+  "title": "Electrosynthesis of Glycerol Carbonate from CO 2 and Glycerol",
+  "authors": [
+   "Huan Wang",
+   "Meixia Zhu",
+   "La-Xia Wu",
+   "Xiaoming Xu",
+   "Xue-ru ZHAO",
+   "Jiaxing Lu"
+  ],
+  "journal": "Dian hua xue/Dian huaxue",
+  "publisher": "",
+  "published": "2013-08-28",
+  "year": 2013,
+  "doi": "10.61558/2993-074x.2117",
+  "url": "https://doi.org/10.61558/2993-074x.2117",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "East China Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b72489ca001b2410",
+  "title": "New poly(p-substituted-N-phenylpyrrole)s. Electrosynthesis, electrochemical properties and characterization",
+  "authors": [
+   "Abdou Karim Diagne Diaw",
+   "Diariatou Gningue-Sall",
+   "Abderrahim Yassar",
+   "Jean-Jacques Aaron"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "2013-08-22",
+  "year": 2013,
+  "doi": "10.1016/j.synthmet.2013.07.016",
+  "url": "https://doi.org/10.1016/j.synthmet.2013.07.016",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Cheikh Anta Diop University",
+   "École Polytechnique",
+   "Laboratoire de Physique des Interfaces et des Couches Minces",
+   "Laboratoire Navier",
+   "Université Gustave Eiffel"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "296aec357e702df5",
+  "title": "Electrochemical Multi-Coloration of Molybdenum Oxide Bronzes",
+  "authors": [
+   "Sang-Min Lee",
+   "Viswanathan S. Saji",
+   "Chi-Woo Lee"
+  ],
+  "journal": "Bulletin of the Korean Chemical Society",
+  "publisher": "Wiley",
+  "published": "2013-08-20",
+  "year": 2013,
+  "doi": "10.5012/bkcs.2013.34.8.2348",
+  "url": "https://doi.org/10.5012/bkcs.2013.34.8.2348",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ac28e63d59c564a3",
+  "title": "One-Pot Formation of 1,3,4-Oxadiazol-2(3 H )-ones and Dibenzo[ c , e ]azepines by Concomitant Cathodic Reduction of Diazonium Salts and Phenanthrenequinones",
+  "authors": [
+   "Belén Batanero",
+   "Fructuoso Barba",
+   "Avelino Martı́n"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2013-08-19",
+  "year": 2013,
+  "doi": "10.1021/jo401264w",
+  "url": "https://doi.org/10.1021/jo401264w",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Arenes",
+   "Cathodic Reduction",
+   "One-Pot",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Universidad de Alcalá"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fb1399f00b669087",
+  "title": "Electrochemical synthesis of glycoconjugates of 3β-hydroxy-Δ5-steroids by using non-activated sugars and steroidal thioethers",
+  "authors": [
+   "Aneta M. Tomkiel",
+   "Krzysztof Brzeziński",
+   "Zenon Łotowski",
+   "Leszek Siergiejczyk",
+   "Piotr Wałejko",
+   "Stanisław Witkowski",
+   "Jan Kowalski",
+   "Jolanta Płoszyńska",
+   "Andrzej Sobkowiak",
+   "Jacek W. Morzycki"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "2013-08-16",
+  "year": 2013,
+  "doi": "10.1016/j.tet.2013.07.106",
+  "url": "https://doi.org/10.1016/j.tet.2013.07.106",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Białystok",
+   "Rzeszów University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "581f3892e1c8deba",
+  "title": "Electrode Reactions of Elemental (White) Phosphorus and Phosphane PH 3",
+  "authors": [
+   "Dmitry G. Yakhvarov",
+   "Elena Gorbachuk",
+   "Оleg G. Sinyashin"
+  ],
+  "journal": "European Journal of Inorganic Chemistry",
+  "publisher": "Wiley",
+  "published": "2013-08-16",
+  "year": 2013,
+  "doi": "10.1002/ejic.201300845",
+  "url": "https://doi.org/10.1002/ejic.201300845",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Kazan Federal University",
+   "A.E. Arbuzov Institute of Organic and Physical Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "71e71b0477bce137",
+  "title": "Electrosynthesis of Imidazolium Carboxylates",
+  "authors": [
+   "Guillaume Robillard",
+   "Charles H. Devillers",
+   "Doris Kunz",
+   "Hélène Cattey",
+   "Eric Digard",
+   "Jacques Andrieu"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2013-08-12",
+  "year": 2013,
+  "doi": "10.1021/ol401949f",
+  "url": "https://doi.org/10.1021/ol401949f",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Bourgogne",
+   "Institut de Chimie",
+   "University of Tübingen"
   ],
   "added": "2026-07-30"
  },
@@ -58,6 +306,68 @@
   "relevance_score": 81,
   "affiliations": [
    "Washington University in St. Louis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1e3aa11156ed8765",
+  "title": "Hydrolysis and Atmospheric Oxidation Reactions of Perfluorinated Carboxylic Acid Precursors",
+  "authors": [
+   "Derek A. Jackson"
+  ],
+  "journal": "TSpace (University of Toronto)",
+  "publisher": "University of Toronto",
+  "published": "2013-08-08",
+  "year": 2013,
+  "doi": "",
+  "url": "http://hdl.handle.net/1807/35854",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrochemical Fluorination",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1ef61848775c2853",
+  "title": "Increased reactivity and in vitro cell response of titanium based implant surfaces after anodic oxidation",
+  "authors": [
+   "Marcelo Walter",
+   "Manuela Frank",
+   "Martin F. Sunding",
+   "Manuel Gómez-Florit",
+   "Marta Monjo",
+   "Mirosław M. Bućko",
+   "Elżbieta Pamuła",
+   "Ståle Petter Lyngstadaas",
+   "Håvard Jostein Haugen"
+  ],
+  "journal": "Journal of Materials Science Materials in Medicine",
+  "publisher": "Springer Science+Business Media",
+  "published": "2013-08-02",
+  "year": 2013,
+  "doi": "10.1007/s10856-013-5020-4",
+  "url": "https://doi.org/10.1007/s10856-013-5020-4",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Oslo",
+   "Technical University of Munich",
+   "SINTEF",
+   "Research Institute of Health Sciences",
+   "AGH University of Krakow"
   ],
   "added": "2026-07-30"
  }

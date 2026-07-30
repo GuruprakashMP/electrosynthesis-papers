@@ -1,5 +1,34 @@
 [
  {
+  "id": "5cc7b55ff07ba29f",
+  "title": "Tin-Pyrophosphate Based Electrolyte for Intermediate Temperature Electrosynthesis of NH3",
+  "authors": [
+   "Cortney R. Kreller",
+   "Mahlon S. Wilson",
+   "Eric L. Brosha",
+   "Rangachary Mukundan",
+   "Fernando H. Garzón"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "2013-10-28",
+  "year": 2013,
+  "doi": "",
+  "url": "https://www.osti.gov/servlets/purl/1097684",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Los Alamos National Laboratory"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "fa152300bd187148",
   "title": "Electrochemical Carboxylation of Olefins to Form Monocarboxylic Products By Using 12CaO•7Al 2 O 3 Electride Cathode",
   "authors": [
@@ -26,6 +55,150 @@
   "affiliations": [
    "Tokyo Institute of Technology",
    "Asahi Glass (Japan)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "eb52def24e5479b1",
+  "title": "Electrosynthesis of Ammonia Using Solid-State Proton Conductors",
+  "authors": [
+   "Cortney R. Kreller",
+   "Rangachary Mukundan",
+   "Fernando H. Garzón"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2013-10-27",
+  "year": 2013,
+  "doi": "10.1149/ma2013-02/10/720",
+  "url": "https://doi.org/10.1149/ma2013-02/10/720",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Los Alamos National Laboratory"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c9f91396829d1f2c",
+  "title": "Surface Decoration of Indium Tin Oxide with Amine-Terminated Dendrimers Encapsulating Nanoparticles via Electrooxidative Grafting",
+  "authors": [
+   "Yeo Ju Kim",
+   "Soon Bo Lee",
+   "Joohoon Kim"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2013-10-27",
+  "year": 2013,
+  "doi": "10.1149/ma2013-02/2/8",
+  "url": "https://doi.org/10.1149/ma2013-02/2/8",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Kyung Hee University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1d9d15684052ef72",
+  "title": "Mechanism of the Anodic Oxidation of Platinum",
+  "authors": [
+   "Digby D. Macdonald",
+   "Feixiong Mao"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2013-10-27",
+  "year": 2013,
+  "doi": "10.1149/ma2013-02/43/2510",
+  "url": "https://doi.org/10.1149/ma2013-02/43/2510",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of California, Berkeley"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "25e4ae5400340e10",
+  "title": "An easy one-step electrosynthesis of graphene/polyaniline composites and electrochemical capacitor",
+  "authors": [
+   "Xiaoqing Jiang",
+   "Sunao Setodoi",
+   "Saki Fukumoto",
+   "Ichiro Imae",
+   "Kenji Komaguchi",
+   "Jun Yano",
+   "Haruo Mizota",
+   "Yutaka Harima"
+  ],
+  "journal": "Carbon",
+  "publisher": "Elsevier BV",
+  "published": "2013-10-24",
+  "year": 2013,
+  "doi": "10.1016/j.carbon.2013.10.055",
+  "url": "https://doi.org/10.1016/j.carbon.2013.10.055",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Hiroshima University",
+   "Nanjing Normal University",
+   "National Institute of Technology, Niihama College",
+   "Hakodate University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f0cf6408e4a0375e",
+  "title": "ChemInform Abstract: Electrochemical Synthesis of Azanucleoside Derivatives Using a Lithium Perchlorate—Nitromethane System.",
+  "authors": [
+   "Shokaku Kim",
+   "Takao Shoji",
+   "Yoshikazu Kitano",
+   "Kazuhiro Chiba"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2013-10-14",
+  "year": 2013,
+  "doi": "10.1002/chin.201344199",
+  "url": "https://doi.org/10.1002/chin.201344199",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Tokyo University of Agriculture and Technology"
   ],
   "added": "2026-07-30"
  },
@@ -92,6 +265,149 @@
   "added": "2026-07-30"
  },
  {
+  "id": "8d7f48a8a37b53ad",
+  "title": "Influence of nanostructures on the biological properties of Ti implants after anodic oxidation",
+  "authors": [
+   "Baoe Li",
+   "Ying Li",
+   "Jun Li",
+   "Xiaolong Fu",
+   "Haipeng Li",
+   "Hongshui Wang",
+   "Shigang Xin",
+   "Linxi Zhou",
+   "Chunyong Liang",
+   "Changyi Li"
+  ],
+  "journal": "Journal of Materials Science Materials in Medicine",
+  "publisher": "Springer Science+Business Media",
+  "published": "2013-10-09",
+  "year": 2013,
+  "doi": "10.1007/s10856-013-5064-5",
+  "url": "https://doi.org/10.1007/s10856-013-5064-5",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Hebei University of Technology",
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Ceramics",
+   "Tianjin Stomatological Hospital",
+   "Tianjin Medical University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4a4dea35f32320b5",
+  "title": "Kinetic and Electrochemical Studies of the Oxidative Addition of Demanding Organic Halides to Pd(0): the Efficiency of Polyphosphane Ligands in Low Palladium Loading Cross-Couplings Decrypted",
+  "authors": [
+   "Veronika A. Zinovyeva",
+   "Sophal Mom",
+   "Sophie Fournier",
+   "Charles H. Devillers",
+   "Hélène Cattey",
+   "Henri Doucet",
+   "Jean-Cyrille Hierso",
+   "Dominique Lucas"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2013-10-09",
+  "year": 2013,
+  "doi": "10.1021/ic401613w",
+  "url": "https://doi.org/10.1021/ic401613w",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation",
+   "C-H Functionalization"
+  ],
+  "tags": [
+   "C-C Bond Formation",
+   "C-H Functionalization",
+   "Cross-Coupling",
+   "Electrosynthesis",
+   "Pd Catalysis"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Bourgogne",
+   "Institut de Chimie",
+   "Institut de Chimie Moléculaire de l'Université de Bourgogne",
+   "Institut des Sciences Chimiques de Rennes",
+   "Université de Rennes",
+   "Institut Universitaire de France"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "37816c57b7f80034",
+  "title": "Development of Glycosylation Using the Glucopyranose 1,2-Orthobenzoate under Electrochemical Conditions",
+  "authors": [
+   "Kohei Kawa",
+   "Tsuyoshi Saitoh",
+   "Eisuke Kaji",
+   "Shigeru Nishiyama"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2013-10-09",
+  "year": 2013,
+  "doi": "10.1021/ol4026342",
+  "url": "https://doi.org/10.1021/ol4026342",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrogenerated Acid"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Keio University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fa801131ad5f3a57",
+  "title": "Template electrosynthesis of tailored-made helical nanoswimmers",
+  "authors": [
+   "Jinxing Li",
+   "Sirilak Sattayasamitsathit",
+   "Renfeng Dong",
+   "Wei Gao",
+   "Ryan Tam",
+   "Xiaomiao Feng",
+   "Stephen Ai",
+   "Joseph Wang"
+  ],
+  "journal": "Nanoscale",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2013-10-07",
+  "year": 2013,
+  "doi": "10.1039/c3nr04760a",
+  "url": "https://doi.org/10.1039/c3nr04760a",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of California San Diego"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "9df0a6ebc1b9e68b",
   "title": "Efficient Indirect Electrochemical Synthesis of 2‐Substituted Benzoxazoles using Sodium Iodide as Mediator",
   "authors": [
@@ -120,6 +436,195 @@
    "Beijing University of Technology",
    "Beijing Technology and Business University",
    "University of California, Santa Barbara"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4732deaea0f8e7cc",
+  "title": "Electrochemical Synthesis of the Aryl α‐Ketoesters from Acetophenones Mediated by KI",
+  "authors": [
+   "Zhenlei Zhang",
+   "Ji-Hu Su",
+   "Zhenggen Zha",
+   "Zhiyong Wang"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2013-10-02",
+  "year": 2013,
+  "doi": "10.1002/chem.201302307",
+  "url": "https://doi.org/10.1002/chem.201302307",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Hefei National Center for Physical Sciences at Nanoscale",
+   "Equilibrium Research"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a6beb56225d7bd08",
+  "title": "Electrochemical Synthesis and Vibrational Mode Analysis of poly (3-methelthiophene)",
+  "authors": [
+   "Hasoon Salah Abdulla"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2013-10-01",
+  "year": 2013,
+  "doi": "10.1016/s1452-3981(23)13221-4",
+  "url": "https://doi.org/10.1016/s1452-3981(23)13221-4",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "University of Baghdad"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "98e3f99a41638152",
+  "title": "Anodic oxidation of sodium-O-cyclohexylphosphonite",
+  "authors": [
+   "V. A. Zagumennov"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2013-10-01",
+  "year": 2013,
+  "doi": "10.1134/s1023193513100169",
+  "url": "https://doi.org/10.1134/s1023193513100169",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kazan Federal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8ba9e5d9ec5e4ff7",
+  "title": "Poly(amidehydroxyurethane) template magnetite NPs electrosynthesis. II. Core and shell characterization",
+  "authors": [
+   "Elena-Laura Ursu"
+  ],
+  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "publisher": "",
+  "published": "2013-10-01",
+  "year": 2013,
+  "doi": "",
+  "url": "https://doaj.org/article/b823f4d7d2ad4f4588b51d80b7055e34",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8116313650776bb5",
+  "title": "Quenching experiment with modified surface using Anodic Oxidation",
+  "authors": [
+   "Jun Young Kang",
+   "Seol Ha Kim",
+   "Moo Hwan Kim",
+   "Hang Jin Jo",
+   "Ho Seon Ahn"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2013-10-01",
+  "year": 2013,
+  "doi": "",
+  "url": "https://inis.iaea.org/search/search.aspx?orig_q=RN:45082343",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Pohang University of Science and Technology",
+   "Incheon National University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3ba257fc5d789ca2",
+  "title": "Preparative Microfluidic Electrosynthesis of Drug Metabolites",
+  "authors": [
+   "Romain Stalder",
+   "Gregory P. Roth"
+  ],
+  "journal": "ACS Medicinal Chemistry Letters",
+  "publisher": "American Chemical Society",
+  "published": "2013-10-01",
+  "year": 2013,
+  "doi": "10.1021/ml400316p",
+  "url": "https://doi.org/10.1021/ml400316p",
+  "source": "openalex",
+  "categories": [
+   "Late-Stage Functionalization & Medicinal Chemistry"
+  ],
+  "tags": [
+   "Drug Molecules",
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Sanford Burnham Prebys Medical Discovery Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "23946caa72f985d2",
+  "title": "One-step electrosynthesis of multi-walled carbon nanotube/poly-ortho-aminophenol composite film and investigation of its electrocatalytic properties",
+  "authors": [
+   "Narges Ajami",
+   "Niloufar Bahrami Panah"
+  ],
+  "journal": "Journal of nanostructure in chemistry",
+  "publisher": "Springer Nature",
+  "published": "2013-10-01",
+  "year": 2013,
+  "doi": "10.1186/2193-8865-3-76",
+  "url": "https://doi.org/10.1186/2193-8865-3-76",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Payame Noor University"
   ],
   "added": "2026-07-30"
  }

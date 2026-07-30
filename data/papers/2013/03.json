@@ -1,5 +1,32 @@
 [
  {
+  "id": "8596647d3353a5ac",
+  "title": "Electrochemistry of Gallium",
+  "authors": [
+   "Yonghwa Chung",
+   "Chi-Woo Lee"
+  ],
+  "journal": "Journal of Electrochemical Science and Technology",
+  "publisher": "",
+  "published": "2013-03-31",
+  "year": 2013,
+  "doi": "10.33961/jecst.2013.4.1.1",
+  "url": "https://doi.org/10.33961/jecst.2013.4.1.1",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Korea University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "8077be0a11717ffa",
   "title": "Tandem acoustic emulsion, an effective tool for the electrosynthesis of highly transparent and conductive polymer films",
   "authors": [
@@ -28,6 +55,117 @@
   "added": "2026-07-30"
  },
  {
+  "id": "4cd60b51ab652b8f",
+  "title": "ChemInform Abstract: Synthesis of Pyrido[1,2‐a]benzimidazoles by Electroreductive Heterocyclization of 1‐(2‐Nitroaryl)pyridinium Chlorides.",
+  "authors": [
+   "А. А. Соколов",
+   "Mikhail A. Syroeshkin",
+   "Р. С. Бегунов",
+   "Nadezhda N. Rusakova",
+   "V. P. Gul’tyai"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2013-03-28",
+  "year": 2013,
+  "doi": "10.1002/chin.201316135",
+  "url": "https://doi.org/10.1002/chin.201316135",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Yaroslavl State University",
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a94b130eb89c06a2",
+  "title": "Wear-Insensitive Sidewall Microprobe With Long-Term Stable Performance for Scanning Probe Microscopy Lithography",
+  "authors": [
+   "Yong Fang Li",
+   "Masakazu Sugiyama",
+   "Hiroyuki Fujita"
+  ],
+  "journal": "Journal of Microelectromechanical Systems",
+  "publisher": "Institute of Electrical and Electronics Engineers",
+  "published": "2013-03-22",
+  "year": 2013,
+  "doi": "10.1109/jmems.2013.2249041",
+  "url": "https://doi.org/10.1109/jmems.2013.2249041",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Toshiba (Japan)",
+   "The University of Tokyo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "be9059cbef7e932b",
+  "title": "Fabrication of canonical nanoporous templates by variational anodic oxidation of aluminum",
+  "authors": [
+   "A. R. Chowdhury",
+   "P. Wallace"
+  ],
+  "journal": "Bulletin of the American Physical Society",
+  "publisher": "Cambridge University Press",
+  "published": "2013-03-21",
+  "year": 2013,
+  "doi": "",
+  "url": "http://absimage.aps.org/image/MAR13/MWS_MAR13-2012-020653.pdf",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "641af4f3eaec7cfa",
+  "title": "Probing the transport properties of graphene nano\\-structures produced by local anodic oxidation",
+  "authors": [
+   "Nils M. Freitag",
+   "Aviral Vaid",
+   "Marcus Liebmann",
+   "Felix Jekat",
+   "Theresa Hecking",
+   "Alexander Nent",
+   "Markus Morgenstern"
+  ],
+  "journal": "Bulletin of the American Physical Society",
+  "publisher": "Cambridge University Press",
+  "published": "2013-03-21",
+  "year": 2013,
+  "doi": "",
+  "url": "http://absimage.aps.org/image/MAR13/MWS_MAR13-2012-020594.pdf",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "327af2c8f95a5adc",
   "title": "Electrochemical C–H Amination: Synthesis of Aromatic Primary Amines via N -Arylpyridinium Ions",
   "authors": [
@@ -52,6 +190,133 @@
   "relevance_score": 52,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f658083c5939ae02",
+  "title": "Differential anodic oxidation of single organic linkage molecules enabling orthogonal bio-immobilization",
+  "authors": [
+   "Seung-Ryong Kwon",
+   "Hyunjun Ko",
+   "Hyeon Jin Kim",
+   "Kyuwon Kim"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2013-03-16",
+  "year": 2013,
+  "doi": "10.1016/j.elecom.2013.03.008",
+  "url": "https://doi.org/10.1016/j.elecom.2013.03.008",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Incheon National University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "81411860db7363a7",
+  "title": "Investigations of the Anodic Oxidation of Ethanol under Forced Convection and Ambient Conditions",
+  "authors": [
+   "Jan O. Meier",
+   "Carsten Cremers",
+   "Ulrich Stimming",
+   "Jens Tübke"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2013-03-15",
+  "year": 2013,
+  "doi": "10.1149/05002.2019ecst",
+  "url": "https://doi.org/10.1149/05002.2019ecst",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Fraunhofer Institute for Chemical Technology",
+   "Technical University of Munich"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0b8e18fb6bf7d00c",
+  "title": "Electrosynthesis and characterization of viologen cross linked thiophene copolymer",
+  "authors": [
+   "Bhushan Gadgil",
+   "Pia Damlin",
+   "Timo Ääritalo",
+   "Jouko Kankare",
+   "Carita Kvarnström"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2013-03-13",
+  "year": 2013,
+  "doi": "10.1016/j.electacta.2013.03.002",
+  "url": "https://doi.org/10.1016/j.electacta.2013.03.002",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Turku",
+   "Aalto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4becc91805c3edde",
+  "title": "Direct Electrosynthesis of Ketones from Benzylic Methylenes by Electrooxidative CH Activation",
+  "authors": [
+   "Li Meng",
+   "Ji-Hu Su",
+   "Zhenggen Zha",
+   "Li Zhang",
+   "Zhenlei Zhang",
+   "Zhiyong Wang"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2013-03-12",
+  "year": 2013,
+  "doi": "10.1002/chem.201204207",
+  "url": "https://doi.org/10.1002/chem.201204207",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrooxidative",
+   "Electrosynthesis",
+   "Mechanism",
+   "Radical Chemistry",
+   "Undivided Cell"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Hefei National Center for Physical Sciences at Nanoscale"
   ],
   "added": "2026-07-30"
  },
@@ -111,6 +376,68 @@
   "relevance_score": 40,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9cb967cd37ef3b9d",
+  "title": "ELECTROSYNTHESIS OF SOLID TETRA ETHYL AMMONIUM TRIBROMIDE (TEATB) IN A MEMBRANE ELECTROLYZER",
+  "authors": [
+   "K. Subramanian",
+   "S. Suresh",
+   "K. Asokan"
+  ],
+  "journal": "Chemical Engineering Communications",
+  "publisher": "Taylor & Francis",
+  "published": "2013-03-04",
+  "year": 2013,
+  "doi": "10.1080/00986445.2012.742435",
+  "url": "https://doi.org/10.1080/00986445.2012.742435",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Central Electrochemical Research Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "351def896fc042e4",
+  "title": "Application of vegetable oils for electrocatalytic synthesis of hydrocarbons",
+  "authors": [
+   "В. Н. Андреев",
+   "V. I. Bykov",
+   "В. А. Гринберг",
+   "А. Г. Дедов",
+   "А. С. Локтев",
+   "N. A. Mayorova",
+   "И.И. Моисеев",
+   "А. А. Степанов"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2013-03-01",
+  "year": 2013,
+  "doi": "10.1134/s1023193513030026",
+  "url": "https://doi.org/10.1134/s1023193513030026",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "Frumkin Institute of Physical Chemistry and Electrochemistry",
+   "Gubkin Russian State University of Oil and Gas"
   ],
   "added": "2026-07-30"
  }

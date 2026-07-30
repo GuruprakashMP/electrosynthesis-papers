@@ -1,5 +1,163 @@
 [
  {
+  "id": "689316570a1e8884",
+  "title": "Synthesis of ferroelectric BaTiO 3 tube-like arrays by hydrothermal conversion of a vertically aligned TiO 2 nanotube carpet",
+  "authors": [
+   "Andrea Lamberti",
+   "Nadia Garino",
+   "Katarzyna Bejtka",
+   "Stefano Bianco",
+   "Stefano Stassi",
+   "Angelica Chiodoni",
+   "Giancarlo Canavese",
+   "Candido Fabrizio Pirri",
+   "Marzia Quaglio"
+  ],
+  "journal": "New Journal of Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2013-11-27",
+  "year": 2013,
+  "doi": "10.1039/c3nj01138k",
+  "url": "https://doi.org/10.1039/c3nj01138k",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolytic"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Politecnico di Torino",
+   "Italian Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3eb7c7473d7905fe",
+  "title": "Difluoro‐ and Trifluoromethylation of Electron‐Deficient Alkenes in an Electrochemical Microreactor",
+  "authors": [
+   "Kenta Arai",
+   "Kevin Watts",
+   "Thomas Wirth"
+  ],
+  "journal": "ChemistryOpen",
+  "publisher": "WileyOpen",
+  "published": "2013-11-26",
+  "year": 2013,
+  "doi": "10.1002/open.201300039",
+  "url": "https://doi.org/10.1002/open.201300039",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Alkenes",
+   "Continuous Flow",
+   "Electrochemical Microreactor",
+   "Electrolysis",
+   "Kolbe Electrolysis",
+   "Microreactor"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Cardiff University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f8cf7448841726f5",
+  "title": "ChemInform Abstract: Electrocatalytic Fluoroalkylation of Olefins. Perfluoroalkylation of 2‐Vinylpyridine.",
+  "authors": [
+   "Mikhail Khrizanforov",
+   "Tatyana V. Gryaznova",
+   "D. Yu. Mikhailov",
+   "Yulia H. Budnikova",
+   "Оleg G. Sinyashin"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2013-11-21",
+  "year": 2013,
+  "doi": "10.1002/chin.201350162",
+  "url": "https://doi.org/10.1002/chin.201350162",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "A.E. Arbuzov Institute of Organic and Physical Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "119375d991346b4d",
+  "title": "Tin Oxide Nanoparticles: Synthesis, Characterization and Study their Particle Size at Different Current Density",
+  "authors": [
+   "Karzan A. Omar"
+  ],
+  "journal": "ARO-The Scientific Journal of Koya University",
+  "publisher": "Koya University",
+  "published": "2013-11-20",
+  "year": 2013,
+  "doi": "10.14500/aro.10028",
+  "url": "https://doi.org/10.14500/aro.10028",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Dr. Babasaheb Ambedkar Marathwada University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a13b60d84affbd89",
+  "title": "CO2 as a C1-organic building block: Enantioselective electrocarboxylation of aromatic ketones with CO2catalyzed by cinchona alkaloids under mild conditions",
+  "authors": [
+   "Baoli Chen",
+   "Zhuo-Ying Tu",
+   "Hongwei Zhu",
+   "Wenwen Sun",
+   "Huan Wang",
+   "Jiaxing Lu"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2013-11-15",
+  "year": 2013,
+  "doi": "10.1016/j.electacta.2013.11.001",
+  "url": "https://doi.org/10.1016/j.electacta.2013.11.001",
+  "source": "openalex",
+  "categories": [
+   "Asymmetric Electrosynthesis",
+   "Cathodic Reduction",
+   "Natural Product & Total Synthesis"
+  ],
+  "tags": [
+   "Alkaloids",
+   "Electrochemical Carboxylation",
+   "Enantioselective Electrosynthesis",
+   "Enantioselectivity"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "East China Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "171057983c150879",
   "title": "Synthesis of (+)‐ O ‐Methylthalibrine by Employing a Stereocontrolled Bischler–Napieralski Reaction and an Electrochemically Generated Diaryl Ether",
   "authors": [
@@ -31,6 +189,29 @@
   "added": "2026-07-30"
  },
  {
+  "id": "a8125f5eb512b2f4",
+  "title": "ChemInform Abstract: Electroorganic Synthesis of Esters and Ketones at the Platinum Anode in Aqueous Medium.",
+  "authors": [
+   "Sanjeev Kumar"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2013-11-08",
+  "year": 2013,
+  "doi": "10.1002/chin.201348020",
+  "url": "https://doi.org/10.1002/chin.201348020",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "31d21a7a300d1b4a",
   "title": "Oxidative Cyclizations, the Synthesis of Aryl-Substituted C-Glycosides, and the Role of the Second Electron Transfer Step",
   "authors": [
@@ -57,6 +238,66 @@
   "relevance_score": 57,
   "affiliations": [
    "Washington University in St. Louis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ee15e57f19fcb25d",
+  "title": "PREPARATION AND INVESTIGATION OF METALLIC SILVER NANOPARTICLES BY ANODIC OXIDATION",
+  "authors": [
+   "A. V. Shmigel’",
+   "P.A. Tichonov",
+   "M. Yu. Arsent’ev",
+   "И. А. Дроздова"
+  ],
+  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "publisher": "",
+  "published": "2013-11-01",
+  "year": 2013,
+  "doi": "",
+  "url": "https://doaj.org/article/d703cc3bc65a45cca075f465485701be",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Institute of Chemistry of Silicates named after I.V. Grebenshchikov"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7c8b40a5c7095135",
+  "title": "Application of ionic liquids for extraction and synthesis of organosulfur compounds",
+  "authors": [
+   "V. V. Okhlobystina",
+   "А. О. Охлобыстин",
+   "Yu. Yu. Koldaeva",
+   "Н. О. Мовчан",
+   "А. А. Литвин",
+   "Н. Т. Берберова"
+  ],
+  "journal": "Russian Journal of General Chemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2013-11-01",
+  "year": 2013,
+  "doi": "10.1134/s1070363213110170",
+  "url": "https://doi.org/10.1134/s1070363213110170",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Astrakhan State Technical University",
+   "Russian Academy of Sciences",
+   "Southern Scientific Center"
   ],
   "added": "2026-07-30"
  }
