@@ -1,5 +1,32 @@
 [
  {
+  "id": "db85804a089fb3df",
+  "title": "Electrosynthesis and Characterization of Polyaniline Films on ASTM 304 Steel, in Phosphoric, Sulfuric and Perchloric Acid Electrolytes",
+  "authors": [
+   "Oscar Vallejo",
+   "Pedro Roquero",
+   "Ernesto Rivera"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-06-30",
+  "year": 2006,
+  "doi": "10.1149/ma2006-02/11/708",
+  "url": "https://doi.org/10.1149/ma2006-02/11/708",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Instituto de Investigaciones en Ciencia y Tecnología de Materiales"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "a6eba755a5602dde",
   "title": "Stereochemical Control in Electroreductive Cyclization and Electrohyrdrodimerization Reactions Using Chiral Auxilaries and Lewis Acid Complexes",
   "authors": [
@@ -22,6 +49,339 @@
   "relevance_score": 40,
   "affiliations": [
    "University of California, Santa Barbara"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0d02f2d76e49405a",
+  "title": "Color and Phenol Removal by Anodic Oxidation",
+  "authors": [
+   "Isarain Chavez",
+   "Ulises Morales Ortiz",
+   "Bernardo A. Frontana Uribe",
+   "Alfonso Durn Moreno",
+   "Pedro Roquero"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-06-30",
+  "year": 2006,
+  "doi": "10.1149/ma2006-02/39/1784",
+  "url": "https://doi.org/10.1149/ma2006-02/39/1784",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Universidad Autónoma Metropolitana"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "02198210df71f50c",
+  "title": "Kinetics of Cathodic Reduction of Oxygen on Ni-Cr-Mo-WAlloy",
+  "authors": [
+   "Dmitrij Zagidulin",
+   "Brent W.A. Sherar",
+   "Pellumb Jakupi",
+   "Jamie Noel",
+   "David W. Shoesmith"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-06-30",
+  "year": 2006,
+  "doi": "10.1149/ma2006-02/17/911",
+  "url": "https://doi.org/10.1149/ma2006-02/17/911",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Western University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2f7584537a8ed76d",
+  "title": "Spiral Growth of One Dimensional Titania Nanostructures Using Anodic Oxidation",
+  "authors": [
+   "Ajay Karakoti",
+   "Rudi Filmalter",
+   "Debabrata Bera",
+   "Satyanarayana V. N. T. Kuchibhatla",
+   "Adrien Vincent",
+   "Sudipta Seal"
+  ],
+  "journal": "Journal of Nanoscience and Nanotechnology",
+  "publisher": "American Scientific Publishers",
+  "published": "2006-06-25",
+  "year": 2006,
+  "doi": "10.1166/jnn.2006.364",
+  "url": "https://doi.org/10.1166/jnn.2006.364",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Central Florida",
+   "Materials Processing (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "85f893d404639571",
+  "title": "Lateral nonuniformity of effective oxide charges in MOS capacitors with Al/sub 2/O/sub 3/ gate dielectrics",
+  "authors": [
+   "Szu-Wei Huang",
+   "Jenn-Gwo Hwu"
+  ],
+  "journal": "IEEE Transactions on Electron Devices",
+  "publisher": "Institute of Electrical and Electronics Engineers",
+  "published": "2006-06-21",
+  "year": 2006,
+  "doi": "10.1109/ted.2006.875816",
+  "url": "https://doi.org/10.1109/ted.2006.875816",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Nanya Technology (Taiwan)",
+   "National Taiwan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3ac3452d8915513d",
+  "title": "Fabrication of nanostructures on Si(1 0 0) and GaAs(1 0 0) by local anodic oxidation",
+  "authors": [
+   "Jiří Červenka",
+   "Radek Kalousek",
+   "Miroslav Bartošík",
+   "David Škoda",
+   "Ondřej Tomanec",
+   "Tomáš Šikola"
+  ],
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2006-06-20",
+  "year": 2006,
+  "doi": "10.1016/j.apsusc.2006.03.095",
+  "url": "https://doi.org/10.1016/j.apsusc.2006.03.095",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Brno University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fc7ee56e8887bbbb",
+  "title": "Effect of anodic oxidation parameters on the titanium oxides formation",
+  "authors": [
+   "Maria Vittoria Diamanti",
+   "MariaPia Pedeferri"
+  ],
+  "journal": "Corrosion Science",
+  "publisher": "Elsevier BV",
+  "published": "2006-06-19",
+  "year": 2006,
+  "doi": "10.1016/j.corsci.2006.04.002",
+  "url": "https://doi.org/10.1016/j.corsci.2006.04.002",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Politecnico di Milano"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c3f885fa1786da99",
+  "title": "Diffusion Model and Filling Mechanism of Proton in Alkaline γ ‐ MnO 2 Electrode",
+  "authors": [
+   "Hong Zhang",
+   "Zhenhai Chen",
+   "XiaXi"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "2006-06-14",
+  "year": 2006,
+  "doi": "10.1149/1.2096284",
+  "url": "https://doi.org/10.1149/1.2096284",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Xinjiang University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4ea10e341fd30d71",
+  "title": "Fabrication of TiO2/Ti electrode by laser-assisted anodic oxidation and its application on photoelectrocatalytic degradation of methylene blue",
+  "authors": [
+   "Jiaqing Li",
+   "Lei Zheng",
+   "Luoping Li",
+   "Yuezhong Xian",
+   "Litong Jin"
+  ],
+  "journal": "Journal of Hazardous Materials",
+  "publisher": "Elsevier BV",
+  "published": "2006-06-11",
+  "year": 2006,
+  "doi": "10.1016/j.jhazmat.2006.06.003",
+  "url": "https://doi.org/10.1016/j.jhazmat.2006.06.003",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "East China Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "04815648a349e5f0",
+  "title": "Electrochemical Methods for Degradation of Orange II (Sodium 4-(2-Hydroxy-1-naphthylazo)benzenesulfonate)",
+  "authors": [
+   "Jeff Hastie",
+   "Dorin Bejan",
+   "Margarita Teutli-León",
+   "Nigel J. Bunce"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2006-06-06",
+  "year": 2006,
+  "doi": "10.1021/ie060310b",
+  "url": "https://doi.org/10.1021/ie060310b",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "BDD Electrode",
+   "Electrolysis",
+   "Oxidative Electrolysis",
+   "Reductive Electrolysis",
+   "Supporting Electrolyte",
+   "Undivided Cell"
+  ],
+  "relevance_score": 93,
+  "affiliations": [
+   "Benemérita Universidad Autónoma de Puebla",
+   "University of Guelph"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1ee484e7de3ba36d",
+  "title": "Free radical and isomerisation processes during the electrochemical fluorination of n-butyryl chloride, i-butyryl chloride and pivaloyl chloride in anhydrous hydrogen fluoride",
+  "authors": [
+   "D. Velayutham",
+   "K. Jayaraman",
+   "K. Kulangiappar",
+   "N. Ilayaraja",
+   "Y. Ram Babu",
+   "P. Santhan Rao",
+   "S. Narayana Reddy",
+   "K. Victor Babu",
+   "M. Noel"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2006-06-03",
+  "year": 2006,
+  "doi": "10.1016/j.jfluchem.2006.05.018",
+  "url": "https://doi.org/10.1016/j.jfluchem.2006.05.018",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrochemical Fluorination",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Central Electrochemical Research Institute",
+   "Indian Institute of Chemical Technology",
+   "Central Leather Research Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "28a5237502a24f9b",
+  "title": "Novel Synthesis of Mafenide and Other Amino Sulfonamides by Electrochemical Reduction of Cyano Sulfonamides",
+  "authors": [
+   "Shaik Khaja Lateef",
+   "Srinivasulu Reddy Krishna Mohan",
+   "Rudraraju Rameshraju",
+   "Srinivasulu Reddy Jayarama Reddy"
+  ],
+  "journal": "Helvetica Chimica Acta",
+  "publisher": "Wiley",
+  "published": "2006-06-01",
+  "year": 2006,
+  "doi": "10.1002/hlca.200690123",
+  "url": "https://doi.org/10.1002/hlca.200690123",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Cathodic Reduction",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrochemical Hydrogenation",
+   "Radical Chemistry",
+   "Undivided Cell"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Sri Venkateswara University"
   ],
   "added": "2026-07-30"
  }

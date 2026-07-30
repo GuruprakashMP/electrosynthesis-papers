@@ -1,5 +1,59 @@
 [
  {
+  "id": "ee17f893ca48dac1",
+  "title": "Electroreductive Intramolecular Coupling of Aromatic Imino Esters: Is Four-Membered Cyclization Much More Favorable than Six-Membered Cyclization?",
+  "authors": [
+   "Naoki Kise",
+   "Yuuki Hirano",
+   "Yoshi Tanaka"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2006-02-28",
+  "year": 2006,
+  "doi": "10.1021/ol053144x",
+  "url": "https://doi.org/10.1021/ol053144x",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tottori University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f4331304c2c1a810",
+  "title": "Cathodic Reduction of Alkyl Halides at Palladiated Surfaces. A Source of Alkyl Radicals",
+  "authors": [
+   "Jacques Simonet"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/38/1433",
+  "url": "https://doi.org/10.1149/ma2005-01/38/1433",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Université Rennes 2"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "f38a61884ad38ca7",
   "title": "Indirect Intramolecular Electroreductive Cyclization Using Catalytic Nickel (I) Salen",
   "authors": [
@@ -22,6 +76,89 @@
   ],
   "relevance_score": 40,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e7a8133b6447ed92",
+  "title": "Electrosynthesis of Lactobionate on Gold Nanoparticles modified Carbon Electrode",
+  "authors": [
+   "Kouakou Boniface Kokoh",
+   "Nicolás Alonso-Vante"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/36/1401",
+  "url": "https://doi.org/10.1149/ma2005-01/36/1401",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Université de Poitiers"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c92abb7873eedcec",
+  "title": "Electrooxidative C-S Bond Fission of Penicillin. A Prominent Access to 4-Substituted 2-Azetidinone Derivatives.",
+  "authors": [
+   "Hideo Tanaka",
+   "Yoshinori Ishitobi",
+   "Koichi Mitsudo"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/38/1446",
+  "url": "https://doi.org/10.1149/ma2005-01/38/1446",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b639f88c75d85907",
+  "title": "Electroreductive Cross Coupling of Styrenes with Diphenyl Succinate",
+  "authors": [
+   "Ikuzo Nishiguchi",
+   "Yoshimasa Yamamoto",
+   "Hirofumi Maekawa"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/38/1456",
+  "url": "https://doi.org/10.1149/ma2005-01/38/1456",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electroreductive"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Nagaoka University",
+   "Nagaoka University of Technology"
+  ],
   "added": "2026-07-30"
  },
  {
@@ -56,6 +193,399 @@
   "added": "2026-07-30"
  },
  {
+  "id": "b1cef51128767b03",
+  "title": "Electrochemical Decoloration of Azo Dyes by Anodic Oxidation on BDD Electrodes",
+  "authors": [
+   "Nasr Bensalah",
+   "Mohamed Faouzi Ahmadi",
+   "Abdelatif Gadri"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/42/1564",
+  "url": "https://doi.org/10.1149/ma2005-01/42/1564",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Gabès"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8650b2ad621bcfab",
+  "title": "Mild Electrosynthesis of Poly(para)phenylene in an Ionic Liquid",
+  "authors": [
+   "Frank Endres"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/44/1660",
+  "url": "https://doi.org/10.1149/ma2005-01/44/1660",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Clausthal University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6b0ce53d63483145",
+  "title": "Electrosynthesis and Analytical Characterization of Bioactive Nanoparticles and Nanocomposite Materials Displaying Controlled Release Properties",
+  "authors": [
+   "Nicoletta Ditaranto",
+   "Nicola Cioffi",
+   "Luisa Torsi",
+   "Giuseppina Tantillo",
+   "Lina Ghibelli",
+   "Luigia Sabbatini",
+   "T. Bleve-Zacheo",
+   "MARIA D'ALESSIO",
+   "P. G. Zambonin",
+   "Enrico Traversa"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/44/1705",
+  "url": "https://doi.org/10.1149/ma2005-01/44/1705",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Bari Aldo Moro",
+   "University of Rome Tor Vergata",
+   "European University of Rome"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "478d2a9686fe9b1f",
+  "title": "Chemical and Physicochemical Characterization of Nanoporous Titanium Oxide Ceramics on Titanium Implant by Cathode-anodic Oxidation",
+  "authors": [
+   "Keng-Liang Ou",
+   "Yu-Lin Chung",
+   "Chung-Chin Chan",
+   "Che-Tong Lin",
+   "Sheng-Yang Lee"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/32/1283",
+  "url": "https://doi.org/10.1149/ma2005-01/32/1283",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Taipei Medical University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "39965171d1c66a60",
+  "title": "Electrosynthesis of Poly(paraphenylene vinylene), PPV Containing C60 in the Main Chain",
+  "authors": [
+   "Carita Kvarnström",
+   "H. Kulovaara",
+   "Pia Damlin",
+   "Ari Ivaska"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/19/827",
+  "url": "https://doi.org/10.1149/ma2005-01/19/827",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Åbo Akademi University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "283631bf80506abe",
+  "title": "Advances in Iminium Ion Chemistry: Combining Electrosynthesis with Transition Metal Catalysis",
+  "authors": [
+   "Andrei K. Yudin"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/38/1458",
+  "url": "https://doi.org/10.1149/ma2005-01/38/1458",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Toronto"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "25fcad74957b8da0",
+  "title": "One-Pot Assembly of Polycyclic Compounds by Tandem Electroreductive Cyclization with Nickel Catalyst",
+  "authors": [
+   "Yoshitomo Kashiwagi",
+   "Hiroshi Ikezoe",
+   "Shinya Chiba"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/38/1455",
+  "url": "https://doi.org/10.1149/ma2005-01/38/1455",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive",
+   "One-Pot"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Tohoku University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "05506d1df8db06df",
+  "title": "First Asymmetric Synthesis of Orthoquinone Monoketals via Anodic Oxidation of 2-Alkoxyphenol Ethers",
+  "authors": [
+   "Denis Deffieux",
+   "Isabelle Fabre",
+   "StcPhane Quideau"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/38/1435",
+  "url": "https://doi.org/10.1149/ma2005-01/38/1435",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Université de Bordeaux",
+   "Institut Européen de Chimie et Biologie"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "044b81f2988af1ca",
+  "title": "Synthesis of Nano-Network Structured Titanium Dioxide Films on Titanium-Coated Substrates by Anodic Oxidation",
+  "authors": [
+   "Fu-Hsing Lu",
+   "Yu-Shao Yang"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/5/280",
+  "url": "https://doi.org/10.1149/ma2005-01/5/280",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Chung Hsing University",
+   "National Taipei University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5b9a006ef6d4a4cb",
+  "title": "The Electrochemistry of Halogens",
+  "authors": [
+   "Frank Marken"
+  ],
+  "journal": "Encyclopedia of Electrochemistry",
+  "publisher": "",
+  "published": "2006-02-20",
+  "year": 2006,
+  "doi": "10.1002/9783527610426.bard070009",
+  "url": "https://doi.org/10.1002/9783527610426.bard070009",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Redox Mediator"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Bath"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5b0d11e0a5804bfa",
+  "title": "Fullerenes",
+  "authors": [
+   "Lourdes E. Echegoyen",
+   "M. Ángeles Herranz",
+   "Luís Echegoyen"
+  ],
+  "journal": "Encyclopedia of Electrochemistry",
+  "publisher": "",
+  "published": "2006-02-20",
+  "year": 2006,
+  "doi": "10.1002/9783527610426.bard070601",
+  "url": "https://doi.org/10.1002/9783527610426.bard070601",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Clemson University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c46f2687bc73f26b",
+  "title": "Manipulating the Electrolyte Medium to Favor Either One-Electron or Two-Electron Oxidation Pathways for (Fulvalendiyl)dirhodium Complexes",
+  "authors": [
+   "Ayman Nafady",
+   "Teen T. Chin",
+   "William E. Geiger"
+  ],
+  "journal": "Organometallics",
+  "publisher": "American Chemical Society",
+  "published": "2006-02-18",
+  "year": 2006,
+  "doi": "10.1021/om051101e",
+  "url": "https://doi.org/10.1021/om051101e",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Radical Chemistry",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "University of Vermont"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e416257d53c93e8d",
+  "title": "Quality Improvement and Electrical characteristics of High-k Films after Receiving Direct Superimposed with Alternative Current Anodic Oxidation (DAC-ANO) Compensation",
+  "authors": [
+   "Chia-Hua Chang",
+   "Tsung-Miau Wang",
+   "Jenn-Gwo Hwu"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-17",
+  "year": 2006,
+  "doi": "10.1149/ma2005-02/13/550",
+  "url": "https://doi.org/10.1149/ma2005-02/13/550",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Taiwan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bf495011b6b426ec",
+  "title": "An Outgas Free Passivation Technology for Semiconductor Vacuum Chamber using Advanced Anodic Oxidation",
+  "authors": [
+   "Yasuhiro Kawase",
+   "Masafumi Kitano",
+   "Hitoshi Morinaga",
+   "Yasuyuki Shirai",
+   "Tadahiro Ohmi"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-17",
+  "year": 2006,
+  "doi": "10.1149/ma2006-01/6/317",
+  "url": "https://doi.org/10.1149/ma2006-01/6/317",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tohoku University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "a2aa3ed119e016b5",
   "title": "Cation Pool Method Based on C-C Bond Dissociation. Effective Genergation of Monocations and Dications",
   "authors": [
@@ -86,6 +616,33 @@
   "added": "2026-07-30"
  },
  {
+  "id": "35ed4d05941dfdc1",
+  "title": "Effects of Disilane Additives and Magnesium Ion on the Electroreductive Polymerization of Organodichlorosilanes",
+  "authors": [
+   "Manabu Ishifune",
+   "Yasumichi Kogai",
+   "Shigenori Kashimura"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-17",
+  "year": 2006,
+  "doi": "10.1149/ma2006-01/28/985",
+  "url": "https://doi.org/10.1149/ma2006-01/28/985",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Kindai University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "304427c9b9fef59d",
   "title": "Solution-Phase Parallel Combinatorial Electroorganic Synthesis Using Solid-Supported Bases",
   "authors": [
@@ -108,6 +665,217 @@
   "relevance_score": 40,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "16266314bbf733e0",
+  "title": "Electrochemical Carboxylation of Benzylic Fluorides: Synthesis of 2-Fluoro-2-arylpropanoic Acids, alpha-Fluorinated Anti-inflammatory Agents",
+  "authors": [
+   "Hisanori Senboku",
+   "Yusuke Yamauchi",
+   "Tsuyoshi Fukuhara",
+   "Shoji Hara"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-17",
+  "year": 2006,
+  "doi": "10.1149/ma2006-01/28/962",
+  "url": "https://doi.org/10.1149/ma2006-01/28/962",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0f0bd4ff2f1a44c3",
+  "title": "Enhancement of LED Light-Extraction Efficiency by Anodic Oxidation",
+  "authors": [
+   "Chien-Chun Wang",
+   "Wei-Lun Lu",
+   "Mau-Phon Houng",
+   "Te-Chi Yen",
+   "Yeong-Her Wang",
+   "Chien-Chih Liu",
+   "Chang Hsin Chu"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-17",
+  "year": 2006,
+  "doi": "10.1149/ma2006-01/11/504",
+  "url": "https://doi.org/10.1149/ma2006-01/11/504",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Cheng Kung University",
+   "Nan Jeon University of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "df0e9a6fbd2ee3c2",
+  "title": "Influence of the Synthesis Parameters on the Polyluminol Properties",
+  "authors": [
+   "Thais P Mendonça",
+   "Sandra Regina de Moraes",
+   "Artur de Jesus Motheo"
+  ],
+  "journal": "Molecular Crystals and Liquid Crystals",
+  "publisher": "Taylor & Francis",
+  "published": "2006-02-15",
+  "year": 2006,
+  "doi": "10.1080/15421400500385324",
+  "url": "https://doi.org/10.1080/15421400500385324",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Universidade Federal de São Carlos",
+   "Universidade de São Paulo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "df8954611c25e18c",
+  "title": "Electrochemical Oxidation of 2,3-Dimethylhydroquinone in the Presence of 1,3-Dicarbonyl Compounds",
+  "authors": [
+   "Saied Saeed Hosseiny Davarani",
+   "Davood Nematollahi",
+   "Mojtaba Shamsipur",
+   "Nahid Najafi",
+   "Leila Masoumi",
+   "Somayyeh Ramyar"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2006-02-08",
+  "year": 2006,
+  "doi": "10.1021/jo0523767",
+  "url": "https://doi.org/10.1021/jo0523767",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrochemically Driven",
+   "One-Pot",
+   "Undivided Cell"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Razi University",
+   "Shahid Beheshti University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d82f9582cb781780",
+  "title": "Electrooxidative Glycosylation Through C—S Bond Cleavage of 1‐Arylthio‐2,3‐dideoxyglycosides. Synthesis of 2′,3′‐Dideoxynucleosides.",
+  "authors": [
+   "Koichi Mitsudo",
+   "Takashi Kawaguchi",
+   "Seiji Miyahara",
+   "Wataru Matsuda",
+   "Manabu Kuroboshi",
+   "Hideo Tanaka"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2006-02-02",
+  "year": 2006,
+  "doi": "10.1002/chin.200609212",
+  "url": "https://doi.org/10.1002/chin.200609212",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ff39a9490231ebf1",
+  "title": "Initiation of tantalum oxide pores grown on tantalum by potentiodynamic anodic oxidation",
+  "authors": [
+   "I. Sieber",
+   "H. Hildebrand",
+   "Alexander Friedrich",
+   "Patrik Schmuki"
+  ],
+  "journal": "Journal of Electroceramics",
+  "publisher": "Springer Science+Business Media",
+  "published": "2006-02-01",
+  "year": 2006,
+  "doi": "10.1007/s10832-006-4351-7",
+  "url": "https://doi.org/10.1007/s10832-006-4351-7",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Friedrich-Alexander-Universität Erlangen-Nürnberg"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9f8a79ea0bd081f4",
+  "title": "Electrochemical fluorination of aromatic compounds in anhydrous HF",
+  "authors": [
+   "Bagrat А. Shainyan",
+   "Yu. S. Danilevich"
+  ],
+  "journal": "Russian Journal of Organic Chemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2006-02-01",
+  "year": 2006,
+  "doi": "10.1134/s1070428002120096",
+  "url": "https://doi.org/10.1134/s1070428002120096",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination",
+   "Electrolysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "A.E. Favorsky Irkutsk Institute of Chemistry"
   ],
   "added": "2026-07-30"
  }

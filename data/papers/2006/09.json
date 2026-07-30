@@ -31,6 +31,91 @@
   "added": "2026-07-30"
  },
  {
+  "id": "356cfab3b39242c4",
+  "title": "Electrosynthesis of organic–inorganic nanocomposites",
+  "authors": [
+   "Igor Zhitomirsky"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2006-09-29",
+  "year": 2006,
+  "doi": "10.1016/j.jallcom.2006.08.206",
+  "url": "https://doi.org/10.1016/j.jallcom.2006.08.206",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "McMaster University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c5f7139364118e5d",
+  "title": "Poly(malachite green) film: Electrosynthesis, characterization, and sensor application",
+  "authors": [
+   "Qijin Wan",
+   "Xiaoxia Wang",
+   "Xing Wang",
+   "Nianjun Yang"
+  ],
+  "journal": "Polymer",
+  "publisher": "Elsevier BV",
+  "published": "2006-09-23",
+  "year": 2006,
+  "doi": "10.1016/j.polymer.2006.09.002",
+  "url": "https://doi.org/10.1016/j.polymer.2006.09.002",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Wuhan Institute of Technology",
+   "University of Fukui",
+   "New Mexico State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "54f553a30928f467",
+  "title": "Growth and Electrochemical Characterization versus Lithium of Fe 3 O 4 Electrodes Made by Electrodeposition",
+  "authors": [
+   "Sagar Mitra",
+   "Philippe Poizot",
+   "Alexandre Finke",
+   "J.-M. Tarascon"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2006-09-21",
+  "year": 2006,
+  "doi": "10.1002/adfm.200500753",
+  "url": "https://doi.org/10.1002/adfm.200500753",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Electrolysis",
+   "Electrolytic"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Université de Picardie Jules Verne"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "f83ce54f3e3d6791",
   "title": "Electroorganic Reduction Synthesis. 2 Bde. Von Sigeru Torii.",
   "authors": [
@@ -77,6 +162,266 @@
   "relevance_score": 46,
   "affiliations": [
    "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ee2bf2aebe97df7c",
+  "title": "Electrosynthesis of small polypyrrole microcontainers",
+  "authors": [
+   "Yuying Gao",
+   "Lu Zhao",
+   "Hua Bai",
+   "Qi Chen",
+   "Gaoquan Shi"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2006-09-13",
+  "year": 2006,
+  "doi": "10.1016/j.jelechem.2006.07.036",
+  "url": "https://doi.org/10.1016/j.jelechem.2006.07.036",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tsinghua University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6d6c95a890d94d95",
+  "title": "Influence of the concentration in the anodic oxidations of α-chloro-ethylbenzene or toluene in acetonitrile",
+  "authors": [
+   "Rebeca Saez",
+   "Belén Batanero",
+   "Fructuoso Barba"
+  ],
+  "journal": "Electrochemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2006-09-13",
+  "year": 2006,
+  "doi": "10.1016/j.elecom.2006.07.039",
+  "url": "https://doi.org/10.1016/j.elecom.2006.07.039",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Alcalá"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c1259eb686ffa26a",
+  "title": "Electrosynthesis of Macroporous Polyaniline−V 2 O 5 Nanocomposites and Their Unusual Magnetic Properties",
+  "authors": [
+   "Inna Karatchevtseva",
+   "Zhaoming Zhang",
+   "John V. Hanna",
+   "Vittorio Luca"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "American Chemical Society",
+  "published": "2006-09-08",
+  "year": 2006,
+  "doi": "10.1021/cm052821e",
+  "url": "https://doi.org/10.1021/cm052821e",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "One-Pot"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Australian Nuclear Science and Technology Organisation"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dab93e76cf2b49de",
+  "title": "Phosphorus-Derived Chiral Auxiliaries for α-Alkylation of Secondary Amines by Anodic Oxidation",
+  "authors": [
+   "Thierry Martens",
+   "Emma Sierecki",
+   "Serge Turcaud",
+   "Jacques Royer"
+  ],
+  "journal": "Synthesis",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2006-09-04",
+  "year": 2006,
+  "doi": "10.1055/s-2006-950226",
+  "url": "https://doi.org/10.1055/s-2006-950226",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f4adeb0f4b8327a0",
+  "title": "Cathodic reduction of coenzyme Q10 on glassy carbon electrode in acetic acid–acetonitrile solutions",
+  "authors": [
+   "Sławomir Michałkiewicz"
+  ],
+  "journal": "Bioelectrochemistry",
+  "publisher": "Elsevier BV",
+  "published": "2006-09-02",
+  "year": 2006,
+  "doi": "10.1016/j.bioelechem.2006.08.003",
+  "url": "https://doi.org/10.1016/j.bioelechem.2006.08.003",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Glassy Carbon"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Kielce University of Technology",
+   "Jan Kochanowski University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f91ca158ad22d367",
+  "title": "Low-temperature synthesis of phthalocyanine and its metal complexes",
+  "authors": [
+   "Boris I. Kharisov",
+   "Ubaldo Ortiz Méndez",
+   "Javier Rivera De la Rosa"
+  ],
+  "journal": "Russian Journal of Coordination Chemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2006-09-01",
+  "year": 2006,
+  "doi": "10.1134/s1070328406090016",
+  "url": "https://doi.org/10.1134/s1070328406090016",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "Universidad Autónoma de Nuevo León",
+   "Frumkin Institute of Physical Chemistry and Electrochemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7efb3a01684b3892",
+  "title": "Electrooxidation of Hydroxypivalaldehyde in an Undivided Cell1",
+  "authors": [
+   "Jianfeng Yu",
+   "Xueyuan Cao",
+   "Hongli Zhang",
+   "Y ZHANG",
+   "K Li"
+  ],
+  "journal": "Chemical Research in Chinese Universities",
+  "publisher": "Springer International Publishing",
+  "published": "2006-09-01",
+  "year": 2006,
+  "doi": "10.1016/s1005-9040(06)60176-1",
+  "url": "https://doi.org/10.1016/s1005-9040(06)60176-1",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Undivided Cell"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Jilin University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "60fb28e5a661d7d2",
+  "title": "Fabrication of High power, High-Efficiency Linear Array Diode Lasers by Pulse Anodic Oxidation",
+  "authors": [
+   "Gao Gao",
+   "Xin Xin",
+   "Zhang Zhang",
+   "Jing Jing",
+   "Li Li",
+   "Hui Hui",
+   "Qu Qu",
+   "Yi Yi",
+   "Bo Bo",
+   "Baoxue Baoxue"
+  ],
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "2006-09-01",
+  "year": 2006,
+  "doi": "10.1143/jjap.45.6845",
+  "url": "https://doi.org/10.1143/jjap.45.6845",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Changchun University of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "52c4bb004dd49bb6",
+  "title": "Electrosynthesis of polyaniline in ionic liquid and its electrocatalytic properties",
+  "authors": [
+   "Xi-Min Qi",
+   "Yanfang Du",
+   "Guirong Zhang",
+   "Peng Zhao",
+   "Jiaxing Lu"
+  ],
+  "journal": "Frontiers of Chemistry in China",
+  "publisher": "Springer Nature",
+  "published": "2006-09-01",
+  "year": 2006,
+  "doi": "10.1007/s11458-006-0029-x",
+  "url": "https://doi.org/10.1007/s11458-006-0029-x",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "East China Normal University"
   ],
   "added": "2026-07-30"
  }

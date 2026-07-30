@@ -1,5 +1,64 @@
 [
  {
+  "id": "bda85821bd7e2e7a",
+  "title": "Electrosynthesis of poly(3,4-ethylenedioxythiophene) microcups in the aqueous solution of LiClO4 and tri(ethylene glycol)",
+  "authors": [
+   "Yuying Gao",
+   "Lu Zhao",
+   "Chun Li",
+   "Gaoquan Shi"
+  ],
+  "journal": "Polymer",
+  "publisher": "Elsevier BV",
+  "published": "2006-05-27",
+  "year": 2006,
+  "doi": "10.1016/j.polymer.2006.05.021",
+  "url": "https://doi.org/10.1016/j.polymer.2006.05.021",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tsinghua University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "db673659d1411169",
+  "title": "The effects of ultrasound on the direct electrosynthesis of solid K2FeO4 and the anodic behaviors of Fe in 14 M KOH solution",
+  "authors": [
+   "Zhihua Xu",
+   "Jianming Wang",
+   "Wenqu Mao",
+   "Weichun He",
+   "Quanqi Chen",
+   "Jianqing Zhang"
+  ],
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2006-05-24",
+  "year": 2006,
+  "doi": "10.1007/s10008-006-0163-6",
+  "url": "https://doi.org/10.1007/s10008-006-0163-6",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Zhejiang University",
+   "Institute of Metal Research"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "0a13e51a5268e71b",
   "title": "Indirect Cation Pool Method. Rapid Generation of Alkoxycarbenium Ion Pools from Thioacetals",
   "authors": [
@@ -25,6 +84,119 @@
   "relevance_score": 52,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "10b5d715b507dde3",
+  "title": "Anodic oxidation of ArSi(OEt)3 derivatives",
+  "authors": [
+   "Anand Dhiman",
+   "De-Qing Shi",
+   "Oliver Minge",
+   "Hubert Schmidbaur",
+   "James Y. Becker"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2006-05-17",
+  "year": 2006,
+  "doi": "10.1016/j.jelechem.2006.03.044",
+  "url": "https://doi.org/10.1016/j.jelechem.2006.03.044",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Ben-Gurion University of the Negev",
+   "Technical University of Munich"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d160a0dadd0f79ad",
+  "title": "Electrochemical Synthesis and Characterization of Conducting Copolymer: Poly(o-aniline-co-o-anisidine)",
+  "authors": [
+   "D. D. Borole",
+   "U. R. Kapadi",
+   "Pramod P. Mahulikar",
+   "D. G. Hundiwale"
+  ],
+  "journal": "Polymer-Plastics Technology and Engineering",
+  "publisher": "Marcel Dekker",
+  "published": "2006-05-16",
+  "year": 2006,
+  "doi": "10.1080/03602550600609283",
+  "url": "https://doi.org/10.1080/03602550600609283",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Kavayitri Bahinabai Chaudhari North Maharashtra University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5b38565fee14a2c5",
+  "title": "The Role of Anodic Oxidation in EAOPs",
+  "authors": [
+   "Julia Zelenka",
+   "Wolfgang Gangl",
+   "Peter Letonja",
+   "Matthäus Siebenhofer",
+   "Rolf Marr"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2006-05-15",
+  "year": 2006,
+  "doi": "",
+  "url": "https://graz.pure.elsevier.com/en/publications/the-role-of-anodic-oxidation-in-eaops-2",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a855171a483c028c",
+  "title": "A pulse plating method for the electrosynthesis of ZnSe",
+  "authors": [
+   "M. Bouroushian",
+   "T. Kosanovic",
+   "N. Spyrellis"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2006-05-09",
+  "year": 2006,
+  "doi": "10.1007/s10800-006-9141-z",
+  "url": "https://doi.org/10.1007/s10800-006-9141-z",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Technical University of Athens"
   ],
   "added": "2026-07-30"
  },
@@ -56,6 +228,155 @@
   "affiliations": [
    "Washington University in St. Louis"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dfd1a80b1ae00163",
+  "title": "Organic electrochemistry",
+  "authors": [
+   "Lennart Eberson",
+   "H. Schäfer"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2006-05-08",
+  "year": 2006,
+  "doi": "10.1007/bfb0050929",
+  "url": "https://doi.org/10.1007/bfb0050929",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Lund University",
+   "University of Göttingen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3ff6a60df65eaef3",
+  "title": "Electrosynthesis and characterization of GaAs in acid solutions by potentiostatic method",
+  "authors": [
+   "T. Mahalingam",
+   "Soonil Lee",
+   "Hanjo Lim",
+   "Hosun Moon",
+   "Yong Deak Kim"
+  ],
+  "journal": "Solar Energy Materials and Solar Cells",
+  "publisher": "Elsevier BV",
+  "published": "2006-05-05",
+  "year": 2006,
+  "doi": "10.1016/j.solmat.2006.03.018",
+  "url": "https://doi.org/10.1016/j.solmat.2006.03.018",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Alagappa University",
+   "Ajou University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3100ddd90750fcc1",
+  "title": "Electrochemical degradation of clofibric acid in water by anodic oxidation",
+  "authors": [
+   "Ignasi Sirés",
+   "Pere Lluı́s Cabot",
+   "Francesc Centellas",
+   "José António Garrido",
+   "Rosa Marı́a Rodrı́guez",
+   "Conchita Arias",
+   "Enric Brillas"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2006-05-03",
+  "year": 2006,
+  "doi": "10.1016/j.electacta.2006.03.075",
+  "url": "https://doi.org/10.1016/j.electacta.2006.03.075",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universitat de Barcelona"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d1a6da8902897f5a",
+  "title": "Characteristics of nickel sulphide reduction in Ni 2+ free background and Watts nickel plating electrolytes",
+  "authors": [
+   "G. Valiulienė",
+   "A. Žielienė",
+   "Vitalija Jasulaitienė"
+  ],
+  "journal": "Transactions of the IMF",
+  "publisher": "Taylor & Francis",
+  "published": "2006-05-01",
+  "year": 2006,
+  "doi": "10.1179/174591906x123994",
+  "url": "https://doi.org/10.1179/174591906x123994",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "76440a620918a472",
+  "title": "Electrochemical behaviour of some industrially important azonaphthol derivatives at glassy carbon electrode",
+  "authors": [
+   "H. Jayadevappa",
+   "Y Shivaraj",
+   "K. M. Mahadevan",
+   "B.E. Kumara Swamy",
+   "A. K. Sathpathi",
+   "B.S. Sherigara"
+  ],
+  "journal": "Indian Journal of Chemical Technology",
+  "publisher": "CSIR-NIScPR",
+  "published": "2006-05-01",
+  "year": 2006,
+  "doi": "",
+  "url": "http://nopr.niscair.res.in/bitstream/123456789/7029/1/IJCT%2013%283%29%20269-274.pdf",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Cyclic Voltammetry",
+   "Glassy Carbon",
+   "Reduction Potential",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
   "added": "2026-07-30"
  }
 ]
