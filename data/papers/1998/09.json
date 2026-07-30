@@ -1,5 +1,295 @@
 [
  {
+  "id": "3fe4ecd8c4a42946",
+  "title": "ChemInform Abstract: The Novel Product of Cathodic Reduction of Phthalimide Anion.",
+  "authors": [
+   "Andrzej Orzeszko",
+   "J. Maurin",
+   "A. NIEDZWIECKA-KORNAS",
+   "Zygmunt Kazimierczuk"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1998-09-29",
+  "year": 1998,
+  "doi": "10.1002/chin.199839019",
+  "url": "https://doi.org/10.1002/chin.199839019",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute of Biochemistry and Biophysics, Polish Academy of Sciences"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b864e96626d46ec6",
+  "title": "Electrochemical Generation of Highly Reactive Nickel and Its Utilization for the Dehalogenative Coupling of Aryl Halides",
+  "authors": [
+   "Akito Yasuhara",
+   "Atsushi Kasano",
+   "Takao Sakamoto"
+  ],
+  "journal": "Organometallics",
+  "publisher": "American Chemical Society",
+  "published": "1998-09-25",
+  "year": 1998,
+  "doi": "10.1021/om980383y",
+  "url": "https://doi.org/10.1021/om980383y",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Tohoku University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1fec0b9108c00532",
+  "title": "Electrosynthesis of a Low Band Gap π-Conjugated Polymer from a Multibridged Dithienylethylene",
+  "authors": [
+   "Philippe Blanchard",
+   "Amédée Riou",
+   "Jean Roncali"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1998-09-11",
+  "year": 1998,
+  "doi": "10.1021/jo980778r",
+  "url": "https://doi.org/10.1021/jo980778r",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université d'Angers"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "40cafe5aa14078de",
+  "title": "Electrochemical Synthesis of LaMnO 3 Coatings on Conducting Substrates",
+  "authors": [
+   "Helen Annal Therese",
+   "P. Vishnu Kamath"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "American Chemical Society",
+  "published": "1998-09-10",
+  "year": 1998,
+  "doi": "10.1021/cm980046f",
+  "url": "https://doi.org/10.1021/cm980046f",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Bangalore University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f225e2b381c6839f",
+  "title": "Coplanar interdigitated band electrodes for electrosynthesis. Part 4: Application to sea water electrolysis",
+  "authors": [
+   "C. Belmont",
+   "Rosaria Ferrigno",
+   "Olivier Leclerc",
+   "Hubert H. Girault"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1016/s0013-4686(98)00175-3",
+  "url": "https://doi.org/10.1016/s0013-4686(98)00175-3",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne",
+   "Électricité de France (France)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f0428e437e0688d7",
+  "title": "Selective and High-Yield Electrosynthesis of (Silyl and Silanylene 1-Methylpyrroles) from 1-Methylpyrrole Bromides",
+  "authors": [
+   "Carole Moreau",
+   "Françoise Serein-Spirau",
+   "Michel Bordeau",
+   "Claude Biran"
+  ],
+  "journal": "Synthetic Communications",
+  "publisher": "Taylor & Francis",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1080/00397919808004448",
+  "url": "https://doi.org/10.1080/00397919808004448",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut des Sciences Moléculaires",
+   "Laboratoire de Chimie Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d53432c3180b2be3",
+  "title": "Coplanar interdigitated band electrodes for electrosynthesis. Part 5: finite element simulation of paired reactions",
+  "authors": [
+   "Rosaria Ferrigno",
+   "Jacques Josserand",
+   "P. F. Brevet",
+   "Hubert H. Girault"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1016/s0013-4686(98)00187-x",
+  "url": "https://doi.org/10.1016/s0013-4686(98)00187-x",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "97cf63e2fa442c4d",
+  "title": "A new route to electroactive poly(2,2′-bithiophene-methylene)s from the anodic oxidation of triaryl ether units",
+  "authors": [
+   "Bruno Fabre",
+   "Philippe Marrec",
+   "Claire Beaugy",
+   "Jacques Simonet"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1016/s0022-0728(98)00287-3",
+  "url": "https://doi.org/10.1016/s0022-0728(98)00287-3",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire d'Electrochimie Moléculaire",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "924eb36e30542b36",
+  "title": "Synthesis of Pyridines by Anodic Oxidation of 1,4-Dihydropyridines",
+  "authors": [
+   "Zhen Yang",
+   "Binxiang Wang",
+   "Hongwen Hu",
+   "Shimin Zhu"
+  ],
+  "journal": "Synthetic Communications",
+  "publisher": "Taylor & Francis",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1080/00397919808004416",
+  "url": "https://doi.org/10.1080/00397919808004416",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Controlled Potential",
+   "Electrochemical Synthesis",
+   "Electrolysis",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "Nanjing Tech University",
+   "Nanjing University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "75d8fb0f429657b4",
+  "title": "ChemInform Abstract: Electroorganic Synthesis. Part 65. Anodic Homocoupling of Carboxylic Acids Derived from Fatty Acids.",
+  "authors": [
+   "Andreas Weiper-Idelmann",
+   "Martin aus dem Kahmen",
+   "H. J. SCHAEFER",
+   "Marianne Gockeln"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1002/chin.199835109",
+  "url": "https://doi.org/10.1002/chin.199835109",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "74a9520df188a6ce",
   "title": "Synthesis of Enantioenriched Methyl vic-Dihydroxystearates",
   "authors": [
@@ -26,6 +316,116 @@
   "relevance_score": 57,
   "affiliations": [
    "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "636619e21710dbcc",
+  "title": "ChemInform Abstract: Preparation of 2,2‐Difluoroenol Silyl Ethers by Electroreductive Defluorination of Trifluoromethyl Ketones",
+  "authors": [
+   "Kenji Uneyama",
+   "Kyosuke Maeda",
+   "Tsuyoshi Kato",
+   "T. Katagiri"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1002/chin.199835035",
+  "url": "https://doi.org/10.1002/chin.199835035",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "41a33ec1d674d6b3",
+  "title": "Selective electrosynthesis of p-methoxybenzaldehyde at spinel type CoMn2O4/titanium-composite anodes",
+  "authors": [
+   "E. Lodowicks",
+   "Fritz Beck"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1023/a:1003416421327",
+  "url": "https://doi.org/10.1023/a:1003416421327",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Duisburg-Essen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "15ed27f9e035c1f5",
+  "title": "Anodic oxidation of 9,9′-spirobifluorene in CH2Cl2+0.2 M Bu4NBF4. Electrochemical behaviour of the derived oxidation product",
+  "authors": [
+   "Joëlle Rault-Berthelot",
+   "M.M. Granger",
+   "Leonardo Mattiello"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1016/s0379-6779(98)00128-3",
+  "url": "https://doi.org/10.1016/s0379-6779(98)00128-3",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire d'Electrochimie Moléculaire",
+   "Université de Rennes",
+   "Sapienza University of Rome"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "140af490e13d7fa9",
+  "title": "ChemInform Abstract: Intramolecular Cationic [5 + 2]Cycloaddition Reaction of Penta‐Substituted Phenols by Using Anodic Oxidation.",
+  "authors": [
+   "Hiroyuki Takakura",
+   "S. YAMAMURA"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1998-09-01",
+  "year": 1998,
+  "doi": "10.1002/chin.199835121",
+  "url": "https://doi.org/10.1002/chin.199835121",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Keio University"
   ],
   "added": "2026-07-30"
  }

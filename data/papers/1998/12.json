@@ -1,5 +1,62 @@
 [
  {
+  "id": "05a2b84ed167dc99",
+  "title": "ChemInform Abstract: Selective and High‐Yield Electrosynthesis of (Silyl and Silanylene 1‐Methylpyrroles) from 1‐Methylpyrrole Bromides.",
+  "authors": [
+   "Carole Moreau",
+   "Françoise Serein-Spirau",
+   "Michel Bordeau",
+   "Claude Biran"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1998-12-15",
+  "year": 1998,
+  "doi": "10.1002/chin.199850137",
+  "url": "https://doi.org/10.1002/chin.199850137",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Bordeaux",
+   "Laboratoire de Chimie Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0992f04eb0c7ae70",
+  "title": "Electrosynthesis of soluble polyaniline in acetic acid",
+  "authors": [
+   "Lin Guo",
+   "Gaoquan Shi",
+   "Yingqiu Liang"
+  ],
+  "journal": "Polymer Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1998-12-14",
+  "year": 1998,
+  "doi": "10.1007/s002890050418",
+  "url": "https://doi.org/10.1007/s002890050418",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Nanjing University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "9e42a97fe4f9b13f",
   "title": "Electrolytic Partial Fluorination of Organic Compounds. 31. 1 Regioselective Anodic Fluorination of 2-Quinolyl and 4-(7-Trifluoromethyl)quinolyl Sulfides and the Factors Affecting Its Optimization",
   "authors": [
@@ -29,6 +86,242 @@
   "relevance_score": 90,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bc2d2660f12a1bbb",
+  "title": "ChemInform Abstract: Dehydroxy Substitution Reactions of the Anomeric Hydroxy Groups in Some Protected Sugars Initiated by Anodic Oxidation of Triphenylphosphine.",
+  "authors": [
+   "Haruka Maeda",
+   "Sayaka Matsumoto",
+   "Takashi Koide",
+   "H. OHMORI"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1998-12-08",
+  "year": 1998,
+  "doi": "10.1002/chin.199849254",
+  "url": "https://doi.org/10.1002/chin.199849254",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ef72186532da2b31",
+  "title": "ChemInform Abstract: Synthesis of Pyridines by Anodic Oxidation of 1,4‐Dihydropyridines.",
+  "authors": [
+   "Zhen Yang",
+   "B. Wang",
+   "Huai-Ming Hu",
+   "Shi-Liang Zhu"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1002/chin.199848143",
+  "url": "https://doi.org/10.1002/chin.199848143",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nanjing University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "eaf72ce303bf67a3",
+  "title": "Anodic oxidation of porous silicon bilayers",
+  "authors": [
+   "Ricardo Guerrero-Lemus",
+   "F. Ben-Hander",
+   "José David Moreno",
+   "Raúl J. Martín-Palma",
+   "J.M. Martı́nez-Duart",
+   "P Gómez-Garrido",
+   "M.L. Marcos",
+   "Juan R. González-Velasco"
+  ],
+  "journal": "Journal of Luminescence",
+  "publisher": "Elsevier BV",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1016/s0022-2313(98)00091-x",
+  "url": "https://doi.org/10.1016/s0022-2313(98)00091-x",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Instituto de Ciencia de Materiales de Madrid",
+   "Universidad Autónoma de Madrid",
+   "Universidad de La Laguna"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a4e5ae4af37cca5d",
+  "title": "MOS gated Si:SiGe quantum wells formed by anodic oxidation",
+  "authors": [
+   "J.C. Yeoh",
+   "P. W. Green",
+   "T. J. Thornton",
+   "Syuusuke Kaya",
+   "Kristel Fobelets",
+   "J.M. Fernández"
+  ],
+  "journal": "Semiconductor Science and Technology",
+  "publisher": "IOP Publishing",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1088/0268-1242/13/12/020",
+  "url": "https://doi.org/10.1088/0268-1242/13/12/020",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Imperial College London",
+   "Arizona State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "64f752c8784dfae3",
+  "title": "Synthesis and electropolymerization of newp-nitrophenyl-functionalized thiophene derivatives",
+  "authors": [
+   "Guangtao Li",
+   "Gerhard Koßmehl",
+   "Hans-Peter Welzel",
+   "Waldfried Plieth",
+   "Hesun Zhu"
+  ],
+  "journal": "Macromolecular Chemistry and Physics",
+  "publisher": "Wiley",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1002/(sici)1521-3935(19981201)199:12<2737::aid-macp2737>3.0.co;2-v",
+  "url": "https://doi.org/10.1002/(sici)1521-3935(19981201)199:12<2737::aid-macp2737>3.0.co;2-v",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Freie Universität Berlin",
+   "Technische Universität Dresden",
+   "Beijing Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5f147109b7d50517",
+  "title": "Electrosynthesis of Sodium Hydrosulfite: I. Development of an Online Process Control Monitor",
+  "authors": [
+   "Leonard L. Scott",
+   "Youzhen Ding",
+   "Sloane M. Stalder",
+   "Paul A. Kohl",
+   "Jack Winnick",
+   "Lawrence A. Bottomley"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1149/1.1838913",
+  "url": "https://doi.org/10.1149/1.1838913",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolytic",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Georgia Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5dfa3621671a6154",
+  "title": "Electrochemical Reduction of Aromatic Ketones in N,N-Dimethylformamide Containing Benzoic Acid. Effect of the Basicity of the Carbonyl Group",
+  "authors": [
+   "Barbara Kwiatek",
+   "MK Kalinowski"
+  ],
+  "journal": "Australian Journal of Chemistry",
+  "publisher": "CSIRO Publishing",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1071/ch9881963",
+  "url": "https://doi.org/10.1071/ch9881963",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2cd4b3fd82cef85f",
+  "title": "A new and efficient electrosynthesis of polysubstituted cyclopropylphosphonates, using electrochemically activated magnesium",
+  "authors": [
+   "Philippe Jubault",
+   "Sophie Goumain",
+   "Christian Féasson",
+   "Noël Collignon"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "1998-12-01",
+  "year": 1998,
+  "doi": "10.1016/s0040-4020(98)00925-9",
+  "url": "https://doi.org/10.1016/s0040-4020(98)00925-9",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Sheffield",
+   "Institut National des Sciences Appliquées Rouen Normandie"
   ],
   "added": "2026-07-30"
  }

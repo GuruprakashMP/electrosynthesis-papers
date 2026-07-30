@@ -1,5 +1,125 @@
 [
  {
+  "id": "c8599e7ae76151a0",
+  "title": "A Study on Heterogeneous Indirect Electrosynthesis of Benzaldehyde",
+  "authors": [
+   "Daobao Chu",
+   "Changjian Lin",
+   "Huashui Lin",
+   "Jianguang Tan"
+  ],
+  "journal": "Dian hua xue/Dian huaxue",
+  "publisher": "",
+  "published": "1998-02-28",
+  "year": 1998,
+  "doi": "10.61558/2993-074x.2677",
+  "url": "https://doi.org/10.61558/2993-074x.2677",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolytic",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Anhui Normal University",
+   "Xiamen University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1efc4d96095dc794",
+  "title": "ChemInform Abstract: Electrosynthesis of α‐(Silyl)alkylnitriles.",
+  "authors": [
+   "Thierry Constantieux",
+   "Jean Picard"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1998-02-03",
+  "year": 1998,
+  "doi": "10.1002/chin.199805164",
+  "url": "https://doi.org/10.1002/chin.199805164",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Bordeaux",
+   "Laboratoire de Chimie Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f07a6f9e5621d909",
+  "title": "Electrochemical fluorination of N-containing carboxylic acids Part 5. Fluorination of the methyl esters of cis-2,6-dimethylmorpholino-group substituted carboxylic acids",
+  "authors": [
+   "Takashi Abe",
+   "Haruhiko Fukaya",
+   "Taizo Ono",
+   "Eiji Hayashi",
+   "Irina Soloshonok",
+   "Kunio Okuhara"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.1016/s0022-1139(97)00145-0",
+  "url": "https://doi.org/10.1016/s0022-1139(97)00145-0",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nagoya Industrial Science Research Institute",
+   "Research Institute of Innovative Technology for the Earth"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e00106fc5146311c",
+  "title": "The initial products of the anodic oxidation of galena in acidic solution and the influence of mineral stoichiometry",
+  "authors": [
+   "I. Kartio",
+   "K. Laajalehto",
+   "E. Suoninen",
+   "Alan N. Buckley",
+   "Ronald Woods"
+  ],
+  "journal": "Colloids and Surfaces A Physicochemical and Engineering Aspects",
+  "publisher": "Elsevier BV",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.1016/s0927-7757(97)00202-1",
+  "url": "https://doi.org/10.1016/s0927-7757(97)00202-1",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Turku",
+   "Commonwealth Scientific and Industrial Research Organisation"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "b14af21abd927e6c",
   "title": "Electrosynthesis of β-trifluoromethylated O,S-acetal and α-(trifluoromethyl)acrylate derivatives from 2-ethoxycarbonyl-3,3,3-trifluoropropyl phenyl sulfide using a fluoride ion mediator",
   "authors": [
@@ -23,6 +143,371 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "902ae8ddaeb57321",
+  "title": "Rapid Anodic Oxidation of 6H-SiC",
+  "authors": [
+   "Yuri I. Khlebnikov",
+   "V. Madangarli",
+   "M.A. Khan",
+   "Tangali S. Sudarshan"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.4028/www.scientific.net/msf.264-268.873",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.264-268.873",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "2B Technologies (United States)",
+   "University of South Carolina",
+   "Institut de Physique et Chimie des Matériaux de Strasbourg"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8961aa97019e3e88",
+  "title": "Ultrasonic Effects on Electroorganic Processes. Part 10. Product‐Selectivity in Mixed Kolbe Electrolysis of Carboxylic Acids",
+  "authors": [
+   "Hiroki Fujiwara",
+   "Mahito Atobe",
+   "Hidenori Kanetsuna",
+   "Tsutomu Nonaka"
+  ],
+  "journal": "Journal of the Chinese Chemical Society",
+  "publisher": "Wiley",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.1002/jccs.199800029",
+  "url": "https://doi.org/10.1002/jccs.199800029",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electroorganic",
+   "Kolbe Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "Tokyo Institute of Technology",
+   "National Institute of Technology, Tsuruoka College"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "87ae8a38fe45767c",
+  "title": "The actual state of our knowledge about mechanism of electrochemical fluorination in anhydrous hydrogen fluoride (Simons process)",
+  "authors": [
+   "P. Sartori",
+   "Nikolai V. Ignat’ev"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.1016/s0022-1139(97)00139-5",
+  "url": "https://doi.org/10.1016/s0022-1139(97)00139-5",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Academy of Sciences of Ukraine"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "867055201f5737e7",
+  "title": "Anodic oxidation of 5-amino-1,4-naphthoquinone (ANQ) and synthesis of a conducting polymer (PANQ)",
+  "authors": [
+   "Minh Chau Pham",
+   "Benoı̂t Piro",
+   "E.A. Bazzaoui",
+   "Mir Hedayatullah",
+   "Jean Lacroix",
+   "Petr Novák",
+   "Otto Haas"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.1016/s0379-6779(98)80087-8",
+  "url": "https://doi.org/10.1016/s0379-6779(98)80087-8",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris Cité",
+   "Laboratoire de Tribologie et Dynamique des Systèmes",
+   "Paul Scherrer Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "746ea48781555949",
+  "title": "Electrochemical Oxidation of Ketenedithioacetals",
+  "authors": [
+   "Denise Curi",
+   "Vera L. Pardini",
+   "Hans Viertler"
+  ],
+  "journal": "Journal of the Brazilian Chemical Society",
+  "publisher": "Brazilian Chemical Society",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.1590/s0103-50531998000100013",
+  "url": "https://doi.org/10.1590/s0103-50531998000100013",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Reference Electrode"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Universidade de São Paulo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "722facfcda61befc",
+  "title": "Characterization of zirconium, lanthanum and lead oxide deposits prepared by cathodic electrosynthesis",
+  "authors": [
+   "Igor Zhitomirsky",
+   "L. Gal-Or"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.1023/a:1004389712291",
+  "url": "https://doi.org/10.1023/a:1004389712291",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Technion – Israel Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "66fabc947c2704f0",
+  "title": "Electrosynthesis and characterization of poly(1,3-dimethoxybenzene)",
+  "authors": [
+   "Y. Martínez",
+   "Ricardo Hernández",
+   "M. Kalaji",
+   "J. Márquez",
+   "O.P. Márquez"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.1016/s0379-6779(98)80126-4",
+  "url": "https://doi.org/10.1016/s0379-6779(98)80126-4",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Bangor University",
+   "University of the Andes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "568aed03a2077bda",
+  "title": "Application of an electrochemical pulsed flow reactor to electroorganic synthesis: Part I: Reduction of acetophenone",
+  "authors": [
+   "C. BELMANT",
+   "Patrick Cognet",
+   "J. Berlan",
+   "G. Lacoste",
+   "Paul-Louis Fabre",
+   "Jacob Jud"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.1023/a:1003282709485",
+  "url": "https://doi.org/10.1023/a:1003282709485",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Laboratoire de Synthèse Organique",
+   "Laboratoire de Génie Chimique",
+   "Université Toulouse III - Paul Sabatier",
+   "Laboratoire de Chimie Théorique",
+   "Laboratoire de Chimie Physique",
+   "Laboratoire de Chimie",
+   "Territoires, Villes, Environnement & Société"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "51683b431abacb8f",
+  "title": "Electrochemical fluorination of graphite in 47% HF aqueous solution",
+  "authors": [
+   "Y. Matsuo",
+   "Miho Segawa",
+   "J. Mitani",
+   "Y. Sugie"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.1016/s0022-1139(97)00137-1",
+  "url": "https://doi.org/10.1016/s0022-1139(97)00137-1",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Himeji University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "446af3f520160c6f",
+  "title": "Electrochemical cross-coupling between 2-halopyridines and aryl or heteroaryl halides catalysed by nickel-2,2′-bipyridine complexes",
+  "authors": [
+   "Corinne Gosmini",
+   "Sarah Lasry",
+   "Jean-Yves Nédélec",
+   "Jacques Périchon"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.1016/s0040-4020(97)10225-3",
+  "url": "https://doi.org/10.1016/s0040-4020(97)10225-3",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrochemical Cross-Coupling"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Catalyse",
+   "Laboratoire de Synthèse Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "32a9aa21574ee769",
+  "title": "Electrochemical fluorination of β-dicarbonyl compounds using p-iodotoluene difluoride as a mediator",
+  "authors": [
+   "Shoji Hara",
+   "Tsuyoshi Hatakeyama",
+   "Shengqi Chen",
+   "Kenji Ishii",
+   "Masanori Yoshida",
+   "Masanori Sawaguchi",
+   "Tsuyoshi Fukuhara",
+   "Norihiko Yoneda"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.1016/s0022-1139(97)00144-9",
+  "url": "https://doi.org/10.1016/s0022-1139(97)00144-9",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0c56fd7b8c58987a",
+  "title": "Lithium Bis[5‐fluoro‐2‐olato‐1‐benzenesulfonato (2‐)‐O,O′]borate(1‐), a New Anodically and Cathodically Stable Salt for Electrolytes of Lithium‐Ion Cells",
+  "authors": [
+   "J. Barthel",
+   "Michael Schmidt",
+   "H. J. Gores"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1998-02-01",
+  "year": 1998,
+  "doi": "10.1149/1.1838265",
+  "url": "https://doi.org/10.1149/1.1838265",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Regensburg"
   ],
   "added": "2026-07-30"
  }
