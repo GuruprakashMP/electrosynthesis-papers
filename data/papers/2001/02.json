@@ -1,5 +1,177 @@
 [
  {
+  "id": "faa839b96c6919ab",
+  "title": "ChemInform Abstract: Molar Scale Electrosynthesis of Ethyl 2,2‐Difluoro‐2‐trimethylsilylacetate, a Difluoromethylene Building Block Precursor.",
+  "authors": [
+   "Philippe Clavel",
+   "Claude Biran",
+   "Michel Bordeau",
+   "Nicolas Roques",
+   "Stéphane Trevin"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2001-02-27",
+  "year": 2001,
+  "doi": "10.1002/chin.200109063",
+  "url": "https://doi.org/10.1002/chin.200109063",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Bordeaux",
+   "Laboratoire de Chimie Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9e4186f248607ed9",
+  "title": "ChemInform Abstract: Anodic Oxidation of Novel Hole‐Transporting Materials Derived from Tetraarylbenzidines. Electrochemical and Spectroscopic Characterization.",
+  "authors": [
+   "René Fáber",
+   "G. Felix Mielke",
+   "Peter Rapta",
+   "Andrej Staško",
+   "Oskar Nuyken"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2001-02-27",
+  "year": 2001,
+  "doi": "10.1002/chin.200109096",
+  "url": "https://doi.org/10.1002/chin.200109096",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Slovak University of Technology in Bratislava",
+   "Technical University of Munich"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "50d605a5561b8643",
+  "title": "ChemInform Abstract: The Electrosynthesis of Diaryliodonium Salts.",
+  "authors": [
+   "Martin J. Peacock",
+   "Derek Pletcher"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2001-02-27",
+  "year": 2001,
+  "doi": "10.1002/chin.200109147",
+  "url": "https://doi.org/10.1002/chin.200109147",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Southampton"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "30e536d8c36c058b",
+  "title": "Electrochemical Techniques",
+  "authors": [
+   "Steen Uttrup Pedersen",
+   "Kim Daasbjerg"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2001-02-22",
+  "year": 2001,
+  "doi": "10.1002/9783527618248.ch12",
+  "url": "https://doi.org/10.1002/9783527618248.ch12",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Indirect Electrolysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0f80db1c05911e46",
+  "title": "ChemInform Abstract: Electrosynthesis of a Bis‐ketenedithioacetal Disulfide Derivative (II) from 1‐Phenyl‐3‐methyl‐4‐butyldithiocarboxylate‐5‐pyrazolone Using a Glassy Carbon Electrode.",
+  "authors": [
+   "Alfonso Oliva",
+   "Aurora Molinari",
+   "Jean Angulo",
+   "Ricardo Schrebler",
+   "H. Gómez",
+   "Ricardo Cordova"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2001-02-20",
+  "year": 2001,
+  "doi": "10.1002/chin.200108149",
+  "url": "https://doi.org/10.1002/chin.200108149",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Glassy Carbon"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Valparaíso"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c35a69fb366c232e",
+  "title": "Medium Effects on the Reductive Cleavage of the Carbon−Halogen Bond in Methyl and Methylene Halides",
+  "authors": [
+   "Milan Fedurco",
+   "Chantal Jorand Sartoretti",
+   "Jan Augustyński"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2001-02-17",
+  "year": 2001,
+  "doi": "10.1021/jp003646m",
+  "url": "https://doi.org/10.1021/jp003646m",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Geneva"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "793d30acb620c148",
   "title": "ChemInform Abstract: Electrooxidative Generation and Accumulation of Alkoxycarbenium Ions and Their Reactions with Carbon Nucleophiles.",
   "authors": [
@@ -24,6 +196,95 @@
   "relevance_score": 46,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "89b56673df964546",
+  "title": "On the Operation of a Porous Hydrophobized Electrode in an Indirect Electrosynthesis",
+  "authors": [
+   "В. Л. Корниенко",
+   "Yu. V. Saltykov",
+   "И. С. Васильева"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1023/a:1009052513157",
+  "url": "https://doi.org/10.1023/a:1009052513157",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "Institute of Chemistry and Chemical Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "734b561e314f24c2",
+  "title": "Properties of RF plasma treated magnetic tunnel junctions using an anodic oxidation spectroscopy",
+  "authors": [
+   "J. H. Park",
+   "Kwang Sub Yoon",
+   "Jaehoon Choi",
+   "Jhen-Yong Hong",
+   "C. O. Kim"
+  ],
+  "journal": "한국진공학회 학술발표회초록집",
+  "publisher": "",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "",
+  "url": "http://www.dbpia.co.kr/Article/NODE00632910",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6f62aef9eb0830dc",
+  "title": "Regioselectivity on Electroreductive Transannular Reaction of 7-Methylenebicyclo[3.3.1]nonan-3-one",
+  "authors": [
+   "Hiroki Itoh",
+   "Ichiro Kato",
+   "Kei Unoura",
+   "Yasuhisa Senda"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "2001-02-01",
+  "year": 2001,
+  "doi": "10.1246/bcsj.74.339",
+  "url": "https://doi.org/10.1246/bcsj.74.339",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Mechanism",
+   "Radical Anion",
+   "Radical Chemistry",
+   "Regioselectivity"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Yamagata University"
   ],
   "added": "2026-07-30"
  }

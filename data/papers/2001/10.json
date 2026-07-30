@@ -1,5 +1,114 @@
 [
  {
+  "id": "78975d1550e3458b",
+  "title": "State-of-the-art coordination chemistry of radioactive elements",
+  "authors": [
+   "Boris I. Kharisov",
+   "M.A. Mendéz-Rojas"
+  ],
+  "journal": "Russian Chemical Reviews",
+  "publisher": "Institute of Physics",
+  "published": "2001-10-31",
+  "year": 2001,
+  "doi": "10.1070/rc2001v070n10abeh000646",
+  "url": "https://doi.org/10.1070/rc2001v070n10abeh000646",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Universidad Autónoma de Nuevo León",
+   "Universidad Autónoma del Estado de Hidalgo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "41a0376faabba337",
+  "title": "Tip-induced local anodic oxidation on the native SiO 2 layer of Si(111) using an atomic force microscope",
+  "authors": [
+   "Yuan-Ron Ma",
+   "Chen-Chieh Yu",
+   "Y. D. Yao",
+   "Y. Liou",
+   "Shang-Fan Lee"
+  ],
+  "journal": "Physical review. B, Condensed matter",
+  "publisher": "American Physical Society",
+  "published": "2001-10-26",
+  "year": 2001,
+  "doi": "10.1103/physrevb.64.195324",
+  "url": "https://doi.org/10.1103/physrevb.64.195324",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Dong Hwa University",
+   "National Taiwan University",
+   "Institute of Physics, Academia Sinica"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9b3b2b9178679b03",
+  "title": "ChemInform Abstract: Anodic Oxidation of α‐Aminoacids.",
+  "authors": [
+   "Eleonora-Mihaela Ungureanu",
+   "Gabriela Dumitriţa Stanciu",
+   "Sorin I. Roşca"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2001-10-23",
+  "year": 2001,
+  "doi": "10.1002/chin.200143093",
+  "url": "https://doi.org/10.1002/chin.200143093",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Bucharest"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6b44125c9a9e782a",
+  "title": "Study of the Effect of Number of Layers on the Electrosynthesis of Cobalt(III) Acetate in a Bipolar Packed-Bed Flow Reactor",
+  "authors": [
+   "Altan Güvenç",
+   "Belgin Karabacakoğlu"
+  ],
+  "journal": "DergiPark (Istanbul University)",
+  "publisher": "Istanbul University",
+  "published": "2001-10-18",
+  "year": 2001,
+  "doi": "",
+  "url": "http://dergipark.gov.tr/tbtkchem/issue/11949/142958",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "b918bee9a1c3360a",
   "title": "Electrolytic Partial Fluorination of Organic Compounds. 55. 1 Highly Regio- and Stereoselective Anodic Monofluorination of 2,3-Dihydrochroman-4-one and Chromone Derivatives",
   "authors": [
@@ -27,6 +136,179 @@
   "affiliations": [
    "Tokyo Institute of Technology",
    "Cairo University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d3b2c4a08e45376d",
+  "title": "ChemInform Abstract: Cathodic Reduction of N‐(2‐Iodophenyl)‐N‐alkylcinnamides: A Novel Sequential Electrochemical Radical Cyclization and Hydroxylation",
+  "authors": [
+   "Raja Munusamy",
+   "Dhathathreyan Kaveripatnam Samban Dhathathreyan Kaveripatnam Samban",
+   "Kalpattu Kuppusamy Balasubramanian",
+   "C.S. Venkatachalam"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2001-10-16",
+  "year": 2001,
+  "doi": "10.1002/chin.200142060",
+  "url": "https://doi.org/10.1002/chin.200142060",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7ef475d57995a195",
+  "title": "Ab initio study of the electrochemical polymerization mechanism of ω–diamines",
+  "authors": [
+   "Boris Lakard",
+   "Guillaume Herlem",
+   "Bernard Fahys"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2001-10-15",
+  "year": 2001,
+  "doi": "10.1063/1.1382868",
+  "url": "https://doi.org/10.1063/1.1382868",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Mechanism"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Université de Franche-Comté"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "38c5a1a3225d8915",
+  "title": "Parallel Electrosynthesis of 1,2-Diamines",
+  "authors": [
+   "Tung Siu",
+   "Wei Li",
+   "Andrei K. Yudin"
+  ],
+  "journal": "Journal of Combinatorial Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2001-10-13",
+  "year": 2001,
+  "doi": "10.1021/cc0100159",
+  "url": "https://doi.org/10.1021/cc0100159",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electroreductive",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "University of Toronto"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bb600b3308009fc6",
+  "title": "Cathodic Reduction of CI Acid Red 27 and CI Reactive Black 5—Basic Investigations of Decoloration of Textile Waste Water",
+  "authors": [
+   "Thomas Bechtold",
+   "Eduard Burtscher",
+   "Adrian Ţurcanu"
+  ],
+  "journal": "Textile Research Journal",
+  "publisher": "SAGE Publishing",
+  "published": "2001-10-01",
+  "year": 2001,
+  "doi": "10.1177/004051750107101004",
+  "url": "https://doi.org/10.1177/004051750107101004",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Cyclic Voltammetry",
+   "Electrolysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Universität Innsbruck"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4c3fbac9a0d1d7b4",
+  "title": "A novel compound from the electrosynthesis of bioactive (+)-10β, 14-dihydroxy-allo-aromadendrane",
+  "authors": [
+   "Matildes Blanco",
+   "Dênis Pires de Lima",
+   "Gilberto Maia"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2001-10-01",
+  "year": 2001,
+  "doi": "10.1016/s0022-0728(01)00581-2",
+  "url": "https://doi.org/10.1016/s0022-0728(01)00581-2",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidade Federal de Mato Grosso do Sul"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "36cef53fc5271d09",
+  "title": "Electrochemical fluorination of several methyl and/or ethyl esters of morpholino-substituted carboxylic acids",
+  "authors": [
+   "Takashi Abe",
+   "Hajime Baba",
+   "Kunio Okuhara",
+   "Haruhiko Fukaya"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2001-10-01",
+  "year": 2001,
+  "doi": "10.1016/s0022-1139(01)00443-2",
+  "url": "https://doi.org/10.1016/s0022-1139(01)00443-2",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nagoya Industrial Science Research Institute",
+   "Research Institute of Innovative Technology for the Earth"
   ],
   "added": "2026-07-30"
  },
