@@ -1,0 +1,30 @@
+{
+  "_comment": "Researchers whose complete publication lists are harvested during backfill (their papers still pass the same relevance classifier). The OpenAlex quoted-phrase author search is SPELLING-EXACT, so accented and initial variants are listed side by side. Add names freely and rerun: python -m ddc backfill --authors-only",
+  "authors": [
+    "Phil S. Baran",
+    "Phil Baran",
+    "Siegfried R. Waldvogel",
+    "Hans J. Schäfer",
+    "Hans Schäfer",
+    "Kevin D. Moeller",
+    "R. Daniel Little",
+    "Toshio Fuchigami",
+    "Hai-Chao Xu",
+    "Song Lin",
+    "Lutz Ackermann",
+    "Aiwen Lei",
+    "Manuel M. Baizer",
+    "Robert Francke",
+    "Kevin Lam",
+    "Tian-Sheng Mei",
+    "Cheng-Chu Zeng",
+    "Shelley D. Minteer",
+    "Christian Amatore",
+    "Jun-ichi Yoshida",
+    "Dennis G. Peters",
+    "Sebastian B. Beil",
+    "Timothy Noël",
+    "Gabriele Laudadio",
+    "Mekhman S. Yusubov"
+  ]
+}
