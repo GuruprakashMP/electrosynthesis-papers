@@ -1,5 +1,173 @@
 [
  {
+  "id": "f4f06472319a9f34",
+  "title": "Hydrophilization of the surface of a hydrophobized porous electrode for electrosynthesis of gaseous substances",
+  "authors": [
+   "G.A. Kalinin",
+   "В. Л. Корниенко"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1987-09-10",
+  "year": 1987,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/7199689",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "96c9146371afe8e2",
+  "title": "ChemInform Abstract: The Electrochemical Fluorination of Acetyl Fluoride.",
+  "authors": [
+   "D. J. WASSER",
+   "Percival Johnson",
+   "Fritz Klink",
+   "Filip Kučera",
+   "C. C. LIU"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1987-09-08",
+  "year": 1987,
+  "doi": "10.1002/chin.198736108",
+  "url": "https://doi.org/10.1002/chin.198736108",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "KTH Royal Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f3279e2a2560aac0",
+  "title": "The Catalytic Currents in the Anodic Oxidation of Iodide‐Mediated Sulfur Dioxide Solution",
+  "authors": [
+   "B. W. Cho",
+   "Kwang-Seok Yun",
+   "In Jae Chung"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1149/1.2100847",
+  "url": "https://doi.org/10.1149/1.2100847",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Korea Advanced Institute of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d5abb23071a2a65c",
+  "title": "ChemInform Abstract: Electro‐Organic Reactions. Part 29. Cathodic Reduction Activated by Arene‐Chromium Tricarbonyl Complexation.",
+  "authors": [
+   "Y. L. CHIU",
+   "Antônio Euzébio Goulart Santana",
+   "James H. P. Utley"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1002/chin.198735080",
+  "url": "https://doi.org/10.1002/chin.198735080",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Arenes",
+   "Cathodic Reduction",
+   "Reduction Potential"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Queen Mary University of London"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d108f36fef5aa122",
+  "title": "Electrochemical Carboxylation of Styrene",
+  "authors": [
+   "Salvatore Gambino",
+   "Armando Gennaro",
+   "Giuseppe Filardo",
+   "G. Silvestri",
+   "Elena Vianello"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1149/1.2100846",
+  "url": "https://doi.org/10.1149/1.2100846",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ce2a4d6a86ce5315",
+  "title": "Low temperature formation of insulating layers on silicides by anodic oxidation",
+  "authors": [
+   "W. J. Strydom",
+   "J.C. Lombaard",
+   "R. Pretoriüs"
+  ],
+  "journal": "Solid-State Electronics",
+  "publisher": "Elsevier BV",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1016/0038-1101(87)90131-6",
+  "url": "https://doi.org/10.1016/0038-1101(87)90131-6",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Stellenbosch University",
+   "Council for Scientific and Industrial Research",
+   "iThemba Laboratory"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "c6f23fac2c25e27c",
   "title": "Electrochemical Synthesis of Poly(amino acid)s, Poly(amino acid)–Urethane Copolymers, and Electroconductive Poly(amino acid)–Polypyrrole Complex Films",
   "authors": [
@@ -26,6 +194,317 @@
   "affiliations": [
    "Tokyo Institute of Technology",
    "Shanxi University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bedb8fab481f1dbd",
+  "title": "Cathodic reduction of the anodically formed zinc species as a contribution to the study of the potentiodynamic passivation of zinc in alkaline media",
+  "authors": [
+   "Pere Lluı́s Cabot",
+   "M. Cortés",
+   "Francesc Centellas",
+   "José António Garrido",
+   "E. Pérez"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1016/0013-4686(87)85062-4",
+  "url": "https://doi.org/10.1016/0013-4686(87)85062-4",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universitat de Barcelona"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "baf7e50f595c1193",
+  "title": "ChemInform Abstract: The Behavior of Water in Molten Salts,",
+  "authors": [
+   "S. H. White",
+   "U.M. Twardoch"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1002/chin.198735014",
+  "url": "https://doi.org/10.1002/chin.198735014",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "EIC Laboratories"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9c45be08a680f387",
+  "title": "Organic Electrochemistry in the Solid State‐Overoxidation of Polypyrrole",
+  "authors": [
+   "Fritz Beck",
+   "P. B. Braun",
+   "M. Oberst"
+  ],
+  "journal": "Berichte der Bunsengesellschaft für physikalische Chemie",
+  "publisher": "",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1002/bbpc.19870910927",
+  "url": "https://doi.org/10.1002/bbpc.19870910927",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Organic Electrochemistry",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "85f7560234cc3482",
+  "title": "An electroactive polymer film prepared by electrooxidative polymerization of p,p′-biphenol",
+  "authors": [
+   "Takeo Ohsaka",
+   "Fumihiro Yoshimura",
+   "Tomoaki Hirokawa",
+   "Noboru Oyama"
+  ],
+  "journal": "Journal of Polymer Science Polymer Letters Edition",
+  "publisher": "Wiley",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1002/pol.1987.140250907",
+  "url": "https://doi.org/10.1002/pol.1987.140250907",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tokyo University of Agriculture and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "432948573cf800ae",
+  "title": "The Effect of Quaternary Ammonium Salts on Electro‐oxidation of Benzhydrol",
+  "authors": [
+   "Thomas C. Franklin",
+   "Takashi Jimbo"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1149/1.2100845",
+  "url": "https://doi.org/10.1149/1.2100845",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Baylor University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3a51b47a9710fae3",
+  "title": "Electrooxidative polymerization of thiophenol to yield poly(p-phenylene sulfide)",
+  "authors": [
+   "Eishun Tsuchida",
+   "Hiroyuki Nishide",
+   "Kimihisa Yamamoto",
+   "Shu Yoshida"
+  ],
+  "journal": "Macromolecules",
+  "publisher": "American Chemical Society",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1021/ma00175a046",
+  "url": "https://doi.org/10.1021/ma00175a046",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Waseda University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3140d77acc3c4811",
+  "title": "Cathodic Reduction of Manganese Dioxides in Aqueous Acid Solutions",
+  "authors": [
+   "源太郎 加納",
+   "紀好 堀田",
+   "康正 武内",
+   "Gentaro Kano",
+   "Kiyoshi HORITA",
+   "Yasumasa TAKEUCHI"
+  ],
+  "journal": "Institutional Repositories DataBase (IRDB)",
+  "publisher": "National Institute of Informatics",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "",
+  "url": "https://u-fukui.repo.nii.ac.jp/records/24328",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "243de31a356cf2e3",
+  "title": "The Anodic Oxidation of Iron Pyrite Powder in a Cationic Surfactant‐Styrene‐Aqueous Sodium Hydroxide Emulsion",
+  "authors": [
+   "Thomas C. Franklin",
+   "Remi Nnodimele",
+   "William K. Adeniyi"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1149/1.2100841",
+  "url": "https://doi.org/10.1149/1.2100841",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Baylor University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1ac03a49486a89e4",
+  "title": "The cathodic reduction of oxygen at metal tetrasulfonato-phthalocyanines: influence of adsorption conditions on electrocatalysis",
+  "authors": [
+   "A. Elzing",
+   "A. van der Putten",
+   "W. Visscher",
+   "E. Barendrecht"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1016/0022-0728(87)85009-x",
+  "url": "https://doi.org/10.1016/0022-0728(87)85009-x",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Eindhoven University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "18cc2f2ac75d6e2b",
+  "title": "Electrosynthesis in systems of two immiscible liquids and a phase transfer catalyst. VII. The chlorination of substituted naphthalenes",
+  "authors": [
+   "S. R. Forsyth",
+   "Derek Pletcher",
+   "K. P. Healy"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1007/bf01024356",
+  "url": "https://doi.org/10.1007/bf01024356",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Southampton",
+   "ACAL Energy (United Kingdom)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "09d429df6effbcc0",
+  "title": "Structure and Phase Transitions of Aromatic Radical Cation Salts — a New Class of Organic Metals",
+  "authors": [
+   "Volker Enkelmann",
+   "K. Göckelmann"
+  ],
+  "journal": "Berichte der Bunsengesellschaft für physikalische Chemie",
+  "publisher": "",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1002/bbpc.19870910924",
+  "url": "https://doi.org/10.1002/bbpc.19870910924",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Arenes",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Max Planck Society",
+   "Max Planck Institute for Polymer Research"
   ],
   "added": "2026-07-30"
  }
