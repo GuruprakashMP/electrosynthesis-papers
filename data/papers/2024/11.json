@@ -1,5 +1,275 @@
 [
  {
+  "id": "3d763beeb7e31993",
+  "title": "Electrocatalytic regio- and stereoselective carboxylation of terminal alkynes with CO2",
+  "authors": [
+   "Pan Zhou",
+   "Haoran Jiao",
+   "Yue Jing",
+   "Kaikai Niu",
+   "Hongjian Song",
+   "Yuxiu Liu",
+   "Qingmin Wang"
+  ],
+  "journal": "Green Synthesis and Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2024-11-30",
+  "year": 2024,
+  "doi": "10.1016/j.gresc.2024.11.006",
+  "url": "https://doi.org/10.1016/j.gresc.2024.11.006",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Alkynes",
+   "Electroreductive",
+   "Regioselectivity"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Nankai University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e9f1dab8f1733d82",
+  "title": "Dibromomethane-Triggered Electrochemical Cyclization of Enaminones with Amidines for the Synthesis of 5-Acylimidazoles",
+  "authors": [
+   "Peng Xu",
+   "Xingwang Hu",
+   "Zeng-Yang He",
+   "Luan-Ting Wu",
+   "Siqi Chen",
+   "Pinhua Li",
+   "Ze Zhang",
+   "Hui Xu"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2024-11-29",
+  "year": 2024,
+  "doi": "10.1021/acs.joc.4c02507",
+  "url": "https://doi.org/10.1021/acs.joc.4c02507",
+  "source": "openalex",
+  "categories": [
+   "Heterocycle Synthesis",
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrochemical Cyclization",
+   "Electroreductive",
+   "Redox Mediator",
+   "Undivided Cell"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Anhui Polytechnic University",
+   "China Tobacco"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e671fee653a9c374",
+  "title": "Single-Entity Collisional Electrochemistry at the Micro- and/or Nano-Interface Between Two Immiscible Electrolyte Solutions",
+  "authors": [
+   "Lifang Yang",
+   "Junjie Chen",
+   "Ling-Yu Chen",
+   "Si-Qi Jin",
+   "Taoxiong Fang",
+   "Sijia He",
+   "Liangjun Shen",
+   "Xinjian Huang",
+   "Xiao-Hang Sun",
+   "Hai-Qiang Deng"
+  ],
+  "journal": "Dian hua xue/Dian huaxue",
+  "publisher": "",
+  "published": "2024-11-28",
+  "year": 2024,
+  "doi": "10.61558/2993-074x.3495",
+  "url": "https://doi.org/10.61558/2993-074x.3495",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Mediated Electrolysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Sun Yat-sen University",
+   "Midea Group (China)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "04b4c070210a405e",
+  "title": "Highly efficient anodic oxidation of organic pollutants using Ti4O7 particle anode: Experimental and theoretical study of the operational and structural parameters influence",
+  "authors": [
+   "Andrey Kislyi",
+   "Vera Guliaeva",
+   "Yuriy Prokhorov",
+   "Victoria Plis",
+   "Ilya A. Moroz",
+   "Anastasiia Klevtsova",
+   "Ekaterina Skolotneva",
+   "Davide Clematis",
+   "Marco Panizza",
+   "Semyon Mareev"
+  ],
+  "journal": "Separation and Purification Technology",
+  "publisher": "Elsevier BV",
+  "published": "2024-11-28",
+  "year": 2024,
+  "doi": "10.1016/j.seppur.2024.130820",
+  "url": "https://doi.org/10.1016/j.seppur.2024.130820",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Kuban State University",
+   "University of Genoa"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e3b70e9e5f7f922b",
+  "title": "Bioinspired solid-state nanochannels for molecular analysis",
+  "authors": [
+   "Xin Li",
+   "Congcong Zhu",
+   "Yuge Wu",
+   "Xiang-Yu Kong",
+   "Liping Wen"
+  ],
+  "journal": "Nanoscale",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-11-27",
+  "year": 2024,
+  "doi": "10.1039/d4nr03711a",
+  "url": "https://doi.org/10.1039/d4nr03711a",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Late-Stage Functionalization & Medicinal Chemistry"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Drug Molecules"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Technical Institute of Physics and Chemistry",
+   "University of Chinese Academy of Sciences",
+   "University of Science and Technology of China",
+   "Suzhou University of Science and Technology",
+   "Qingdao Institute of Bioenergy and Bioprocess Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ab3f8bf8b620572b",
+  "title": "Electrochemical C−H Hydroxylation and Alkoxylation Reactions",
+  "authors": [
+   "Huiqiao Wang",
+   "Guangwu Zhang",
+   "Kun Xu"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2024-11-27",
+  "year": 2024,
+  "doi": "10.1002/cssc.202402312",
+  "url": "https://doi.org/10.1002/cssc.202402312",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Atom Economy",
+   "Electrochemical C-H"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Henan University",
+   "Anyang Institute of Technology",
+   "Beijing University of Technology",
+   "Beijing University of Chemical Technology",
+   "University of Science and Technology Beijing"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "51a856c81304ad64",
+  "title": "Ruthenium-catalyzed electrochemical C–H activation for organic synthesis",
+  "authors": [
+   "Rajaram Maayuri",
+   "Parthasarathy Gandeepan"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2024-11-27",
+  "year": 2024,
+  "doi": "10.1039/9781837676408-00219",
+  "url": "https://doi.org/10.1039/9781837676408-00219",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Electrochemical C-H"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Indian Institute of Technology Tirupati"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "46e00c3a7178b939",
+  "title": "Beyond Conventional Organic Electrosynthesis: The Role of Fluorinated Solvents",
+  "authors": [
+   "Xavier Marset",
+   "Salvador Montilla-Verdú",
+   "Elio Rico",
+   "Néstor Guijarro"
+  ],
+  "journal": "ACS electrochemistry.",
+  "publisher": "American Chemical Society",
+  "published": "2024-11-27",
+  "year": 2024,
+  "doi": "10.1021/acselectrochem.4c00129",
+  "url": "https://doi.org/10.1021/acselectrochem.4c00129",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic",
+   "Electrosynthesis",
+   "Organic Electrosynthesis",
+   "Regioselectivity"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Alicante"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "0428101d5365a886",
   "title": "Electrosynthesis of γ ‐Butyrolactones by Dehydrogenative (3+2) Annulation",
   "authors": [
@@ -38,6 +308,633 @@
   "added": "2026-07-30"
  },
  {
+  "id": "fd9c84c6424bc8aa",
+  "title": "Biomass Valorization via Paired Electrocatalysis",
+  "authors": [
+   "Morgan Huddleston",
+   "Yujie Sun"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2024-11-26",
+  "year": 2024,
+  "doi": "10.1002/cssc.202402161",
+  "url": "https://doi.org/10.1002/cssc.202402161",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Counter Electrode",
+   "Electrolysis",
+   "Paired Electrolysis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 50,
+  "affiliations": [
+   "University of Cincinnati"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "94003e88232cbe35",
+  "title": "The Influence of Lateral Spacing of TiO 2 Nanotube Coated Surfaces on the Early In Vivo Osseointegration",
+  "authors": [
+   "Andreea Mariana Negrescu",
+   "Iuliana Ionaşcu",
+   "Madalina Georgiana Necula",
+   "Niculae Tudor",
+   "Maksim Kamaleev",
+   "Otilia Zărnescu",
+   "Anca Mazare",
+   "Patrik Schmuki",
+   "Anișoara Cîmpean"
+  ],
+  "journal": "Preprints.org",
+  "publisher": "",
+  "published": "2024-11-26",
+  "year": 2024,
+  "doi": "10.20944/preprints202411.1944.v1",
+  "url": "https://doi.org/10.20944/preprints202411.1944.v1",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "79db43fd5f154ac2",
+  "title": "Regioselective Palladaelectro‐Catalyzed Chlorination of Arenes in an Undivided Cell",
+  "authors": [
+   "Sudipta Ponra",
+   "Ruzal Sitdikov",
+   "Alyssio Calis",
+   "Oscar Verho"
+  ],
+  "journal": "Advanced Synthesis & Catalysis",
+  "publisher": "Wiley",
+  "published": "2024-11-26",
+  "year": 2024,
+  "doi": "10.1002/adsc.202401298",
+  "url": "https://doi.org/10.1002/adsc.202401298",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Fluorination & Halogenation",
+   "Natural Product & Total Synthesis"
+  ],
+  "tags": [
+   "Arenes",
+   "Electrochemical Halogenation",
+   "FG Tolerance",
+   "Natural Products",
+   "Regioselectivity",
+   "Undivided Cell"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Uppsala University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6480baa8071738b2",
+  "title": "Electrocyclization for the Synthesis of Mono‐ and Disulfonyl‐substituted Pyrazoles From Sulfonyl Hydrazines and 1,3‐Diketones",
+  "authors": [
+   "Yuanyuan Wu",
+   "Qiping Liu",
+   "Zhitao Ning",
+   "Zhengyin Du"
+  ],
+  "journal": "ChemistrySelect",
+  "publisher": "Wiley",
+  "published": "2024-11-26",
+  "year": 2024,
+  "doi": "10.1002/slct.202403681",
+  "url": "https://doi.org/10.1002/slct.202403681",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Radical Chemistry",
+   "Undivided Cell"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Northwest Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "17ea4b7fb514f182",
+  "title": "Alkylthiolation of Aryl Halides under Electrochemical Conditions",
+  "authors": [
+   "Y. C. Fan",
+   "Tan Zhang",
+   "Mengyun Wu",
+   "Ping Liu",
+   "Peipei Sun"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2024-11-25",
+  "year": 2024,
+  "doi": "10.1021/acs.joc.4c02566",
+  "url": "https://doi.org/10.1021/acs.joc.4c02566",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Nanjing Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0ed3f31421e0cb4f",
+  "title": "Ammonium Dinitramide as a Prospective N–NO2 Synthon: Electrochemical Synthesis of Nitro-NNO-Azoxy Compounds from Nitrosoarenes",
+  "authors": [
+   "Alexander S. Budnikov",
+   "Nikita E. Leonov",
+   "Michael S. Klenov",
+   "Mikhail I. Shevchenko",
+   "Tatiana Y. Dvinyaninova",
+   "Igor B. Krylov",
+   "Aleksandr M. Churakov",
+   "Ivan V. Fedyanin",
+   "Vladimir A. Tartakovsky",
+   "Alexander O. Terent’ev"
+  ],
+  "journal": "Molecules",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2024-11-25",
+  "year": 2024,
+  "doi": "10.3390/molecules29235563",
+  "url": "https://doi.org/10.3390/molecules29235563",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "D. Mendeleyev University of Chemical Technology of Russia",
+   "N.D. Zelinsky Institute of Organic Chemistry",
+   "A. N. Nesmeyanov Institute of Organoelement Compounds"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fd0667431e34927d",
+  "title": "Deep Eutectic Solvents As Novel Solvent-Electrolyte System for Electroreductive Transformations",
+  "authors": [
+   "Astrid Kjær Steffensen",
+   "Helena Lundberg",
+   "Anders Riisager"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533618mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533618mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Atom Economy",
+   "Electroreductive",
+   "Electrosynthesis",
+   "Organic Electrosynthesis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fc0885c2e7fa36a2",
+  "title": "Production of High-Purity Aluminum by Combining Lewis Acidic AlCl 3 −[C 2 mim]Cl Ionic Liquid and Aluminum Scrap Anode",
+  "authors": [
+   "Yichen Fu",
+   "Tetsuya Tsuda",
+   "Tomo Mikame",
+   "Kei Hosoya",
+   "Mikito Ueda",
+   "Koichi Ui",
+   "Masao Miyake",
+   "Junji Nunomura",
+   "Yoichi Kojima"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02573835mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02573835mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Constant Current",
+   "Counter Electrode",
+   "Electrolysis",
+   "Reference Electrode"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ef125969c906db72",
+  "title": "Electrogeneration of Oxygen-Centered Radicals from N-Alkoxyphthalimides and Their Use in a Remote C-H Functionalization for 5,5-Spirocycles Construction",
+  "authors": [
+   "Julio Romero-Ibañez",
+   "Diego Francisco Chicas-Baños",
+   "Edgar Alan Colindres-Díaz",
+   "Fernando Sartillo-Piscil",
+   "Bernardo A. Frontana-Uribe"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533642mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533642mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "C-H Functionalization",
+   "Decarboxylative & Radical Reactions",
+   "Natural Product & Total Synthesis"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Electrolysis",
+   "Electroreductive",
+   "Electrosynthesis",
+   "Natural Products",
+   "Organic Electrosynthesis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d0f2b7c6bbdf501e",
+  "title": "Wireless electroorganic synthesis",
+  "authors": [
+   "Gerardo Salinas",
+   "Alexander Kuhn"
+  ],
+  "journal": "Current Opinion in Electrochemistry",
+  "publisher": "Elsevier BV",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1016/j.coelec.2024.101612",
+  "url": "https://doi.org/10.1016/j.coelec.2024.101612",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electroorganic",
+   "Electrosynthesis",
+   "Organic Electrosynthesis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Bordeaux",
+   "Institut des Sciences Moléculaires",
+   "Institut Polytechnique de Bordeaux"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ca4660a293aea717",
+  "title": "Sustainable Electrochemical Synthesis of Dry Formaldehyde from Anhydrous Methanol",
+  "authors": [
+   "Florian Schwarz",
+   "Elizabeth Larenz",
+   "Anna K. Mechler"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02282166mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02282166mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Green Chemistry",
+   "Platinum Electrode",
+   "Reference Electrode",
+   "Renewable Electricity"
+  ],
+  "relevance_score": 69,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c35af233d72926be",
+  "title": "Electrochemical C–H Arylation of Polythiophenes By Using Aryldiazonium Salts",
+  "authors": [
+   "Satoshi Koiso",
+   "Kosuke Sato",
+   "Shinsuke Inagi"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533626mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533626mtgabs",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization",
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Constant Current",
+   "Electrochemical C-H",
+   "Electrolysis",
+   "Oxidation Potential",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b2ca04edad67095b",
+  "title": "CO 2 Electrolysis Coupled with Hydrogen Oxidation Reaction in Non-Aqueous Aprotic Electrolytes",
+  "authors": [
+   "Francesco Longhin",
+   "Jon Bjarke Valbæk Mygind",
+   "Frederik Bylov Nielsen",
+   "Brian Seger"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02624165mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02624165mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cell Voltage",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 47,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ab164a0b8bdcccb4",
+  "title": "Regioselective Electrocatalytic Deuteration Reactions in PEM Reactor",
+  "authors": [
+   "Yosuke Ashikari",
+   "Yiyuye Yao",
+   "Kyoko Mandai",
+   "Aiichiro Nagaki"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533614mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533614mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Alkynes",
+   "Electroorganic",
+   "Electrosynthesis",
+   "Regioselectivity",
+   "Sustainable Synthesis"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a2cd0e0593ca15be",
+  "title": "Specific Control of Electrogenerated Reactive Species and their Synthetic Applications",
+  "authors": [
+   "Sigeru Torii"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1201/9781003580645-8",
+  "url": "https://doi.org/10.1201/9781003580645-8",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a25db6a93787b943",
+  "title": "Phosphonylation of Conjugated Polymers By Redox Mediator-Induced Electrochemical Post-Functionalization",
+  "authors": [
+   "Kohei Taniguchi",
+   "Kosuke Sato",
+   "Shinsuke Inagi"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533628mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533628mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "C-H Functionalization",
+   "Mechanism & Electroanalysis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Indirect Electrolysis",
+   "Organic Electrosynthesis",
+   "Redox Mediator",
+   "Working Electrode"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9f5f55f318de4d63",
+  "title": "Measuring Hydride Transfer Kinetics to Mhat Relevant Catalysts Using Cyclic Voltammetry",
+  "authors": [
+   "Kevin McFadden",
+   "Dylan G. Boucher",
+   "Shelley Minteer"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533620mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533620mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Alkenes",
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Organic Electrochemistry",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "973fa3d23701b406",
+  "title": "Dependence of Cation Structures on Electrochemical Polymerization of Aniline in Phosphonium Ionic Liquids",
+  "authors": [
+   "Katsuki Hori",
+   "Daiki Ito",
+   "Shoki Nawate",
+   "Mitsuhiro Matsumoto",
+   "Yusuke Tsuchida",
+   "Katsuhiko Tsunashima",
+   "Hirohisa Yamada"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02573821mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02573821mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Counter Electrode",
+   "Cyclic Voltammetry",
+   "Electrooxidative",
+   "Reference Electrode",
+   "Working Electrode"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8f2ad1d96a87b9bd",
+  "title": "Synthetic Application of Active Organophosphorus Species Generated by Paired Electrolysis",
+  "authors": [
+   "Hidenobu Ohmori",
+   "Hatsuo Maeda"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1201/9781003580645-9",
+  "url": "https://doi.org/10.1201/9781003580645-9",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Paired Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 71,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "893a045559d48176",
+  "title": "Electroorganic Synthesis Mediated by Metalloenzyme Models",
+  "authors": [
+   "Yoshio Hisaeda"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1201/9781003580645-20",
+  "url": "https://doi.org/10.1201/9781003580645-20",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electroorganic",
+   "Mechanism",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "854e3835bf668b2e",
   "title": "Bioengineering of Cyanobacteria for Electrosynthesis",
   "authors": [
@@ -57,6 +954,251 @@
    "Electrosynthesis"
   ],
   "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7ee55f71c4565795",
+  "title": "Paired Electrosynthetic Oxidations Using Multifunctional Ionic Liquids",
+  "authors": [
+   "Darren A. Walsh"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533616mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533616mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Counter Electrode",
+   "Electroorganic",
+   "Electrosynthesis",
+   "TEMPO"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7bd3423333ac4a13",
+  "title": "Electrochemically Assisted Synthesis of Bioactive Natural Products",
+  "authors": [
+   "Shosuke Yamamura"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1201/9781003580645-11",
+  "url": "https://doi.org/10.1201/9781003580645-11",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Natural Product & Total Synthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Natural Products",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "74398995d88512ed",
+  "title": "Electrochemistry of Zirconium in Molten Chloride for Processing Fuel Debris",
+  "authors": [
+   "Tatsuya Emori",
+   "Haruaki Matsuura"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02573878mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02573878mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Constant Current",
+   "Counter Electrode",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Redox Potential",
+   "Reduction Potential",
+   "Reference Electrode",
+   "Working Electrode"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "71406828fba03351",
+  "title": "Efficient Carboxylic Acid Synthesis through Electrolytic Reduction of CO 2 using BDD Electrodes",
+  "authors": [
+   "Ryoya Okamura",
+   "Toya Inaba",
+   "K. Ishihara",
+   "Kai Takagi",
+   "Y.M. Hunge",
+   "Sujun Guan",
+   "Hiroshi Uetsuka",
+   "Chiaki Terashima"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02684789mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02684789mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Green & Sustainable Electrosynthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "BDD Electrode",
+   "Constant Current",
+   "Cyclic Voltammetry",
+   "Electrochemical Carboxylation",
+   "Electrolysis",
+   "Electrolytic",
+   "Electrolytic Synthesis",
+   "Green Chemistry",
+   "Platinum Electrode",
+   "Reduction Potential"
+  ],
+  "relevance_score": 84,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6fc0d736858fda43",
+  "title": "Electrolyte Cage Effects in Organic Electrosynthesis: Measuring and Driving Selectivity",
+  "authors": [
+   "Zachary A Nguyen",
+   "Dylan G. Boucher",
+   "Kevin McFadden",
+   "Shelley D. Minteer"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533619mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533619mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Green & Sustainable Electrosynthesis",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electroorganic",
+   "Electrosynthesis",
+   "Organic Electrosynthesis",
+   "Radical Chemistry",
+   "Sustainable Synthesis"
+  ],
+  "relevance_score": 84,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6a6d7d002620e060",
+  "title": "Composition of Active Oxidizing Species in Electrolyzed Sulfuric Acid for Resin Degradation of Carbon Fiber Reinforced Plastics",
+  "authors": [
+   "Miwa Fukuoka",
+   "Yuji Okada",
+   "Takeshi Kondo"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02674596mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02674596mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "BDD Electrode",
+   "Constant Current",
+   "Electrolysis",
+   "Electrolytic"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "68fdf8cf7bcc334d",
+  "title": "Electrolyte Effects in Ethanol Electro-Reforming at Anode with Acetaldehyde As Target Product",
+  "authors": [
+   "Kai Hung Cheng",
+   "Motoaki Kawase"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02583904mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02583904mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrolytic",
+   "Electrosynthesis",
+   "Mechanism",
+   "Organic Electrosynthesis",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6667c1db59b3adf9",
+  "title": "New Concepts and Methodologies for Electrode Interface Modification",
+  "authors": [
+   "Tsutomu Nonaka"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1201/9781003580645-2",
+  "url": "https://doi.org/10.1201/9781003580645-2",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrolytic",
+   "Electroorganic",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 60,
   "affiliations": [],
   "added": "2026-07-30"
  },
@@ -85,6 +1227,122 @@
   "added": "2026-07-30"
  },
  {
+  "id": "6232fe2db2306261",
+  "title": "Effect of Ketjenblack Content on Ammonia Electrolytic Synthesis Ability of Ru/Ketjenblack/TiO 2 /Carbon Paper Catalysts at Low Temperature and Atmospheric Pressure",
+  "authors": [
+   "Taketoshi Yasuda",
+   "Hidenobu Shiroishi",
+   "H. Matsumoto",
+   "Mikka Nishitani-Gamo"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02674621mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02674621mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Counter Electrode",
+   "Electrolysis",
+   "Electrolytic",
+   "Electrolytic Synthesis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5efb8f0485f68276",
+  "title": "Electrochemical Synthesis of Novel Ylide Compounds through N-N Bond Formation from Hydrazones",
+  "authors": [
+   "Yongbin Chang",
+   "Jin Kyoon Park"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02555084mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02555084mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Flow Electrosynthesis & Scale-up",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrooxidative",
+   "Gram-Scale",
+   "Radical Chemistry",
+   "Scale-up"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "54bdb3617697ea67",
+  "title": "Electrochemical Synthesis of Diarylsultones and Dibenzothiophene Dioxide Via C–O/C–S Bond Formation",
+  "authors": [
+   "Yasuyuki Okumura",
+   "Koichi Mitsudo",
+   "Seiji Suga"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533637mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533637mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Constant Current",
+   "Electrochemical Synthesis",
+   "Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4f492778d41451a5",
+  "title": "Electrosynthesis for the Invention of New Organic Reactions",
+  "authors": [
+   "Christian A. Malapit"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533641mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533641mtgabs",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Arenes",
+   "C-H Functionalization",
+   "Electrosynthesis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "35b40929f49324c1",
   "title": "Electrodes, Mediators, and New Opportunities for Selectivity in Chemical Reactions",
   "authors": [
@@ -107,6 +1365,1139 @@
   ],
   "relevance_score": 45,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "335a349de4bb375f",
+  "title": "Synthesis of Polybromothiophene By Electrooxidative Polymerization and Its Polymer Reactions",
+  "authors": [
+   "Yoshimasa Matsumura",
+   "Sota Hokimoto"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533627mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533627mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrochemical Synthesis",
+   "Electrooxidative"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2f36a5121520f865",
+  "title": "Convergent Paired Electrosynthesis of β-Nitroalcohols Using an Electrogenerated Base",
+  "authors": [
+   "Haruka Homma",
+   "Ruka Hasegawa",
+   "Tomohiro Yokoyama",
+   "T. Tajima"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533635mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533635mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Cell Design & Electrodes",
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Counter Electrode",
+   "Divided Cell",
+   "Electrogenerated Base",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Organic Electrosynthesis",
+   "Paired Electrolysis",
+   "Supporting Electrolyte",
+   "Undivided Cell"
+  ],
+  "relevance_score": 84,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2ea0fb7787f55f12",
+  "title": "New Challenges in Organic Electrochemistry",
+  "authors": [
+   "Tetsuo Osa"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1201/9781003580645",
+  "url": "https://doi.org/10.1201/9781003580645",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "283fa45cbfa7ccd4",
+  "title": "Synthetic Organic Electrochemistry: From Bulk to Nano Chitin",
+  "authors": [
+   "Thang Hong Tran",
+   "Thu Anh Pham Phan",
+   "Mikkel Rykær Kraglund",
+   "David Tran",
+   "Charlotte Jacobsen",
+   "Johan Hjelm"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533634mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533634mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Organic Electrochemistry",
+   "Radical Chemistry",
+   "TEMPO"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "25f1ba090858bbcc",
+  "title": "Electrocatalytic Hydrogenation of Pyridines in an Anion-Exchange Membrane (AEM) Reactor and Its Mechanistic Analysis by in Situ XAFS Measurement",
+  "authors": [
+   "Juri Harada",
+   "Yugo Shimizu",
+   "Akizumi Yonezawa",
+   "Ryo Kurihara",
+   "Shoji Iguchi",
+   "Kazuhide Kamiya",
+   "Naoki Shida",
+   "Mahito Atobe"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533609mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533609mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Electrochemical Hydrogenation",
+   "Electrolysis",
+   "Radical Anion",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2541d1e2fbfca652",
+  "title": "Transition-Metal-Catalyst-Free Electroreductive Hydroarylation of Alkenes with Aryl Halides",
+  "authors": [
+   "Kosuke Yamamoto",
+   "Kazuhisa Arita",
+   "Masashi Shiota",
+   "Masami Kuriyama",
+   "Osamu Onomura"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533638mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533638mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Alkenes",
+   "Electroreductive",
+   "Radical Chemistry",
+   "Redox Mediator",
+   "Single-Electron Transfer",
+   "Undivided Cell"
+  ],
+  "relevance_score": 92,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "250417933633a86b",
+  "title": "Development of a Photoelectrochemical Microelectrode Using an Organic Probe for Monitoring Hydrogen Sulfide in Living Brains",
+  "authors": [
+   "Yuanqiang Hao",
+   "Yewen Yang",
+   "Wenhui Wang",
+   "Hui Gu",
+   "Wansong Chen",
+   "Chunlan Li",
+   "Peisheng Zhang",
+   "Rongjin Zeng",
+   "Maotian Xu",
+   "Chen Shu"
+  ],
+  "journal": "Analytical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1021/acs.analchem.4c05336",
+  "url": "https://doi.org/10.1021/acs.analchem.4c05336",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Hunan University of Science and Technology",
+   "Central South University",
+   "Shangqiu Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "21d3b85a78a8adf5",
+  "title": "Development of a Streaming Potential-Driven Electrolysis System: Reductive Hydroxylation of Aromatic Boronic Acids",
+  "authors": [
+   "Suguru Iwai",
+   "Taichi Suzuki",
+   "Elena Villani",
+   "Kosuke Sato",
+   "George Hasegawa",
+   "N. Ishizuka",
+   "Kimihiro Matsukawa",
+   "Ikuyoshi Tomita",
+   "Shinsuke Inagi"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533608mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533608mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Fluorination",
+   "Electrolysis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0f6cab723ce9fbd7",
+  "title": "A Generalizable Electrochemical Platform for Batch-to-Continuous Transitions",
+  "authors": [
+   "Robert Hacku",
+   "Glenn Cormack",
+   "Tyler J. Petek",
+   "James R. McKone"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02282173mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02282173mtgabs",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0a39aff88bd54225",
+  "title": "From Batch to Flow: Paired Electrolysis of H 2 and Electrochemical Conversion of Biobased 5-HMF in a Flow Reactor",
+  "authors": [
+   "Linda Brösgen",
+   "Robin Kunkel",
+   "Julia Melke"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02282190mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02282190mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Flow Electrosynthesis & Scale-up",
+   "Green & Sustainable Electrosynthesis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cell Voltage",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Green Chemistry",
+   "Paired Electrolysis",
+   "Scale-up"
+  ],
+  "relevance_score": 77,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "068f98cbc48b7563",
+  "title": "Novel Electroorganic Synthesis Using Mediators",
+  "authors": [
+   "Kenji Uneyama"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1201/9781003580645-14",
+  "url": "https://doi.org/10.1201/9781003580645-14",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Chemoselectivity",
+   "Electrolysis",
+   "Electroorganic",
+   "Redox Mediator"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0688ac78cdbfb148",
+  "title": "Reductive Electrosynthesis Initiated By Mediated Oxalate Oxidation",
+  "authors": [
+   "Joshua A. Beeler",
+   "Henry S. White"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1149/ma2024-02533639mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02533639mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrogenerated Species",
+   "Electroorganic",
+   "Electrosynthesis",
+   "Reduction Potential",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c2e39a440ac6ef24",
+  "title": "Total Electrosynthesis of N, N‐Dimethylformamide From CO 2 and NO 3 −",
+  "authors": [
+   "Shuai Yan",
+   "Shuai Chen",
+   "Morgan McKee",
+   "Alexandre Terry",
+   "Ralf Weisbarth",
+   "Nikolay Kornienko"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2024-11-21",
+  "year": 2024,
+  "doi": "10.1002/advs.202414431",
+  "url": "https://doi.org/10.1002/advs.202414431",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Mechanism"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Bonn"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "22ad35a3a6cbe559",
+  "title": "Detailed Studies on the Methoxylation and Subsequent Dealkylation of N,N-Diethylbenzenesulfonamide Using a Tailor-Made Electrosynthetic Reactor",
+  "authors": [
+   "Ernák Ferenc Várda",
+   "Imre Gyűjtő",
+   "Ferenc Ender",
+   "Richárd Csekő",
+   "György Tibor Balogh",
+   "Balázs Volk"
+  ],
+  "journal": "Molecules",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2024-11-21",
+  "year": 2024,
+  "doi": "10.3390/molecules29235496",
+  "url": "https://doi.org/10.3390/molecules29235496",
+  "source": "openalex",
+  "categories": [
+   "Late-Stage Functionalization & Medicinal Chemistry"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Medicinal Chemistry"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Budapest University of Technology and Economics",
+   "Egis Pharmaceuticals (Hungary)",
+   "Semmelweis University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "72c3ec65f33df717",
+  "title": "Enantioselective nickel-catalyzed electrochemical reductive conjugate alkenylation of α,β-unsaturated ketones",
+  "authors": [
+   "Siriphong Somprasong",
+   "Bin Wan",
+   "Syuzanna R. Harutyunyan"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-11-20",
+  "year": 2024,
+  "doi": "10.1039/d4sc06891b",
+  "url": "https://doi.org/10.1039/d4sc06891b",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Asymmetric Electrosynthesis",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Asymmetric Electrosynthesis",
+   "Electroreductive",
+   "Enantioselectivity",
+   "Ni Catalysis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "University of Groningen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "63befd4067ff4a32",
+  "title": "RETRACTED: Photoelectrochemical Synthesis of Benzo[ b ]phosphole Oxides via Sequential P–H/C–H Bond Functionalizations",
+  "authors": [
+   "Nayan Saha",
+   "Burkhard Koenig"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2024-11-20",
+  "year": 2024,
+  "doi": "10.1021/acscatal.4c06292",
+  "url": "https://doi.org/10.1021/acscatal.4c06292",
+  "source": "openalex",
+  "categories": [
+   "Electrophotochemistry",
+   "Anodic Oxidation",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Alkynes",
+   "Anodic Oxidation",
+   "FG Tolerance",
+   "Heterocycles",
+   "Organic Electrochemistry",
+   "Photoelectrosynthesis"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "Institute of Organic Chemistry",
+   "University of Regensburg"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5db76599c1cc32f8",
+  "title": "Recent Advances in the Development of Indolizine Scaffolds: Synthetic Methodology and Mechanistic Insights",
+  "authors": [
+   "Jiuzhong Huang",
+   "Chunsheng Li",
+   "Xiaoning Li",
+   "Guangyu Li",
+   "Ziyi Yang",
+   "You-Jun Yu",
+   "Yanping Xie",
+   "Hao Huang",
+   "Fuchao Yu",
+   "Zhihua He"
+  ],
+  "journal": "Chinese Journal of Chemistry",
+  "publisher": "Wiley",
+  "published": "2024-11-20",
+  "year": 2024,
+  "doi": "10.1002/cjoc.202400798",
+  "url": "https://doi.org/10.1002/cjoc.202400798",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrooxidative",
+   "Heterocycles",
+   "Mechanism",
+   "Regioselectivity"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Gannan Medical University",
+   "Zhaoqing University",
+   "Kunming University of Science and Technology",
+   "First Affiliated Hospital of Gannan Medical University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "21daec6ca50252cf",
+  "title": "Cost-Aware Bayesian Optimization for Self-Driven Condition Screening of Flow Electrosynthesis",
+  "authors": [
+   "Runzhe Liang",
+   "Siyuan Zheng",
+   "Kai Wang",
+   "Zhihong Yuan"
+  ],
+  "journal": "ACS electrochemistry.",
+  "publisher": "American Chemical Society",
+  "published": "2024-11-20",
+  "year": 2024,
+  "doi": "10.1021/acselectrochem.4c00078",
+  "url": "https://doi.org/10.1021/acselectrochem.4c00078",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "State Key Laboratory of Chemical Engineering",
+   "Tsinghua University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1d665ab08f0e3216",
+  "title": "Enantioselective electrochemical detection of a L-and D-serine at polyvinylpyrrolidone-modified platinum electrode",
+  "authors": [
+   "Mohammad Amayreh",
+   "Mohammed Khair Hourani"
+  ],
+  "journal": "Bioanalysis",
+  "publisher": "Future Science Ltd",
+  "published": "2024-11-20",
+  "year": 2024,
+  "doi": "10.1080/17576180.2024.2422209",
+  "url": "https://doi.org/10.1080/17576180.2024.2422209",
+  "source": "openalex",
+  "categories": [
+   "Asymmetric Electrosynthesis",
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Enantioselective Electrosynthesis",
+   "Enantioselectivity",
+   "Oxidation Potential",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 50,
+  "affiliations": [
+   "Al-Balqa Applied University",
+   "University of Jordan"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bf24a1c075c00bd1",
+  "title": "Elucidating metabolic tuning of mixed purple phototrophic bacteria biofilms in photoheterotrophic conditions through microbial photo-electrosynthesis",
+  "authors": [
+   "Sara Díaz-Rullo Edreira",
+   "Ioanna A. Vasiliadou",
+   "Amanda Prado de Nicolás",
+   "Juan J. Espada",
+   "Ruddy Wattiez",
+   "Baptiste Leroy",
+   "Fernando Martı́nez",
+   "Daniel Puyol"
+  ],
+  "journal": "Communications Biology",
+  "publisher": "Nature Portfolio",
+  "published": "2024-11-18",
+  "year": 2024,
+  "doi": "10.1038/s42003-024-07188-0",
+  "url": "https://doi.org/10.1038/s42003-024-07188-0",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Universidad Rey Juan Carlos",
+   "Democritus University of Thrace",
+   "Universidad Politécnica de Cartagena",
+   "University of Mons"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8b6468415723acbc",
+  "title": "Non-Innocent Role of Sacrificial Anodes in Electrochemical Nickel-Catalyzed C(sp 2 )–C(sp 3 ) Cross-Electrophile Coupling",
+  "authors": [
+   "Luana Cardinale",
+   "Gregory L. Beutner",
+   "Christopher Y. Bemis",
+   "Daniel J. Weix",
+   "Shannon S. Stahl"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2024-11-15",
+  "year": 2024,
+  "doi": "10.1021/jacs.4c10979",
+  "url": "https://doi.org/10.1021/jacs.4c10979",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Divided Cell",
+   "Ni Catalysis",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Wisconsin–Madison",
+   "Bristol-Myers Squibb (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4777ad3a5aa400c5",
+  "title": "General Alkene 1,2- syn -Cyano-Hydroxylation Procedure Via Electrochemical Activation of Isoxazoline Cycloadducts",
+  "authors": [
+   "Taciano Antonio Santos Wanderley",
+   "Roberto Buscemi",
+   "Órla Conboy",
+   "B Knight",
+   "Giacomo E. M. Crisenza"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2024-11-13",
+  "year": 2024,
+  "doi": "10.1021/jacs.4c13682",
+  "url": "https://doi.org/10.1021/jacs.4c13682",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis",
+   "Natural Product & Total Synthesis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Alkenes",
+   "Cathodic Reduction",
+   "Electrosynthesis",
+   "Heterocycles",
+   "Natural Products",
+   "Radical Chemistry",
+   "Regioselectivity",
+   "Single-Electron Transfer"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "University of Manchester"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "25100fbf6ec751b1",
+  "title": "Paired Electro‐Synthesis of Remote Amino Alcohols with/in H 2 O",
+  "authors": [
+   "Xinyue Fang",
+   "Xinwei Hu",
+   "Quan-Xin Li",
+   "Shao-Fei Ni",
+   "Zhixiong Ruan"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2024-11-13",
+  "year": 2024,
+  "doi": "10.1002/anie.202418277",
+  "url": "https://doi.org/10.1002/anie.202418277",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "State Key Laboratory of Respiratory Disease",
+   "Guangzhou Medical University",
+   "Shantou University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c7b4b66349381d1a",
+  "title": "Rhodaelectro-Catalyzed Synthesis of Pyrano[3,4- b ]indol-1(9 H )-ones via the Double Dehydrogenative Heck Reaction between Indole-2-carboxylic Acids and Alkenes",
+  "authors": [
+   "Fengyi Xiao",
+   "Xinlu Xu",
+   "Jiaqi Zhang",
+   "Ximan Chen",
+   "Xin Ruan",
+   "Wei Qi",
+   "Xiaofeng Zhang",
+   "Qiufeng Huang"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2024-11-12",
+  "year": 2024,
+  "doi": "10.1021/acs.joc.4c02271",
+  "url": "https://doi.org/10.1021/acs.joc.4c02271",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Green & Sustainable Electrosynthesis",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Indoles",
+   "Oxidant-Free",
+   "Undivided Cell"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Fujian Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "040cce62197fde21",
+  "title": "Heterogeneous electrocatalytic synthesis of nitrogenous organic compounds using inorganic nitrogen sources",
+  "authors": [
+   "Chao Wang",
+   "Jialu Li",
+   "Flemming Besenbacher",
+   "Ren Su"
+  ],
+  "journal": "Nano Materials Science",
+  "publisher": "Elsevier BV",
+  "published": "2024-11-12",
+  "year": 2024,
+  "doi": "10.1016/j.nanoms.2024.10.010",
+  "url": "https://doi.org/10.1016/j.nanoms.2024.10.010",
+  "source": "openalex",
+  "categories": [
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Electrosynthesis",
+   "Heterocycles",
+   "Mechanism"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "Soochow University",
+   "Aarhus University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "80e94a2dfe28cebc",
+  "title": "Organic Electrocatalysis in Water",
+  "authors": [
+   "Samina Aslam",
+   "Sadia Rani",
+   "K. B. Lal",
+   "Nisar Ahmed"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2024-11-08",
+  "year": 2024,
+  "doi": "10.1002/9783527846849.ch15",
+  "url": "https://doi.org/10.1002/9783527846849.ch15",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic",
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "The Women University Multan",
+   "Cardiff University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6c00d02d447c8158",
+  "title": "The Electrooxidation of Synthetic Bipyridyl Herbicide Wastewaters with Boron-Doped Diamond Electrodes: A Technical and Economic Study to Boost Their Application for Pollution Prevention in the Agricultural Sector",
+  "authors": [
+   "Elía Alejandra Teutli-Sequeira",
+   "Rubén Vásquez-Medrano",
+   "Dorian Prato-García",
+   "Jorge G. Ibáñez"
+  ],
+  "journal": "Processes",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2024-11-08",
+  "year": 2024,
+  "doi": "10.3390/pr12112486",
+  "url": "https://doi.org/10.3390/pr12112486",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "BDD Electrode",
+   "Undivided Cell"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Universidad Autónoma del Estado de México",
+   "Ibero American University",
+   "Universidad Nacional de Colombia"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "be72f18b572311a9",
+  "title": "Electrochemical Synthesis of Alkenylsulfonates from Alkynes, NaHSO 3 and Alcohols",
+  "authors": [
+   "Xiaoman Wang",
+   "Qianqian Chen",
+   "Jinhang Zhou",
+   "Yi Hu",
+   "S. Ye",
+   "Jie Wu"
+  ],
+  "journal": "Chinese Journal of Chemistry",
+  "publisher": "Wiley",
+  "published": "2024-11-07",
+  "year": 2024,
+  "doi": "10.1002/cjoc.202400962",
+  "url": "https://doi.org/10.1002/cjoc.202400962",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Late-Stage Functionalization & Medicinal Chemistry",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Alkynes",
+   "Anodic Oxidation",
+   "Electrochemical Synthesis",
+   "FG Tolerance",
+   "Medicinal Chemistry",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 91,
+  "affiliations": [
+   "Nanjing Tech University",
+   "Taizhou University",
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Organic Chemistry",
+   "Henan Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "071596a5bf1c5bff",
+  "title": "Substrate-Controlled Electrochemical Reaction of 2-Alkynylbenzamides, Inorganic Sulfites, and Alcohols",
+  "authors": [
+   "Xiaoman Wang",
+   "Sijia Feng",
+   "Jiarui Han",
+   "Yi Hu",
+   "Shengqing Ye",
+   "Jie Wu"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2024-11-06",
+  "year": 2024,
+  "doi": "10.1021/acs.joc.4c02270",
+  "url": "https://doi.org/10.1021/acs.joc.4c02270",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Late-Stage Functionalization & Medicinal Chemistry",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Chemoselectivity",
+   "FG Tolerance",
+   "Medicinal Chemistry",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Nanjing Tech University",
+   "Taizhou University",
+   "Zhejiang Normal University",
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Organic Chemistry",
+   "Henan Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "07aa93169afb321a",
+  "title": "Anode Material Determined Divergent 5‐ exo‐dig Cyclization of N ‐Cyano‐2‐Halobenzamides Toward 3‐Iminoisoindolin‐1‐ones and 3‐Aminoisoindolin‐1‐ones",
+  "authors": [
+   "Xiaoqing Xie",
+   "Zi-Qiong Li",
+   "Wei Zhou",
+   "Chaozhihui Cheng",
+   "Jiang Bai",
+   "Haixin Ding",
+   "Xian-Rong Song",
+   "Mu-Jia Luo",
+   "Qiang Xiao"
+  ],
+  "journal": "Advanced Synthesis & Catalysis",
+  "publisher": "Wiley",
+  "published": "2024-11-05",
+  "year": 2024,
+  "doi": "10.1002/adsc.202401276",
+  "url": "https://doi.org/10.1002/adsc.202401276",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electroreductive",
+   "Electrosynthesis",
+   "FG Tolerance",
+   "Radical Chemistry",
+   "Substrate Scope"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Jiangxi Science and Technology Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1cd7da5eb759b719",
+  "title": "Continuous Electrosynthesis of Pure H 2 O 2 Solution with Medical-Grade Concentration by a Conductive Ni-Phthalocyanine-Based Covalent Organic Framework",
+  "authors": [
+   "Mengdi Zhang",
+   "Jia-Run Huang",
+   "Chengpeng Liang",
+   "Xiao-Ming Chen",
+   "Pei-Qin Liao"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2024-11-04",
+  "year": 2024,
+  "doi": "10.1021/jacs.4c10675",
+  "url": "https://doi.org/10.1021/jacs.4c10675",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cell Voltage",
+   "Electrosynthesis",
+   "Scale-up"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Sun Yat-sen University",
+   "Ji Hua Laboratory"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ab3ff2ab398c545c",
+  "title": "Electrochemical carboxylation: Green synthesis of atrolactic acid using boron-doped diamond electrodes",
+  "authors": [
+   "Y.M. Hunge",
+   "Yuvaraj M. Hunge",
+   "Toya Inaba",
+   "K. Ishihara",
+   "Kai Takagi",
+   "Ryoya Okamura",
+   "Hiroshi Uetsuka",
+   "Chiaki Terashima"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2024-11-02",
+  "year": 2024,
+  "doi": "10.1016/j.electacta.2024.145310",
+  "url": "https://doi.org/10.1016/j.electacta.2024.145310",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "BDD Electrode",
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Tokyo University of Science"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b3f4b6768eb4b206",
+  "title": "电化学碘参与的P-H/N-H偶联反应",
+  "authors": [
+   "Jianguo Hu",
+   "Z. W. Yang",
+   "Yahao Wang",
+   "Tao Jiang",
+   "Hongdong Liu",
+   "Xuemei Gao",
+   "Liping Tang",
+   "Bin Li"
+  ],
+  "journal": "Scientia Sinica Chimica",
+  "publisher": "Science China Press",
+  "published": "2024-11-01",
+  "year": 2024,
+  "doi": "10.1360/ssc-2024-0252",
+  "url": "https://doi.org/10.1360/ssc-2024-0252",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Late-Stage Functionalization & Medicinal Chemistry"
+  ],
+  "tags": [
+   "Drug Molecules",
+   "Electrolysis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "110c1e3fb3a948c5",
+  "title": "Electrochemical C–H/N–H Coupling of Phenothiazines with Halogenated Phenols",
+  "authors": [
+   "Alexander I. Kononov",
+   "A. D. Zlygostev",
+   "M. A. Khvorova",
+   "Sofia Strekalova"
+  ],
+  "journal": "Russian Journal of General Chemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2024-11-01",
+  "year": 2024,
+  "doi": "10.1134/s1070363224110343",
+  "url": "https://doi.org/10.1134/s1070363224110343",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization"
+  ],
+  "tags": [
+   "Electrochemical C-H"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "A.E. Arbuzov Institute of Organic and Physical Chemistry",
+   "Kazan Federal University"
+  ],
   "added": "2026-07-30"
  }
 ]
