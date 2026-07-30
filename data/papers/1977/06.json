@@ -1,5 +1,75 @@
 [
  {
+  "id": "cca25b415a33d1a8",
+  "title": "ChemInform Abstract: ACCURATE DETERMINATION OF SHALLOW ZINC DIFFUSION PROFILES IN GALLIUM PHOSPHIDE GALLIUM ARSENIDE PHOSPHIDE (GAAS0.1P0.9) USING ANODIC OXIDATION AND A DOUBLE RADIOACTIVE TRACER TECHNIQUE",
+  "authors": [
+   "J.C. Verplanke"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1977-06-21",
+  "year": 1977,
+  "doi": "10.1002/chin.197725007",
+  "url": "https://doi.org/10.1002/chin.197725007",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f576855e244218f8",
+  "title": "ChemInform Abstract: THE IDENTIFICATION OF THE MOBILE ION DURING THE ANODIC OXIDATION OF SILICON",
+  "authors": [
+   "William D. Mackintosh",
+   "H. Plattner"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1977-06-14",
+  "year": 1977,
+  "doi": "10.1002/chin.197724025",
+  "url": "https://doi.org/10.1002/chin.197724025",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ba18a9981f1f3ceb",
+  "title": "Internal stresses formed during the anodic oxidation of titanium",
+  "authors": [
+   "L.C. Archibald"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1977-06-01",
+  "year": 1977,
+  "doi": "10.1016/0013-4686(77)85135-9",
+  "url": "https://doi.org/10.1016/0013-4686(77)85135-9",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "92e0c0a523e344af",
   "title": "Imidazolidin‐2‐ones by Anodic Oxidation of Conjugated Dienes in the Presence of Dimethylurea",
   "authors": [
@@ -27,6 +97,57 @@
   "relevance_score": 77,
   "affiliations": [
    "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "87f9567719a3ab31",
+  "title": "Anodic oxidation of cyclohexene in the presence of cyanide ion",
+  "authors": [
+   "Kunihisa Yoshida",
+   "Takahiro Kanbe",
+   "Takayuki Fueno"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1977-06-01",
+  "year": 1977,
+  "doi": "10.1021/jo00433a025",
+  "url": "https://doi.org/10.1021/jo00433a025",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "42595914fd176ac2",
+  "title": "Anodic oxidation of indium phosphide in glycol-based solutions",
+  "authors": [
+   "A. Colquhoun",
+   "H.L. Hartnagel"
+  ],
+  "journal": "Surface Technology",
+  "publisher": "Elsevier BV",
+  "published": "1977-06-01",
+  "year": 1977,
+  "doi": "10.1016/0376-4583(77)90031-0",
+  "url": "https://doi.org/10.1016/0376-4583(77)90031-0",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Newcastle University"
   ],
   "added": "2026-07-30"
  }
