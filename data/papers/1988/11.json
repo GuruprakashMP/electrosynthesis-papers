@@ -1,5 +1,192 @@
 [
  {
+  "id": "7052ec76afc1ecc7",
+  "title": "ChemInform Abstract: Concerning the Reaction Mechanism of the Anodic Oxidation of N‐Acylated α‐Aminocarboxylic Acids.",
+  "authors": [
+   "Hans Günter Thomas",
+   "Stephan Kessel"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1988-11-29",
+  "year": 1988,
+  "doi": "10.1002/chin.198848304",
+  "url": "https://doi.org/10.1002/chin.198848304",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Mechanism"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3bf2690261eff613",
+  "title": "ChemInform Abstract: Intramolecular Arylsulfoetherification and Lactonization of Unsaturated Alcohols and Carboxylic Acids Initiated by Anodic Oxidation of Disulfides.",
+  "authors": [
+   "S. TOETEBERG-KAULEN",
+   "E. STECKHAN"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1988-11-29",
+  "year": 1988,
+  "doi": "10.1002/chin.198848083",
+  "url": "https://doi.org/10.1002/chin.198848083",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Bonn"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4be5dbe4b78752af",
+  "title": "ChemInform Abstract: Pyrrolidines by Intramolecular Addition of Kolbe Radicals Generated from β‐Allylaminoalkanoates.",
+  "authors": [
+   "Lisa Becking",
+   "H. J. SCHAEFER"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1988-11-15",
+  "year": 1988,
+  "doi": "10.1002/chin.198846176",
+  "url": "https://doi.org/10.1002/chin.198846176",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Kolbe Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "17551921ae5390f0",
+  "title": "ChemInform Abstract: Electroorganic Synthesis. Part 39. Synthesis of a Prostaglandine Precursor (VIII) by Mixed Kolbe Electrolysis of 3‐(Cyclopent‐2‐enyloxy)propionate (IV).",
+  "authors": [
+   "Lisa Becking",
+   "H. J. SCHAEFER"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1988-11-15",
+  "year": 1988,
+  "doi": "10.1002/chin.198846129",
+  "url": "https://doi.org/10.1002/chin.198846129",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electroorganic",
+   "Kolbe Electrolysis"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8bbbeeac5be7396f",
+  "title": "Electrosynthesis and Electrochemistry of Metalloporphyrins Containing a Metal—Carbon σ-Bond",
+  "authors": [
+   "Karl M. Kadish",
+   "Qingshan Xu",
+   "James E. Anderson"
+  ],
+  "journal": "ACS symposium series",
+  "publisher": "American Chemical Society",
+  "published": "1988-11-11",
+  "year": 1988,
+  "doi": "10.1021/bk-1988-0378.ch031",
+  "url": "https://doi.org/10.1021/bk-1988-0378.ch031",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Houston"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ea455f1e9f4a6f82",
+  "title": "Electrochemical synthesis of heterocyclic compoudsn—XIX. Anodic synthesis of bichromones by oxidation of enaminones",
+  "authors": [
+   "Živko Saničanin",
+   "Ibro Tabaković"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1988-11-01",
+  "year": 1988,
+  "doi": "10.1016/0013-4686(88)80231-7",
+  "url": "https://doi.org/10.1016/0013-4686(88)80231-7",
+  "source": "openalex",
+  "categories": [
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Heterocycles"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e71ecb5756170985",
+  "title": "Electrochemically Induced Structural Changes in Conducting Polymers",
+  "authors": [
+   "Jürgen Heınze",
+   "Ralf Bilger",
+   "Klaus Meerholz"
+  ],
+  "journal": "Berichte der Bunsengesellschaft für physikalische Chemie",
+  "publisher": "",
+  "published": "1988-11-01",
+  "year": 1988,
+  "doi": "10.1002/bbpc.198800309",
+  "url": "https://doi.org/10.1002/bbpc.198800309",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Freiburg"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "c26f2899b673608c",
   "title": "Die Elektrode als Reagens in der organischen Synthese; CC‐Verknüpfungen",
   "authors": [
@@ -28,6 +215,84 @@
   "added": "2026-07-30"
  },
  {
+  "id": "b9dff19e8ffba998",
+  "title": "Cyclovoltammetric Characterization of Carbon Black Slurry Electrodes",
+  "authors": [
+   "Gabriele Heydecke",
+   "Fritz Beck"
+  ],
+  "journal": "Berichte der Bunsengesellschaft für physikalische Chemie",
+  "publisher": "",
+  "published": "1988-11-01",
+  "year": 1988,
+  "doi": "10.1002/bbpc.198800338",
+  "url": "https://doi.org/10.1002/bbpc.198800338",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Duisburg-Essen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b35140b4ded4e6ef",
+  "title": "Anodic oxidation of lead in aqueous carbonate solutions. II. Film formation and dissolution in the pH range 9 to 14",
+  "authors": [
+   "D.W. Shoesmith",
+   "M.G. Bailey",
+   "Peter G. Taylor"
+  ],
+  "journal": "Canadian Journal of Chemistry",
+  "publisher": "NRC Research Press",
+  "published": "1988-11-01",
+  "year": 1988,
+  "doi": "10.1139/v88-454",
+  "url": "https://doi.org/10.1139/v88-454",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "aabb0b564d8a1a59",
+  "title": "Facile Formations of o - and p -Tropoquinone Mono- and Bisacetals by Anodic Oxidations of 2,3-, 2,5-, 2,7-, and 4,5-Dimethoxytropones",
+  "authors": [
+   "Akira Mori",
+   "Tadahiko Kubota",
+   "Hitoshi Takeshita"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "1988-11-01",
+  "year": 1988,
+  "doi": "10.1246/bcsj.61.3965",
+  "url": "https://doi.org/10.1246/bcsj.61.3965",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kyushu University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "9da8cafae1fc586d",
   "title": "Anodic oxidation of α,α′-bis(trimethylsilyl)xylenes in alcohols",
   "authors": [
@@ -52,6 +317,57 @@
   "affiliations": [
    "Tokyo Institute of Technology"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "99ee7654500a7349",
+  "title": "Electrochemical synthesis of heterocyclic compounds—XVIII. Anodic oxidation of 2′-hydroxychalcones",
+  "authors": [
+   "Živko Saničanin",
+   "Ibro Tabaković"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1988-11-01",
+  "year": 1988,
+  "doi": "10.1016/0013-4686(88)80230-5",
+  "url": "https://doi.org/10.1016/0013-4686(88)80230-5",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrochemical Synthesis",
+   "Heterocycles"
+  ],
+  "relevance_score": 71,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8189d5bc59fa2b1d",
+  "title": "Anodic oxidation of p-aminodiphenylamine: an electron paramagnetic resonance and electrochemical study",
+  "authors": [
+   "Roxanne Male",
+   "Robert D. Allendoerfer"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1988-11-01",
+  "year": 1988,
+  "doi": "10.1021/j100333a014",
+  "url": "https://doi.org/10.1021/j100333a014",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-30"
  }
 ]
