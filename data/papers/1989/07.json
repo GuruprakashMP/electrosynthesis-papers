@@ -1,5 +1,210 @@
 [
  {
+  "id": "202152670bb8066f",
+  "title": "Electrochemical methods for the generation of carbenes and their analogues",
+  "authors": [
+   "V. A. Petrosyan",
+   "M. E. Niyazymbetov"
+  ],
+  "journal": "Russian Chemical Reviews",
+  "publisher": "Institute of Physics",
+  "published": "1989-07-31",
+  "year": 1989,
+  "doi": "10.1070/rc1989v058n07abeh003467",
+  "url": "https://doi.org/10.1070/rc1989v058n07abeh003467",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Electrogenerated Species",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "961555dc54ab18fc",
+  "title": "ChemInform Abstract: Electroorganic Chemistry. Part 114. A Facile Transformation of Alkyl Aryl Ketones to Methyl α‐Arylalkanoates by Anodic Oxidation in the Presence of Iodine or Iodo Compounds.",
+  "authors": [
+   "T. SHONO",
+   "Yoshihiro Matsumura",
+   "Susumu Katoh",
+   "T. Fujita",
+   "Tohru Kamada"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-07-25",
+  "year": 1989,
+  "doi": "10.1002/chin.198930116",
+  "url": "https://doi.org/10.1002/chin.198930116",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electroorganic"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4f1a2acf071d7798",
+  "title": "ChemInform Abstract: A Novel Paired Electrosynthesis of p‐Benzoquinone and Hydroquinone from Benzene.",
+  "authors": [
+   "Shota Ito",
+   "R. Katayama",
+   "Atsutaka Kunai",
+   "Kazuo Sasaki"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-07-18",
+  "year": 1989,
+  "doi": "10.1002/chin.198929106",
+  "url": "https://doi.org/10.1002/chin.198929106",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hiroshima University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c9be6101db6e24a5",
+  "title": "ChemInform Abstract: Anodic Oxidation Studies of p‐Methoxyanilides. A General Method for Preparation of Acylated Quinonimine Ketals.",
+  "authors": [
+   "John S. Swenton",
+   "Brian R. Bonke",
+   "C.-P. CHEN",
+   "C.-T. CHOU"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-07-11",
+  "year": 1989,
+  "doi": "10.1002/chin.198928066",
+  "url": "https://doi.org/10.1002/chin.198928066",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "The Ohio State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0c70002fb569dce3",
+  "title": "ChemInform Abstract: Surface Modification and Oxygen Reduction on Glassy Carbon in Chloride Media.",
+  "authors": [
+   "K. M. Sundberg",
+   "W. H. Smyrl",
+   "Lj. Atanasoska",
+   "Radoslav Atanasoski"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-07-11",
+  "year": 1989,
+  "doi": "10.1002/chin.198928019",
+  "url": "https://doi.org/10.1002/chin.198928019",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Glassy Carbon"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "817e4934244b4e5f",
+  "title": "ChemInform Abstract: Electrochemical Behavior of Cobalt in Carbonate‐Bicarbonate Solutions.",
+  "authors": [
+   "C.A. Gervasi",
+   "Sonia R. Biaggio",
+   "J.R. Vilche",
+   "A.J. Arvía"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-07-04",
+  "year": 1989,
+  "doi": "10.1002/chin.198927026",
+  "url": "https://doi.org/10.1002/chin.198927026",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "545a279aa8f93f8f",
+  "title": "ChemInform Abstract: Preparation of Trifluoromethylated Compounds via Anodic Oxidation of 4,4,4‐Trifluoro‐3,3‐dimethoxybutyric Acid.",
+  "authors": [
+   "Toshio Kubota",
+   "Toshimitsu Ishii",
+   "Hiroyuki Minamikawa",
+   "S. Yamaguchi",
+   "T. Tanaka"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-07-04",
+  "year": 1989,
+  "doi": "10.1002/chin.198927061",
+  "url": "https://doi.org/10.1002/chin.198927061",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Kolbe Electrolysis"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Ibaraki University",
+   "Hitachi (Japan)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "b47bd0c713ec6f4d",
   "title": "Electroorganic Synthesis Using Organometals. 2. Reductive Dehalogenation of Halides with Carbonylferrates Derived from Pentacarbonyliron(0) and Cathodically-Generated Methoxide Ion",
   "authors": [
@@ -23,6 +228,193 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "937553e1b0ac812d",
+  "title": "Study of the Ionic Transport during Anodization by Nuclear Microanalysis and Secondary Ion Mass Spectroscopy",
+  "authors": [
+   "I. Montera",
+   "B. Pelloie",
+   "J. Perrière",
+   "J.C. Pivin",
+   "J.M. Albella"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1989-07-01",
+  "year": 1989,
+  "doi": "10.1149/1.2097065",
+  "url": "https://doi.org/10.1149/1.2097065",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Université Paris Cité",
+   "École Normale Supérieure - PSL",
+   "Protéomique, Réponse Inflammatoire et Spectrométrie de Masse"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7cfb4525ee6d98c9",
+  "title": "Electrochemical synthesis of ketones from acid chlorides and alkyl and aryl halides catalysed by nickel complexes",
+  "authors": [
+   "H. Marzouk",
+   "Yolande Rollin",
+   "J. C. FOLEST",
+   "Jean-Yves Nédélec",
+   "Jacques Périchon"
+  ],
+  "journal": "Journal of Organometallic Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1989-07-01",
+  "year": 1989,
+  "doi": "10.1016/0022-328x(89)85195-2",
+  "url": "https://doi.org/10.1016/0022-328x(89)85195-2",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Catalyse"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5f0e4856fcb0d977",
+  "title": "Preparation of Tantalum‐Tantalum Oxide‐Manganese Oxide Structures by Photoexcited Anodic Deposition of Manganese Oxide",
+  "authors": [
+   "Akihiko Yoshida",
+   "Atsushi Nishino"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1989-07-01",
+  "year": 1989,
+  "doi": "10.1149/1.2097076",
+  "url": "https://doi.org/10.1149/1.2097076",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Electrolytic"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Panasonic (Japan)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3f40f41dd4484c1b",
+  "title": "Anodische Oberflächen- und Volumenoxidation graphitischer Materialien in neutralen und alkalischen wäßrigen Lösungen / Anodic Surface and Bulk Oxidation of Graphitic Materials in Neutral and Basic Aqueous Solutions",
+  "authors": [
+   "Jürgen Besenhard",
+   "J. Jakob",
+   "U. Krebber",
+   "Priit Möller",
+   "R. F. Sauter",
+   "A. Kurtze",
+   "Nasser Kanani",
+   "H. Meyer",
+   "J. K. H. Hörber",
+   "A.D. Jannakoudakis"
+  ],
+  "journal": "Zeitschrift für Naturforschung B",
+  "publisher": "De Gruyter",
+  "published": "1989-07-01",
+  "year": 1989,
+  "doi": "10.1515/znb-1989-0703",
+  "url": "https://doi.org/10.1515/znb-1989-0703",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Münster",
+   "Telio (Norway)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2389a4b06247edcf",
+  "title": "Potential oscillation during anodic oxidation of hydrogen at a platinum electrode—I. experimental",
+  "authors": [
+   "Tadayoshi Yamazaki",
+   "Takuro Kodera"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1989-07-01",
+  "year": 1989,
+  "doi": "10.1016/0013-4686(89)80022-2",
+  "url": "https://doi.org/10.1016/0013-4686(89)80022-2",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Hokkaido University",
+   "Muroran Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0c4efdb46dd86197",
+  "title": "Redox Behavior of Simple Vitamin B12 Model Complexes and Electrochemical Catalysis of Carbon-Skeleton Rearrangements",
+  "authors": [
+   "Yukito Murakami",
+   "Yoshio Hisaeda",
+   "Fan Sheng-di",
+   "Yoshihisa Matsuda"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "1989-07-01",
+  "year": 1989,
+  "doi": "10.1246/bcsj.62.2219",
+  "url": "https://doi.org/10.1246/bcsj.62.2219",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Divided Cell",
+   "Electrolysis",
+   "Redox Potential",
+   "Undivided Cell"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Kyushu University"
   ],
   "added": "2026-07-30"
  }

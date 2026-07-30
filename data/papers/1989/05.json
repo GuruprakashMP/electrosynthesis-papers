@@ -1,5 +1,386 @@
 [
  {
+  "id": "ac699b37947a4511",
+  "title": "ChemInform Abstract: Electrooxidative Cyclization of 4‐Dithioazetidones (Kamiya′s Disulfides). A Facile Access to 2‐(Substituted Methyl)penicillanates.",
+  "authors": [
+   "Hideo Tanaka",
+   "Masahiro Tanaka",
+   "Y. HIRONAKA",
+   "Akiko Nakai",
+   "S. TORII"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-05-30",
+  "year": 1989,
+  "doi": "10.1002/chin.198922316",
+  "url": "https://doi.org/10.1002/chin.198922316",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrooxidative"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a20f5e43c0da1929",
+  "title": "A Study on the Process of Cathodic Reduction of Chromium (III) Ions",
+  "authors": [
+   "Jiang Lin-Cai",
+   "Jian Subi"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1989-05-24",
+  "year": 1989,
+  "doi": "",
+  "url": "http://www.cjcu.jlu.edu.cn/EN/Y1989/V10/I5/551",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c0f0cc4f59970dd2",
+  "title": "ChemInform Abstract: Anodic Oxidation of Lead in Aqueous Carbonate Solutions. Part 2. Film Formation and Dissolution in the pH Range 9 to 14.",
+  "authors": [
+   "D.W. Shoesmith",
+   "M.G. Bailey",
+   "Peter G. Taylor"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-05-23",
+  "year": 1989,
+  "doi": "10.1002/chin.198921021",
+  "url": "https://doi.org/10.1002/chin.198921021",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8d0ae5237e1877ca",
+  "title": "ChemInform Abstract: Anodic Oxidation of (Trimethylsilyl)methanes with π‐Electron Substituents in the Presence of Nucleophiles.",
+  "authors": [
+   "Tatsuya Koizumi",
+   "Toshio Fuchigami",
+   "T. NONAKA"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-05-23",
+  "year": 1989,
+  "doi": "10.1002/chin.198921092",
+  "url": "https://doi.org/10.1002/chin.198921092",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "59d7d469516d609b",
+  "title": "ChemInform Abstract: Electrosynthesis in Organosilicon Chemistry: Selective Silylation of Polychloromethanes.",
+  "authors": [
+   "P. Pons",
+   "Claude Biran",
+   "Michel Bordeau",
+   "J. DUNOGUÈS"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-05-23",
+  "year": 1989,
+  "doi": "10.1002/chin.198921227",
+  "url": "https://doi.org/10.1002/chin.198921227",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Bordeaux",
+   "Laboratoire de Chimie Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6ec672b41da43d45",
+  "title": "ChemInform Abstract: Synthesis of 2,3,5‐Trimethylbenzoquinone Through Anodic Oxidation.",
+  "authors": [
+   "Izuru Kimura",
+   "Yoshihiko Ikeda",
+   "E. MANDA"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-05-16",
+  "year": 1989,
+  "doi": "10.1002/chin.198920139",
+  "url": "https://doi.org/10.1002/chin.198920139",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3463f396b12f07ca",
+  "title": "Elektrochemische Decarboxylierung von L .‐Threonin‐ und Oligopeptid‐Derivaten unter Bildung von N ‐Acyl‐N, O‐acetalen: Herstellung von Oligopeptiden mit Carboxamid‐oder Phosphonat‐C‐Terminus",
+  "authors": [
+   "Dieter Seebàch",
+   "Roland Charczuk",
+   "Christian Gerber",
+   "Philippe Renaud",
+   "Heinz Berner",
+   "Helmut Schneider"
+  ],
+  "journal": "Helvetica Chimica Acta",
+  "publisher": "Wiley",
+  "published": "1989-05-03",
+  "year": 1989,
+  "doi": "10.1002/hlca.19890720302",
+  "url": "https://doi.org/10.1002/hlca.19890720302",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Decarboxylative",
+   "Diastereoselectivity",
+   "Electrochemical Decarboxylation",
+   "Electrolysis",
+   "Electrolytic",
+   "Undivided Cell"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "ETH Zurich",
+   "Zurich University of Teacher Education",
+   "Forschungs- und Beratungsstelle Arbeitswelt"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cc202550fc7ac08f",
+  "title": "Paired Electrooxygenation of Benzene in Undivided Cell",
+  "authors": [
+   "Sotaro Ito",
+   "Noriya Fukumoto",
+   "Atsutaka Kunai",
+   "Kazuo Sasaki"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1989-05-01",
+  "year": 1989,
+  "doi": "10.1246/cl.1989.745",
+  "url": "https://doi.org/10.1246/cl.1989.745",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Undivided Cell"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Hiroshima University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "cb456840b3b2f6c4",
+  "title": "Anodic oxidation of propylene carbonate on platinum, glassy carbon and polypyrrole",
+  "authors": [
+   "Petr Novák",
+   "Paul A. Christensen",
+   "T. Iwasita",
+   "W. Vielstich"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1989-05-01",
+  "year": 1989,
+  "doi": "10.1016/0022-0728(89)80122-6",
+  "url": "https://doi.org/10.1016/0022-0728(89)80122-6",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Bonn"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a1c26257c38d58c2",
+  "title": "Electrocatalysis of Anodic Oxygen Transfer Reactions: Comparison of Structural Data with Electrocatalytic Phenomena for Bismuth‐Doped Lead Dioxide",
+  "authors": [
+   "In-Hyeong Yeo",
+   "Sangsoo Kim",
+   "Robert A. Jacobson",
+   "Dennis C. Johnson"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1989-05-01",
+  "year": 1989,
+  "doi": "10.1149/1.2096929",
+  "url": "https://doi.org/10.1149/1.2096929",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Iowa State University",
+   "Ames National Laboratory"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "93783862da3215af",
+  "title": "Direct preparation of BaTiO3 powders from titanium metal by anodic oxidation under hydrothermal conditions",
+  "authors": [
+   "Seung Eul Yoo",
+   "Masahiro Yoshimura",
+   "Shigeyuki Sōmiya"
+  ],
+  "journal": "Journal of Materials Science Letters",
+  "publisher": "Springer Science+Business Media",
+  "published": "1989-05-01",
+  "year": 1989,
+  "doi": "10.1007/bf00720287",
+  "url": "https://doi.org/10.1007/bf00720287",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "76b7b13bb7451b27",
+  "title": "Process improvements in the electrochemical fluorination of octanoyl chloride",
+  "authors": [
+   "H.W. Prokop",
+   "H-J Zhou",
+   "S-Q Xu",
+   "C-H Wu",
+   "S.R. Chuey",
+   "C. C. Liu"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1989-05-01",
+  "year": 1989,
+  "doi": "10.1016/s0022-1139(00)82945-0",
+  "url": "https://doi.org/10.1016/s0022-1139(00)82945-0",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Case Western Reserve University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "738f54509720bab5",
+  "title": "Properties of electrochemically generated poly(p-phenylene)",
+  "authors": [
+   "Kevin Ashley",
+   "Diane B. Parry",
+   "Joel M. Harris",
+   "Stanley Pons",
+   "Douglas N. Bennion",
+   "Rodney LaFollette",
+   "J. Idris Jones",
+   "Edward J. King"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1989-05-01",
+  "year": 1989,
+  "doi": "10.1016/0013-4686(89)85002-9",
+  "url": "https://doi.org/10.1016/0013-4686(89)85002-9",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrogenerated Species"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "San Jose State University",
+   "University of Utah",
+   "Brigham Young University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "4127b13bf8b0c1da",
   "title": "Electroorganic synthesis using organometals. 1. Cathodic ester formation from alcohols and alkyl halides in the presence of catalytic amounts of iron(0) pentacarbonyl at atmospheric pressure of carbon monoxide",
   "authors": [
@@ -22,6 +403,60 @@
   ],
   "relevance_score": 46,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2af5746c50641bfa",
+  "title": "Electrochemical models for cytochrome P-450. N-Demethylation of tertiary amides by anodic oxidation",
+  "authors": [
+   "Larry R. Hall",
+   "Reynold T. Iwamoto",
+   "Robert P. Hanzlik"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1989-05-01",
+  "year": 1989,
+  "doi": "10.1021/jo00271a040",
+  "url": "https://doi.org/10.1021/jo00271a040",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "063e8f9c5afbbe7f",
+  "title": "Analysis of the products from the electrochemical fluorination of octanoyl chloride",
+  "authors": [
+   "H.W. Prokop",
+   "H-J Zhou",
+   "S-Q Xu",
+   "C-H Wu",
+   "C. C. Liu"
+  ],
+  "journal": "Journal of Fluorine Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1989-05-01",
+  "year": 1989,
+  "doi": "10.1016/s0022-1139(00)82946-2",
+  "url": "https://doi.org/10.1016/s0022-1139(00)82946-2",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Case Western Reserve University"
+  ],
   "added": "2026-07-30"
  }
 ]

@@ -1,5 +1,90 @@
 [
  {
+  "id": "0132c4a028db5dfa",
+  "title": "ChemInform Abstract: Electrosynthesis of Ce(IV) Solutions in Nitromethane.",
+  "authors": [
+   "Maksymilian Ignaczak",
+   "A. ABRASZEWSKI"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-08-22",
+  "year": 1989,
+  "doi": "10.1002/chin.198934025",
+  "url": "https://doi.org/10.1002/chin.198934025",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Łódź"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "52f7ba668dd3a324",
+  "title": "ChemInform Abstract: Electrochemical Decarboxylation of L‐Threonine and Oligopeptide Derivatives with Formation of N‐Acyl‐N,O‐acetals: Preparation of Oligopeptides with Amide or Phosphonate C‐Terminus.",
+  "authors": [
+   "Dieter Seebàch",
+   "Roland Charczuk",
+   "Christian Gerber",
+   "Philippe Renaud",
+   "Heinz Berner",
+   "Helmut Schneider"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-08-08",
+  "year": 1989,
+  "doi": "10.1002/chin.198932288",
+  "url": "https://doi.org/10.1002/chin.198932288",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrochemical Decarboxylation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "ETH Zurich"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ecb7d8916e8d65e9",
+  "title": "A Facile Synthesis of Trifluoroacetaldehyde by Electroreduction Of Cf 3 Br In Dimethylformamide",
+  "authors": [
+   "S. SIBILLE",
+   "Jacques Périchon",
+   "J. CHAUSSARD"
+  ],
+  "journal": "Synthetic Communications",
+  "publisher": "Taylor & Francis",
+  "published": "1989-08-01",
+  "year": 1989,
+  "doi": "10.1080/00397918908052646",
+  "url": "https://doi.org/10.1080/00397918908052646",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Undivided Cell"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Catalyse",
+   "Laboratoire de Synthèse Organique",
+   "Fondation Nationale des Sciences Politiques"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "e9828b7a8132dedc",
   "title": "Cathodic Reduction of Carbonyl Compounds at a Nickel–Poly(tetrafluoroethylene) Composite-plated Electrodes",
   "authors": [
@@ -25,6 +110,152 @@
   "relevance_score": 52,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "58ea1497cd5b35d9",
+  "title": "Oxynytride layers obtained by anodic oxidation of plasma-enhanced chemically vapour deposited Si3N4 films",
+  "authors": [
+   "I. Montero",
+   "O. Sa ́nchez",
+   "J.M. Albella",
+   "J.C. Pivin"
+  ],
+  "journal": "Thin Solid Films",
+  "publisher": "Elsevier BV",
+  "published": "1989-08-01",
+  "year": 1989,
+  "doi": "10.1016/0040-6090(89)90807-9",
+  "url": "https://doi.org/10.1016/0040-6090(89)90807-9",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Consejo Superior de Investigaciones Científicas",
+   "Campus France"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3d564c34fc15e971",
+  "title": "Anodic oxidation of nitrogen-implanted aluminium",
+  "authors": [
+   "G. Terwagne",
+   "Stéphane Lucas",
+   "F. Bodart",
+   "G. Sørensen",
+   "Henrik Jensen"
+  ],
+  "journal": "Materials Science and Engineering A",
+  "publisher": "Elsevier BV",
+  "published": "1989-08-01",
+  "year": 1989,
+  "doi": "10.1016/0921-5093(89)90128-7",
+  "url": "https://doi.org/10.1016/0921-5093(89)90128-7",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Namur"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3ad610cc38333fb8",
+  "title": "ChemInform Abstract: Electrosynthesis of 2,2′‐Dinitrodibenzyl (II) from 2‐Nitrobenzyl Bromide",
+  "authors": [
+   "Bärbel Vieth",
+   "Werner Jugelt",
+   "Fritz Pragst"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-08-01",
+  "year": 1989,
+  "doi": "10.1002/chin.198931058",
+  "url": "https://doi.org/10.1002/chin.198931058",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "30fce62e4f99856b",
+  "title": "Carbanions phosphonate préparés par voie électrochimique: formation et réactivité vis-à-vis d'un aldéhyde",
+  "authors": [
+   "Jean-Christophe Le Menn",
+   "J. Sarrazin",
+   "André Tallec"
+  ],
+  "journal": "Canadian Journal of Chemistry",
+  "publisher": "NRC Research Press",
+  "published": "1989-08-01",
+  "year": 1989,
+  "doi": "10.1139/v89-205",
+  "url": "https://doi.org/10.1139/v89-205",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrogenerated Base",
+   "Electrogenerated Species",
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "École Nationale Supérieure de Chimie de Montpellier",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "089f1667ed8a549e",
+  "title": "Anodic Oxidation of Lithium Bromide in Tetrahydrofuran Solutions",
+  "authors": [
+   "Wishvender K. Behl"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1989-08-01",
+  "year": 1989,
+  "doi": "10.1149/1.2097315",
+  "url": "https://doi.org/10.1149/1.2097315",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Graphite Electrode",
+   "Reference Electrode"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "United States Department of the Army",
+   "United States Army"
   ],
   "added": "2026-07-30"
  }
