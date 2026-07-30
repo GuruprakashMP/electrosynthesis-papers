@@ -1,5 +1,34 @@
 [
  {
+  "id": "8a8eda715ba1bde2",
+  "title": "Nanostructured Au/Ti bimetallic electrodes in selective anodic oxidation of carbohydrates",
+  "authors": [
+   "Fabio Terzi",
+   "Barbara Zanfrognini",
+   "Stefano Ruggeri",
+   "Nicolò Dossi"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2015-11-29",
+  "year": 2015,
+  "doi": "10.1016/j.electacta.2015.11.130",
+  "url": "https://doi.org/10.1016/j.electacta.2015.11.130",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Modena and Reggio Emilia",
+   "University of Udine"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "3d901d7c34f8d788",
   "title": "Electrochemically catalyzed amino-oxygenation of styrenes: n-Bu 4 NI induced C–N followed by a C–O bond formation cascade for the synthesis of indolines",
   "authors": [
@@ -38,6 +67,39 @@
   "added": "2026-07-30"
  },
  {
+  "id": "c044da1f2f50bded",
+  "title": "The Dilemma of Supporting Electrolytes for Electroorganic Synthesis: A Case Study on Kolbe Electrolysis",
+  "authors": [
+   "Carolin Stang",
+   "Falk Harnisch"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2015-11-19",
+  "year": 2015,
+  "doi": "10.1002/cssc.201501407",
+  "url": "https://doi.org/10.1002/cssc.201501407",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrolytic",
+   "Electroorganic",
+   "Kolbe Electrolysis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Helmholtz Centre for Environmental Research"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "5ddd5e4532f06458",
   "title": "ChemInform Abstract: Synthesis and Isolation of Enantiomerically Enriched Cyclopenta[b]benzofurans Based on Products from Anodic Oxidation of 2,4‐Dimethylphenol.",
   "authors": [
@@ -66,6 +128,236 @@
   "relevance_score": 46,
   "affiliations": [
    "Johannes Gutenberg University Mainz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4d1ec58eabfbfd30",
+  "title": "Green and efficient one-pot Diels-Alder electro-organic cyclization reaction of 1,2-bis(bromomethyl)benzene with naphthoquinone derivatives",
+  "authors": [
+   "Davood Habibi",
+   "Narges Pakravan",
+   "Davood Nematollahi"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2015-11-12",
+  "year": 2015,
+  "doi": "10.1016/j.jelechem.2015.11.014",
+  "url": "https://doi.org/10.1016/j.jelechem.2015.11.014",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic",
+   "One-Pot"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Bu-Ali Sina University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "91e03f590e70c272",
+  "title": "Enhanced decomposition of waste activated sludge via anodic oxidation for methane production and bioenergy recovery",
+  "authors": [
+   "Zhiqiang Zhao",
+   "Yaobin Zhang",
+   "Qilin Yu",
+   "Weican Ma",
+   "Jiaqi Sun",
+   "Xie Quan"
+  ],
+  "journal": "International Biodeterioration & Biodegradation",
+  "publisher": "Elsevier BV",
+  "published": "2015-11-08",
+  "year": 2015,
+  "doi": "10.1016/j.ibiod.2015.10.020",
+  "url": "https://doi.org/10.1016/j.ibiod.2015.10.020",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Dalian University of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e81168aafa01b7d6",
+  "title": "Decolorization of azo dye C.I. Acid Red 33 from aqueous solutions by anodic oxidation on MWCNTs/Ti electrodes",
+  "authors": [
+   "Farideh Nabizadeh Chianeh",
+   "Jalal Basiri Parsa"
+  ],
+  "journal": "Desalination and Water Treatment",
+  "publisher": "Taylor & Francis",
+  "published": "2015-11-05",
+  "year": 2015,
+  "doi": "10.1080/19443994.2015.1110716",
+  "url": "https://doi.org/10.1080/19443994.2015.1110716",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Bu-Ali Sina University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "37913606d246d450",
+  "title": "Ion‐selective Electrodes with 3D Nanostructured Conducting Polymer Solid Contact",
+  "authors": [
+   "Júlia Szűcs",
+   "Tom Lindfors",
+   "Johan Bobacka",
+   "Róbert E. Gyurcsányi"
+  ],
+  "journal": "Electroanalysis",
+  "publisher": "Wiley",
+  "published": "2015-11-04",
+  "year": 2015,
+  "doi": "10.1002/elan.201500465",
+  "url": "https://doi.org/10.1002/elan.201500465",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Glassy Carbon",
+   "Redox Mediator"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Budapest Institute",
+   "Åbo Akademi University",
+   "Budapest University of Technology and Economics"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f59461a3d9762a38",
+  "title": "LPW develops 3D printing college course",
+  "authors": [],
+  "journal": "Metal Powder Report",
+  "publisher": "Elsevier BV",
+  "published": "2015-11-01",
+  "year": 2015,
+  "doi": "10.1016/j.mprp.2015.10.066",
+  "url": "https://doi.org/10.1016/j.mprp.2015.10.066",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ed4ab8e06c6f071d",
+  "title": "Pulsed Current Electrochemical Synthesis of Co3O4 Nanostructures",
+  "authors": [
+   "Hassan Karami",
+   "Elham Chidar"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2015-11-01",
+  "year": 2015,
+  "doi": "10.1016/s1452-3981(23)11202-8",
+  "url": "https://doi.org/10.1016/s1452-3981(23)11202-8",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Payame Noor University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a2c13464abe4babc",
+  "title": "Preparation of the intermetallic compound PuPd3 and its electrochemical properties in the 3LiCl–2KCl salt eutectic",
+  "authors": [
+   "S. V. Zavarzin",
+   "A. G. Maslennikov",
+   "V. A. Efimov",
+   "Yu. V. Savinkov",
+   "S. A. Kuz’min",
+   "S. V. Tomilin",
+   "А. Г. Осипенко",
+   "A. A. Maërshin"
+  ],
+  "journal": "Radiochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2015-11-01",
+  "year": 2015,
+  "doi": "10.1134/s1066362215060041",
+  "url": "https://doi.org/10.1134/s1066362215060041",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Frumkin Institute of Physical Chemistry and Electrochemistry",
+   "State Scientific Center - Research Institute of Atomic Reactors"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "345612d5664062c4",
+  "title": "Possible trends in the development of applied electrochemical synthesis of organic compounds (Review)",
+  "authors": [
+   "В. В. Турыгин",
+   "А. П. Томилов"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2015-11-01",
+  "year": 2015,
+  "doi": "10.1134/s1023193515110191",
+  "url": "https://doi.org/10.1134/s1023193515110191",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "BDD Electrode",
+   "Electrochemical Synthesis",
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "State Research Institute of Organic Chemistry and Technology"
   ],
   "added": "2026-07-30"
  }

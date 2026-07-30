@@ -1,5 +1,39 @@
 [
  {
+  "id": "dbbb512141afe0cc",
+  "title": "Investigation of Dy Permeation through Dy Alloy Diaphragm Using Molten Salt Electrolysis",
+  "authors": [
+   "Hirokazu Konishi",
+   "Tetsuo Oishi",
+   "Toshiyuki Nohira",
+   "Hideki Ono",
+   "Eiichi Takeuchi"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2015-04-29",
+  "year": 2015,
+  "doi": "10.1149/ma2015-01/16/1229",
+  "url": "https://doi.org/10.1149/ma2015-01/16/1229",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Controlled Potential",
+   "Electrolysis",
+   "Electrolytic"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "The University of Osaka",
+   "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "dafbc24c9ec7ec64",
   "title": "Electrochemical Cyclization of Brominated Allyl Ethers with the Aid of a Chiral Catalyst",
   "authors": [
@@ -31,6 +65,38 @@
   "relevance_score": 83,
   "affiliations": [
    "Indiana University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d12cb5e131ddf8ef",
+  "title": "Electrocatalytic Aziridination of Alkenes in an Undivided Cell Mediated By Iodide",
+  "authors": [
+   "Cheng-Chu Zeng",
+   "Jie Chen"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2015-04-29",
+  "year": 2015,
+  "doi": "10.1149/ma2015-01/29/1679",
+  "url": "https://doi.org/10.1149/ma2015-01/29/1679",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Divided Cell",
+   "Electrogenerated Species",
+   "Undivided Cell",
+   "Working Electrode"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Bioengineering (Switzerland)",
+   "Beijing University of Technology"
   ],
   "added": "2026-07-30"
  },
@@ -70,6 +136,132 @@
   "added": "2026-07-30"
  },
  {
+  "id": "b126edd766c095da",
+  "title": "Mechanistic Studies of the Cathodic Cleavage of Diphenylacetaldehyde Derivatives",
+  "authors": [
+   "Albert J. Fry",
+   "Elaine Tsui",
+   "Evan Baum",
+   "Boris Sheludko"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2015-04-29",
+  "year": 2015,
+  "doi": "10.1149/ma2015-01/29/1672",
+  "url": "https://doi.org/10.1149/ma2015-01/29/1672",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Divided Cell",
+   "Electrolysis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Wesleyan University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "afa171a6c8a0ec2e",
+  "title": "(Invited) Electrosynthesis of Fuels Directly from CO 2",
+  "authors": [
+   "Anne C. Co",
+   "Joshua Billy",
+   "Katheriine Muhlenkamp"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2015-04-29",
+  "year": 2015,
+  "doi": "10.1149/ma2015-01/25/1517",
+  "url": "https://doi.org/10.1149/ma2015-01/25/1517",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Reduction Potential",
+   "Working Electrode"
+  ],
+  "relevance_score": 44,
+  "affiliations": [
+   "The Ohio State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8cb82445d1ee4754",
+  "title": "Electrochemical Activation of the Least Reactive Endohedral Fullerene: Sc 3 N@I h -C 80",
+  "authors": [
+   "Danisha Marie Rivera-Nazario",
+   "Marta Izquierdo",
+   "Salvatore Filippone",
+   "Nazario Martı́n",
+   "Luís Echegoyen"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2015-04-29",
+  "year": 2015,
+  "doi": "10.1149/ma2015-01/7/822",
+  "url": "https://doi.org/10.1149/ma2015-01/7/822",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Asymmetric Electrosynthesis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Controlled Potential",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Enantioselectivity",
+   "Radical Chemistry",
+   "Regioselectivity"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "The University of Texas at El Paso",
+   "Universidad Complutense de Madrid",
+   "Madrid Institute for Advanced Studies"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "734df84e30fa9df6",
+  "title": "Comparative analysis of anodic oxidation parameters for photo-induced phenomena in nanostructured TiO2",
+  "authors": [
+   "Valerio Piazza"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2015-04-29",
+  "year": 2015,
+  "doi": "",
+  "url": "https://www.politesi.polimi.it/handle/10589/107334",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "7217328de285f57c",
   "title": "Cationic Polymerization Initiated By Electrochemically Generated Dendritic Cations",
   "authors": [
@@ -99,6 +291,70 @@
   "added": "2026-07-30"
  },
  {
+  "id": "5fad16d0439ec567",
+  "title": "The Synthesis of Hydrocarbons for Fuel and Lubricants via Ceramic Membrane Reactor",
+  "authors": [
+   "James M. Mosby",
+   "Patrick McGuire",
+   "Daniel Taggart",
+   "Jacob Staley",
+   "S. Elangovan"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2015-04-29",
+  "year": 2015,
+  "doi": "10.1149/ma2015-01/25/1500",
+  "url": "https://doi.org/10.1149/ma2015-01/25/1500",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Flow Electrosynthesis & Scale-up",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Kolbe Electrolysis",
+   "Radical Chemistry",
+   "Reduction Potential",
+   "Scale-up"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5dad76fd11b36c39",
+  "title": "Effects of Electrolyte, Current Density and Electricity Consumption on the Anodic Oxidation of Cyclic Amides",
+  "authors": [
+   "James Y. Becker",
+   "Tatiana Golub"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2015-04-29",
+  "year": 2015,
+  "doi": "10.1149/ma2015-01/29/1683",
+  "url": "https://doi.org/10.1149/ma2015-01/29/1683",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Organic Electrochemistry",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "Ben-Gurion University of the Negev"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "8ae4121acfbbe739",
   "title": "ChemInform Abstract: Highly Selective Electrochemical Fluorination of Dithioacetal Derivatives Bearing Electron‐Withdrawing Substituents at the Position α to the Sulfur Atom Using Poly(HF) Salts.",
   "authors": [
@@ -122,6 +378,552 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "31f8b6c2e7136146",
+  "title": "ChemInform Abstract: Electrosynthesis of 3,3‐Di(indolyl)indolin‐2‐one Nanorods",
+  "authors": [
+   "Kh. Ghanbari",
+   "Kobra Nikoofar"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2015-04-27",
+  "year": 2015,
+  "doi": "10.1002/chin.201520136",
+  "url": "https://doi.org/10.1002/chin.201520136",
+  "source": "openalex",
+  "categories": [
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Indoles"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Alzahra University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0584e0d3e63c1d8a",
+  "title": "Local anodic oxidation of Ni films with (2 0 0) and (1 1 1) texture",
+  "authors": [
+   "A. Yu. Pavlova",
+   "Yu. V. Nikulin",
+   "А. С. Джумалиев",
+   "Y. V. Khivintsev",
+   "A.A. Zaharov",
+   "Vladimir Preobrazhensky",
+   "Philippe Pernod",
+   "Y. A. Filimonov"
+  ],
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2015-04-25",
+  "year": 2015,
+  "doi": "10.1016/j.apsusc.2015.04.111",
+  "url": "https://doi.org/10.1016/j.apsusc.2015.04.111",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Yuri Gagarin State Technical University of Saratov",
+   "Institut d'électronique de microélectronique et de nanotechnologie",
+   "Kotelnikov Institute of Radioengineering and Electronics of the Russian Academy of Sciences",
+   "Saratov State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "934f30cd4cbbeefe",
+  "title": "Electrochemical behavior of Auramine O dye in aqueous solutions at lead dioxide electrode",
+  "authors": [
+   "Ridha Abdelhèdi",
+   "Emna Hmani",
+   "A. Sellami",
+   "Sourour Chaâbane Elaoud"
+  ],
+  "journal": "Moroccan Journal of chemistry",
+  "publisher": "",
+  "published": "2015-04-20",
+  "year": 2015,
+  "doi": "10.48317/imist.prsm/morjchem-v3i3.2977",
+  "url": "https://doi.org/10.48317/imist.prsm/morjchem-v3i3.2977",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Galvanostatic",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7c296449c62b1eb3",
+  "title": "Electrooxidative Desulfurization of a Thiophene-Containing Model Fuel Using a Square Wave Potentiometry Technique",
+  "authors": [
+   "Zeinab Alipoor",
+   "Amir Behrouzifar",
+   "Soosan Rowshanzamir",
+   "Mansour Bazmi"
+  ],
+  "journal": "Energy & Fuels",
+  "publisher": "American Chemical Society",
+  "published": "2015-04-20",
+  "year": 2015,
+  "doi": "10.1021/acs.energyfuels.5b00354",
+  "url": "https://doi.org/10.1021/acs.energyfuels.5b00354",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrooxidative",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 50,
+  "affiliations": [
+   "Iran University of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c38dae5c48d11fc3",
+  "title": "Electrochemical reduction of aryl diazonium on silicon surface",
+  "authors": [
+   "Abdelkader Kaiber",
+   "Mohammed Cherkaoui"
+  ],
+  "journal": "Moroccan Journal of chemistry",
+  "publisher": "",
+  "published": "2015-04-15",
+  "year": 2015,
+  "doi": "10.48317/imist.prsm/morjchem-v3i3.2970",
+  "url": "https://doi.org/10.48317/imist.prsm/morjchem-v3i3.2970",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Mechanism"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Université Ibn-Tofail"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7efcbe32f5673f0e",
+  "title": "Three-component coupling reaction of benzylic halides, carbon dioxide, and N,N-dimethylformamide by using paired electrolysis: sacrificial anode-free efficient electrochemical carboxylation of benzylic halides",
+  "authors": [
+   "Hisanori Senboku",
+   "Kotaro Nagakura",
+   "Tsuyoshi Fukuhara",
+   "Shoji Hara"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "2015-04-15",
+  "year": 2015,
+  "doi": "10.1016/j.tet.2015.04.020",
+  "url": "https://doi.org/10.1016/j.tet.2015.04.020",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation",
+   "Electrolysis",
+   "Paired Electrolysis",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "29fadcde39adf0bd",
+  "title": "Cover Picture: (ChemElectroChem 4/2015)",
+  "authors": [],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2015-04-15",
+  "year": 2015,
+  "doi": "10.1002/celc.201590015",
+  "url": "https://doi.org/10.1002/celc.201590015",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "51342df62dd9e9f3",
+  "title": "Low-Voltage a-InGaZnO Thin-Film Transistors With Anodized Thin HfO 2 Gate Dielectric",
+  "authors": [
+   "Yang Shao",
+   "Xiang Xiao",
+   "Xin He",
+   "Wei Deng",
+   "Shengdong Zhang"
+  ],
+  "journal": "IEEE Electron Device Letters",
+  "publisher": "Institute of Electrical and Electronics Engineers",
+  "published": "2015-04-14",
+  "year": 2015,
+  "doi": "10.1109/led.2015.2422895",
+  "url": "https://doi.org/10.1109/led.2015.2422895",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Peking University",
+   "Institute of Microelectronics"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "ddcf3fc24b4c59f3",
+  "title": "Electrosynthesis and study of some physical properties of conductive and solid-state gas sensing polydiphenylamine",
+  "authors": [
+   "A. Boukhachem",
+   "A. Yumak",
+   "Sana Krichen",
+   "A. Madani",
+   "Manef Abderrabba",
+   "P. Petkova",
+   "K. Boubaker",
+   "M. Amlouk",
+   "H. Bouchriha"
+  ],
+  "journal": "Sensors and Actuators A Physical",
+  "publisher": "Elsevier BV",
+  "published": "2015-04-11",
+  "year": 2015,
+  "doi": "10.1016/j.sna.2015.03.045",
+  "url": "https://doi.org/10.1016/j.sna.2015.03.045",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tunis University",
+   "Tunis El Manar University",
+   "Marmara University",
+   "University of Carthage",
+   "Shumen University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "78c2ab8908037b62",
+  "title": "A Study on the Decomposition of SPS and Its Effects on Via Filling Performance",
+  "authors": [
+   "Ryoichi Kimizuka",
+   "Hisayuki Toda",
+   "Tetsuro Eda",
+   "Kazuki Kishimoto",
+   "Yasuko Takaya",
+   "Reisei Oh",
+   "Osamu Takai"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2015-04-07",
+  "year": 2015,
+  "doi": "10.1149/06440.0023ecst",
+  "url": "https://doi.org/10.1149/06440.0023ecst",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Electrolytic"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Kanto Gakuin University",
+   "JGC (Japan)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f5068ca70e2af8b1",
+  "title": "A novel synthesis method for manganese ferrite nanopowders: The effect of manganese salt as inorganic additive in electrosynthesis cell",
+  "authors": [
+   "Saba Mosivand",
+   "Iraj Kazeminezhad"
+  ],
+  "journal": "Ceramics International",
+  "publisher": "Elsevier BV",
+  "published": "2015-04-06",
+  "year": 2015,
+  "doi": "10.1016/j.ceramint.2015.03.074",
+  "url": "https://doi.org/10.1016/j.ceramint.2015.03.074",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Lorestan University",
+   "Shahid Chamran University of Ahvaz"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "db0228dfe0f64f7b",
+  "title": "Anthracene mediated electrochemical synthesis of metallic cobalt nanoparticles in solution",
+  "authors": [
+   "V. V. Yanilkin",
+   "Gulnaz R. Nasretdinova",
+   "Yu. N. Osin",
+   "Vadim V. Salnikov"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2015-04-06",
+  "year": 2015,
+  "doi": "10.1016/j.electacta.2015.03.214",
+  "url": "https://doi.org/10.1016/j.electacta.2015.03.214",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "A.E. Arbuzov Institute of Organic and Physical Chemistry",
+   "Kazan Federal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "48acde5d011cd2a7",
+  "title": "Scalable Throughput and Stable Scanning Probe Nanolithography Based on Local Anodic Oxidation by Arrayed Wear-Insensitive Sidewall Microprobes",
+  "authors": [
+   "Yong Fang Li",
+   "Masakazu Sugiyama",
+   "Hiroshi Toshiyoshi",
+   "Hiroyuki Fujita"
+  ],
+  "journal": "Journal of Microelectromechanical Systems",
+  "publisher": "Institute of Electrical and Electronics Engineers",
+  "published": "2015-04-03",
+  "year": 2015,
+  "doi": "10.1109/jmems.2015.2412155",
+  "url": "https://doi.org/10.1109/jmems.2015.2412155",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Toshiba (Japan)",
+   "The University of Tokyo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2dbddd1a5e5a106e",
+  "title": "Electrosynthesis of poly(3‐amino‐4‐hydroxybenzoic acid) nanoparticles with electroactivity even in highly alkaline solutions",
+  "authors": [
+   "Chuanxiang Chen",
+   "Xiaozhang Hong",
+   "Yuhua Gao"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "2015-04-03",
+  "year": 2015,
+  "doi": "10.1002/app.42190",
+  "url": "https://doi.org/10.1002/app.42190",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Jiangsu University of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e2a8e91d88fdb89b",
+  "title": "Electroinduced Carbene Formation in the Cathodic Reduction of 1,2-Dicarbonyl Compounds via Electron-Transfer to the Solvent",
+  "authors": [
+   "Belén Batanero",
+   "Marina Ramírez-Moreno",
+   "Fructuoso Barba"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2015-04-02",
+  "year": 2015,
+  "doi": "10.1016/j.electacta.2015.03.143",
+  "url": "https://doi.org/10.1016/j.electacta.2015.03.143",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Alcalá"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "98456d7ace7d2c8d",
+  "title": "Electrosynthesis and Characterization of a New Conducting Copolymer from 2’-aminomethyl-3, 4-ethylenedioxythiophene and 3, 4-ethylenedioxythiophene",
+  "authors": [
+   "Hui Sun",
+   "Baoyang Lu",
+   "Xuemin Duan",
+   "Jingkun Xu",
+   "Liqi Dong",
+   "Xiaofei Zhu",
+   "Kaixin Zhang",
+   "Dufen Hu",
+   "Shouli Ming"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2015-04-01",
+  "year": 2015,
+  "doi": "10.1016/s1452-3981(23)06535-5",
+  "url": "https://doi.org/10.1016/s1452-3981(23)06535-5",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrosynthesis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Jiangxi Science and Technology Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "940ef8fa39996ee2",
+  "title": "Improvement Autotrophic Electrosynthesis in Bioelectrochemical System",
+  "authors": [
+   "Chae Ho Im",
+   "Ganapathiraman Munussami",
+   "Young Eun Song",
+   "Jung Rae Kim"
+  ],
+  "journal": "한국생물공학회 학술대회",
+  "publisher": "",
+  "published": "2015-04-01",
+  "year": 2015,
+  "doi": "",
+  "url": "http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06339853",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "29c69e00fa9f388d",
+  "title": "Green and One-Pot Electrochemical Synthesis of New Benzofurans Based on an ECC Mechanism",
+  "authors": [
+   "Maryam Rajabi",
+   "Sepideh Radmannia",
+   "Mohsen Ameri",
+   "Alireza Asghari",
+   "Mohammad Bakherad"
+  ],
+  "journal": "Progress in Reaction Kinetics and Mechanism",
+  "publisher": "SAGE Publishing",
+  "published": "2015-04-01",
+  "year": 2015,
+  "doi": "10.3184/146867815x14262617293362",
+  "url": "https://doi.org/10.3184/146867815x14262617293362",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrochemical Synthesis",
+   "Graphite Electrode",
+   "One-Pot",
+   "Undivided Cell"
+  ],
+  "relevance_score": 85,
+  "affiliations": [
+   "Semnan University",
+   "University of Shahrood"
   ],
   "added": "2026-07-30"
  }

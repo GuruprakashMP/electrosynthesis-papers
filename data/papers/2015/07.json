@@ -29,6 +29,132 @@
   "added": "2026-07-30"
  },
  {
+  "id": "6e4ccaf13984cb60",
+  "title": "A convenient synthesis of new biological active 5-imino-4-thioxo-2-imidazolidinones involving acetonitrile electrogenerated base",
+  "authors": [
+   "Najoua Sbei",
+   "Belén Batanero",
+   "Fructuoso Barba",
+   "Beya Haouas",
+   "L. M. FUENTES",
+   "Mohamed Lamine Benkhoud"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "2015-07-30",
+  "year": 2015,
+  "doi": "10.1016/j.tet.2015.07.066",
+  "url": "https://doi.org/10.1016/j.tet.2015.07.066",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrogenerated Base"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tunis El Manar University",
+   "Universidad de Alcalá"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bf25422a06dc303d",
+  "title": "Direct Electrochemical Synthesis of Nickel (II) Thiolates and their Coordination Complexes.",
+  "authors": [
+   "Baljit Singh",
+   "Shavina Shavina"
+  ],
+  "journal": "JOURNAL OF ADVANCES IN CHEMISTRY",
+  "publisher": "",
+  "published": "2015-07-29",
+  "year": 2015,
+  "doi": "10.24297/jac.v11i9.2688",
+  "url": "https://doi.org/10.24297/jac.v11i9.2688",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Punjabi University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "994012566c179b13",
+  "title": "Polycyclic Polyprenylated Xanthones from Symphonia globulifera : Isolation and Biomimetic Electrosynthesis",
+  "authors": [
+   "Kévin Cottet",
+   "Anne Neudörffer",
+   "Marina Kritsanida",
+   "Sylvie Michel",
+   "Marie-Christine Lallemand",
+   "Martine Largeron"
+  ],
+  "journal": "Journal of Natural Products",
+  "publisher": "American Chemical Society",
+  "published": "2015-07-29",
+  "year": 2015,
+  "doi": "10.1021/acs.jnatprod.5b00239",
+  "url": "https://doi.org/10.1021/acs.jnatprod.5b00239",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 56,
+  "affiliations": [
+   "Délégation Paris 5",
+   "Centre National de la Recherche Scientifique",
+   "Université Paris Cité",
+   "Sorbonne Paris Cité",
+   "Chimie Organique, Médicinale et Extractive et Toxicologie Expérimentale"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "87f2665b11b7cba9",
+  "title": "Electrosynthesis and characterization of ZnO nanoparticles as inorganic component in organic thin-film transistor active layers",
+  "authors": [
+   "Rosaria Anna Picca",
+   "Maria Chiara Sportelli",
+   "Diana Hötger",
+   "Kyriaki Manoli",
+   "Christine Kranz",
+   "Boris Mizaikoff",
+   "Luisa Torsi",
+   "Nicola Cioffi"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2015-07-26",
+  "year": 2015,
+  "doi": "10.1016/j.electacta.2015.07.122",
+  "url": "https://doi.org/10.1016/j.electacta.2015.07.122",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Bari Aldo Moro",
+   "Universität Ulm"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "d0aa3bc5a57f737d",
   "title": "Fundamentals and Applications of Organic Electrochemistry. Synthesis, Materials, Devices. By Toshio Fuchigami, Mahito Atobe and Shinsuke Inagi.",
   "authors": [
@@ -79,6 +205,169 @@
   "added": "2026-07-30"
  },
  {
+  "id": "29319742c3e5c61a",
+  "title": "Electrosynthesis of Heterocyclic Compounds by Radical Cyclization in Environmentally Friendly Media",
+  "authors": [
+   "João P. Mendes",
+   "José M. S. S. Esperança",
+   "Ana Paula Esteves",
+   "M.M. Silva",
+   "M.J. Medeiros"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2015-07-24",
+  "year": 2015,
+  "doi": "10.1149/06626.0001ecst",
+  "url": "https://doi.org/10.1149/06626.0001ecst",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis",
+   "Natural Product & Total Synthesis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Heterocycles",
+   "Natural Products",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "University of Minho",
+   "Universidade Nova de Lisboa"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9507b460c80db63d",
+  "title": "Electrodeposition and Electrooxidation of Bimetallic Systems Co–Ni and Cu–Ni",
+  "authors": [
+   "Н. В. Иванова",
+   "A.A. Kubylinskaya",
+   "Yu. A. Zakharov"
+  ],
+  "journal": "Eurasian Chemico-Technological Journal",
+  "publisher": "",
+  "published": "2015-07-20",
+  "year": 2015,
+  "doi": "10.18321/ectj242",
+  "url": "https://doi.org/10.18321/ectj242",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Graphite Electrode",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Kemerovo State University",
+   "Institute of Coal Chemistry and Material Science"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6dc17b8266f9d124",
+  "title": "Challenges and rewards of the electrosynthesis of macroscopic aligned carbon nanotube array/conducting polymer hybrid assemblies",
+  "authors": [
+   "Balázs Endrődi",
+   "Gergely F. Samu",
+   "Dóra Fejes",
+   "Zoltán Németh",
+   "Endre Horváth",
+   "A. Pisoni",
+   "Péter Matus",
+   "Klára Hernádi",
+   "Csaba Visy",
+   "Lászlø Forró",
+   "Csaba Janáky"
+  ],
+  "journal": "Journal of Polymer Science Part B Polymer Physics",
+  "publisher": "Wiley",
+  "published": "2015-07-16",
+  "year": 2015,
+  "doi": "10.1002/polb.23782",
+  "url": "https://doi.org/10.1002/polb.23782",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Szeged",
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "886ca150ffdfdfbc",
+  "title": "A domino electro-oxidative synthesis of 3,3′-bis(indolyl)methane nanoparticles",
+  "authors": [
+   "Kobra Nikoofar",
+   "Kh. Ghanbari"
+  ],
+  "journal": "Monatshefte für Chemie - Chemical Monthly",
+  "publisher": "Springer Science+Business Media",
+  "published": "2015-07-15",
+  "year": 2015,
+  "doi": "10.1007/s00706-015-1496-6",
+  "url": "https://doi.org/10.1007/s00706-015-1496-6",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Alzahra University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f7a5a85bcf80f4a2",
+  "title": "Titania nanotube/nano-brushite composited bioactive coating with micro/nanotopography on titanium formed by anodic oxidation and hydrothermal treatment",
+  "authors": [
+   "Daqing Wei",
+   "Wei Feng",
+   "Qing Du",
+   "Rui Zhou",
+   "Baoqiang Li",
+   "Yaming Wang",
+   "Yu Zhou",
+   "Dechang Jia"
+  ],
+  "journal": "Ceramics International",
+  "publisher": "Elsevier BV",
+  "published": "2015-07-14",
+  "year": 2015,
+  "doi": "10.1016/j.ceramint.2015.07.036",
+  "url": "https://doi.org/10.1016/j.ceramint.2015.07.036",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Harbin Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "e70515ecdc349e0d",
   "title": "Cathodic hydrodimerization of nitroolefins",
   "authors": [
@@ -107,6 +396,224 @@
   "relevance_score": 75,
   "affiliations": [
    "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6d1e0c56dacc3d69",
+  "title": "Electrocatalytic multicomponent assembling of aminouracils, aldehydes and malononitrile: An efficient approach to 7-amino-pyrido[2,3-d]pyrimidine-6-carbonitrile derivatives",
+  "authors": [
+   "Reyhaneh Kazemi-Rad",
+   "Javad Azizian",
+   "Hassan Kefayati"
+  ],
+  "journal": "Journal of the Serbian Chemical Society",
+  "publisher": "Serbian Chemical Society",
+  "published": "2015-07-09",
+  "year": 2015,
+  "doi": "10.2298/jsc150210048k",
+  "url": "https://doi.org/10.2298/jsc150210048k",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Undivided Cell"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Islamic Azad University, Science and Research Branch"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f8a977aa00f85f33",
+  "title": "Low‐potential facile electrosynthesis of free‐standing poly(1H‐benzo[g]indole) film as a yellow‐light‐emitter",
+  "authors": [
+   "Ling Wang",
+   "Dan Zhao",
+   "Changlong Liu",
+   "Guangming Nie"
+  ],
+  "journal": "Journal of Polymer Science Part A Polymer Chemistry",
+  "publisher": "Wiley",
+  "published": "2015-07-07",
+  "year": 2015,
+  "doi": "10.1002/pola.27738",
+  "url": "https://doi.org/10.1002/pola.27738",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrosynthesis",
+   "Indoles"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "Qingdao University of Science and Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dea59c0d793ea80d",
+  "title": "Application of the Wedge Scheme to Explain Quinone-Phenol Electrochemical Systems",
+  "authors": [
+   "Patrick Andrew Staley",
+   "Diane K. Smith"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2015-07-07",
+  "year": 2015,
+  "doi": "10.1149/ma2015-02/39/1609",
+  "url": "https://doi.org/10.1149/ma2015-02/39/1609",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Organic Electrochemistry",
+   "Radical Anion",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "University of California San Diego",
+   "San Diego State University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a1e687280bcf3b23",
+  "title": "Electrochemical Investigations of Aromatic Hydrocarbons in Adiponitrile",
+  "authors": [
+   "Graham T. Cheek"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2015-07-07",
+  "year": 2015,
+  "doi": "10.1149/ma2015-02/39/1629",
+  "url": "https://doi.org/10.1149/ma2015-02/39/1629",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Organic Electrochemistry",
+   "Radical Cation",
+   "Radical Chemistry",
+   "Reference Electrode"
+  ],
+  "relevance_score": 56,
+  "affiliations": [
+   "United States Naval Academy"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "8d63f7296820aca7",
+  "title": "Novel System Based on Divalent Silver for Mediated Electrochemical Oxidation of Persistent Organic Pollutants",
+  "authors": [
+   "Piotr Połczyński",
+   "Rafał Jurczakowski",
+   "Wojciech Grochala"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2015-07-07",
+  "year": 2015,
+  "doi": "10.1149/ma2015-02/41/1661",
+  "url": "https://doi.org/10.1149/ma2015-02/41/1661",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrogenerated Species",
+   "Electrolysis",
+   "Indirect Electrolysis",
+   "Radical Chemistry",
+   "Redox Mediator",
+   "Redox Potential"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Warsaw"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "72a7a95d6deb5e49",
+  "title": "Electrochemical Oxidation of Dibenzothiophene in Acetonitrile and Acetonitrile-Water Mixtures",
+  "authors": [
+   "Erika Méndez",
+   "Miguel Ángel González Fuentes",
+   "Andrea Becerra",
+   "Felipe J. González"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2015-07-07",
+  "year": 2015,
+  "doi": "10.1149/ma2015-02/41/1663",
+  "url": "https://doi.org/10.1149/ma2015-02/41/1663",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrooxidative",
+   "Glassy Carbon",
+   "Mechanism",
+   "Preparative Electrolysis"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "Benemérita Universidad Autónoma de Puebla",
+   "Instituto de Estudios Avanzados",
+   "Instituto Politécnico Nacional"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a4e71f4c3ff1f976",
+  "title": "Anodic oxidation of titanium in fluoride-containing electrolytes based on ethylene glycol and dimethyl sulfoxide",
+  "authors": [
+   "Liana N. Inasaridze",
+   "А. В. Балмасов"
+  ],
+  "journal": "Protection of Metals and Physical Chemistry of Surfaces",
+  "publisher": "Pleiades Publishing",
+  "published": "2015-07-01",
+  "year": 2015,
+  "doi": "10.1134/s2070205115040140",
+  "url": "https://doi.org/10.1134/s2070205115040140",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Ivanovo State University"
   ],
   "added": "2026-07-30"
  }

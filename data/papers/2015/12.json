@@ -1,5 +1,240 @@
 [
  {
+  "id": "c8b5642fea7287f1",
+  "title": "Selective electrocarboxylation of bromostyrene at silver cathode in DMF",
+  "authors": [
+   "Huimei Wang",
+   "Guo-Jiao Sui",
+   "Di Wu",
+   "Qiu Feng",
+   "Huan Wang",
+   "Jiaxing Lu"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "2015-12-29",
+  "year": 2015,
+  "doi": "10.1016/j.tet.2015.12.066",
+  "url": "https://doi.org/10.1016/j.tet.2015.12.066",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "East China Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "efbea778d4adf308",
+  "title": "Ionic Liquids for the Electroreductive Radical Cyclization of Unsaturated Bromo Derivatives Catalyzed by Nickel(II) Complexes",
+  "authors": [
+   "M.J. Neto",
+   "Élisabet Duñach",
+   "José M. S. S. Esperança",
+   "Ana Paula Esteves",
+   "M.J. Medeiros",
+   "M.M. Silva"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "2015-12-23",
+  "year": 2015,
+  "doi": "10.1149/2.0691603jes",
+  "url": "https://doi.org/10.1149/2.0691603jes",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electroreductive",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Minho",
+   "Centre National de la Recherche Scientifique",
+   "Université Côte d'Azur",
+   "Institut de Chimie de Nice",
+   "Universidade Nova de Lisboa"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "382bc2172264cf66",
+  "title": "Electrochemical Synthesis of Cu (II) Coordination Polymer Coatings Based on 2,2′-Thiodiacetic Acid and 1,2,4,5-Benzenetetracarboxylate",
+  "authors": [
+   "Pari Mirahmadpour",
+   "Davood Nematollahi",
+   "Mohammad Hossein Banitaba",
+   "Saied Saeed Hosseiny Davarani"
+  ],
+  "journal": "Journal of Inorganic and Organometallic Polymers and Materials",
+  "publisher": "Springer Science+Business Media",
+  "published": "2015-12-23",
+  "year": 2015,
+  "doi": "10.1007/s10904-015-0317-z",
+  "url": "https://doi.org/10.1007/s10904-015-0317-z",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Islamic Azad University, Shahr-e-Qods Branch",
+   "Bu-Ali Sina University",
+   "Shahid Beheshti University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c7e38a22da41c96b",
+  "title": "Facile one-pot electrosynthesis of Al(OH) 3 – kinetics and equilibrium modeling for adsorption of 2,4,5-trichlorophenoxyacetic acid from aqueous solution",
+  "authors": [
+   "Ramakrishnan Kamaraj",
+   "Subramanyan Vasudevan"
+  ],
+  "journal": "New Journal of Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2015-12-22",
+  "year": 2015,
+  "doi": "10.1039/c5nj02407b",
+  "url": "https://doi.org/10.1039/c5nj02407b",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "One-Pot"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Central Electrochemical Research Institute",
+   "Centre For Environment Architecture & Human Settlements"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "05a803ac81d06679",
+  "title": "Electrosynthesis of Biomimetic Manganese–Calcium Oxides for Water Oxidation Catalysis—Atomic Structure and Functionality",
+  "authors": [
+   "Diego González-Flores",
+   "Ivelina Zaharieva",
+   "Jonathan Heidkamp",
+   "Petko Chernev",
+   "Elías Martínez-Moreno",
+   "Chiara Pasquini",
+   "Mohammad Reza Mohammadi",
+   "Katharina Klingan",
+   "Ulrich Gernet",
+   "Anna Fischer",
+   "Holger Dau"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2015-12-22",
+  "year": 2015,
+  "doi": "10.1002/cssc.201501399",
+  "url": "https://doi.org/10.1002/cssc.201501399",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Freie Universität Berlin",
+   "University of Freiburg",
+   "Technische Universität Berlin"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a71117b10ab20577",
+  "title": "Electrochemical synthesis of new organic compounds based on the oxidation of 1,4-dihydroxybenzene derivatives in the presence of primary and secondary amines",
+  "authors": [
+   "Davood Nematollahi",
+   "Hooman Hesari",
+   "Hamid Salehzadeh",
+   "Mahdi Hesari",
+   "Shima Momeni"
+  ],
+  "journal": "Comptes Rendus Chimie",
+  "publisher": "Elsevier BV",
+  "published": "2015-12-19",
+  "year": 2015,
+  "doi": "10.1016/j.crci.2015.11.003",
+  "url": "https://doi.org/10.1016/j.crci.2015.11.003",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrogenerated Species"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Bu-Ali Sina University",
+   "Western University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5bf2cd059123dee8",
+  "title": "Effects of anodic oxidation of a substoichiometric titanium dioxide reactive electrochemical membrane on algal cell destabilization and lipid extraction",
+  "authors": [
+   "Likun Hua",
+   "Lun Guo",
+   "Megha Thakkar",
+   "Dequan Wei",
+   "Michael Agbakpe",
+   "Liyuan Kuang",
+   "Maraha Magpile",
+   "Brian P. Chaplin",
+   "Yi Tao",
+   "Danmeng Shuai",
+   "Xihui Zhang",
+   "Somenath Mitra",
+   "Wen Zhang"
+  ],
+  "journal": "Bioresource Technology",
+  "publisher": "Elsevier BV",
+  "published": "2015-12-19",
+  "year": 2015,
+  "doi": "10.1016/j.biortech.2015.12.041",
+  "url": "https://doi.org/10.1016/j.biortech.2015.12.041",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "New Jersey Institute of Technology",
+   "University of Illinois Chicago",
+   "University Town of Shenzhen",
+   "Tsinghua University",
+   "George Washington University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "1e72a5740e6e7422",
   "title": "ChemInform Abstract: Heterocyclization Approach for Electrooxidative Coupling of Functional Primary Alkylamines with Aromatics.",
   "authors": [
@@ -23,6 +258,99 @@
   "relevance_score": 46,
   "affiliations": [
    "Kyoto University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fe2d3fcabe5039d9",
+  "title": "Electrosynthesis and characterization of nanostructured polyquinone for use in detection and quantification of naturally occurring dsDNA",
+  "authors": [
+   "Loreto Hernández",
+   "M.A. del Valle",
+   "Francisco Armijo"
+  ],
+  "journal": "Biosensors and Bioelectronics",
+  "publisher": "Elsevier BV",
+  "published": "2015-12-17",
+  "year": 2015,
+  "doi": "10.1016/j.bios.2015.12.041",
+  "url": "https://doi.org/10.1016/j.bios.2015.12.041",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Pontificia Universidad Católica de Chile"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "386b2ab76d97d631",
+  "title": "Electrosynthesis and performance of WC and Co 3 O 4 co-doped α-PbO 2 electrodes",
+  "authors": [
+   "Shiwei He",
+   "Ruidong Xu",
+   "Gang Hu",
+   "Buming Chen"
+  ],
+  "journal": "RSC Advances",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2015-12-17",
+  "year": 2015,
+  "doi": "10.1039/c5ra23444a",
+  "url": "https://doi.org/10.1039/c5ra23444a",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Kunming University of Science and Technology",
+   "Kunming University",
+   "National Laboratory of Energy and Geology",
+   "China Nonferrous Metal Mining (China)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6fa8953dd8b22dc9",
+  "title": "Methylviologen mediated electrosynthesis of gold nanoparticles in the solution bulk",
+  "authors": [
+   "V. V. Yanilkin",
+   "Н. В. Настапова",
+   "Gulnaz R. Nasretdinova",
+   "Svetlana V. Fedorenko",
+   "Michael E. Jilkin",
+   "Asiya R. Mustafina",
+   "А.Т. Губайдуллин",
+   "Yu. N. Osin"
+  ],
+  "journal": "RSC Advances",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2015-12-10",
+  "year": 2015,
+  "doi": "10.1039/c5ra21328b",
+  "url": "https://doi.org/10.1039/c5ra21328b",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "Kazan Scientific Center",
+   "A.E. Arbuzov Institute of Organic and Physical Chemistry",
+   "Kazan Federal University"
   ],
   "added": "2026-07-30"
  },
@@ -52,6 +380,125 @@
   "affiliations": [
    "Johannes Gutenberg University Mainz",
    "University of Bonn"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f204db2a81092630",
+  "title": "Growth and Filling Regularities of Filamentary Channels in Non-Metallic Inorganic Coatings Under Anodic Oxidation of Valve Metals. Mathematical Modeling",
+  "authors": [
+   "A. I. Mamaev",
+   "В. А. Мамаева",
+   "N. F. Kolenchin",
+   "А К Чубенко",
+   "Ya. B. Kovalskaya",
+   "Yu. N. Dolgova",
+   "E. Yu. Beletskaya"
+  ],
+  "journal": "Russian Physics Journal",
+  "publisher": "Springer Science+Business Media",
+  "published": "2015-12-01",
+  "year": 2015,
+  "doi": "10.1007/s11182-015-0610-x",
+  "url": "https://doi.org/10.1007/s11182-015-0610-x",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Research Tomsk State University",
+   "University of Tyumen"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bbf70c6a0c44cc4c",
+  "title": "Electrosynthesis of dihydroperfluoropentanol in a water–ethanol solution",
+  "authors": [
+   "O. N. Chechina"
+  ],
+  "journal": "Russian Journal of Electrochemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2015-12-01",
+  "year": 2015,
+  "doi": "10.1134/s1023193515110038",
+  "url": "https://doi.org/10.1134/s1023193515110038",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Preparative Electrolysis"
+  ],
+  "relevance_score": 56,
+  "affiliations": [
+   "Samara State Technical University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "849664c1a28e39b2",
+  "title": "AMINES REACTIVITY CRITERIA",
+  "authors": [
+   "Geworg Simonian"
+  ],
+  "journal": "GISAP Physics Mathematics and Chemistry",
+  "publisher": "",
+  "published": "2015-12-01",
+  "year": 2015,
+  "doi": "10.18007/gisap:pmc.v0i7.1183",
+  "url": "https://doi.org/10.18007/gisap:pmc.v0i7.1183",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Oxidation Potential",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "46ace93b5212f366",
+  "title": "Electro-Organic Synthesis: An Efficient Method for the Preparation of Nanosized Particles of Phthalazine Derivatives via One-Pot Multicomponent Reactions",
+  "authors": [
+   "Somayeh Makarem",
+   "Ali Reza Fakhari",
+   "Ali A. Mohammadi"
+  ],
+  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "publisher": "",
+  "published": "2015-12-01",
+  "year": 2015,
+  "doi": "10.22036/abcr.2015.10300",
+  "url": "https://doi.org/10.22036/abcr.2015.10300",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electroorganic",
+   "Heterocycles",
+   "One-Pot",
+   "Undivided Cell"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "Islamic Azad University, Karaj",
+   "Shahid Beheshti University",
+   "Chemistry and Chemical Engineering Research Center of Iran"
   ],
   "added": "2026-07-30"
  }

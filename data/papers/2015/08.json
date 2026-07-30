@@ -1,5 +1,127 @@
 [
  {
+  "id": "a74b7ee89d23266f",
+  "title": "Antibacterial ability of Ag–TiO2 nanotubes prepared by ion implantation and anodic oxidation",
+  "authors": [
+   "Xinggang Hou",
+   "Dong Mao",
+   "Huiyan Ma",
+   "Yukai Ai",
+   "Xinlei Zhao",
+   "Jianhua Deng",
+   "Dejun Li",
+   "Bin Liao"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "2015-08-29",
+  "year": 2015,
+  "doi": "10.1016/j.matlet.2015.08.125",
+  "url": "https://doi.org/10.1016/j.matlet.2015.08.125",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tianjin Normal University",
+   "Beijing Normal University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e7aa63f37c81f3c4",
+  "title": "ChemInform Abstract: Three‐Component Coupling Reaction of Benzylic Halides, Carbon Dioxide, and N,N‐Dimethylformamide by Using Paired Electrolysis: Sacrificial Anode‐Free Efficient Electrochemical Carboxylation of Benzylic Halides.",
+  "authors": [
+   "Hisanori Senboku",
+   "Kotaro Nagakura",
+   "Tsuyoshi Fukuhara",
+   "Shoji Hara"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2015-08-27",
+  "year": 2015,
+  "doi": "10.1002/chin.201537060",
+  "url": "https://doi.org/10.1002/chin.201537060",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Electrochemical Carboxylation",
+   "Electrolysis",
+   "Paired Electrolysis",
+   "Sacrificial Anode"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Hokkaido University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c3784921ed8f9825",
+  "title": "Electrochemical decolorization of Reactive Black 5 in an undivided cell using Ti and graphite anodes: Effect of polypyrrol coating on anodes",
+  "authors": [
+   "Snehal A. Popli",
+   "Upendra D. Patel"
+  ],
+  "journal": "Journal of Electrochemical Science and Engineering",
+  "publisher": "International Association of Physical Chemists (IAPC)",
+  "published": "2015-08-26",
+  "year": 2015,
+  "doi": "10.5599/jese.164",
+  "url": "https://doi.org/10.5599/jese.164",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Charotar University of Science and Technology",
+   "Maharaja Sayajirao University of Baroda"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "489669237c0e403d",
+  "title": "Batch and continuous flow anodic oxidation of 2,4-dinitrophenol: Modeling, degradation pathway and toxicity",
+  "authors": [
+   "Indu M. Sasidharan Pillai",
+   "Ashok Kumar Gupta"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2015-08-21",
+  "year": 2015,
+  "doi": "10.1016/j.jelechem.2015.08.020",
+  "url": "https://doi.org/10.1016/j.jelechem.2015.08.020",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Continuous Flow"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Indian Institute of Technology Kharagpur"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "d86949b9db22f73e",
   "title": "Cover Picture: Source of Selectivity in Oxidative Cross‐Coupling of Aryls by Solvent Effect of 1,1,1,3,3,3‐Hexafluoropropan‐2‐ol (Chem. Eur. J. 35/2015)",
   "authors": [
@@ -36,6 +158,69 @@
   "added": "2026-07-30"
  },
  {
+  "id": "319a7ea8eab6c8da",
+  "title": "ChemInform Abstract: A Practical Anodic Oxidation of Aminofurazans to Azofurazans: An Environmentally Friendly Route.",
+  "authors": [
+   "Алексей Б. Шереметев",
+   "B. V. Lyalin",
+   "Андрей М. Козеев",
+   "Надежда В. Палысаева",
+   "Марина И. Стручкова",
+   "Kyrill Yu. Suponitsky"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2015-08-13",
+  "year": 2015,
+  "doi": "10.1002/chin.201535161",
+  "url": "https://doi.org/10.1002/chin.201535161",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4f5ef6ef8b463d23",
+  "title": "Electrochemical Synthesis of Carbon Fluorooxide Nanoparticles from 3C-SiC Substrates",
+  "authors": [
+   "С. А. Алексеев",
+   "Dmytro M. Korytko",
+   "M. Iazykov",
+   "Sergei A. Khainakov",
+   "Vladimir Lysenko"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2015-08-11",
+  "year": 2015,
+  "doi": "10.1021/acs.jpcc.5b06524",
+  "url": "https://doi.org/10.1021/acs.jpcc.5b06524",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Taras Shevchenko National University of Kyiv",
+   "Université Claude Bernard Lyon 1",
+   "Centre National de la Recherche Scientifique",
+   "Institut des Nanotechnologies de Lyon",
+   "Universidad de Oviedo"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "6f92b2a17e0e4a64",
   "title": "Practical Electrochemical Anodic Oxidation of Polycyclic Lactams for Late Stage Functionalization",
   "authors": [
@@ -66,6 +251,239 @@
    "University of Kansas",
    "Saint Martin's University",
    "Washington University in St. Louis"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "639f632a7dc8e92a",
+  "title": "Cost-effective electrosynthesis of a series of edaravones through an electrochemical-assisted domino heteroannulation and paired electrochemical process",
+  "authors": [
+   "Mohammad Mehdi Khodaei",
+   "Abdolhamid Alizadeh",
+   "Tayyebeh Kanjouri"
+  ],
+  "journal": "Journal of the Iranian Chemical Society",
+  "publisher": "Springer Science+Business Media",
+  "published": "2015-08-07",
+  "year": 2015,
+  "doi": "10.1007/s13738-015-0702-0",
+  "url": "https://doi.org/10.1007/s13738-015-0702-0",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Razi University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "df9e9d69a4868bf4",
+  "title": "Electrochemical synthesis of polymer based on 4-(2-furyl) benzenamine: Electrochemical properties, characterization and applications",
+  "authors": [
+   "Leyla Shahhosseini",
+   "Mohammad Reza Nateghi",
+   "Maryam Kazemipour",
+   "Mahmoud Borhani Zarandi"
+  ],
+  "journal": "Progress in Organic Coatings",
+  "publisher": "Elsevier BV",
+  "published": "2015-08-06",
+  "year": 2015,
+  "doi": "10.1016/j.porgcoat.2015.07.014",
+  "url": "https://doi.org/10.1016/j.porgcoat.2015.07.014",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Islamic Azad University Kerman",
+   "Islamic Azad University, Yazd",
+   "Yazd University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7d95331b10b54850",
+  "title": "Ultra-high-performance core–shell structured Ru@Pt/C catalyst prepared by a facile pulse electrochemical deposition method",
+  "authors": [
+   "Dan Chen",
+   "Yuexia Li",
+   "Shijun Liao",
+   "Dong Su",
+   "Huiyu Song",
+   "Yingwei Li",
+   "Lijun Yang",
+   "Can Li"
+  ],
+  "journal": "Scientific Reports",
+  "publisher": "Nature Portfolio",
+  "published": "2015-08-03",
+  "year": 2015,
+  "doi": "10.1038/srep11604",
+  "url": "https://doi.org/10.1038/srep11604",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Cell Technology (China)",
+   "South China University of Technology",
+   "Shanxi Datong University",
+   "Brookhaven National Laboratory",
+   "Dalian Institute of Chemical Physics",
+   "Institute of Physics"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "eddc52e8c9cfcbc3",
+  "title": "In-situ Fe electro-oxidation to Improve the Synthesis of Mono and Disubstituted Benzimidazoles",
+  "authors": [
+   "Isabel Monreal",
+   "Luis J. Torres-Pacheco",
+   "Mercedes Teresita Oropeza-Guzmán",
+   "Ignacio A. Rivero"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2015-08-01",
+  "year": 2015,
+  "doi": "10.1016/s1452-3981(23)06758-5",
+  "url": "https://doi.org/10.1016/s1452-3981(23)06758-5",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Green Chemistry",
+   "Organic Electrosynthesis",
+   "Supporting Electrolyte",
+   "Undivided Cell"
+  ],
+  "relevance_score": 93,
+  "affiliations": [
+   "Tecnológico Nacional de México",
+   "Instituto Tecnológico de Tijuana",
+   "Center of Research and Technologic Development in Electrochemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "7f161729d835e645",
+  "title": "Electrochemical degradation of RB-5 dye by anodic oxidation, electro-Fenton and by combining anodic oxidation–electro-Fenton in a filter-press flow cell",
+  "authors": [
+   "Vanessa M. Vasconcelos",
+   "C. Ponce-de-León",
+   "José L. Nava",
+   "Marcos R.V. Lanza"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2015-08-01",
+  "year": 2015,
+  "doi": "10.1016/j.jelechem.2015.07.040",
+  "url": "https://doi.org/10.1016/j.jelechem.2015.07.040",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "BDD Electrode",
+   "Electrolysis",
+   "RVC Electrode"
+  ],
+  "relevance_score": 41,
+  "affiliations": [
+   "Universidade de São Paulo",
+   "University of Southampton",
+   "Universidad de Guanajuato"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "5b191307181cae9d",
+  "title": "Polypyrrole Films Deposited on Carbon-Steel CS-1018 and Its Interaction with Mexican Crude Oil",
+  "authors": [
+   "Oscar E. Vázquez-Noriega",
+   "Javier Guzmán",
+   "Nohra Violeta Gallardo Rivas",
+   "Juan Reyes-Gómez",
+   "Ana Maria Mendoza-Martínez",
+   "José Luis Rivera-Armenta",
+   "Ulises Páramo-García"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2015-08-01",
+  "year": 2015,
+  "doi": "10.1016/s1452-3981(23)06726-3",
+  "url": "https://doi.org/10.1016/s1452-3981(23)06726-3",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 53,
+  "affiliations": [
+   "Instituto Tecnológico de Ciudad Madero",
+   "Instituto Tecnológico y de Energías Renovables",
+   "Mexican Institute of Petroleum",
+   "Universidad de Colima"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2a6c963662cb40e3",
+  "title": "ChemInform Abstract: Catalysis by Electrons and Holes: Formal Potential Scales and Preparative Organic Electrochemistry",
+  "authors": [
+   "Oana R. Luca",
+   "Jeffrey L. Gustafson",
+   "Sean M. Maddox",
+   "Aidan Q. Fenwick",
+   "Daryl C. Smith"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2015-08-01",
+  "year": 2015,
+  "doi": "10.1002/chin.201534264",
+  "url": "https://doi.org/10.1002/chin.201534264",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "California Institute of Technology"
   ],
   "added": "2026-07-30"
  }
