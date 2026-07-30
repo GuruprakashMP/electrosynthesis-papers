@@ -1,5 +1,109 @@
 [
  {
+  "id": "41d8f6672f76ab61",
+  "title": "ChemInform Abstract: THE ANODIC OXIDATION OF SULFIDE ON PLATINUM ELECTRODES",
+  "authors": [
+   "S. Kapusta",
+   "Alfred Viehbeck",
+   "S. Mark Wilhelm",
+   "Norman Hackerman"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1983-12-27",
+  "year": 1983,
+  "doi": "10.1002/chin.198352017",
+  "url": "https://doi.org/10.1002/chin.198352017",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2b029fa7490e6365",
+  "title": "ChemInform Abstract: STUDIES ON THE CYCLIZATION UPON ELECTROCHEMICAL FLUORINATION. IV. SYNTHESIS OF PERFLUOROBICYCLIC ETHERS. THE ELECTROCHEMICAL FLUORINATION OF CYCLOALKYL‐SUBSTITUTED CARBOXYLIC ACIDS",
+  "authors": [
+   "Takashi Abe",
+   "Hajime Baba",
+   "Eiji Hayashi",
+   "S. Nagase"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1983-12-20",
+  "year": 1983,
+  "doi": "10.1002/chin.198351127",
+  "url": "https://doi.org/10.1002/chin.198351127",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "d5d5f6ebe103e558",
+  "title": "ChemInform Abstract: ELECTROSYNTHESIS OF 2‐METHYLINDOLINE",
+  "authors": [
+   "V. N. KRASNOSEL'SKII",
+   "E. I. STEBLINA",
+   "Л. А. Пономарева"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1983-12-13",
+  "year": 1983,
+  "doi": "10.1002/chin.198350155",
+  "url": "https://doi.org/10.1002/chin.198350155",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9fbf806dd88a8c85",
+  "title": "Cathodic reduction of the MnxCo3−xQ4 system in H2SO4 medium",
+  "authors": [
+   "J.L. Gautier"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry (1959)",
+  "publisher": "Elsevier BV",
+  "published": "1983-12-09",
+  "year": 1983,
+  "doi": "10.1016/0368-1874(83)80521-8",
+  "url": "https://doi.org/10.1016/0368-1874(83)80521-8",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Santiago de Chile"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "de24452cc4e571ce",
   "title": "Electrogenerated bases. 8. Epoxidations by electrogenerated superoxide with/without auxiliary carbon acids. .alpha.,.beta.-Unsaturated ketones",
   "authors": [
@@ -21,6 +125,119 @@
   ],
   "relevance_score": 46,
   "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "a4abb19b3cc4e1ed",
+  "title": "The Electrochemistry of Ferrophosphorus in Strong Aqueous Acid",
+  "authors": [
+   "P. J. Peerce-Landers",
+   "Raymond Jasinski"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "10.1149/1.2119591",
+  "url": "https://doi.org/10.1149/1.2119591",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Occidental Petroleum (United States)"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3d6fb5032cacc19d",
+  "title": "Anodic oxidation of graphite in H2SO4 dilatometry — in situ X-ray diffraction — Impedance spectroscopy",
+  "authors": [
+   "Jürgen Besenhard",
+   "E. Wudy",
+   "Helmuth Möhwald",
+   "J.J. Nickl",
+   "W. Biberacher",
+   "W. Foag"
+  ],
+  "journal": "Synthetic Metals",
+  "publisher": "Elsevier BV",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "10.1016/0379-6779(83)90046-2",
+  "url": "https://doi.org/10.1016/0379-6779(83)90046-2",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Munich University of Applied Sciences",
+   "Technical University of Munich",
+   "Bavarian Academy of Sciences and Humanities"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "083167c5209e4a12",
+  "title": "Electrolytic Reduction of Bicarbonate Ion at a Mercury Electrode",
+  "authors": [
+   "Yoshio Hori",
+   "Shin Suzuki"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "10.1149/1.2119593",
+  "url": "https://doi.org/10.1149/1.2119593",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Electrolytic",
+   "Mechanism"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Chiba University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "0649d0d9ed2b9262",
+  "title": "Cathodic reduction of the MnxCo3−xO4 system in H2SO4 medium",
+  "authors": [
+   "J.L. Gautier",
+   "C. Cabezas"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "10.1016/s0022-0728(83)80320-9",
+  "url": "https://doi.org/10.1016/s0022-0728(83)80320-9",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Santiago de Chile"
+  ],
   "added": "2026-07-30"
  }
 ]

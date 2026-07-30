@@ -1,5 +1,164 @@
 [
  {
+  "id": "c6d253b54c5d418e",
+  "title": "ChemInform Abstract: ANODIC OXIDATION OF ALUMINUM IN SULFURIC ACID CONTAINING ALUMINUM SULFATE OR MAGNESIUM SULFATE",
+  "authors": [
+   "Yoshio Fukuda",
+   "Toshiro Fukushima"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1983-04-26",
+  "year": 1983,
+  "doi": "10.1002/chin.198317030",
+  "url": "https://doi.org/10.1002/chin.198317030",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "dc4a73ead62fea99",
+  "title": "ChemInform Abstract: ANODIC OXIDATION OF P‐TYPE SILICON IN METHANOL AS COMPARED TO GLYCOL",
+  "authors": [
+   "Marc Madou",
+   "W. P. Gomes",
+   "F. Fransen",
+   "F. Cardon"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1983-04-05",
+  "year": 1983,
+  "doi": "10.1002/chin.198314030",
+  "url": "https://doi.org/10.1002/chin.198314030",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fdce0ba7208f674f",
+  "title": "3-Chloro-2-chloromethyl-4-(4-chlorophenoxy)-1-butene as a Functionalized Isoprene Unit. An Electrochemical Preparation and Some Reactions",
+  "authors": [
+   "Kenji Uneyama",
+   "Nobu Hasegawa",
+   "Hiroyuki Kawafuchi",
+   "Sigeru Torii"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "1983-04-01",
+  "year": 1983,
+  "doi": "10.1246/bcsj.56.1214",
+  "url": "https://doi.org/10.1246/bcsj.56.1214",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrooxidative",
+   "Undivided Cell"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b0ec8ae4c13190e9",
+  "title": "Industrial organic electrosynthesis",
+  "authors": [
+   "John H. Wagenknecht"
+  ],
+  "journal": "Journal of Chemical Education",
+  "publisher": "American Chemical Society",
+  "published": "1983-04-01",
+  "year": 1983,
+  "doi": "10.1021/ed060p271",
+  "url": "https://doi.org/10.1021/ed060p271",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "9b51bf65a8bd80f9",
+  "title": "Cathodic reduction of 3-substituted five-membered heteroaromatic acids",
+  "authors": [
+   "Т. Г. Константинова",
+   "V. P. Gul’tyai",
+   "В. П. Литвинов",
+   "A. Ya. Shteinshneider",
+   "E. D. Daeva",
+   "A. M. Moiseenkov"
+  ],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1983-04-01",
+  "year": 1983,
+  "doi": "10.1007/bf00953498",
+  "url": "https://doi.org/10.1007/bf00953498",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "N.D. Zelinsky Institute of Organic Chemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "37fbdddcef2e57ce",
+  "title": "Electrosynthesis technology",
+  "authors": [
+   "N. L. Weinberg"
+  ],
+  "journal": "Journal of Chemical Education",
+  "publisher": "American Chemical Society",
+  "published": "1983-04-01",
+  "year": 1983,
+  "doi": "10.1021/ed060p268",
+  "url": "https://doi.org/10.1021/ed060p268",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "234a100de41e090b",
   "title": "Selective Oxidation of Sulfides to Sulfoxides by a Polymeric Reagent Electrochemically Generated and Recycled in Situ",
   "authors": [
@@ -23,6 +182,31 @@
   "relevance_score": 42,
   "affiliations": [
    "Kyoto Institute of Technology"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "025adbf9ae9c040a",
+  "title": "Nickel Triphenylphosphine Electrodes",
+  "authors": [
+   "Raymond Jasinski"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1983-04-01",
+  "year": 1983,
+  "doi": "10.1149/1.2119831",
+  "url": "https://doi.org/10.1149/1.2119831",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Occidental Petroleum (United States)"
   ],
   "added": "2026-07-30"
  }

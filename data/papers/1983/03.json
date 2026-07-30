@@ -1,5 +1,90 @@
 [
  {
+  "id": "7208ab4d4be6502e",
+  "title": "ChemInform Abstract: PROMINENT ASPECTS OF ELECTROORGANIC SYNTHESIS IN β‐LACTAM CHEMISTRY",
+  "authors": [
+   "S. TORII",
+   "Hideo Tanaka",
+   "Michio Sasaoka",
+   "N. Saitoh",
+   "Takashi Siroi",
+   "Junzo Nokami"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1983-03-08",
+  "year": 1983,
+  "doi": "10.1002/chin.198310355",
+  "url": "https://doi.org/10.1002/chin.198310355",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Okayama University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "69cd1786d543343e",
+  "title": "液透過型パラジウム添付焼結多孔質ニッケル電極によるヒドリドホウ酸イオンのアノード酸化",
+  "authors": [
+   "田坂 明政",
+   "安藝 亮司",
+   "斉藤 慎治",
+   "長藤 佳夫"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1983-03-05",
+  "year": 1983,
+  "doi": "10.5796/kogyobutsurikagaku.51.341",
+  "url": "https://doi.org/10.5796/kogyobutsurikagaku.51.341",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Nickel Electrode"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bb17a1d5559115e5",
+  "title": "ChemInform Abstract: ANODIC OXIDATIONS. 29. A REMARKABLE INFLUENCE OF THE ELECTROLYTE IN ANODIC CYCLIZATION OF 1‐BENZYLTETRAHYDROISOQUINOLINES TO NEOSPIRODIENONES OR MORPHINANDIENONES",
+  "authors": [
+   "H. KLUENENBERG",
+   "Charles E. Schaefer",
+   "H. J. SCHAEFER"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1983-03-01",
+  "year": 1983,
+  "doi": "10.1002/chin.198309330",
+  "url": "https://doi.org/10.1002/chin.198309330",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Cyclization",
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "899fe0a54d31d76d",
   "title": "Electrogenerated bases. 5. Electrogenerated superoxide-initiated autoxidation. A convenient electrochemical method for the conversion of secondary nitroalkanes to ketones and the use of primary nitroalkanes as acyl-anion equivalents in Michael reactions",
   "authors": [
@@ -21,6 +106,143 @@
    "Electrogenerated Base"
   ],
   "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3801f02d45986da8",
+  "title": "A New Synthesis of Trans-Biphthalyl",
+  "authors": [
+   "Antonio Guirado",
+   "Fructuoso Barba",
+   "J. Cambil Martín"
+  ],
+  "journal": "Synthetic Communications",
+  "publisher": "Taylor & Francis",
+  "published": "1983-03-01",
+  "year": 1983,
+  "doi": "10.1080/00397918308066983",
+  "url": "https://doi.org/10.1080/00397918308066983",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Universidad de Murcia"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2a6569b334fa86a1",
+  "title": "ChemInform Abstract: ELECTROORGANIC CHEMISTRY. 60. ELECTROORGANIC SYNTHESIS OF ENAMIDES AND ENECARBAMATES AND THEIR UTILIZATION IN ORGANIC SYNTHESIS",
+  "authors": [
+   "T. SHONO",
+   "Yoshihiro Matsumura",
+   "Kenji Tsubata",
+   "Yoshihiro Sugihara",
+   "S. YAMANE",
+   "Takayuki Kanazawa",
+   "Takayuki Aoki"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1983-03-01",
+  "year": 1983,
+  "doi": "10.1002/chin.198309092",
+  "url": "https://doi.org/10.1002/chin.198309092",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1d1aefd0930ed09a",
+  "title": "Anodic synthesis of sulfur‐bridged polyaniline coatings onto Fe sheets",
+  "authors": [
+   "Giuliano Mengoli",
+   "Marco Musiani",
+   "Beatrice Pelli",
+   "Enrico Vecchi"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "1983-03-01",
+  "year": 1983,
+  "doi": "10.1002/app.1983.070280318",
+  "url": "https://doi.org/10.1002/app.1983.070280318",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Centro Ricerche FIAT"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "084f237513b12642",
+  "title": "ADSORPTION AND ELECTROOXIDATION OF SULFUR DIOXIDE ON PLATINUM",
+  "authors": [
+   "V.E. Kazarinov"
+  ],
+  "journal": "Hokkaido University Collection of Scholarly and Academic Papers (Hokkaido University)",
+  "publisher": "Hokkaido University",
+  "published": "1983-03-01",
+  "year": 1983,
+  "doi": "",
+  "url": "http://hdl.handle.net/2115/25135",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Mechanism"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "03becbe7a0943792",
+  "title": "Préparation et oxydation anodique d'acides β-cétaliques. Application à la synthèse de γ-bisdioxolannes symétriques et des γ-dicétones dérivées",
+  "authors": [
+   "Jacques Einhorn",
+   "Jean-Louis Soulier",
+   "Cathy Bacquet",
+   "D. LELANDAIS"
+  ],
+  "journal": "Canadian Journal of Chemistry",
+  "publisher": "NRC Research Press",
+  "published": "1983-03-01",
+  "year": 1983,
+  "doi": "10.1139/v83-104",
+  "url": "https://doi.org/10.1139/v83-104",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
   "affiliations": [],
   "added": "2026-07-30"
  }
