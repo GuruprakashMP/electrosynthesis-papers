@@ -1,5 +1,64 @@
 [
  {
+  "id": "4d8ab958382c8902",
+  "title": "ChemInform Abstract: First Electrosynthesis of Transition Metal Peroxofluoro Complexes. Synthesis, Characterization and Reactivity of Some Peroxofluoro Complexes.",
+  "authors": [
+   "M.C. Chakravorti",
+   "Somenath Ganguly",
+   "G. SUBRAHMANYAM",
+   "Manish Bhattacharjee"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1993-06-29",
+  "year": 1993,
+  "doi": "10.1002/chin.199326024",
+  "url": "https://doi.org/10.1002/chin.199326024",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Indian Institute of Technology Kharagpur"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "2547e6e49914e3f2",
+  "title": "ChemInform Abstract: Electrosynthesis of 1,2‐Diketones by Reduction of Aromatic Esters at Freshly Metal‐Coated Electrodes: A Novel Coupling Reaction.",
+  "authors": [
+   "M. Heintz",
+   "Marguerite Devaud",
+   "H. Hébri",
+   "Élisabet Duñach",
+   "Michel Troupel"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1993-06-29",
+  "year": 1993,
+  "doi": "10.1002/chin.199326111",
+  "url": "https://doi.org/10.1002/chin.199326111",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Est Créteil",
+   "Laboratoire de Synthèse Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "9525f13838e905ed",
   "title": "Electroorganic Synthesis, 54. Enantioselective Cathodic Reduction of 4‐Substituted Coumarins with Alkaloids as Catalysts, 1",
   "authors": [
@@ -61,6 +120,319 @@
   "relevance_score": 83,
   "affiliations": [
    "University of Münster"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "fbe386a5582e75df",
+  "title": "Radical Cation Salts of 2,3,8,9-Tetrahydro-1,4,7,10-tetrathiachrysene",
+  "authors": [
+   "Hiroyuki Tani",
+   "Katsunori Nii",
+   "K. MASUMOTO",
+   "Nagao Azuma",
+   "Noboru Ono"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1993-06-01",
+  "year": 1993,
+  "doi": "10.1246/cl.1993.1055",
+  "url": "https://doi.org/10.1246/cl.1993.1055",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Ehime University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "f3bfa18a2b68c430",
+  "title": "The anodic oxidation of cis-1,2,3,4-tetrahydronaphthalene-2,3-dicarboxylic acid and its derivatives: competition between oxidative bisdecarboxylation and dilactone formation",
+  "authors": [
+   "Abid Hussain",
+   "Majid Motevalli",
+   "James H. P. Utley",
+   "Peter B. Wyatt",
+   "Yaping Gao"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1993-06-01",
+  "year": 1993,
+  "doi": "10.1021/jo00065a023",
+  "url": "https://doi.org/10.1021/jo00065a023",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e739a4986a57bab1",
+  "title": "Anomalous features of thallium oxide electrodeposited layers and room temperature HTSC electrosynthesis",
+  "authors": [
+   "О. А. Петрий",
+   "Galina A. Tsirlina",
+   "T. V. Rakova",
+   "Sergey Yu. Vassiliev"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1993-06-01",
+  "year": 1993,
+  "doi": "10.1007/bf00721949",
+  "url": "https://doi.org/10.1007/bf00721949",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Frumkin Institute of Physical Chemistry and Electrochemistry"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "e0f2747c878fcff1",
+  "title": "Stability of Pt surfaces in non-aqueous media and their surface effect in the anodic oxidation of chloride ions in nitromethane solution",
+  "authors": [
+   "L. Valaczkai",
+   "Á. Szűcs",
+   "Cs. Visy",
+   "M. Novák"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1993-06-01",
+  "year": 1993,
+  "doi": "10.1016/0013-4686(93)80219-p",
+  "url": "https://doi.org/10.1016/0013-4686(93)80219-p",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "c9f8865e65a8cf3e",
+  "title": "Aryl halides as precursors of electrogenerated bases. Utilization in coupling reactions of acetonitrile with various electrophilic compounds.",
+  "authors": [
+   "Rachid Barhdadi",
+   "J. GAL",
+   "Monique Heintz",
+   "Michel Troupel",
+   "Jacques Périchon"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "1993-06-01",
+  "year": 1993,
+  "doi": "10.1016/s0040-4020(01)81874-3",
+  "url": "https://doi.org/10.1016/s0040-4020(01)81874-3",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrogenerated Base"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Université Paris-Est Créteil",
+   "Laboratoire de Synthèse Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "975a8ed3289bd118",
+  "title": "Electrochemical fluorination of aromatic compounds in liquid R4NF·mHF—part I. Basic properties of R4NF·mHF and the fluorination o",
+  "authors": [
+   "Kunitaka Momota",
+   "Masayuki Morita",
+   "Yoshiharu Matsuda"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1993-06-01",
+  "year": 1993,
+  "doi": "10.1016/0013-4686(93)80222-l",
+  "url": "https://doi.org/10.1016/0013-4686(93)80222-l",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Yamaguchi University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "6282b9ad1b10117b",
+  "title": "The Characterization of Al 2 O 3 Prepared by Anodic Oxidation",
+  "authors": [
+   "Ching-Fa Yeh",
+   "Juing-Yi Cheng",
+   "Jau-Hone Lu Jau-Hone Lu"
+  ],
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "1993-06-01",
+  "year": 1993,
+  "doi": "10.1143/jjap.32.2803",
+  "url": "https://doi.org/10.1143/jjap.32.2803",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Yang Ming Chiao Tung University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "56bb22880cc0f93c",
+  "title": "ChemInform Abstract: Preparation of Divergently Substituted Cyclopentene Derivatives by Electroreductive Cyclization of Allenic Esters.",
+  "authors": [
+   "S. TORII",
+   "Hiroshi Okumoto",
+   "Md Abdur Rashid",
+   "M. MOHRI"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1993-06-01",
+  "year": 1993,
+  "doi": "10.1002/chin.199322113",
+  "url": "https://doi.org/10.1002/chin.199322113",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "43bad3156fee0cb2",
+  "title": "Competitive Electrochemical Synthesis of 1-Methoxy-3,6-Bis (Trimethylsilyl) Cyclohexa-1,4-diene, a Ketoprofen Precursor",
+  "authors": [
+   "Claude Biran",
+   "Michel Bordeau",
+   "Françoise Serein-Spirau",
+   "Marie-Pierre Léger-Lambert",
+   "J. DUNOGUÈS"
+  ],
+  "journal": "Synthetic Communications",
+  "publisher": "Taylor & Francis",
+  "published": "1993-06-01",
+  "year": 1993,
+  "doi": "10.1080/00397919308011271",
+  "url": "https://doi.org/10.1080/00397919308011271",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Chimie Organique"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1c278c88afe6881d",
+  "title": "Kinetics of the anodic oxidation of bismuth in glycol—borate electrolyte—a space charge approach",
+  "authors": [
+   "I. Kanazirski",
+   "Martin Bojinov",
+   "Christian Girginov"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1993-06-01",
+  "year": 1993,
+  "doi": "10.1016/0013-4686(93)80213-j",
+  "url": "https://doi.org/10.1016/0013-4686(93)80213-j",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Technical University of Sofia",
+   "Sofia University \"St. Kliment Ohridski\""
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "10ce875662a658eb",
+  "title": "The Mechanism of the Anodic Oxidation of Silicon in Acidic Fluoride Solutions Revisited",
+  "authors": [
+   "H. Gerischer",
+   "P. Allongue",
+   "V. Costa Kieling"
+  ],
+  "journal": "Berichte der Bunsengesellschaft für physikalische Chemie",
+  "publisher": "",
+  "published": "1993-06-01",
+  "year": 1993,
+  "doi": "10.1002/bbpc.19930970602",
+  "url": "https://doi.org/10.1002/bbpc.19930970602",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Fritz Haber Institute of the Max Planck Society",
+   "Centre National de la Recherche Scientifique",
+   "Universidade Federal do Rio Grande do Sul",
+   "Proteca (Brazil)"
   ],
   "added": "2026-07-30"
  }

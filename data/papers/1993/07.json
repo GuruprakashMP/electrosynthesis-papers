@@ -1,5 +1,58 @@
 [
  {
+  "id": "9cb8b0dc74798f34",
+  "title": "ChemInform Abstract: Binary Systems in Electrochemical Fluorination. Part 1. Sulfamoyl Fluoride and Hydrazinium(2+) Fluoride.",
+  "authors": [
+   "P. Sartori",
+   "K.-D. Lattasch"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1993-07-13",
+  "year": 1993,
+  "doi": "10.1002/chin.199328022",
+  "url": "https://doi.org/10.1002/chin.199328022",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "215506c0f36b16fe",
+  "title": "ChemInform Abstract: The Electrochemical Fluorination of Nitrogen‐Containing Carboxylic Acids. Fluorination of Methyl Esters of 3‐Dialkylamino Propionic Acids.",
+  "authors": [
+   "Takashi Abe",
+   "Eiji Hayashi",
+   "Haruhiko Fukaya",
+   "Yoshio Hayakawa",
+   "Hajime Baba",
+   "Shigeki Ishikawa",
+   "Kinya Asahino"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1993-07-13",
+  "year": 1993,
+  "doi": "10.1002/chin.199328128",
+  "url": "https://doi.org/10.1002/chin.199328128",
+  "source": "openalex",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
   "id": "fb96617a8b6ea560",
   "title": "Electrolytic Partial Fluorination of Organic Compounds VII. Diasteroselective Electrofluorination of 4-Thianone Derivaives",
   "authors": [
@@ -34,6 +87,251 @@
   "added": "2026-07-30"
  },
  {
+  "id": "f4825d493964c902",
+  "title": "Electroreductive Aromatization of 4-Methyl-4-trichloromethyl-p-quinone-(1)-arylimines",
+  "authors": [
+   "Akira Kunugi",
+   "Toshiyuki Takahashi",
+   "Kyo Abe"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1993-07-05",
+  "year": 1993,
+  "doi": "10.5796/electrochemistry.61.864",
+  "url": "https://doi.org/10.5796/electrochemistry.61.864",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Osaka City University",
+   "Tokushima University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "b95578f4a9f1a10b",
+  "title": "Electrooxidative Mono- and Dimethoxylation of Benzyl Sulfides",
+  "authors": [
+   "Makoto Kimura",
+   "Yasushi Yamämoto",
+   "Yasuhiko Sawaki"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1993-07-05",
+  "year": 1993,
+  "doi": "10.5796/electrochemistry.61.862",
+  "url": "https://doi.org/10.5796/electrochemistry.61.862",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "492d2c63e37ae304",
+  "title": "An Electroreductively Promoted Unusual Coupling of Benzoic Acid Esters",
+  "authors": [
+   "Tatsuya Shono",
+   "Naoki Kise",
+   "Naoto Inakoshi"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1993-07-05",
+  "year": 1993,
+  "doi": "10.5796/electrochemistry.61.870",
+  "url": "https://doi.org/10.5796/electrochemistry.61.870",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "da274c4dc524d98a",
+  "title": "Studies on electrosynthesis and photoresponsiveness of (ZnCd)Se",
+  "authors": [
+   "Kehar Singh",
+   "A. K. Shukla"
+  ],
+  "journal": "Solar Energy Materials and Solar Cells",
+  "publisher": "Elsevier BV",
+  "published": "1993-07-01",
+  "year": 1993,
+  "doi": "10.1016/0927-0248(93)90018-x",
+  "url": "https://doi.org/10.1016/0927-0248(93)90018-x",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Deen Dayal Upadhyaya Gorakhpur University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "bb4662a7e162f229",
+  "title": "The indirect anodic oxidation of 2-methylnaphthalene Part II. Oxidation in presence of dichromate",
+  "authors": [
+   "S. Chocron",
+   "M. Michman"
+  ],
+  "journal": "Journal of Molecular Catalysis",
+  "publisher": "Science Press",
+  "published": "1993-07-01",
+  "year": 1993,
+  "doi": "10.1016/0304-5102(93)87023-2",
+  "url": "https://doi.org/10.1016/0304-5102(93)87023-2",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "96c639476a5763ee",
+  "title": "Synthesis and structure determination of the adducts formed by electrochemical oxidation of the potent carcinogen dibenzo[a,l]pyrene in the presence of nucleosides",
+  "authors": [
+   "N. V. S. Ramakrishna",
+   "N. S. Padmavathi",
+   "Ercole L. Cavalieri",
+   "Eleanor G. Rogan",
+   "Ronald L. Cerny",
+   "Michael L. Gross"
+  ],
+  "journal": "Chemical Research in Toxicology",
+  "publisher": "American Chemical Society",
+  "published": "1993-07-01",
+  "year": 1993,
+  "doi": "10.1021/tx00034a026",
+  "url": "https://doi.org/10.1021/tx00034a026",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Nebraska Medical Center",
+   "University of Nebraska Medical Center",
+   "University of Nebraska–Lincoln"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "72071892eb4aa0b7",
+  "title": "Duet electrosynthesis Part II: 1,4-naphthoquinone from naphthalene",
+  "authors": [
+   "Shota Ito",
+   "Yasushi Kuroda",
+   "M. Iwata",
+   "Kazuo Sasaki",
+   "Akihiro Okazaki"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1993-07-01",
+  "year": 1993,
+  "doi": "10.1007/bf00243337",
+  "url": "https://doi.org/10.1007/bf00243337",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hiroshima University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "62eda633a4194b9b",
+  "title": "Electrosynthesis of polyamino-benzoquinone (PAQ) polymers",
+  "authors": [
+   "K.L.N. Phani",
+   "S. Pitchumani",
+   "S. Muralidharan",
+   "S. Ravichandran",
+   "S. Venkatakrishna Iyer"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1993-07-01",
+  "year": 1993,
+  "doi": "10.1016/0022-0728(93)80308-5",
+  "url": "https://doi.org/10.1016/0022-0728(93)80308-5",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Central Electrochemical Research Institute"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "4fe5d2dc758a9424",
+  "title": "Mediated Reduction of Phenyl Bromides with Cathodically Generated Me2Py ( Sn5 )",
+  "authors": [
+   "Eric G. Gunderson",
+   "Vesna Svetličić",
+   "Essie Kariv-Miller"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1993-07-01",
+  "year": 1993,
+  "doi": "10.1149/1.2220726",
+  "url": "https://doi.org/10.1149/1.2220726",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Cathodic Reduction"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Minnesota"
+  ],
+  "added": "2026-07-30"
+ },
+ {
   "id": "4abc7f4b771a654e",
   "title": "Electroorganie Synthesis, 55 [1] . Influences on the Selectivity of the Kolbe versus the Non‐Kolbe Electrolysis in the Anodic Decarboxylation of Carboxylic Acids",
   "authors": [
@@ -60,6 +358,114 @@
   "affiliations": [
    "University of Münster"
   ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "3e228104f67bee03",
+  "title": "On the anodic oxidation of the Pd(111)c(4 × 2)-CO adlattice in alkaline solution",
+  "authors": [
+   "Ginger M. Berry",
+   "John R. McBride",
+   "Jane A. Schimpf",
+   "Manuel P. Soriaga"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1993-07-01",
+  "year": 1993,
+  "doi": "10.1016/0022-0728(93)80304-z",
+  "url": "https://doi.org/10.1016/0022-0728(93)80304-z",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Texas A&M University"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "396de45adca290de",
+  "title": "Anodic oxidation of benzhydrylidenefluorene: Synthesis of a new poly(9,9-disubstituted fluorene) possessing reversible p and n dopings",
+  "authors": [
+   "Joëlle Rault-Berthelot",
+   "M.M. Granger"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1993-07-01",
+  "year": 1993,
+  "doi": "10.1016/0022-0728(93)80312-6",
+  "url": "https://doi.org/10.1016/0022-0728(93)80312-6",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université de Rennes"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "24eb5d220b678fa4",
+  "title": "Electronic, steric and acid-base effects on the anodic oxidation of aryl-substituted ketene imines",
+  "authors": [
+   "James Y. Becker",
+   "Elias Shakkour"
+  ],
+  "journal": "Tetrahedron",
+  "publisher": "Elsevier BV",
+  "published": "1993-07-01",
+  "year": 1993,
+  "doi": "10.1016/s0040-4020(01)87966-7",
+  "url": "https://doi.org/10.1016/s0040-4020(01)87966-7",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Ben-Gurion University of the Negev"
+  ],
+  "added": "2026-07-30"
+ },
+ {
+  "id": "1c6ebcdabd9491c8",
+  "title": "Electrosynthesis and electrodoping of fullerene C60n- (n = 0, 1, 2, or 3) films: electrochemical quartz crystal microbalance study in acetonitrile solutions of alkali-metal, alkaline-earth-metal, and tetra-n-butylammonium cations",
+  "authors": [
+   "Wonyong Koh",
+   "Dominique Dubois",
+   "Włodzimierz Kutner",
+   "M. T. Jones",
+   "Karl M. Kadish"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1993-07-01",
+  "year": 1993,
+  "doi": "10.1021/j100128a021",
+  "url": "https://doi.org/10.1021/j100128a021",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-30"
  }
 ]
