@@ -1,5 +1,39 @@
 [
  {
+  "id": "a082283e9cea1c4d",
+  "title": "TEMPO-assisted electrocatalytic dehydrogenation of piperazine to pyrazine over CuCo2O4/NF",
+  "authors": [
+   "Hanyu Li",
+   "Siyi Chen",
+   "Xin Zheng",
+   "Fangcheng Qiu",
+   "Yajie Zhang",
+   "Shengping Wang"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2026-07-30",
+  "year": 2026,
+  "doi": "10.1016/j.ijoes.2026.101468",
+  "url": "https://doi.org/10.1016/j.ijoes.2026.101468",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "TEMPO"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Electric Power Research Institute",
+   "China Southern Power Grid (China)",
+   "Power Grid Corporation (India)",
+   "China University of Geosciences"
+  ],
+  "added": "2026-08-02"
+ },
+ {
   "id": "827fe4483667d7b4",
   "title": "Direct Cl─Cl Coupling Over Atomically Dispersed Ir 2 Pairs for Efficient Chlorine Electrosynthesis",
   "authors": [
