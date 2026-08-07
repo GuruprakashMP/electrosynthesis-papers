@@ -1,5 +1,39 @@
 [
  {
+  "id": "db4b7ae9a6ecec93",
+  "title": "Nitrogen Speciation Dictates Industrial-Current Oxygen Reduction in Metal-Free Macrocycles for H 2 O 2 Synthesis.",
+  "authors": [
+   "Liu Z",
+   "Hu Y",
+   "Zhang B",
+   "Xie H",
+   "Zhao L",
+   "Wu C",
+   "Zhou P",
+   "Luo Q",
+   "Fu C",
+   "Zou Y",
+   "Wang S",
+   "Pan S."
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-08-06",
+  "year": 2026,
+  "doi": "10.1002/anie.1507031",
+  "url": "https://doi.org/10.1002/anie.1507031",
+  "source": "europepmc",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-08-07"
+ },
+ {
   "id": "bb09bbc38d3d6254",
   "title": "Electricity-Driven Radical Carbonyl Catalysis for Asymmetric Synthesis of α-Tertiary Amino Esters.",
   "authors": [
@@ -33,6 +67,39 @@
   "relevance_score": 82,
   "affiliations": [],
   "added": "2026-08-06"
+ },
+ {
+  "id": "b94b692fb6c80439",
+  "title": "Revealing Single‐Atom‐Site‐Density‐Driven Kinetic Resolution in Acidic CO 2 Electroreduction",
+  "authors": [
+   "Juan Xiang",
+   "Ming Yuan",
+   "Pengfei Wang",
+   "Panpan Li",
+   "Guihua Yu",
+   "Zhaoyu Jin"
+  ],
+  "journal": "Angewandte Chemie",
+  "publisher": "Wiley",
+  "published": "2026-08-05",
+  "year": 2026,
+  "doi": "10.1002/ange.6965099",
+  "url": "https://doi.org/10.1002/ange.6965099",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Electronic Science and Technology of China",
+   "Sichuan University",
+   "Walker (United States)",
+   "The University of Texas at Austin"
+  ],
+  "added": "2026-08-07"
  },
  {
   "id": "88a096f16fba8850",
@@ -96,5 +163,44 @@
   "relevance_score": 54,
   "affiliations": [],
   "added": "2026-08-06"
+ },
+ {
+  "id": "18644b47c6be4faa",
+  "title": "UniversalMetal-Free Deborylation–Deuterationvia Redox-Decoupled Tandem Flow Electrosynthesis",
+  "authors": [
+   "Aoqian Qiu",
+   "Pan Ran",
+   "Yang Zhou",
+   "Beiyao Xiang",
+   "Luhan Dai",
+   "Chunhui Yang",
+   "Haowen Zhang",
+   "Jing Ma",
+   "Xu Cheng",
+   "Mengning Ding"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-05",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c09364",
+  "url": "https://doi.org/10.1021/jacs.6c09364",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Flow Electrochemistry",
+   "Heterocycles"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Nanjing Agricultural University",
+   "Nanjing Tech University",
+   "Nanjing University"
+  ],
+  "added": "2026-08-07"
  }
 ]
