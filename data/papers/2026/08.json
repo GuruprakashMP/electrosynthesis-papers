@@ -1,5 +1,99 @@
 [
  {
+  "id": "a2318ec498e40848",
+  "title": "Undivided Parallel Paired Electrolyzed Chemoselective Cathodic Reduction of α -Keto Amides and Anodic Oxidative Esterification of Aldehydes",
+  "authors": [
+   "Gunturu Sai Kumar",
+   "Nalladhambi Neerathilingam",
+   "Govindasamy Sekar"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-08-08",
+  "year": 2026,
+  "doi": "10.1021/acs.orglett.6c02783",
+  "url": "https://doi.org/10.1021/acs.orglett.6c02783",
+  "source": "crossref",
+  "categories": [
+   "Cathodic Reduction",
+   "Paired Electrolysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cathodic Reduction",
+   "Chemoselectivity",
+   "Electrolysis",
+   "Paired Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 83,
+  "affiliations": [],
+  "added": "2026-08-08"
+ },
+ {
+  "id": "bb2b3edca6f83d46",
+  "title": "Electrochemical Synthesis of 3-(Het)aryl-5-methylthioisothiazoles from β-Oxodithioesters via β-amino-α,β-unsaturated dithioesters",
+  "authors": [
+   "Adaganahalli Boregowda MAMATHA DEVI",
+   "Amogh R. Kulkarni",
+   "Toreshettahally R. Swaroop",
+   "Basappa Basappa",
+   "Muddegowda Umashankara"
+  ],
+  "journal": "Asian Journal of Chemistry",
+  "publisher": "ASIAN PUBLICATION CORPORATION",
+  "published": "2026-08-07",
+  "year": 2026,
+  "doi": "10.14233/ajchem.2026.36426",
+  "url": "https://doi.org/10.14233/ajchem.2026.36426",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrogenerated Species",
+   "Electrolysis",
+   "RVC Electrode",
+   "Regioselectivity"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-08-08"
+ },
+ {
+  "id": "5066e71ea2aaa031",
+  "title": "Cation regulation on electro-synthesis of peroxydisulfate from sulfate-containing wastewater via outer-sphere pathway.",
+  "authors": [
+   "Yizhou Yang",
+   "Shuo Sun",
+   "Dong Xu",
+   "Shengshou Xu",
+   "Chong Li",
+   "Chenxin Xie",
+   "Xuejing Yang"
+  ],
+  "journal": "Journal of hazardous materials",
+  "publisher": "",
+  "published": "2026-08-07",
+  "year": 2026,
+  "doi": "10.1016/j.jhazmat.2026.143095",
+  "url": "https://doi.org/10.1016/j.jhazmat.2026.143095",
+  "source": "pubmed",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-08-08"
+ },
+ {
   "id": "db4b7ae9a6ecec93",
   "title": "Nitrogen Speciation Dictates Industrial-Current Oxygen Reduction in Metal-Free Macrocycles for H 2 O 2 Synthesis.",
   "authors": [
@@ -32,6 +126,74 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-08-07"
+ },
+ {
+  "id": "88b3a6c2206871e8",
+  "title": "Asymmetric Oxygen Activation Induced by Co─Pb Dual Atom Sites for Efficient pH‐Universal H 2 O 2 Electrosynthesis",
+  "authors": [
+   "Dingding Li",
+   "Chunmei Zhang",
+   "Lei Bai",
+   "Ziyi Zhang",
+   "Jinbo Bai",
+   "Kunyue Leng",
+   "Yi Wang",
+   "Xuejing Wang",
+   "Yunteng Qu"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2026-08-06",
+  "year": 2026,
+  "doi": "10.1002/adfm.76315",
+  "url": "https://doi.org/10.1002/adfm.76315",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Hebei Medical University",
+   "Anhui East China Institute of Optoelectronic Technology (China)",
+   "Henan University of Urban Construction",
+   "Centre National de la Recherche Scientifique",
+   "CentraleSupélec",
+   "Northwestern Polytechnical University"
+  ],
+  "added": "2026-08-08"
+ },
+ {
+  "id": "4408ca886e388752",
+  "title": "Membrane-Free Electrolysis for Low-Voltage Production of 2,5-Furandicarboxylic Acid",
+  "authors": [
+   "Lewis S. Cousins",
+   "Charles E. Creissen"
+  ],
+  "journal": "ACS electrochemistry.",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-06",
+  "year": 2026,
+  "doi": "10.1021/acselectrochem.6c00218",
+  "url": "https://doi.org/10.1021/acselectrochem.6c00218",
+  "source": "openalex",
+  "categories": [
+   "Green & Sustainable Electrosynthesis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cell Voltage",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Renewable Electricity"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Keele University"
+  ],
+  "added": "2026-08-08"
  },
  {
   "id": "bb09bbc38d3d6254",
