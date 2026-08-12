@@ -1,5 +1,110 @@
 [
  {
+  "id": "98f5da14df49fa50",
+  "title": "ElectrochemicalFormal Amidation of Benzyl Halidesvia Radical-Polar Crossover",
+  "authors": [
+   "Boao Li",
+   "Yuhan Zhao",
+   "Kang Zheng",
+   "Huanfeng Jiang",
+   "Wanqing Wu"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-10",
+  "year": 2026,
+  "doi": "10.1021/acs.orglett.6c02938",
+  "url": "https://doi.org/10.1021/acs.orglett.6c02938",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation",
+   "Paired Electrolysis",
+   "Decarboxylative & Radical Reactions",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Amidation",
+   "Electrolysis",
+   "Oxidant-Free",
+   "Paired Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "South China University of Technology"
+  ],
+  "added": "2026-08-12"
+ },
+ {
+  "id": "8d2dbe13e6667ba2",
+  "title": "Electrochemical Cross-Couplingof Electron-DeficientOlefins",
+  "authors": [
+   "Chengyi Peng",
+   "Weimei Zeng",
+   "Yuxuan Li",
+   "Youai Qiu"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-10",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c08696",
+  "url": "https://doi.org/10.1021/jacs.6c08696",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation",
+   "Late-Stage Functionalization & Medicinal Chemistry",
+   "Natural Product & Total Synthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrochemical Cross-Coupling",
+   "Late-Stage Functionalization",
+   "Natural Products",
+   "Redox Potential",
+   "Reduction Potential",
+   "Substrate Scope"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Nankai University",
+   "Nanjing Agricultural University",
+   "Nanjing Tech University",
+   "Guangxi Normal University",
+   "Nanjing University"
+  ],
+  "added": "2026-08-12"
+ },
+ {
+  "id": "5f5d27582e383722",
+  "title": "Controlled Electrosynthesisof Metal–OrganicFrameworks",
+  "authors": [
+   "Guang Lü",
+   "Lifeng Chi"
+  ],
+  "journal": "The Journal of Physical Chemistry Letters",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-10",
+  "year": 2026,
+  "doi": "10.1021/acs.jpclett.6c01805",
+  "url": "https://doi.org/10.1021/acs.jpclett.6c01805",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Soochow University",
+   "Macau University of Science and Technology"
+  ],
+  "added": "2026-08-12"
+ },
+ {
   "id": "a2318ec498e40848",
   "title": "Undivided Parallel Paired Electrolyzed Chemoselective Cathodic Reduction of α -Keto Amides and Anodic Oxidative Esterification of Aldehydes",
   "authors": [
