@@ -26,6 +26,133 @@
   "added": "2026-08-19"
  },
  {
+  "id": "a8c70140a052866e",
+  "title": "Electrochemical Fluorination of Partially Fluorinated Dialkylethers. Synthesis of Sevoflurane Derivatives (CF3)2CHOCHF2, (CF3)2CHOCF3, and (CF3)2CFOCF3.",
+  "authors": [
+   "Tanja Knuplez",
+   "Leon N Schneider",
+   "Erik R Csapo",
+   "Peer Kirsch",
+   "Nikolai V Ignat'ev",
+   "Maik Finze"
+  ],
+  "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+  "publisher": "",
+  "published": "2026-08-19",
+  "year": 2026,
+  "doi": "10.1002/chem.71589",
+  "url": "https://doi.org/10.1002/chem.71589",
+  "source": "pubmed",
+  "categories": [
+   "Fluorination & Halogenation"
+  ],
+  "tags": [
+   "Electrochemical Fluorination"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-08-20"
+ },
+ {
+  "id": "45e2e5935a26f27a",
+  "title": "Swelling-Resistant Functionalized 1T'-MoS2 Membranes for Crossover-Free Organic Electrosynthesis.",
+  "authors": [
+   "Qianqin Wang",
+   "Shangping Wang",
+   "Shengjun Liu",
+   "Qing Nan",
+   "Zixiao Zhao",
+   "Ruixuan Qin",
+   "Ning Zhang",
+   "Nanfeng Zheng",
+   "Chengyi Hu"
+  ],
+  "journal": "Advanced materials (Deerfield Beach, Fla.)",
+  "publisher": "",
+  "published": "2026-08-19",
+  "year": 2026,
+  "doi": "10.1002/adma.74735",
+  "url": "https://doi.org/10.1002/adma.74735",
+  "source": "pubmed",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-08-20"
+ },
+ {
+  "id": "e5e11fa6411b546c",
+  "title": "Oxidative Flow Electrochemistry: A Platform for Generating Reactive Intermediates and Reaction Control",
+  "authors": [
+   "Sagar Arepally",
+   "Tribani Boruah",
+   "Rebecca L. Melen",
+   "Thomas Wirth"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-18",
+  "year": 2026,
+  "doi": "10.1021/acs.accounts.6c00413",
+  "url": "https://doi.org/10.1021/acs.accounts.6c00413",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up",
+   "Asymmetric Electrosynthesis",
+   "Green & Sustainable Electrosynthesis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Asymmetric Electrosynthesis",
+   "Electrosynthesis",
+   "Flow Electrochemistry",
+   "Radical Chemistry",
+   "Sustainable Synthesis"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "Cardiff University"
+  ],
+  "added": "2026-08-20"
+ },
+ {
+  "id": "beffa6b44cd9a58a",
+  "title": "Experimental Study on the Advanced Treatment of Sulfonic Acid Wastewater Using a Dual-Anode Electrochemical Method",
+  "authors": [
+   "Chao Guo",
+   "Youqiang Liu",
+   "Yan Kong",
+   "Jian Zhou",
+   "xuemin zhang"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "2026-08-18",
+  "year": 2026,
+  "doi": "10.1149/1945-7111/ae9b73",
+  "url": "https://doi.org/10.1149/1945-7111/ae9b73",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Lanzhou Jiaotong University"
+  ],
+  "added": "2026-08-20"
+ },
+ {
   "id": "95604882d6fd4463",
   "title": "Metal-Free Electrochemical Construction of Oxygen Heterocycles.",
   "authors": [
