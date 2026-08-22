@@ -26,6 +26,107 @@
   "added": "2026-08-19"
  },
  {
+  "id": "da3a4773da9f7d4f",
+  "title": "Pincer-Copper Polymer Electro-Catalyzed Selective Upgradation of Ethanol to Sodium Acetate",
+  "authors": [
+   "Niharika Tanwar",
+   "C. Das",
+   "Arnab Dutta",
+   "Dinesh Shetty",
+   "Akshai Kumar"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-20",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c03981",
+  "url": "https://doi.org/10.1021/acscatal.6c03981",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "One-Pot"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Indian Institute of Technology Guwahati",
+   "Indian Institute of Technology Bombay",
+   "Khalifa University of Science and Technology"
+  ],
+  "added": "2026-08-22"
+ },
+ {
+  "id": "8f28f2951d104eda",
+  "title": "Electrocatalytic π‐System Cycloadditions for Sustainable Heterocycles and Carbocycles Synthesis",
+  "authors": [
+   "Kanak Kanti Das",
+   "Sutapa Dey"
+  ],
+  "journal": "Journal of Heterocyclic Chemistry",
+  "publisher": "Wiley",
+  "published": "2026-08-20",
+  "year": 2026,
+  "doi": "10.1002/jhet.70233",
+  "url": "https://doi.org/10.1002/jhet.70233",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Heterocycle Synthesis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Heterocycles",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "University of Bonn",
+   "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+   "Regional Centre of Advanced Technologies and Materials"
+  ],
+  "added": "2026-08-22"
+ },
+ {
+  "id": "2edf53aad3d0ad5a",
+  "title": "A General Electrochemical Platform for Dehydrazinative Oxygenation of Hydrazines",
+  "authors": [
+   "Jun Xu",
+   "Yibo Wang",
+   "Zhihang Tan",
+   "Ruiyuan Xu",
+   "Qiqi Lin",
+   "Wanmei Li"
+  ],
+  "journal": "Advanced Synthesis & Catalysis",
+  "publisher": "Wiley",
+  "published": "2026-08-20",
+  "year": 2026,
+  "doi": "10.1002/adsc.70723",
+  "url": "https://doi.org/10.1002/adsc.70723",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrochemically Driven",
+   "Radical Chemistry",
+   "TEMPO"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Hangzhou Normal University"
+  ],
+  "added": "2026-08-22"
+ },
+ {
   "id": "269106966e679d10",
   "title": "Pyridine electrooxidation on polycrystalline platinum: a combined computational and electrochemical mechanistic study.",
   "authors": [
@@ -85,6 +186,42 @@
   "added": "2026-08-20"
  },
  {
+  "id": "7f414b890f695a43",
+  "title": "Regiodivergent Electrochemical C–H Aminomethylation of Azaarenes",
+  "authors": [
+   "Yan He",
+   "Qi Wang",
+   "Feiyang Xue",
+   "Pen-Ji Yan",
+   "Xinying Zhang",
+   "Xuesen Fan"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-19",
+  "year": 2026,
+  "doi": "10.1021/acs.orglett.6c03109",
+  "url": "https://doi.org/10.1021/acs.orglett.6c03109",
+  "source": "openalex",
+  "categories": [
+   "C-H Functionalization",
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Electrochemical C-H",
+   "Electrolysis",
+   "Paired Electrolysis",
+   "Regioselectivity"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "Henan Normal University",
+   "Hexi University"
+  ],
+  "added": "2026-08-22"
+ },
+ {
   "id": "77808a49400da528",
   "title": "Geminal Difunctionalizations of Aliphatic Ketones and Aldehydes Enabled by Thioacetal Activation and Deep Electroreduction.",
   "authors": [
@@ -111,6 +248,39 @@
   "relevance_score": 48,
   "affiliations": [],
   "added": "2026-08-21"
+ },
+ {
+  "id": "468c0641c015d5e2",
+  "title": "ZIF-67 Arrays Grown on the Hollow Polymer Framework for Enhancing Amines Electrosynthesis",
+  "authors": [
+   "Yu Su",
+   "Xiang Shi",
+   "Yu Wang",
+   "Tianyu Liu",
+   "Ze Chen",
+   "Xiaoxuan Zhang",
+   "Fagong Xu",
+   "罗仕忠",
+   "Ruirui Yun"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2026-08-19",
+  "year": 2026,
+  "doi": "10.1021/acs.inorgchem.6c02657",
+  "url": "https://doi.org/10.1021/acs.inorgchem.6c02657",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Anhui Normal University"
+  ],
+  "added": "2026-08-22"
  },
  {
   "id": "45e2e5935a26f27a",
