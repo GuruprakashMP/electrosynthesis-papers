@@ -26,6 +26,75 @@
   "added": "2026-08-19"
  },
  {
+  "id": "f508882e0ae7a933",
+  "title": "High‐Pressure Electrosynthesis of Succinic and Adipic Acids From CO 2 and Ethylene in an Undivided Cell",
+  "authors": [
+   "Valtteri Oksanen",
+   "Markus Luukkonen",
+   "Kiia Malinen",
+   "Niko Heikkinen",
+   "Alexander Reznichenko",
+   "Tom Wirtanen"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2026-08-21",
+  "year": 2026,
+  "doi": "10.1002/cssc.70940",
+  "url": "https://doi.org/10.1002/cssc.70940",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Mechanism",
+   "Sacrificial Anode",
+   "Undivided Cell"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "VTT Technical Research Centre of Finland",
+   "Aalto University"
+  ],
+  "added": "2026-08-23"
+ },
+ {
+  "id": "a7cc269be1347394",
+  "title": "Bromide-mediated pathway modulation enables energy-efficient electrosynthesis of ultralight hierarchical copper powder.",
+  "authors": [
+   "Keshu Song",
+   "Youpo Mise",
+   "Shaohua Wang",
+   "Yakun Yin",
+   "Juan An",
+   "Xuejiao Zhou",
+   "Xiaoli Yuan",
+   "Wentang Xia",
+   "Wenqiang Yang"
+  ],
+  "journal": "RSC advances",
+  "publisher": "",
+  "published": "2026-08-21",
+  "year": 2026,
+  "doi": "10.1039/d6ra04989c",
+  "url": "https://doi.org/10.1039/d6ra04989c",
+  "source": "pubmed",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrolytic",
+   "Electrosynthesis",
+   "TEMPO"
+  ],
+  "relevance_score": 43,
+  "affiliations": [],
+  "added": "2026-08-23"
+ },
+ {
   "id": "da3a4773da9f7d4f",
   "title": "Pincer-Copper Polymer Electro-Catalyzed Selective Upgradation of Ethanol to Sodium Acetate",
   "authors": [
@@ -90,6 +159,45 @@
    "Regional Centre of Advanced Technologies and Materials"
   ],
   "added": "2026-08-22"
+ },
+ {
+  "id": "7d4c261b00d924c1",
+  "title": "Steering C-N coupling pathway on spatial-separated zinc dual sites for efficient oxime electrosynthesis",
+  "authors": [
+   "Ruhan Wang",
+   "S. Jia",
+   "Yubin Hong",
+   "Limin Wu",
+   "Xinning Song",
+   "Meng-Di Zhang",
+   "Xiaodong Ma",
+   "Libing Zhang",
+   "Xingxing Tan",
+   "Chaofeng Zheng",
+   "Weixiang Li",
+   "Hanle Liu",
+   "Hang Guo",
+   "Qian Li",
+   "Lei He",
+   "Xiaofu Sun",
+   "Buxing Han"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "",
+  "published": "2026-08-20",
+  "year": 2026,
+  "doi": "10.1038/s41467-026-76640-y",
+  "url": "https://doi.org/10.1038/s41467-026-76640-y",
+  "source": "semanticscholar",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-08-23"
  },
  {
   "id": "2edf53aad3d0ad5a",
