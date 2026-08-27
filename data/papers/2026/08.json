@@ -26,6 +26,65 @@
   "added": "2026-08-19"
  },
  {
+  "id": "4580c99b84e242de",
+  "title": "Metal-free electrosynthesis of dihydro-1,3-benzoxazines through multi-component coupling.",
+  "authors": [
+   "Kumbhakar P",
+   "Chandra S",
+   "Bhardwaj P",
+   "Mondal S",
+   "De Sarkar S."
+  ],
+  "journal": "Chemical communications (Cambridge, England)",
+  "publisher": "",
+  "published": "2026-08-26",
+  "year": 2026,
+  "doi": "10.1039/d6cc03799b",
+  "url": "https://doi.org/10.1039/d6cc03799b",
+  "source": "europepmc",
+  "categories": [
+   "C-H Functionalization",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Electrosynthesis",
+   "TEMPO"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-08-27"
+ },
+ {
+  "id": "afaf483feddc27db",
+  "title": "New Insights into the Electrochemical Production of Potassium Peroxodiphosphate",
+  "authors": [
+   "J.M. Bisang",
+   "O. González Pérez"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "2026-08-25",
+  "year": 2026,
+  "doi": "10.1149/1945-7111/ae9e90",
+  "url": "https://doi.org/10.1149/1945-7111/ae9e90",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Nickel Electrode"
+  ],
+  "relevance_score": 44,
+  "affiliations": [
+   "Consejo Nacional de Investigaciones Científicas y Técnicas",
+   "Universidad Nacional del Litoral"
+  ],
+  "added": "2026-08-27"
+ },
+ {
   "id": "bcfa45c1b30aba7a",
   "title": "A low-voltage electroreduction strategy for efficient and cost-effective recovery of metal Cu from Cu(II)-EDTA wastewater via direct electron transfer using a commercial Ti mesh.",
   "authors": [
