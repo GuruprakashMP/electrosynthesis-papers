@@ -1,5 +1,162 @@
 [
  {
+  "id": "fb6f32302f1a17b1",
+  "title": "Reductive Electrophotocatalysis: Fundamentals, Mechanistic Frameworks, and Synthetic Applications",
+  "authors": [
+   "Hasil Aman",
+   "Tobias Edmaier",
+   "Mehmet Yildirim",
+   "Ruzal Sitdikov",
+   "Oscar Verho"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-08-31",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15008082/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15008082/v1",
+  "source": "openalex",
+  "categories": [
+   "Electrophotochemistry",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrophotocatalysis",
+   "Radical Anion",
+   "Radical Chemistry",
+   "Reduction Potential"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-09-01"
+ },
+ {
+  "id": "cd4c2fb6504c447b",
+  "title": "Electrochemical Desilylative Fluorination Enables Access to N-Monofluoromethyl Amides and Peptides.",
+  "authors": [
+   "Hong-Hai Zhang",
+   "Jia-Ze Qin",
+   "Meng-Ting Ai",
+   "Hao Long",
+   "Hai-Chao Xu"
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-08-31",
+  "year": 2026,
+  "doi": "10.1002/anie.5407928",
+  "url": "https://doi.org/10.1002/anie.5407928",
+  "source": "pubmed",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-09-01"
+ },
+ {
+  "id": "b26a7625be5a3bc2",
+  "title": "Frontispiece: Ketal Protection of Glycerol for Selective Electrosynthesis of Glyceric Acid in Highly Alkaline Media",
+  "authors": [
+   "Jiamin Wang",
+   "Baokun Zhang",
+   "Kanglei Pang",
+   "Egon Campos dos Santos",
+   "Hong Liu",
+   "Mats Johnsson",
+   "Xiaowen Yu"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-08-31",
+  "year": 2026,
+  "doi": "10.1002/anie.2026-m3007110600",
+  "url": "https://doi.org/10.1002/anie.2026-m3007110600",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Shandong University",
+   "Stockholm University",
+   "Federal University of São João del-Rei"
+  ],
+  "added": "2026-09-01"
+ },
+ {
+  "id": "a32ce7e01943ac62",
+  "title": "Charge Confinement in an Ordered High‐Entropy Intermetallic Breaks the Activity‐Poisoning Trade‑Off for Glycolic Acid Electrosynthesis From Polyethylene Terephthalate",
+  "authors": [
+   "Ruidong Yang",
+   "Jiabing Geng",
+   "Jiabao Yu",
+   "Ningxin Xiao",
+   "Kai Deng",
+   "Shibin Yin",
+   "Liang Wang",
+   "Hongjie Yu",
+   "Hongjing Wang"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "",
+  "published": "2026-08-31",
+  "year": 2026,
+  "doi": "10.1002/adma.74877",
+  "url": "https://doi.org/10.1002/adma.74877",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "State Key Laboratory of Chemical Engineering",
+   "Guangxi University"
+  ],
+  "added": "2026-09-01"
+ },
+ {
+  "id": "6a540800cc7a7cc5",
+  "title": "Redefining electrochemical C–N coupling via electrolyte engineering",
+  "authors": [
+   "Yaoyu Yin",
+   "Z. X. Ling",
+   "Xinchen Kang",
+   "Buxing Han"
+  ],
+  "journal": "Carbon Future",
+  "publisher": "Tsinghua University Press",
+  "published": "2026-08-31",
+  "year": 2026,
+  "doi": "10.26599/cf.2026.9200086",
+  "url": "https://doi.org/10.26599/cf.2026.9200086",
+  "source": "openalex",
+  "categories": [
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "Renewable Electricity"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Beijing National Laboratory for Molecular Sciences",
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-09-01"
+ },
+ {
   "id": "8ee0da73828d9dd1",
   "title": "Recent advances in electrochemical synthesis of sulfur-containing compounds using elemental sulfur, carbon disulfide, and sulfur dioxide.",
   "authors": [
