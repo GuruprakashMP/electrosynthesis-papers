@@ -1,5 +1,72 @@
 [
  {
+  "id": "9b49cbb86a34f958",
+  "title": "Late-Stage Electrosynthesis of Sulfoxide Metabolites from Phenothiazine-Based Antipsychotic Drugs",
+  "authors": [
+   "Ridho Asra",
+   "Wesley R. Browne",
+   "Louise Male",
+   "Alan M. Jones"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-09-02",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15008202/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15008202/v1",
+  "source": "openalex",
+  "categories": [
+   "Late-Stage Functionalization & Medicinal Chemistry",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "API",
+   "Cyclic Voltammetry",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Birmingham",
+   "University of Groningen",
+   "Physical Sciences (United States)",
+   "Department of Physics, Mathematics and Informatics"
+  ],
+  "added": "2026-09-03"
+ },
+ {
+  "id": "396474dfe7f91c10",
+  "title": "Homologative Electrochemical Installation of Unprotected Functionalities Across Alkenes",
+  "authors": [
+   "Waldvogel S",
+   "Dutta S",
+   "Buchholz J",
+   "Weyhermüller T."
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-09-02",
+  "year": 2026,
+  "doi": "10.21203/rs.3.rs-10831266/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-10831266/v1",
+  "source": "europepmc",
+  "categories": [
+   "Cathodic Reduction",
+   "Asymmetric Electrosynthesis",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Alkenes",
+   "DFT",
+   "Diastereoselectivity",
+   "Electroreductive",
+   "Heterocycles"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-09-03"
+ },
+ {
   "id": "56734327624ab6fd",
   "title": "Electrochemically facilitated synthesis of 3,3′-diamino-4,4′-azofurazan (DAAF) catalyzed by reduced graphene oxide (rGO): Enhanced efficiency and mechanistic insights",
   "authors": [
