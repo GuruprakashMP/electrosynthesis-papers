@@ -1,5 +1,130 @@
 [
  {
+  "id": "a6eb5b51a06604a3",
+  "title": "Host–Guest Chemistry Creates an Oriented Shuttle Channel to Overcome Mass Transport Limitations in Electrocatalytic Hydrogenation",
+  "authors": [
+   "Yunjia Liu",
+   "Chuanqi Cheng",
+   "Haotian Wang",
+   "Ying Gao",
+   "Cuibo Liu",
+   "Yong Wang",
+   "Yin Xiao",
+   "Meng He",
+   "Bin Zhang"
+  ],
+  "journal": "Angewandte Chemie",
+  "publisher": "Wiley",
+  "published": "2026-09-07",
+  "year": 2026,
+  "doi": "10.1002/ange.9228845",
+  "url": "https://doi.org/10.1002/ange.9228845",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tianjin University",
+   "Yulin University"
+  ],
+  "added": "2026-09-08"
+ },
+ {
+  "id": "8e8895bee609e2b1",
+  "title": "Electrosynthesis of H₂O₂ by using carbon- and metal oxide-based catalysts: Preliminary Results",
+  "authors": [
+   "Angela Mercedes Ronsisvalle 1, Yohannes S. Jara2,3, Siglinda Perathoner1,2, Gabriele Centi1,2, Rosalba Passalacqua1",
+   "Yohannes Shuka Jara",
+   "Gabriele Centi",
+   "Siglinda Perathoner",
+   "Rosalba Passalacqua"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-09-07",
+  "year": 2026,
+  "doi": "10.13140/rg.2.2.17429.69602",
+  "url": "https://doi.org/10.13140/rg.2.2.17429.69602",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-09-08"
+ },
+ {
+  "id": "7d7d1455a3225ec6",
+  "title": "Electrochemical Techniques for Nanomaterials: A Critical Review of Production, Characterisation and Application",
+  "authors": [
+   "Ahmed M. Awad Abouelata"
+  ],
+  "journal": "Journal of applied chemical science international",
+  "publisher": "",
+  "published": "2026-09-07",
+  "year": 2026,
+  "doi": "10.56557/jacsi/2026/v17i211084",
+  "url": "https://doi.org/10.56557/jacsi/2026/v17i211084",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis",
+   "Scale-up"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "National Research Centre"
+  ],
+  "added": "2026-09-08"
+ },
+ {
+  "id": "7f9ffe3beca5af3c",
+  "title": "Trifluoromethylated Heterocycles via Intramolecular Cyclisation: Evolution From Traditional to Green Synthesis",
+  "authors": [
+   "Heng Li",
+   "Xiaowen Qin",
+   "Zhiping Yin"
+  ],
+  "journal": "Advanced Synthesis & Catalysis",
+  "publisher": "Wiley",
+  "published": "2026-09-06",
+  "year": 2026,
+  "doi": "10.1002/adsc.70749",
+  "url": "https://doi.org/10.1002/adsc.70749",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Heterocycle Synthesis",
+   "Green & Sustainable Electrosynthesis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Green Chemistry",
+   "Heterocycles",
+   "Radical Chemistry",
+   "Substrate Scope"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "Jiangsu University"
+  ],
+  "added": "2026-09-08"
+ },
+ {
   "id": "dadf60c5c6621372",
   "title": "Local pH Control Promotes Oxygen-Atom Transfer Electrosynthesis",
   "authors": [
