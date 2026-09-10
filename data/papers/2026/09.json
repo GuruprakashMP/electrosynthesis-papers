@@ -1,5 +1,133 @@
 [
  {
+  "id": "d18d6aaa2116a2dd",
+  "title": "Electrochemical synthesis of antioxidant trideuteromethylthiolated enaminones through three-component cascade reactions.",
+  "authors": [
+   "Jingjing Wang",
+   "Lijin Wang",
+   "Wenbo Zhang",
+   "Yaping Liu",
+   "Daoyong Ni",
+   "Ge Wu",
+   "Yuedan Wu"
+  ],
+  "journal": "Molecular diversity",
+  "publisher": "",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "10.1007/s11030-026-11732-x",
+  "url": "https://doi.org/10.1007/s11030-026-11732-x",
+  "source": "pubmed",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Gram-Scale"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-09-10"
+ },
+ {
+  "id": "bb5fd8a5616c7fce",
+  "title": "Morphology-controlled silver oxide nanoflowers via taguchi-optimized pulsed electrosynthesis for Zn-Ag2O rechargeable batteries",
+  "authors": [
+   "Hassan Karami",
+   "Shahram Maleki"
+  ],
+  "journal": "Journal of Applied Electrochemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "10.1007/s10800-026-02558-4",
+  "url": "https://doi.org/10.1007/s10800-026-02558-4",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Payame Noor University"
+  ],
+  "added": "2026-09-10"
+ },
+ {
+  "id": "a1b1100643c9a553",
+  "title": "Thioamide‐Enabled Anodic N‐Centered Radical Cyclizations",
+  "authors": [
+   "Zachary T. Medcalf",
+   "Aidan Mason",
+   "Tiandi Wu",
+   "Sabrina N. Carneiro",
+   "Melanie S. Sanford",
+   "Kevin D. Moeller"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "10.1002/celc.70302",
+  "url": "https://doi.org/10.1002/celc.70302",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions",
+   "Natural Product & Total Synthesis",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Anodic Cyclization",
+   "Heterocycles",
+   "Natural Products",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Washington University in St. Louis",
+   "University of Michigan"
+  ],
+  "added": "2026-09-10"
+ },
+ {
+  "id": "0389778c0d26cfd7",
+  "title": "Stereoselective C2′-Alkylation of Nucleosides Enabled by Electrochemical Ni-Catalyzed C(sp3)–C(sp3) Cross-Coupling",
+  "authors": [
+   "Pei-Yi Huang",
+   "Yue-Ming Cai",
+   "Jia-Wei Liu",
+   "Tian Xie",
+   "Jie Wei",
+   "Yaoyao Liu",
+   "Siddheshwar K. Bankar",
+   "Ming Shang"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-08",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c11534",
+  "url": "https://doi.org/10.1021/jacs.6c11534",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation",
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Diastereoselectivity",
+   "Electrochemical Cross-Coupling"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Shanghai Jiao Tong University"
+  ],
+  "added": "2026-09-10"
+ },
+ {
   "id": "a6eb5b51a06604a3",
   "title": "Host–Guest Chemistry Creates an Oriented Shuttle Channel to Overcome Mass Transport Limitations in Electrocatalytic Hydrogenation",
   "authors": [
