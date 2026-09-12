@@ -1,5 +1,37 @@
 [
  {
+  "id": "c49e3d4eaf3b2658",
+  "title": "Redox-Metered Paired Electrolysis: A Strategy for Comprehensive Deaminative C(sp3)–C(sp2) Cross-Coupling",
+  "authors": [
+   "Emma George",
+   "Mariah C. Castillo",
+   "Johnny Wang",
+   "Chiyoung Ahn",
+   "Colin A. Gould"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-09-10",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15008631/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15008631/v1",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Cross-Coupling & C-C Formation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Electrolysis",
+   "Paired Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-09-12"
+ },
+ {
   "id": "d18d6aaa2116a2dd",
   "title": "Electrochemical synthesis of antioxidant trideuteromethylthiolated enaminones through three-component cascade reactions.",
   "authors": [
@@ -91,6 +123,31 @@
    "University of Michigan"
   ],
   "added": "2026-09-10"
+ },
+ {
+  "id": "6f32f4e93307827e",
+  "title": "The linear-paired electrochemical synthesis of unsymmetrical sulfides by an anodic initiated mitsunobu-type activation of alcohols combined with the cathodic activation of disulfides under neutral conditions.",
+  "authors": [],
+  "journal": "Organic & biomolecular chemistry",
+  "publisher": "",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "10.1039/d6ob01164k",
+  "url": "https://doi.org/10.1039/d6ob01164k",
+  "source": "semanticscholar",
+  "categories": [
+   "Paired Electrolysis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Paired Electrolysis",
+   "Supporting Electrolyte",
+   "Undivided Cell"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-09-12"
  },
  {
   "id": "0389778c0d26cfd7",
