@@ -1,5 +1,109 @@
 [
  {
+  "id": "b8d3c973d9735e24",
+  "title": "Direct evidence for electron injection into the conduction band during the anodic oxidation of silicon.",
+  "authors": [
+   "Shengyang Li",
+   "Shunqi Li",
+   "Mahdi Alizadeh",
+   "Ville Vähänissi",
+   "Hele Savin",
+   "Kai Zhang",
+   "Guangwei She",
+   "Wensheng Shi",
+   "Canping Pan",
+   "Jani Oksanen"
+  ],
+  "journal": "Physical chemistry chemical physics : PCCP",
+  "publisher": "",
+  "published": "2026-09-15",
+  "year": 2026,
+  "doi": "10.1039/d6cp02707e",
+  "url": "https://doi.org/10.1039/d6cp02707e",
+  "source": "pubmed",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "d7c8cd0a2f2ff809",
+  "title": "Cross-Couplings via Electroreductive C–F, C–O, and C–S Bond Cleavage and Radical-Polar Crossover Mechanisms",
+  "authors": [
+   "Luca Massaro",
+   "Helena Lundberg"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.accounts.6c00486",
+  "url": "https://doi.org/10.1021/acs.accounts.6c00486",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation",
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Arenes",
+   "Chemoselectivity",
+   "Cross-Coupling",
+   "Electroreductive",
+   "Radical Chemistry",
+   "Reduction Potential",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "KTH Royal Institute of Technology"
+  ],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "b4e2dcbe3dcde5dd",
+  "title": "Heteroleptic Dicopper Molecular Design Unlocks Distinct Dual Synergies in Electrocatalytic Hydrodimerization of Dilute Acetylene to 1,3‐Butadiene",
+  "authors": [
+   "Wenzhe Xu",
+   "Pengfei Gao",
+   "Lingfeng Tang",
+   "Hebo Liu",
+   "Hongjie Lv",
+   "Yunjia Wei",
+   "Jianfeng Wu",
+   "Mengtao Li",
+   "Ziqin Zeng",
+   "Lei Zhang",
+   "Mudasir Ahmad"
+  ],
+  "journal": "Angewandte Chemie",
+  "publisher": "Wiley",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1002/ange.9107214",
+  "url": "https://doi.org/10.1002/ange.9107214",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Northwestern Polytechnical University",
+   "Northwest Institute of Nuclear Technology"
+  ],
+  "added": "2026-09-15"
+ },
+ {
   "id": "9b06f9e68c848c9e",
   "title": "Electricity-Driven Halogenation of α -Oxo Ketene Dithioacetals Using Lithium Halides as Dual-Function Electrolyte Reagents",
   "authors": [
@@ -34,6 +138,44 @@
   "relevance_score": 78,
   "affiliations": [],
   "added": "2026-09-14"
+ },
+ {
+  "id": "4050527d148a1aaf",
+  "title": "Exploitation of MnCo2O4@g-C3N4-Derived Electrochemical Sensing Platform for Individual Determination of Pb2+ Ions and Chloramphenicol (CAP) with Excellent Analytical Performance",
+  "authors": [
+   "Tuyet Nhung Pham",
+   "Nguyễn Ngọc Huyền",
+   "Van Hoang Ong",
+   "Thanh Liêm Lê",
+   "Ngo Xuan Dinh",
+   "Ngọc Huệ Bùi",
+   "Vu Ngoc Phan",
+   "Hoa Nguyen Quang",
+   "Duc Thang Pham",
+   "Anh-Tuan Le"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1149/1945-7111/aea713",
+  "url": "https://doi.org/10.1149/1945-7111/aea713",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "One-Pot"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Vietnam National University, Hanoi",
+   "Phenikaa University"
+  ],
+  "added": "2026-09-15"
  },
  {
   "id": "3fee4182f8fcea7b",
@@ -106,6 +248,35 @@
    "Hunan Institute of Science and Technology"
   ],
   "added": "2026-09-14"
+ },
+ {
+  "id": "25f5f73afde86fe6",
+  "title": "Electrochemical Interfacial Modulation and Stability of Vitamin B6 by Silver Nanoparticles in Fluoride Electrolyte",
+  "authors": [
+   "Bogdan Tutunaru"
+  ],
+  "journal": "Surfaces",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-09-12",
+  "year": 2026,
+  "doi": "10.3390/surfaces9030086",
+  "url": "https://doi.org/10.3390/surfaces9030086",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Galvanostatic",
+   "Working Electrode"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "University of Craiova"
+  ],
+  "added": "2026-09-15"
  },
  {
   "id": "59c49478c4af4f71",
