@@ -1,5 +1,102 @@
 [
  {
+  "id": "19ef497795bb7968",
+  "title": "Aqueous Kilogram‐Scale Electrosynthesis of Reagent‐Grade Cystine Enabled by Asymmetric N, P‐Coordinated Ni Single Atoms",
+  "authors": [
+   "Dong Lv",
+   "Hualong Yu",
+   "Tian Zhang",
+   "Aiguo Kong",
+   "Hui Ying Yang",
+   "Rui Liu"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-09-16",
+  "year": 2026,
+  "doi": "10.1002/smll.75695",
+  "url": "https://doi.org/10.1002/smll.75695",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Kilogram-Scale"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tongji University",
+   "East China Normal University",
+   "National University of Singapore"
+  ],
+  "added": "2026-09-17"
+ },
+ {
+  "id": "0f8f023871aabe2f",
+  "title": "Electrochemical Reduction of Amine-Captured Carbon Dioxide Catalyzed by Transition-Metal Substituted Polyoxometalates",
+  "authors": [
+   "Dima Azaiza-Dabbah",
+   "Ronny Neumann"
+  ],
+  "journal": "Molecules",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-09-16",
+  "year": 2026,
+  "doi": "10.3390/molecules31183276",
+  "url": "https://doi.org/10.3390/molecules31183276",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Controlled Potential",
+   "Cyclic Voltammetry",
+   "Electrolysis"
+  ],
+  "relevance_score": 41,
+  "affiliations": [
+   "Weizmann Institute of Science"
+  ],
+  "added": "2026-09-17"
+ },
+ {
+  "id": "058a78201a1e4c1d",
+  "title": "Electrosynthesis of Bis-spirocycles via a Radical Strain-Release Dearomatization Cascade",
+  "authors": [
+   "Pooja Bhardwaj",
+   "B K Paul",
+   "Padmanabha Samanta",
+   "Pintu Kumbhakar",
+   "Aritri Saha",
+   "Suman De Sarkar"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-09-16",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15008903/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15008903/v1",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Arenes",
+   "Electrooxidative",
+   "Electrosynthesis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 77,
+  "affiliations": [],
+  "added": "2026-09-17"
+ },
+ {
   "id": "b8d3c973d9735e24",
   "title": "Direct evidence for electron injection into the conduction band during the anodic oxidation of silicon.",
   "authors": [
@@ -30,6 +127,68 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-09-15"
+ },
+ {
+  "id": "6388efea779cd298",
+  "title": "Galvanic Replacement Derived Bi-Based Catalysts for Formate Coproduction via Coupled CO2RR and Methanol Oxidation",
+  "authors": [
+   "Jialuo Li",
+   "Guojie Gao",
+   "Yu Wei",
+   "Taolue Liu",
+   "Hanwen Xu",
+   "Mingxia Guo",
+   "Xin Ding",
+   "Yan Gao"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-15",
+  "year": 2026,
+  "doi": "10.1021/acs.inorgchem.6c03633",
+  "url": "https://doi.org/10.1021/acs.inorgchem.6c03633",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Atom Economy",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Dalian University of Technology",
+   "Qingdao University"
+  ],
+  "added": "2026-09-17"
+ },
+ {
+  "id": "2d2a4924eae20b76",
+  "title": "Valorisation of Simulated Beverage Wastewater for Renewable Hydrogen and Value-Added Chemicals Using a Coupled Catalytic-Electrolyser Array",
+  "authors": [
+   "Sumaya Sarmin"
+  ],
+  "journal": "UNSWorks (University of New South Wales, Sydney, Australia)",
+  "publisher": "Australian Defence Force Academy",
+  "published": "2026-09-15",
+  "year": 2026,
+  "doi": "10.26190/unsworks/32684",
+  "url": "https://doi.org/10.26190/unsworks/32684",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-09-17"
  },
  {
   "id": "2a7c2bbd9c7fc7df",
