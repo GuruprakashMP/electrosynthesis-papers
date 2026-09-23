@@ -1,5 +1,119 @@
 [
  {
+  "id": "d17897ce277d3e74",
+  "title": "Electrochemical Platform for Automated Design-of-Experiment Optimization of Ni-Catalyzed Cross-Electrophile Coupling Reactions",
+  "authors": [
+   "Jieping Chen",
+   "Mathew R. Johnson",
+   "Zhifeng Tan",
+   "Tessa H. T. Myren",
+   "Kyle W. Quasdorf",
+   "Carolyn S. Wei",
+   "Shannon S. Stahl"
+  ],
+  "journal": "JACS Au",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-22",
+  "year": 2026,
+  "doi": "10.1021/jacsau.6c01220",
+  "url": "https://doi.org/10.1021/jacsau.6c01220",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Wisconsin–Madison",
+   "Amgen (United States)"
+  ],
+  "added": "2026-09-23"
+ },
+ {
+  "id": "219f440cb8118610",
+  "title": "Green Furanics after the 5-(Hydroxymethyl)furfural Bottleneck: Carbon-Efficient Transformations of Biomass into Molecular Complexity, Functional Materials and Circular Chemical Platforms",
+  "authors": [
+   "Ananikov Valentine",
+   "Galkin Konstantin"
+  ],
+  "journal": "Reports of NAS RA",
+  "publisher": "",
+  "published": "2026-09-22",
+  "year": 2026,
+  "doi": "10.54503/0321-1339-2026.126.2-7",
+  "url": "https://doi.org/10.54503/0321-1339-2026.126.2-7",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "C-H Functionalization",
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Electrolysis",
+   "Paired Electrolysis",
+   "Scale-up"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-09-23"
+ },
+ {
+  "id": "3e53b4ba32ae5b0a",
+  "title": "Recent Advances in Asymmetric Electrochemical Synthesis",
+  "authors": [
+   "Cheng Huang",
+   "Yingqi Yang",
+   "Kang Liang",
+   "Xiuwen Zheng",
+   "Ping Hu",
+   "Jin Song",
+   "Qingquan Lu",
+   "Chang Guo"
+  ],
+  "journal": "Chinese Journal of Chemistry",
+  "publisher": "Wiley",
+  "published": "2026-09-21",
+  "year": 2026,
+  "doi": "10.1002/cjoc.70759",
+  "url": "https://doi.org/10.1002/cjoc.70759",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Asymmetric Electrosynthesis",
+   "Cathodic Reduction",
+   "Paired Electrolysis",
+   "Natural Product & Total Synthesis",
+   "Decarboxylative & Radical Reactions",
+   "Late-Stage Functionalization & Medicinal Chemistry"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Asymmetric Electrosynthesis",
+   "Cathodic Reduction",
+   "Drug Molecules",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Natural Products",
+   "Organic Electrosynthesis",
+   "Organocatalysis",
+   "Paired Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 99,
+  "affiliations": [
+   "Wuhan University",
+   "Suzhou Research Institute",
+   "University of Science and Technology of China",
+   "Hefei National Center for Physical Sciences at Nanoscale",
+   "Anhui University",
+   "City University of Hong Kong, Shenzhen Research Institute"
+  ],
+  "added": "2026-09-23"
+ },
+ {
   "id": "80415c494a657938",
   "title": "Electrosynthesis of Functionalized Chromenes via Selenylation-Induced Alkynes Cyclization",
   "authors": [
