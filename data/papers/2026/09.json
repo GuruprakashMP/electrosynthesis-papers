@@ -1,5 +1,35 @@
 [
  {
+  "id": "fa4f3d8536099fb3",
+  "title": "Electro-Organic Synthesis at a Stable Oil/Water/Solid Three-Phase Interface Reactor.",
+  "authors": [
+   "Deyin Chen",
+   "Jianan Zhu",
+   "Huan Wu",
+   "Huajun Zheng",
+   "Longhao Jiao",
+   "Chengpu Chu",
+   "Yinghua Xu",
+   "Bin Liu"
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.1002/anie.3415969",
+  "url": "https://doi.org/10.1002/anie.3415969",
+  "source": "pubmed",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electroorganic"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-09-24"
+ },
+ {
   "id": "d17897ce277d3e74",
   "title": "Electrochemical Platform for Automated Design-of-Experiment Optimization of Ni-Catalyzed Cross-Electrophile Coupling Reactions",
   "authors": [
@@ -59,6 +89,41 @@
   "relevance_score": 60,
   "affiliations": [],
   "added": "2026-09-23"
+ },
+ {
+  "id": "5f4880aa9b33f7fc",
+  "title": "Electrochemically Enabled Self‐Intercalation for Symmetry Breaking and Metallic Ferroelectricity in Nb 1+x S 2",
+  "authors": [
+   "Mengchen Wang",
+   "Qing Zhang",
+   "Yongshuai Wang",
+   "Ruijie Zhang",
+   "Aiqing Fan",
+   "Li Li",
+   "Dechao Geng"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-09-21",
+  "year": 2026,
+  "doi": "10.1002/smll.75915",
+  "url": "https://doi.org/10.1002/smll.75915",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrochemically Enabled"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tianjin University",
+   "Beijing National Laboratory for Molecular Sciences",
+   "Collaborative Innovation Center of Chemical Science and Engineering Tianjin",
+   "Tianjin Normal University",
+   "Hebei University of Technology"
+  ],
+  "added": "2026-09-24"
  },
  {
   "id": "3e53b4ba32ae5b0a",
