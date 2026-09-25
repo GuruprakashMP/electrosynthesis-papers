@@ -30,6 +30,246 @@
   "added": "2026-09-24"
  },
  {
+  "id": "e693eb8797c63836",
+  "title": "Localizing and quantifying the dynamic interfacial proton population in alkaline electrocatalysis",
+  "authors": [
+   "Xinwei Zhu",
+   "Daniel Ohm",
+   "Qiqi Yang",
+   "Adrian Heinritz",
+   "Paramaconi Benito Perez Rodriguez",
+   "Xiaomin Liu",
+   "Tobias Binninger",
+   "Katrin F. Domke"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15009338/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15009338/v1",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Max Planck Institute for Polymer Research",
+   "Paul Scherrer Institute",
+   "CIC energiGUNE",
+   "Forschungszentrum Jülich",
+   "University of Duisburg-Essen"
+  ],
+  "added": "2026-09-25"
+ },
+ {
+  "id": "66d793562c42619d",
+  "title": "Computer Vision for Predicting Electrochemical Reaction Performance from Electroanalytical Data",
+  "authors": [
+   "Xinran Chen",
+   "Sven Erik Peters",
+   "Lutz Ackermann"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15009343/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15009343/v1",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Anhui Agricultural University",
+   "University of Göttingen"
+  ],
+  "added": "2026-09-25"
+ },
+ {
+  "id": "5cb533e2edee0ded",
+  "title": "Electrochemical Alcohol Oxidation: An Accessible Electrosynthesis Experiment for Sophomore-Level Organic Chemistry",
+  "authors": [
+   "Luke Kays",
+   "Jose Intano",
+   "Zoe Wachtel",
+   "Victoria Russell",
+   "R. Adam Mosey",
+   "Becky Carroll",
+   "Laurie Lopez",
+   "Michelle Phillips",
+   "Melanie Sarah Sanford",
+   "Shelley D. Minteer"
+  ],
+  "journal": "Journal of Chemical Education",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.1021/acs.jchemed.6c00506",
+  "url": "https://doi.org/10.1021/acs.jchemed.6c00506",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "TEMPO",
+   "Undivided Cell"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "University of Utah",
+   "University of Michigan",
+   "Lake Superior State University",
+   "Inverness Research (United States)"
+  ],
+  "added": "2026-09-25"
+ },
+ {
+  "id": "46e723efa62b8e93",
+  "title": "Training Cupriavidus necator for growth on cathode surfaces: impact of adaptive evolution for genomic alterations leading to accelerated biofilm development",
+  "authors": [
+   "Sri Sannihita Chavali"
+  ],
+  "journal": "TUHH Open Research",
+  "publisher": "Hamburg University of Technology",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.15480/882.17914",
+  "url": "https://doi.org/10.15480/882.17914",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Electrogenerated Species",
+   "Electrosynthesis",
+   "Renewable Electricity"
+  ],
+  "relevance_score": 43,
+  "affiliations": [],
+  "added": "2026-09-25"
+ },
+ {
+  "id": "42a3b080efe15588",
+  "title": "Iodide-bridged interfacial hydrogen bonds enable ampere-level electrosynthesis of deuterated acetic acid",
+  "authors": [
+   "Qian Li",
+   "Rui Li",
+   "Meng He",
+   "Mengmei Qin",
+   "Chuanqi Cheng",
+   "Bin Zhang"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.1038/s41467-026-77912-3",
+  "url": "https://doi.org/10.1038/s41467-026-77912-3",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tianjin University"
+  ],
+  "added": "2026-09-25"
+ },
+ {
+  "id": "36509b094c67a209",
+  "title": "Beyond Direct Two-Electron Oxidation: High-Potential Formaldehyde Oxidation on Palladium Still Generates Hydrogen Atoms",
+  "authors": [
+   "Ruizhi Li",
+   "Yufei Li",
+   "Xiaosong Hu",
+   "Tao Gao",
+   "Yujie Sun"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c14579",
+  "url": "https://doi.org/10.1021/jacs.6c14579",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Cincinnati",
+   "Sichuan University",
+   "Sichuan University of Science and Engineering"
+  ],
+  "added": "2026-09-25"
+ },
+ {
+  "id": "09ffaf87f7f5ef52",
+  "title": "Electrochemical Investigation of the Redox Behavior of Isoquinoline Alkaloid Emetine",
+  "authors": [
+   "Carin Smith",
+   "JaVe Bonner",
+   "Emah Assimewlui",
+   "Keliah Tucker",
+   "Esdrizabeth Pereyra Cuello",
+   "Cassandra Sellers",
+   "Tosy King",
+   "Cameron Jamal Smith",
+   "Zoe Friedman",
+   "Weldejeworgis Gebrehiwot",
+   "Oladapo Bakare",
+   "Yue Li",
+   "Uche Charles Udeochu"
+  ],
+  "journal": "ACS Omega",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.1021/acsomega.6c06393",
+  "url": "https://doi.org/10.1021/acsomega.6c06393",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis",
+   "Natural Product & Total Synthesis"
+  ],
+  "tags": [
+   "Alkaloids",
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Glassy Carbon"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Howard University",
+   "University of the District of Columbia",
+   "University of California, Santa Barbara",
+   "University of Maryland, Baltimore",
+   "University of Maryland, College Park"
+  ],
+  "added": "2026-09-25"
+ },
+ {
   "id": "d17897ce277d3e74",
   "title": "Electrochemical Platform for Automated Design-of-Experiment Optimization of Ni-Catalyzed Cross-Electrophile Coupling Reactions",
   "authors": [
