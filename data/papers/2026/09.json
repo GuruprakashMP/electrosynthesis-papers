@@ -1,5 +1,128 @@
 [
  {
+  "id": "e7bd3554f5a58eff",
+  "title": "Electrosynthesis of tetrahydrofurans from styrenes with water as oxygen source",
+  "authors": [
+   "Shuyan Han",
+   "Yajuan Zhang",
+   "Yixuan Gao",
+   "Hongfang Li",
+   "Yanyan He",
+   "Zhenhua Jia",
+   "Teck-Peng Loh"
+  ],
+  "journal": "CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION)",
+  "publisher": "Elsevier BV",
+  "published": "2026-09-24",
+  "year": 2026,
+  "doi": "10.1016/s1872-2067(26)65178-9",
+  "url": "https://doi.org/10.1016/s1872-2067(26)65178-9",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Henan University of Technology",
+   "Institute of Environment and Sustainable Development in Agriculture",
+   "Nanyang Technological University"
+  ],
+  "added": "2026-09-26"
+ },
+ {
+  "id": "bfe49f8906b04b5e",
+  "title": "Electro-Redox Process: A Long-Overlooked Mode of Single-Electron Transfer in Organic Synthesis",
+  "authors": [
+   "Lei Wang",
+   "Yumeng He",
+   "H Liu",
+   "Lijuan Liang",
+   "Peng Chen",
+   "Zhenhua Jia"
+  ],
+  "journal": "Sustainable Science and Innovation",
+  "publisher": "",
+  "published": "2026-09-24",
+  "year": 2026,
+  "doi": "10.54963/ssi.102544",
+  "url": "https://doi.org/10.54963/ssi.102544",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis",
+   "C-H Functionalization",
+   "Flow Electrosynthesis & Scale-up",
+   "Green & Sustainable Electrosynthesis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Cathodic Reduction",
+   "Electrochemically Driven",
+   "Electrosynthesis",
+   "Radical Anion",
+   "Radical Chemistry",
+   "Scale-up",
+   "Single-Electron Transfer",
+   "Sustainable Synthesis"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Fudan University",
+   "Henan University of Technology"
+  ],
+  "added": "2026-09-26"
+ },
+ {
+  "id": "54f75c2c20995736",
+  "title": "Industrial-Scale Electrosynthesis of Amino Acids from the Air via a Molecular Ligand-Engineered Bismuth Catalyst",
+  "authors": [
+   "Suisheng Li",
+   "Peisen Liao",
+   "Yuhao Zhang",
+   "Zhiyuan Yang",
+   "Jiacheng Li",
+   "Tao You",
+   "Runan Xiang",
+   "Xupeng Qin",
+   "Qi Yu",
+   "Qinghua Liu",
+   "Jun Li",
+   "Guangqin Li"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-24",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c16565",
+  "url": "https://doi.org/10.1021/jacs.6c16565",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "One-Pot"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "National Sun Yat-sen University",
+   "Sun Yat-sen University",
+   "Sun Yat-sen Memorial Hospital",
+   "University of Science and Technology of China",
+   "Shaanxi University of Science and Technology",
+   "Tsinghua University"
+  ],
+  "added": "2026-09-26"
+ },
+ {
   "id": "fa4f3d8536099fb3",
   "title": "Electro-Organic Synthesis at a Stable Oil/Water/Solid Three-Phase Interface Reactor.",
   "authors": [
