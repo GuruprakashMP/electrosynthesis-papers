@@ -1,5 +1,122 @@
 [
  {
+  "id": "e446287882f81a78",
+  "title": "Deep reduction in electrosynthesis.",
+  "authors": [
+   "Mickaël E Avanthay",
+   "John R Box",
+   "Alastair J J Lennox"
+  ],
+  "journal": "Nature chemistry",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1038/s41557-026-02249-9",
+  "url": "https://doi.org/10.1038/s41557-026-02249-9",
+  "source": "pubmed",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Reduction Potential"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-09-29"
+ },
+ {
+  "id": "a89d5578b2297632",
+  "title": "Phase-field simulation of interfacial stability in structured gas-liquid contactors: design rules for gas diffusion electrodes",
+  "authors": [
+   "Alexander J. Wagner",
+   "Hari Murali Krishna Varma Gottumukkala",
+   "Henning Bonart"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2609.34755v1",
+  "source": "arxiv",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-09-29"
+ },
+ {
+  "id": "4cac3053f048b7c1",
+  "title": "Sustainable Electrosynthesis of Hexamethylenetetramine via Paired Electrolysis of Nitrate and PET Waste.",
+  "authors": [
+   "Jingtao Zhou",
+   "Jiu Chen",
+   "Rui Shi",
+   "Zhengxiao Guo",
+   "Edmund C M Tse",
+   "Fulai Liu",
+   "Yong Chen"
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1002/anie.9224223",
+  "url": "https://doi.org/10.1002/anie.9224223",
+  "source": "pubmed",
+  "categories": [
+   "Paired Electrolysis",
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 43,
+  "affiliations": [],
+  "added": "2026-09-29"
+ },
+ {
+  "id": "982ae607ebe6e02d",
+  "title": "SiO2 layers with the reduced dielectric permittivity produced by the anodic oxidation of Si substrates containing ion beam-synthesized SiC nanoparticles",
+  "authors": [
+   "Ida Tyschenko",
+   "Evgenij Spesivtsev",
+   "Igor Popov",
+   "Anton Gutakovskii",
+   "Zhanna V. Smagina",
+   "Vladimir Popov"
+  ],
+  "journal": "Materials Science in Semiconductor Processing",
+  "publisher": "Elsevier BV",
+  "published": "2026-09-27",
+  "year": 2026,
+  "doi": "10.1016/j.mssp.2026.111212",
+  "url": "https://doi.org/10.1016/j.mssp.2026.111212",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "Siberian Branch of the Russian Academy of Sciences",
+   "Institute of Semiconductor Physics"
+  ],
+  "added": "2026-09-29"
+ },
+ {
   "id": "e7bd3554f5a58eff",
   "title": "Electrosynthesis of tetrahydrofurans from styrenes with water as oxygen source",
   "authors": [
