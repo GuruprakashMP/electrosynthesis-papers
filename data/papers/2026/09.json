@@ -1,5 +1,139 @@
 [
  {
+  "id": "f48aa0723aa52f8c",
+  "title": "Acid–Alkali Asymmetric Carbon Dioxide–Glycerol Paired Electrolysis for Formate Electrosynthesis",
+  "authors": [
+   "Zhengzheng Liu",
+   "Shuming Dong",
+   "Ximeng Lv"
+  ],
+  "journal": "Journal of Visualized Experiments",
+  "publisher": "MyJOVE",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.3791/73822",
+  "url": "https://doi.org/10.3791/73822",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "4336e2269e979018",
+  "title": "ELECTROCHEMICAL BEHAVIOR OF PHOSPHOROUS ACID ON A PLATINUM ELECTRODE AND ITS GALVANOSTATIC ANODIC OXIDATION USING A LEAD ANODE",
+  "authors": [
+   "D. D. Asylbekova",
+   "Kh. R. Toktibayeva",
+   "A. R. Kaldybayeva",
+   "L. Zhurkhabayeva",
+   "Ainur Tukibayeva"
+  ],
+  "journal": "SERIES CHEMISTRY AND TECHNOLOGY",
+  "publisher": "",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.32014/2026.2518-1491.386",
+  "url": "https://doi.org/10.32014/2026.2518-1491.386",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Mechanism",
+   "Platinum Electrode"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "1a8fa14d52736c88",
+  "title": "From Direct to Alternating Current Electrosynthesis: Transition-Metal-Catalyzed Oxidative Cross-Coupling with Hydrogen Evolution",
+  "authors": [
+   "Qinghong Yang",
+   "Zhengze Wu",
+   "Yi Zhao",
+   "Bufan Dang",
+   "Li Zeng",
+   "Aiwen Lei"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.1021/acs.accounts.6c00562",
+  "url": "https://doi.org/10.1021/acs.accounts.6c00562",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Cell Design & Electrodes",
+   "Cross-Coupling & C-C Formation",
+   "C-H Functionalization",
+   "Decarboxylative & Radical Reactions",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Cross-Coupling",
+   "Divided Cell",
+   "Electrochemically Driven",
+   "Electrooxidative",
+   "Electrosynthesis",
+   "Radical Chemistry",
+   "Redox Potential",
+   "Undivided Cell"
+  ],
+  "relevance_score": 99,
+  "affiliations": [
+   "Wuhan University",
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Organic Chemistry"
+  ],
+  "added": "2026-09-30"
+ },
+ {
+  "id": "0d55760829403453",
+  "title": "International Summer School on Electrocatalysis and Organic Electrosynthesis",
+  "authors": [
+   "Peter Broekmann",
+   "Siegried Waldvogel",
+   "Matthias Arenz"
+  ],
+  "journal": "CHIMIA International Journal for Chemistry",
+  "publisher": "Swiss Chemical Society",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.2533/chimia.2026.648",
+  "url": "https://doi.org/10.2533/chimia.2026.648",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Bern",
+   "Max Planck Institute for Chemical Energy Conversion"
+  ],
+  "added": "2026-09-30"
+ },
+ {
   "id": "e446287882f81a78",
   "title": "Deep reduction in electrosynthesis.",
   "authors": [
@@ -26,6 +160,39 @@
   "added": "2026-09-29"
  },
  {
+  "id": "b352cc0ca82bada2",
+  "title": "Device–System Co‐Design of a Memristor‐Based 3D Convolutional Spiking Neural Network for Dynamic Vision Processing",
+  "authors": [
+   "Qin Zou",
+   "Le Zhang",
+   "Shuai-Bin Hua",
+   "Puli Gan",
+   "鄭如惠",
+   "Tian Jin",
+   "Xin Guo"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1002/adfm.78728",
+  "url": "https://doi.org/10.1002/adfm.78728",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "TEMPO"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Huazhong University of Science and Technology"
+  ],
+  "added": "2026-09-30"
+ },
+ {
   "id": "a89d5578b2297632",
   "title": "Phase-field simulation of interfacial stability in structured gas-liquid contactors: design rules for gas diffusion electrodes",
   "authors": [
@@ -50,6 +217,43 @@
   "relevance_score": 52,
   "affiliations": [],
   "added": "2026-09-29"
+ },
+ {
+  "id": "a0cfbf5ef739e0eb",
+  "title": "Electrochemically Supported Asymmetric Synthesis on Chiral Encoded Pt and Pt–Ir Surfaces",
+  "authors": [
+   "Anousha Sohail",
+   "Wanmai Srisuwanno",
+   "Sopon Butcha",
+   "Alexander Kuhn",
+   "Chularat Wattanakit"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1021/acs.accounts.6c00499",
+  "url": "https://doi.org/10.1021/acs.accounts.6c00499",
+  "source": "openalex",
+  "categories": [
+   "Asymmetric Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Enantioselective Electrosynthesis",
+   "Enantioselectivity"
+  ],
+  "relevance_score": 59,
+  "affiliations": [
+   "Vidyasirimedhi Institute of Science and Technology",
+   "Chiang Mai University",
+   "Thammasat University",
+   "Centre National de la Recherche Scientifique",
+   "Université de Bordeaux",
+   "Institut des Sciences Moléculaires",
+   "Institut Polytechnique de Bordeaux"
+  ],
+  "added": "2026-09-30"
  },
  {
   "id": "4cac3053f048b7c1",
