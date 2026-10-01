@@ -1,5 +1,105 @@
 [
  {
+  "id": "bb50619b47d820ee",
+  "title": "Coupling Reaction in Electrosynthesis: Design Principles, Reaction Mechanisms and Catalyst Engineering",
+  "authors": [
+   "Yingjie Liu",
+   "Shen Yan",
+   "Xiaohui Tang",
+   "Mei Li",
+   "Zongyang Ya",
+   "Zixuan Zhang",
+   "Hua Wang",
+   "Shengbo Zhang"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.1002/smll.75993",
+  "url": "https://doi.org/10.1002/smll.75993",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Mechanism",
+   "Scale-up"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Collaborative Innovation Center of Chemical Science and Engineering Tianjin",
+   "Tianjin University",
+   "Nankai University"
+  ],
+  "added": "2026-10-01"
+ },
+ {
+  "id": "a01c71ab90099712",
+  "title": "Iodide-mediated electrochemical cyclization and desulfurization of N-substituted 3-aminoprop-2-enethioamides.",
+  "authors": [
+   "Xiao Yu",
+   "Yongzheng Yin",
+   "Xian Liu",
+   "Yiping Liu",
+   "Yafei Ji"
+  ],
+  "journal": "Organic & biomolecular chemistry",
+  "publisher": "",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.1039/d6ob01379a",
+  "url": "https://doi.org/10.1039/d6ob01379a",
+  "source": "pubmed",
+  "categories": [
+   "Heterocycle Synthesis",
+   "Anodic Oxidation",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Atom Economy",
+   "Electrochemical Cyclization"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-10-01"
+ },
+ {
+  "id": "037e234fd4c25bfa",
+  "title": "Supporting-electrolyte-free electrosynthesis of hydroquinone in solid polymer electrolyte electrolyzers.",
+  "authors": [
+   "Kou Kikuchi",
+   "Mahito Atobe",
+   "Naoki Shida"
+  ],
+  "journal": "Faraday discussions",
+  "publisher": "",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.1039/d6fd00074f",
+  "url": "https://doi.org/10.1039/d6fd00074f",
+  "source": "pubmed",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Divided Cell",
+   "Electrochemical Synthesis",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Gram-Scale",
+   "Organic Electrosynthesis",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 65,
+  "affiliations": [],
+  "added": "2026-10-01"
+ },
+ {
   "id": "f48aa0723aa52f8c",
   "title": "Acid–Alkali Asymmetric Carbon Dioxide–Glycerol Paired Electrolysis for Formate Electrosynthesis",
   "authors": [
