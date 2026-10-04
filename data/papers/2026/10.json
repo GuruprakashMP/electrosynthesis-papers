@@ -1,5 +1,62 @@
 [
  {
+  "id": "8e758bf4370b35a3",
+  "title": "Electrochemical Cyclization of Alkene with Bisnucleophile to Assemble Piperazine/1,4-Diazepane Scaffolds",
+  "authors": [
+   "Zi-Hao Liao",
+   "Yu Zheng",
+   "Kai Chen",
+   "Hua Yang"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-02",
+  "year": 2026,
+  "doi": "10.1021/acs.orglett.6c03409",
+  "url": "https://doi.org/10.1021/acs.orglett.6c03409",
+  "source": "openalex",
+  "categories": [
+   "Heterocycle Synthesis",
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Alkenes",
+   "Anodic Oxidation",
+   "Electrochemical Cyclization",
+   "FG Tolerance",
+   "Heterocycles"
+  ],
+  "relevance_score": 86,
+  "affiliations": [
+   "Central South University"
+  ],
+  "added": "2026-10-04"
+ },
+ {
+  "id": "1fad9f2472265333",
+  "title": "MULTICARBON ELECTROSYNTHESIS & HYBRID CARBON BIOREFINERIES AT THE LIMIT C-C Coupling, Ethylene, Ethanol, Acetate, Propanol, Butanol, Product Concentration, Electro-Biological Manufacturing, and Carbon-Chain Growth",
+  "authors": [
+   "33"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-10-02",
+  "year": 2026,
+  "doi": "10.5281/zenodo.23093009",
+  "url": "https://doi.org/10.5281/zenodo.23093009",
+  "source": "openalex",
+  "categories": [
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Scale-up"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-10-04"
+ },
+ {
   "id": "43a41a7e40d51b62",
   "title": "Synthesis, Photophysical, and Electrochemical Characterization of Coumarin-Chalcone Derivatives and Their Al(III), Fe(III), Ni(II), and Zn(II) Complexes.",
   "authors": [
@@ -26,6 +83,38 @@
   "relevance_score": 43,
   "affiliations": [],
   "added": "2026-09-30"
+ },
+ {
+  "id": "3124840739abb453",
+  "title": "Interfacial Electronic Modulation of Ce@CuO/CoNC Accelerates Active Hydrogen for Near-Unit Faradaic Efficiency NO3−-to-NH3 Electrosynthesis",
+  "authors": [
+   "Fei Chen",
+   "Hui Luo",
+   "Xin Bian",
+   "Jixin Yao",
+   "Liang Zhuang",
+   "Feng Du",
+   "Chunxian Guo"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.jece.2026.125351",
+  "url": "https://doi.org/10.1016/j.jece.2026.125351",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Suzhou University of Science and Technology",
+   "Hefei Normal University"
+  ],
+  "added": "2026-10-04"
  },
  {
   "id": "27f0099171da85fd",
