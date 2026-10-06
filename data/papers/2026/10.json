@@ -1,5 +1,75 @@
 [
  {
+  "id": "97bb658a54717e7b",
+  "title": "The radical-radical cross-coupling of alkyl carboxylic acids and organoborons.",
+  "authors": [
+   "Jessica Zhong",
+   "Maxime Boudjelel",
+   "Jake M Evans",
+   "Ian Vanswearingen",
+   "Christian A Malapit"
+  ],
+  "journal": "Nature chemistry",
+  "publisher": "",
+  "published": "2026-10-05",
+  "year": 2026,
+  "doi": "10.1038/s41557-026-02237-z",
+  "url": "https://doi.org/10.1038/s41557-026-02237-z",
+  "source": "pubmed",
+  "categories": [
+   "Anodic Oxidation",
+   "Decarboxylative & Radical Reactions",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Alkenes",
+   "C-C Bond Formation",
+   "Cross-Coupling",
+   "Electrolysis",
+   "Electrooxidative",
+   "Kolbe Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 94,
+  "affiliations": [],
+  "added": "2026-10-06"
+ },
+ {
+  "id": "87aeca3f46433ac5",
+  "title": "Electrooxidative Ring-Opening and Strain-Release-Driven Skeletal Rearrangement of Cyclopropenes",
+  "authors": [
+   "Subhadeep Ghosh",
+   "Sumit Biswas",
+   "Suman Sekh",
+   "Indrajit Das"
+  ],
+  "journal": "Organic Letters",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-05",
+  "year": 2026,
+  "doi": "10.1021/acs.orglett.6c04062",
+  "url": "https://doi.org/10.1021/acs.orglett.6c04062",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrooxidative",
+   "Radical Cation",
+   "Radical Chemistry",
+   "Regioselectivity"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "Indian Institute of Chemical Biology",
+   "Academy of Scientific and Innovative Research"
+  ],
+  "added": "2026-10-06"
+ },
+ {
   "id": "6b78c755ce45551c",
   "title": "Unsaturated Carboxylates as Electrophilic Synthons for Transition-Metal-Catalyst-Free Electroreductive Deoxygenative Coupling.",
   "authors": [
