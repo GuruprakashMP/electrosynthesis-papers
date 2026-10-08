@@ -1,5 +1,63 @@
 [
  {
+  "id": "d9d372043ff8c8c3",
+  "title": "Selective benzylic C–H electrochemical oxygenation under ambient air promoted by an Fe–N–C electrocatalyst",
+  "authors": [
+   "Liang Z",
+   "Zhang J",
+   "Huang Z",
+   "Zhu L",
+   "Yao X."
+  ],
+  "journal": "RSC advances",
+  "publisher": "",
+  "published": "2026-10-08",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13644398",
+  "source": "europepmc",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrochemical Oxygenation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-08"
+ },
+ {
+  "id": "46aa4944dc7b3446",
+  "title": "Engineering the Electrochemical Interface With Polyborate for High-Selectivity Adiponitrile Electrosynthesis.",
+  "authors": [
+   "Zhongqiang Deng",
+   "Wei Du",
+   "Xudong Liu",
+   "Mengxin Qu",
+   "Yuanyuan Meng",
+   "Tao Jiang",
+   "Ming Gong"
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-10-07",
+  "year": 2026,
+  "doi": "10.1002/anie.5793589",
+  "url": "https://doi.org/10.1002/anie.5793589",
+  "source": "pubmed",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Graphite Electrode",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 71,
+  "affiliations": [],
+  "added": "2026-10-08"
+ },
+ {
   "id": "369a9111e6807b2b",
   "title": "Electrochemically driven deoxychlorination of aliphatic alcohols via alkoxysulfonium intermediates",
   "authors": [
@@ -26,6 +84,40 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-10-07"
+ },
+ {
+  "id": "17e4507a6dd7f765",
+  "title": "Electrochemical Reductive β‐Arylation and Alkenylation of α‐Branched Acroleins by Primary Amine/Nickel Dual Catalysis",
+  "authors": [
+   "Yingdong Duan",
+   "Fanzhu Zeng",
+   "Qifeng Lin",
+   "Sanzhong Luo"
+  ],
+  "journal": "Transformative Chemistry",
+  "publisher": "",
+  "published": "2026-10-06",
+  "year": 2026,
+  "doi": "10.1002/tch2.70024",
+  "url": "https://doi.org/10.1002/tch2.70024",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Chemoselectivity",
+   "Electroreductive",
+   "Radical Cation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Laboratoire de Synthèse Organique",
+   "Tsinghua University"
+  ],
+  "added": "2026-10-08"
  },
  {
   "id": "97bb658a54717e7b",
@@ -96,6 +188,35 @@
    "Academy of Scientific and Innovative Research"
   ],
   "added": "2026-10-06"
+ },
+ {
+  "id": "45e3b5a53e6dd543",
+  "title": "Electrochemical Synthesis of Sulfur(VI) Compounds",
+  "authors": [
+   "Karim Ullah",
+   "Stavros Boukouvalas",
+   "Jan Evens",
+   "Joachim Demaerel",
+   "Wim M. De Borggraeve"
+  ],
+  "journal": "European Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2026-10-05",
+  "year": 2026,
+  "doi": "10.1002/ejoc.70852",
+  "url": "https://doi.org/10.1002/ejoc.70852",
+  "source": "openalex",
+  "categories": [
+   "Late-Stage Functionalization & Medicinal Chemistry"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrosynthesis",
+   "Medicinal Chemistry"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-10-08"
  },
  {
   "id": "6b78c755ce45551c",
