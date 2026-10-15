@@ -1,5 +1,119 @@
 [
  {
+  "id": "f1ed2650acc45423",
+  "title": "Chemoselective Electrochemical Synthesis of 3-Hydroxyisoindolinones from Phthalimide Imines.",
+  "authors": [
+   "Xi Zhang",
+   "Yicai Li",
+   "Qiaohong Xu",
+   "Zenghui Ye",
+   "Wei-Yuan Ma",
+   "Jian-Xing Xu",
+   "Fengzhi Zhang"
+  ],
+  "journal": "The Journal of organic chemistry",
+  "publisher": "",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "10.1021/acs.joc.6c01017",
+  "url": "https://doi.org/10.1021/acs.joc.6c01017",
+  "source": "pubmed",
+  "categories": [
+   "Cathodic Reduction",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Chemoselectivity",
+   "Electrochemical Synthesis",
+   "Electroreductive",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-10-15"
+ },
+ {
+  "id": "fdaf84df7872f10f",
+  "title": "Energy-saving hydrogen production coupled with PET-derived ethylene glycol oxidation: Reaction mechanisms, catalyst design, and reactor engineering",
+  "authors": [
+   "Xi Zhu",
+   "Xingqun Zheng",
+   "Jitao Li",
+   "Jianwei Lu",
+   "Weiwei Lei",
+   "甄文龙",
+   "Qingsong Hua",
+   "Shun Lu"
+  ],
+  "journal": "Nano Research Energy",
+  "publisher": "Tsinghua University Press",
+  "published": "2026-10-14",
+  "year": 2026,
+  "doi": "10.26599/nre.2026.9120265",
+  "url": "https://doi.org/10.26599/nre.2026.9120265",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Flow Electrosynthesis & Scale-up",
+   "Mechanism & Electroanalysis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cell Voltage",
+   "Electrolysis",
+   "Mechanism",
+   "Paired Electrolysis",
+   "Scale-up"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-15"
+ },
+ {
+  "id": "f9a2cbe84cb558e8",
+  "title": "Pulsed Oxidative–Reductive Electrolysis Over Dual Cu and Co Single‐Atom Sites for Urea Electrosynthesis",
+  "authors": [
+   "Putri Ramadhany",
+   "Peiqi Qiu",
+   "Thành Trần-Phú",
+   "Denny Gunawan",
+   "Bernt Johannessen",
+   "Rosalie K. Hocking",
+   "Yan Jiao",
+   "Rose Amal",
+   "Rahman Daiyan"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "",
+  "published": "2026-10-13",
+  "year": 2026,
+  "doi": "10.1002/adma.75357",
+  "url": "https://doi.org/10.1002/adma.75357",
+  "source": "openalex",
+  "categories": [
+   "Cathodic Reduction",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Reductive Electrolysis",
+   "TEMPO"
+  ],
+  "relevance_score": 50,
+  "affiliations": [
+   "Parahyangan Catholic University",
+   "UNSW Sydney",
+   "UCL Australia",
+   "The University of Adelaide",
+   "Swinburne University of Technology",
+   "Australian Nuclear Science and Technology Organisation",
+   "University of Wollongong",
+   "Australian Synchrotron"
+  ],
+  "added": "2026-10-15"
+ },
+ {
   "id": "9a180f7adde55fb2",
   "title": "Integrated Electromicrobial Production of Itaconic Acid From CO 2 at Liter‐Scale Using Komagataella phaffii",
   "authors": [
@@ -35,6 +149,37 @@
    "BOKU University"
   ],
   "added": "2026-10-13"
+ },
+ {
+  "id": "8bf332cc6e2c5ff6",
+  "title": "Tailoring Backbone Angles of Regioisomeric Covalent Organic Frameworks: Distinct O 2 Adsorption Modes Enabling Efficient H 2 O 2 Electrosynthesis",
+  "authors": [
+   "Yali Xing",
+   "Shuo Chen",
+   "Han Wang",
+   "Xue Zhang",
+   "Sun Ning",
+   "付晟静",
+   "Xiaojing Long"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.1002/anie.5704652",
+  "url": "https://doi.org/10.1002/anie.5704652",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Qingdao University"
+  ],
+  "added": "2026-10-15"
  },
  {
   "id": "19a93c6bdceff5bc",
