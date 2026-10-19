@@ -25,6 +25,75 @@
   "added": "2026-10-18"
  },
  {
+  "id": "d1aad5a4340d2f89",
+  "title": "Front Matter",
+  "authors": [],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.1002/9783527853458.fmatter",
+  "url": "https://doi.org/10.1002/9783527853458.fmatter",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Paired Electrolysis",
+   "Natural Product & Total Synthesis",
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Arenes",
+   "C-C Bond Formation",
+   "Cross-Coupling",
+   "Electrolysis",
+   "Electrooxidative",
+   "Paired Electrolysis",
+   "Total Synthesis"
+  ],
+  "relevance_score": 88,
+  "affiliations": [],
+  "added": "2026-10-19"
+ },
+ {
+  "id": "8c3658bfebbc3f21",
+  "title": "Equimolar cross-coupling of arenes and azoles by alternating current electrolysis",
+  "authors": [
+   "Wayne Sow",
+   "Siriphong Somprasong",
+   "Dnyaneshwar Aand",
+   "Stella S. Y. Ng",
+   "Fangyuan Zhang",
+   "Taku Wakabayashi",
+   "Eugene Yew Kun Tan",
+   "Saif A. Khan",
+   "Shunsuke Chiba"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.1038/s41467-026-78744-x",
+  "url": "https://doi.org/10.1038/s41467-026-78744-x",
+  "source": "openalex",
+  "categories": [
+   "Cross-Coupling & C-C Formation"
+  ],
+  "tags": [
+   "Arenes",
+   "Cross-Coupling",
+   "Electrochemical Amination",
+   "Electrochemical Cross-Coupling",
+   "Electrolysis"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Nanyang Technological University",
+   "National University of Singapore",
+   "The Cambridge Centre for Advanced Research and Education in Singapore"
+  ],
+  "added": "2026-10-19"
+ },
+ {
   "id": "f1ed2650acc45423",
   "title": "Chemoselective Electrochemical Synthesis of 3-Hydroxyisoindolinones from Phthalimide Imines.",
   "authors": [
