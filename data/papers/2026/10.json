@@ -34,6 +34,66 @@
   "added": "2026-10-23"
  },
  {
+  "id": "a70ef8cfa43680f7",
+  "title": "Paired electrolysis of waste-derived organic feedstocks for hydrogen and value-added chemicals: Electrocatalysis, flow reactors, scale-up, and sustainability",
+  "authors": [
+   "T. Suresh",
+   "Kuwar Mausam",
+   "Ponmurugan Panneerselvam",
+   "Gayatri Kadimi",
+   "A. Saravanan",
+   "P. Ramya Krishna",
+   "Tarang Bhatnagar",
+   "S. Venkatesa Prabhu",
+   "M. Ramya",
+   "Rohini Thimmapura Venkatesh"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-23",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.158235",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.158235",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Paired Electrolysis",
+   "Scale-up"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-10-24"
+ },
+ {
+  "id": "6c3318031d8b3c93",
+  "title": "Electrochemical valorization of polyhalogenated hydrocarbons and polyvinyl chloride toward halogenated compounds.",
+  "authors": [
+   "Zhen Wang"
+  ],
+  "journal": "Organic & biomolecular chemistry",
+  "publisher": "",
+  "published": "2026-10-23",
+  "year": 2026,
+  "doi": "10.1039/d6ob01355d",
+  "url": "https://doi.org/10.1039/d6ob01355d",
+  "source": "pubmed",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Mechanism",
+   "Substrate Scope"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-10-24"
+ },
+ {
   "id": "6715654908b86d4e",
   "title": "Dual‐Electrode Catalytic Engineering for Sustainable C─C Bond Construction via Paired Electrochemical α‐Alkylation of Nitriles",
   "authors": [
@@ -210,6 +270,37 @@
    "Huaibei Normal University"
   ],
   "added": "2026-10-23"
+ },
+ {
+  "id": "1db2c22ae07f82c7",
+  "title": "Catalyst-free alkoxysulfonyl radical generation unlocks divergent sulfonylative cyclizations: electrochemical access to sulfonate-functionalized phenanthridines and spiro-γ-lactams.",
+  "authors": [
+   "T. K. Sahu",
+   "Abhaykumar Vishwakarma",
+   "Rahimuddin Khan",
+   "Tabrez Khan"
+  ],
+  "journal": "Chemical communications",
+  "publisher": "",
+  "published": "2026-10-21",
+  "year": 2026,
+  "doi": "10.1039/d6cc05706c",
+  "url": "https://doi.org/10.1039/d6cc05706c",
+  "source": "semanticscholar",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Decarboxylative & Radical Reactions",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Heterocycles",
+   "Radical Chemistry",
+   "Undivided Cell"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-10-24"
  },
  {
   "id": "6946f233fe75ab96",
@@ -894,6 +985,71 @@
   "added": "2026-10-10"
  },
  {
+  "id": "6ffc8ed06de9a3df",
+  "title": "Oxygen-Deletion Skeletal Editing of Oxetanes to Cyclopropanes.",
+  "authors": [
+   "Changhao Huang",
+   "Liqiang Zhang",
+   "Dayu Tian",
+   "Like Luo",
+   "Jiaxin Wang",
+   "Xian Xiao",
+   "Guang Chen",
+   "Yuqing Wang",
+   "Xiaocheng Wang",
+   "Hai-Jun Zhang"
+  ],
+  "journal": "Organic letters",
+  "publisher": "",
+  "published": "2026-10-09",
+  "year": 2026,
+  "doi": "10.1021/acs.orglett.6c03794",
+  "url": "https://doi.org/10.1021/acs.orglett.6c03794",
+  "source": "pubmed",
+  "categories": [
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Electroreductive",
+   "One-Pot",
+   "Substrate Scope"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-10-24"
+ },
+ {
+  "id": "090930a57582131b",
+  "title": "Electrochemical Synthesis of Spirodienones with Sequential Ring Expansion to Fused 6-7-6 Tricycles.",
+  "authors": [
+   "Pintu Kumbhakar",
+   "Mrinmay Baidya",
+   "Sourav Pal",
+   "Suman De Sarkar"
+  ],
+  "journal": "Organic letters",
+  "publisher": "",
+  "published": "2026-10-09",
+  "year": 2026,
+  "doi": "10.1021/acs.orglett.6c03365",
+  "url": "https://doi.org/10.1021/acs.orglett.6c03365",
+  "source": "pubmed",
+  "categories": [
+   "Anodic Oxidation",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Arenes",
+   "Electrochemical Synthesis",
+   "Electrooxidative",
+   "FG Tolerance",
+   "Oxidant-Free"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-24"
+ },
+ {
   "id": "d9d372043ff8c8c3",
   "title": "Selective benzylic C–H electrochemical oxygenation under ambient air promoted by an Fe–N–C electrocatalyst",
   "authors": [
@@ -1047,6 +1203,46 @@
    "Tsinghua University"
   ],
   "added": "2026-10-08"
+ },
+ {
+  "id": "16d8a46af5c0b258",
+  "title": "Enantioselective C-H Activations by Metallaelectro-Catalysis.",
+  "authors": [
+   "Sven Erik Peters",
+   "Sven Trienes",
+   "Yanjun Li",
+   "Lutz Ackermann"
+  ],
+  "journal": "Accounts of chemical research",
+  "publisher": "",
+  "published": "2026-10-06",
+  "year": 2026,
+  "doi": "10.1021/acs.accounts.6c00509",
+  "url": "https://doi.org/10.1021/acs.accounts.6c00509",
+  "source": "pubmed",
+  "categories": [
+   "Anodic Oxidation",
+   "Asymmetric Electrosynthesis",
+   "C-H Functionalization",
+   "Cross-Coupling & C-C Formation",
+   "Heterocycle Synthesis",
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Alkynes",
+   "C-H Activation",
+   "Electrochemical C-H",
+   "Electrooxidative",
+   "Enantioselective Electrosynthesis",
+   "Enantioselectivity",
+   "Ferrocene",
+   "Indoles",
+   "Ni Catalysis"
+  ],
+  "relevance_score": 90,
+  "affiliations": [],
+  "added": "2026-10-24"
  },
  {
   "id": "97bb658a54717e7b",
