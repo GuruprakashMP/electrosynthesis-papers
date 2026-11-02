@@ -1,5 +1,38 @@
 [
  {
+  "id": "eb045c8d25ae7021",
+  "title": "Cross-Electrophile Coupling through Direct Electrolysis",
+  "authors": [
+   "Nicholas I. Cemalovic",
+   "Bofei Wang",
+   "Song Lin"
+  ],
+  "journal": "Accounts of Chemical Research",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.1021/acs.accounts.6c00618",
+  "url": "https://doi.org/10.1021/acs.accounts.6c00618",
+  "source": "crossref",
+  "categories": [
+   "Cathodic Reduction",
+   "Cross-Coupling & C-C Formation",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Alkenes",
+   "Cathodic Reduction",
+   "Chemoselectivity",
+   "Cross-Coupling",
+   "Electrolysis",
+   "Electroreductive",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 94,
+  "affiliations": [],
+  "added": "2026-11-02"
+ },
+ {
   "id": "017e21c7c74164c6",
   "title": "Electrochemical Modification of catalytic activity driven by Pulsed Electrolysis",
   "authors": [
@@ -62,6 +95,38 @@
    "Polish Academy of Sciences"
   ],
   "added": "2026-11-01"
+ },
+ {
+  "id": "ab83edaf5be67969",
+  "title": "Metal–Organic Frameworks for Sustainable Photocatalytic and Electrocatalytic HMF‐to‐FDCA Conversion: From Catalyst Engineering to Energy‐Saving Paired Electrolysis Systems",
+  "authors": [
+   "Jianping Luo",
+   "Yuhan Nie",
+   "Xuemei Zhang",
+   "Weikang Wang",
+   "Qinqin Liu"
+  ],
+  "journal": "Advanced Sustainable Systems",
+  "publisher": "Wiley",
+  "published": "2026-10-30",
+  "year": 2026,
+  "doi": "10.1002/adsu.70700",
+  "url": "https://doi.org/10.1002/adsu.70700",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Mechanism",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Jiangsu University"
+  ],
+  "added": "2026-11-02"
  },
  {
   "id": "42595b7fe5510115",
