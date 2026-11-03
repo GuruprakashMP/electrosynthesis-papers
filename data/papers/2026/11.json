@@ -1,5 +1,37 @@
 [
  {
+  "id": "1a0854d9cfe57777",
+  "title": "Electrophotochemical cerium-catalyzed decarboxylative coupling of α-keto acids with aldehydes to cross-benzoins.",
+  "authors": [
+   "Ruoyu Liu",
+   "Jiaqiong Wang",
+   "Jiajing Tan",
+   "Huiqiao Wang"
+  ],
+  "journal": "Chemical communications (Cambridge, England)",
+  "publisher": "",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1039/d6cc06230j",
+  "url": "https://doi.org/10.1039/d6cc06230j",
+  "source": "pubmed",
+  "categories": [
+   "Electrophotochemistry",
+   "Paired Electrolysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Decarboxylative",
+   "Electrolysis",
+   "Electrophotochemistry",
+   "Paired Electrolysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 86,
+  "affiliations": [],
+  "added": "2026-11-03"
+ },
+ {
   "id": "e46804074a553037",
   "title": "Insights into the electrochemical redox mechanisms of copper in alkaline solution with digital holography and SECM",
   "authors": [
@@ -118,5 +150,30 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-10-25"
+ },
+ {
+  "id": "2517abfe619b771b",
+  "title": "Recent progress in sustainable electrosynthesis of glycolic acid: From polyol oxidation to oxalate reduction",
+  "authors": [
+   "Wentao Wang",
+   "Dan Liu",
+   "Pengzuo Chen"
+  ],
+  "journal": "Journal of Energy Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.jechem.2026.10.036",
+  "url": "https://doi.org/10.1016/j.jechem.2026.10.036",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-03"
  }
 ]
