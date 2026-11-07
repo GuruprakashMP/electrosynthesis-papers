@@ -1,5 +1,132 @@
 [
  {
+  "id": "db5bceb2947086fa",
+  "title": "Overcoming Mass-Transport Limitations in Electrocatalytic Dehalogenation via DMSO-Engineered Hydrogen Bonds.",
+  "authors": [
+   "Mingming Yan",
+   "Chuanqi Cheng",
+   "Bin Zhang",
+   "Ying Gao"
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-11-06",
+  "year": 2026,
+  "doi": "10.1002/anie.3824462",
+  "url": "https://doi.org/10.1002/anie.3824462",
+  "source": "pubmed",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-11-07"
+ },
+ {
+  "id": "6a60b1c8a46e4f4c",
+  "title": "Convergent paired electrochemical dual C-H functionalization of pyrazolo[1,5-a]pyrimidines with cyanopyridines and ammonium halides.",
+  "authors": [
+   "Sidhartha Malo",
+   "Soumadip Banerjee",
+   "Avik Ghosh",
+   "Indrajit Das"
+  ],
+  "journal": "Chemical communications (Cambridge, England)",
+  "publisher": "",
+  "published": "2026-11-06",
+  "year": 2026,
+  "doi": "10.1039/d6cc05651b",
+  "url": "https://doi.org/10.1039/d6cc05651b",
+  "source": "pubmed",
+  "categories": [
+   "Paired Electrolysis",
+   "Anodic Oxidation",
+   "C-H Functionalization",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Electrochemical C-H",
+   "Electrooxidative",
+   "Electroreductive",
+   "Paired Electrolysis",
+   "Regioselectivity"
+  ],
+  "relevance_score": 84,
+  "affiliations": [],
+  "added": "2026-11-07"
+ },
+ {
+  "id": "98982dbca1d1358f",
+  "title": "Hydroxyl-Mediated Electrochemical Dehydrogenative Coupling of 5-Aminotetrazole for Energetic Azotetrazolate Synthesis and Energy-Saving Hydrogen Production",
+  "authors": [
+   "Yuqiang Ma",
+   "Meng Li",
+   "Dandan Zhang",
+   "Ruhao Zhang",
+   "Zihang Zhao",
+   "Xin Tang",
+   "Xiaogang Mu",
+   "Xuanjun Wang",
+   "Jiachen Li",
+   "Haixia Ma"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-05",
+  "year": 2026,
+  "doi": "10.1021/acssuschemeng.6c05918",
+  "url": "https://doi.org/10.1021/acssuschemeng.6c05918",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrochemical Synthesis",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Oxidation Potential"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Northwest University"
+  ],
+  "added": "2026-11-07"
+ },
+ {
+  "id": "127ea56f007b90c4",
+  "title": "Deciphering Menaquinone-Ndh axis and combinatorial engineering of Shewanella oneidensis for boosting formate electrosynthesis.",
+  "authors": [
+   "Tai-Lin Wang",
+   "N. Xu",
+   "Ya-Nan Chen",
+   "Ling-Cong Li",
+   "Liang Wei",
+   "Ji-Wei Zhang",
+   "Tao Cai",
+   "Jun Liu"
+  ],
+  "journal": "Bioresource technology",
+  "publisher": "",
+  "published": "2026-11-05",
+  "year": 2026,
+  "doi": "10.1016/j.biortech.2026.136201",
+  "url": "https://doi.org/10.1016/j.biortech.2026.136201",
+  "source": "semanticscholar",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-07"
+ },
+ {
   "id": "af772a97db657ec5",
   "title": "Dynamic redox reactivation of platinum sites for long-term glycolate electrosynthesis from polyethylene terephthalate wastes.",
   "authors": [
