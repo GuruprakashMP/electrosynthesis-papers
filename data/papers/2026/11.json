@@ -26,6 +26,59 @@
   "added": "2026-11-07"
  },
  {
+  "id": "acf7b787cdb69061",
+  "title": "Hetero-Diels-Alder Reaction of Alkenes and Electrochemically- Generated o-Quinonediimines",
+  "authors": [
+   "Sergi Vercher",
+   "Thomas Rykner",
+   "Joan Mascarell-Llabrés",
+   "Marcos Gil-Sepulcre",
+   "Marc Montesinos-Magraner",
+   "Amparo Sanz-Marco",
+   "Gonzalo Blay"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-11-06",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15011802/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15011802/v1",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Alkenes",
+   "Anodic Oxidation",
+   "Electrochemically Driven",
+   "Substrate Scope"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "9a47c882df033fbf",
+  "title": "Correction to “Electrochemical Biomimetic Iron‐Catalyzed Benzylic C─H Bonds Hydroxylation”",
+  "authors": [],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-06",
+  "year": 2026,
+  "doi": "10.1002/anie.6546813",
+  "url": "https://doi.org/10.1002/anie.6546813",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-11-08"
+ },
+ {
   "id": "6a60b1c8a46e4f4c",
   "title": "Convergent paired electrochemical dual C-H functionalization of pyrazolo[1,5-a]pyrimidines with cyanopyridines and ammonium halides.",
   "authors": [
@@ -58,6 +111,36 @@
   "relevance_score": 84,
   "affiliations": [],
   "added": "2026-11-07"
+ },
+ {
+  "id": "489c9286defe49c9",
+  "title": "Spin-induced polarization enables anodic carbon–nitrogen coupling electrocatalysis for sustainable formamide synthesis",
+  "authors": [
+   "Ben Liu",
+   "Han Shu",
+   "Deqing Tang",
+   "Rui Fang Ding"
+  ],
+  "journal": "Research Square",
+  "publisher": "",
+  "published": "2026-11-06",
+  "year": 2026,
+  "doi": "10.21203/rs.3.rs-11503736/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-11503736/v1",
+  "source": "openalex",
+  "categories": [
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis",
+   "Renewable Electricity"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Sichuan University"
+  ],
+  "added": "2026-11-08"
  },
  {
   "id": "98982dbca1d1358f",
@@ -95,6 +178,37 @@
    "Northwest University"
   ],
   "added": "2026-11-07"
+ },
+ {
+  "id": "5a47525de692369a",
+  "title": "Metal–Organic Decomposition Ink‐Derived Cu Foams Enable High Formate Selectivity and Methanol Conversion",
+  "authors": [
+   "Julian Neumann",
+   "Vera Ubbenjans",
+   "Martina Feldhoff",
+   "Eric Trushin",
+   "Matthias Weßling",
+   "Robert Keller"
+  ],
+  "journal": "ChemElectroChem",
+  "publisher": "Wiley",
+  "published": "2026-11-05",
+  "year": 2026,
+  "doi": "10.1002/celc.70343",
+  "url": "https://doi.org/10.1002/celc.70343",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "RWTH Aachen University",
+   "DWI – Leibniz Institute for Interactive Materials"
+  ],
+  "added": "2026-11-08"
  },
  {
   "id": "127ea56f007b90c4",
