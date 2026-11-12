@@ -1,5 +1,80 @@
 [
  {
+  "id": "c048520088a3c720",
+  "title": "MOF-Derived Electrocatalysts for the Remediation of Persistent Nitroaromatic Pollutants: Structure-Guided Design, Mechanistic Insights, and Performance Evaluation",
+  "authors": [
+   "Laiba Khalid",
+   "Weiwei Wu",
+   "Kangheng Huang",
+   "Ran An",
+   "Yanjun Dang",
+   "PeiGen Shan",
+   "Hao Yang",
+   "Xiang Li",
+   "HanRun Zhao",
+   "Huimin Zhao"
+  ],
+  "journal": "Sustainability",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-11-10",
+  "year": 2026,
+  "doi": "10.3390/su182211454",
+  "url": "https://doi.org/10.3390/su182211454",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Paired Electrolysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Paired Electrolysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Hohai University",
+   "Soochow University"
+  ],
+  "added": "2026-11-12"
+ },
+ {
+  "id": "7748ba75563fa9a5",
+  "title": "Advancing CO 2 Electroreduction Toward Multicarbon Products via Catalyst Engineering and Integrated Paired Electrolysis",
+  "authors": [
+   "Feng Ming Yap",
+   "Jian Yiing Loh",
+   "Shaoyu Yuan",
+   "Xianhai Zeng",
+   "Wee-Jun Ong"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2026-11-10",
+  "year": 2026,
+  "doi": "10.1002/adfm.79178",
+  "url": "https://doi.org/10.1002/adfm.79178",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Green & Sustainable Electrosynthesis",
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cell Voltage",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Paired Electrolysis",
+   "Renewable Electricity"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Xiamen University Malaysia",
+   "Xiamen University",
+   "Korea University"
+  ],
+  "added": "2026-11-12"
+ },
+ {
   "id": "b8a37c5b4156b67a",
   "title": "Differentiated Interfacial Proton Delivery for Durable CO 2 ‐to‐Formate Electrosynthesis",
   "authors": [
