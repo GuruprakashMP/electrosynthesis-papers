@@ -1,5 +1,96 @@
 [
  {
+  "id": "9aa741ec90d4e07d",
+  "title": "Selected for the surface: adaptive laboratory evolution for accelerated cathodic biofilm development in Cupriavidus necator",
+  "authors": [
+   "Chavali SS",
+   "Zhou Y",
+   "Nissen JH",
+   "Lapp CJ",
+   "Weiler J",
+   "Orth M",
+   "Heinrich S",
+   "von Kameke A",
+   "Edel-Teichmann M",
+   "Gescher J."
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2026-11-12",
+  "year": 2026,
+  "doi": "10.64898/2026.11.09.765286",
+  "url": "https://doi.org/10.64898/2026.11.09.765286",
+  "source": "europepmc",
+  "categories": [
+   "Mechanism & Electroanalysis",
+   "Green & Sustainable Electrosynthesis"
+  ],
+  "tags": [
+   "Electrogenerated Species",
+   "Electrosynthesis",
+   "Renewable Electricity"
+  ],
+  "relevance_score": 43,
+  "affiliations": [],
+  "added": "2026-11-13"
+ },
+ {
+  "id": "849c3186c01a55a7",
+  "title": "Decoupled electrolysis strategies for direct hydrogenation reactions under mild conditions",
+  "authors": [
+   "Ahmed Aboorh"
+  ],
+  "journal": "University of Glasgow",
+  "publisher": "",
+  "published": "2026-11-11",
+  "year": 2026,
+  "doi": "10.5525/gla.thesis.86338",
+  "url": "https://doi.org/10.5525/gla.thesis.86338",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Organic Electrosynthesis",
+   "Redox Mediator"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-13"
+ },
+ {
+  "id": "23ca5b4fe42305e6",
+  "title": "Filling and Sealing Carbon Nanotubes by Local Anodic Oxidation",
+  "authors": [
+   "Ruiqing Zang",
+   "Jianan Xiao",
+   "Jacob Bair",
+   "Ian Wang",
+   "Chuyue Peng",
+   "Matthias Kuehne"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-11-11",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.15567v1",
+  "source": "arxiv",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-13"
+ },
+ {
   "id": "c048520088a3c720",
   "title": "MOF-Derived Electrocatalysts for the Remediation of Persistent Nitroaromatic Pollutants: Structure-Guided Design, Mechanistic Insights, and Performance Evaluation",
   "authors": [
@@ -73,6 +164,40 @@
    "Korea University"
   ],
   "added": "2026-11-12"
+ },
+ {
+  "id": "6989bfef22b144da",
+  "title": "Electro‐Biocatalytic Dearomative Oxidation–Asymmetric Aldol Cascade Enables Direct Synthesis of Chiral 3‐Hydroxyindolin‐2‐Ones From Indoles",
+  "authors": [
+   "Kirti Singh",
+   "Abinash Mohapatra",
+   "Vikas Tyagi"
+  ],
+  "journal": "Advanced Synthesis & Catalysis",
+  "publisher": "Wiley",
+  "published": "2026-11-10",
+  "year": 2026,
+  "doi": "10.1002/adsc.70868",
+  "url": "https://doi.org/10.1002/adsc.70868",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Asymmetric Electrosynthesis",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrochemical Dearomatization",
+   "Electrosynthesis",
+   "Enantioselectivity",
+   "Indoles"
+  ],
+  "relevance_score": 85,
+  "affiliations": [
+   "Thapar Institute of Engineering & Technology"
+  ],
+  "added": "2026-11-13"
  },
  {
   "id": "b8a37c5b4156b67a",
