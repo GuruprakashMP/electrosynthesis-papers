@@ -1,5 +1,213 @@
 [
  {
+  "id": "8c984a62944654f0",
+  "title": "Engineering the interfacial microenvironment of reconstructed Cu(0)/Cu(I) valence-tandem nanoarrays for low-potential ethanol electrosynthesis",
+  "authors": [
+   "Yu Shen",
+   "Feng Yan",
+   "Tong-Yang Shen",
+   "Zheng Ma",
+   "Chun-Ling Zhu",
+   "Xin-Zhi Ma",
+   "Xiao-Li Zhang",
+   "Yu-Jin Chen"
+  ],
+  "journal": "Applied Catalysis B: Environment and Energy",
+  "publisher": "",
+  "published": "2026-11-14",
+  "year": 2026,
+  "doi": "10.1016/j.apcatb.2026.127765",
+  "url": "https://doi.org/10.1016/j.apcatb.2026.127765",
+  "source": "semanticscholar",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-14"
+ },
+ {
+  "id": "33c39a19e83088c5",
+  "title": "Spontaneous Interfacial Dehydrogenation Enables Selective Electrooxidation of 1,2-Butanediol to 1-Hydroxy-2-butanone.",
+  "authors": [
+   "Xiang Y",
+   "Zhang Y",
+   "Tang Y",
+   "Li H",
+   "Liu S",
+   "Yu R",
+   "Huang X",
+   "Li L",
+   "Wei Z."
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1002/anie.7675463",
+  "url": "https://doi.org/10.1002/anie.7675463",
+  "source": "europepmc",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative",
+   "Regioselectivity"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-11-14"
+ },
+ {
+  "id": "c113f32ccd124712",
+  "title": "eRoboChem: Autonomous Electrosynthesis Across Redox Modes and Reactor Designs",
+  "authors": [
+   "Morgan Regnier",
+   "Oliver M. Bayley",
+   "Guillaume Hopsort",
+   "Elia Savino",
+   "Andrea Brunetti",
+   "Andrea Gargano",
+   "Timothy Noël"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-11-12",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15012097/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15012097/v1",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Amsterdam",
+   "University of Bologna"
+  ],
+  "added": "2026-11-14"
+ },
+ {
+  "id": "b5eded57d2a2a1ef",
+  "title": "Direct Electrochemical α-Deuteration of Secondary Benzylic Alcohols in Flow",
+  "authors": [
+   "Jonathan Lebelt",
+   "Kanak Kanti Das",
+   "Tanja Gulder"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2026-11-12",
+  "year": 2026,
+  "doi": "10.1055/a-3003-2720",
+  "url": "https://doi.org/10.1055/a-3003-2720",
+  "source": "openalex",
+  "categories": [
+   "Paired Electrolysis",
+   "Cell Design & Electrodes",
+   "Mediated & Indirect Electrolysis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Graphite Electrode",
+   "Paired Electrolysis",
+   "Redox Mediator",
+   "Supporting Electrolyte"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Saarland University",
+   "Helmholtz Centre for Infection Research"
+  ],
+  "added": "2026-11-14"
+ },
+ {
+  "id": "b3817bb266cda724",
+  "title": "General Synthesis of Functionalized 1,3-Diamines from Azoarenes and Enoates via Electrochemical Annulation and N–N Bond Cleavage Followed by Chemical Reduction",
+  "authors": [
+   "Xinyu Chen",
+   "Yanping Sun",
+   "Pierre Henri Dixneuf",
+   "Huanfeng Jiang",
+   "Min Zhang"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-12",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c15743",
+  "url": "https://doi.org/10.1021/jacs.6c15743",
+  "source": "openalex",
+  "categories": [
+   "Heterocycle Synthesis",
+   "Anodic Oxidation",
+   "Cathodic Reduction"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cathodic Reduction",
+   "Chemoselectivity",
+   "Electrochemical Annulation",
+   "Substrate Scope"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "South China University of Technology",
+   "Université de Rennes"
+  ],
+  "added": "2026-11-14"
+ },
+ {
+  "id": "a1ec855d25fb60c9",
+  "title": "Triphenylphosphine Oxide-Enabled Nickel-Catalyzed Electrochemical C(sp3)–C(sp2) Cross-Coupling of Challenging Heteroaryl Electrophiles",
+  "authors": [
+   "Idriss Essid",
+   "Imen Talbi",
+   "Khaled Bedoui",
+   "Mohamed Amine Ben Khalil",
+   "Wissal El Gabsi",
+   "Hajer Abdelkafi",
+   "Matthieu Jeanty"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-12",
+  "year": 2026,
+  "doi": "10.1021/acs.joc.6c02426",
+  "url": "https://doi.org/10.1021/acs.joc.6c02426",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions",
+   "Cross-Coupling & C-C Formation",
+   "Flow Electrosynthesis & Scale-up",
+   "Heterocycle Synthesis",
+   "Late-Stage Functionalization & Medicinal Chemistry"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Decarboxylative",
+   "Electrochemical Decarboxylation",
+   "Gram-Scale",
+   "Heterocycles",
+   "Medicinal Chemistry",
+   "Ni Catalysis",
+   "Substrate Scope"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of Monastir"
+  ],
+  "added": "2026-11-14"
+ },
+ {
   "id": "9aa741ec90d4e07d",
   "title": "Selected for the surface: adaptive laboratory evolution for accelerated cathodic biofilm development in Cupriavidus necator",
   "authors": [
@@ -33,6 +241,39 @@
   "relevance_score": 43,
   "affiliations": [],
   "added": "2026-11-13"
+ },
+ {
+  "id": "88087c1d2aa2614e",
+  "title": "Ortho-, Meta- , and Para- Cyanophenol Radical Anions: Voltammetric Characterization, Insights from Computed Negative Ion Photoelectron Spectra, and Computational Thermochemistry of the Three Cyanophenol Isomers",
+  "authors": [
+   "Lucia A. Vargas",
+   "Ethan Cummins",
+   "Wyatt W. Tunstall",
+   "Clifton K. Baker",
+   "Wilson K. Gichuhi"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-12",
+  "year": 2026,
+  "doi": "10.1021/acs.jpca.6c05768",
+  "url": "https://doi.org/10.1021/acs.jpca.6c05768",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Radical Anion",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Tennessee Technological University"
+  ],
+  "added": "2026-11-14"
  },
  {
   "id": "849c3186c01a55a7",
@@ -89,6 +330,34 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-11-13"
+ },
+ {
+  "id": "1984ffbd98ed3da8",
+  "title": "Iron-promoted electrochemical trimerization for the synthesis of sterically hindered polysubstituted electron-deficient aromatic amines.",
+  "authors": [
+   "Jin-Jin Zhang",
+   "Hai-Juan Qin",
+   "Ya-Hui Sang",
+   "Sheng-Hua Li",
+   "Wei Liu",
+   "Shou-Fei Zhu"
+  ],
+  "journal": "Chemical communications",
+  "publisher": "",
+  "published": "2026-11-11",
+  "year": 2026,
+  "doi": "10.1039/d6cc06679h",
+  "url": "https://doi.org/10.1039/d6cc06679h",
+  "source": "semanticscholar",
+  "categories": [
+   "C-H Functionalization"
+  ],
+  "tags": [
+   "Electrochemical C-H"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-11-14"
  },
  {
   "id": "c048520088a3c720",
