@@ -1,5 +1,46 @@
 [
  {
+  "id": "bbc52be96337d9fd",
+  "title": "Efficient and Durable Electrosynthesis of N,N‐Dimethylformamide from CO 2 Enabled by Hot‐Pressed Pd/Cu 2 O Nanowire Arrays",
+  "authors": [
+   "Ling Li",
+   "Yi Wei",
+   "Miao Fan",
+   "Kang Wang",
+   "Shen Wang",
+   "Yanping Zhao",
+   "Xin Wang",
+   "Wei Kong Pang",
+   "Weijie Li",
+   "Chao Han"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2026-11-18",
+  "year": 2026,
+  "doi": "10.1002/adfm.79706",
+  "url": "https://doi.org/10.1002/adfm.79706",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Cell Voltage",
+   "DFT",
+   "Electrolysis",
+   "Electrosynthesis",
+   "Organic Electrosynthesis"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Central South University",
+   "University of Wollongong",
+   "State Key Laboratory of Powder Metallurgy"
+  ],
+  "added": "2026-11-19"
+ },
+ {
   "id": "3d0ebf25b7f7e50f",
   "title": "Tracking Local Proton Activity during Hydrogen Oxidation in Nonaqueous Electrolytes",
   "authors": [
