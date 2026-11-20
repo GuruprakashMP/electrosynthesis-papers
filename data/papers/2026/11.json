@@ -1,5 +1,70 @@
 [
  {
+  "id": "a4fbac225eb5f7cf",
+  "title": "Electrochemical coupling of nitroso heterocycles with dinitramide salts: access to biologically active nitro- NNO -azoxy compounds.",
+  "authors": [
+   "Budnikov AS",
+   "Val'kova MV",
+   "Leonov NE",
+   "Klenov MS",
+   "Kulikov AA",
+   "Krylov IB",
+   "Churakov AM",
+   "Fedyanin IV",
+   "Varaksin AA",
+   "Vereshchagin AN",
+   "Detusheva EV",
+   "Terent'ev AO",
+   "Tartakovsky VA."
+  ],
+  "journal": "Organic & biomolecular chemistry",
+  "publisher": "",
+  "published": "2026-11-19",
+  "year": 2026,
+  "doi": "10.1039/d6ob01179a",
+  "url": "https://doi.org/10.1039/d6ob01179a",
+  "source": "europepmc",
+  "categories": [
+   "Anodic Oxidation",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Cyclic Voltammetry",
+   "Heterocycles"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-11-20"
+ },
+ {
+  "id": "ee5188f82773804f",
+  "title": "Dataset for \"Activity-based multiphysics modelling of an electrochemical chlorine reactor in concentrated electrolytes\": UV-Vis, electrochemical, reactor and CFD data, and the data behind the figures and tables",
+  "authors": [
+   "Lewis Waller"
+  ],
+  "journal": "University of Southampton",
+  "publisher": "University of Southampton",
+  "published": "2026-11-18",
+  "year": 2026,
+  "doi": "10.5258/soton/01/d147",
+  "url": "https://doi.org/10.5258/soton/01/d147",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cell Voltage",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Southampton"
+  ],
+  "added": "2026-11-20"
+ },
+ {
   "id": "bbc52be96337d9fd",
   "title": "Efficient and Durable Electrosynthesis of N,N‐Dimethylformamide from CO 2 Enabled by Hot‐Pressed Pd/Cu 2 O Nanowire Arrays",
   "authors": [
@@ -39,6 +104,42 @@
    "State Key Laboratory of Powder Metallurgy"
   ],
   "added": "2026-11-19"
+ },
+ {
+  "id": "4735f1ce567ab4f8",
+  "title": "Impacts of Residence Time and Temperature on CO Electrolysis to Acetate at the 100 cm2 Electrode Scale",
+  "authors": [
+   "Jia Yu",
+   "Wentao Dai",
+   "Junnan Li",
+   "Jinghan Zhao",
+   "Xiang Yao",
+   "Zoushuang Li",
+   "Siyang Xing",
+   "Guilherme Maia",
+   "Feng Jiao"
+  ],
+  "journal": "ACS Energy Letters",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-18",
+  "year": 2026,
+  "doi": "10.1021/acsenergylett.6c02647",
+  "url": "https://doi.org/10.1021/acsenergylett.6c02647",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Flow Electrosynthesis & Scale-up"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Electrolysis",
+   "Scale-up"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Washington University in St. Louis"
+  ],
+  "added": "2026-11-20"
  },
  {
   "id": "3d0ebf25b7f7e50f",
