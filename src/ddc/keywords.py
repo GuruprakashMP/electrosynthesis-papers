@@ -2,13 +2,13 @@
 
 Three vocabularies drive the relevance decision:
 
-* ``PRIMARY_TERMS`` — organic-electrosynthesis vocabulary. A paper must show
+* ``PRIMARY_TERMS`` - organic-electrosynthesis vocabulary. A paper must show
   strong evidence here to be indexed at all: this is the project's core rule,
   *electrochemistry used as the reaction condition to make organic molecules*
   (Baran-, Waldvogel-, Moeller-style e-synthesis).
-* ``SUPPORT_TERMS`` — cell hardware, mediators, electroanalytical methods and
+* ``SUPPORT_TERMS`` - cell hardware, mediators, electroanalytical methods and
   the synthetic-organic vocabulary that refine the score and assign categories.
-* ``NEGATIVE_TERMS`` — signals the paper belongs to a neighbouring
+* ``NEGATIVE_TERMS`` - signals the paper belongs to a neighbouring
   electrochemical field that is NOT synthesis: batteries and supercapacitors,
   fuel cells, water splitting / HER-OER-ORR electrocatalysis, corrosion,
   electroplating, electroanalytical sensing.  ``penalty`` points.
@@ -23,7 +23,7 @@ from __future__ import annotations
 from typing import Dict, Tuple
 
 # ---------------------------------------------------------------------------
-# Primary organic-electrosynthesis terms — required evidence
+# Primary organic-electrosynthesis terms - required evidence
 # ---------------------------------------------------------------------------
 PRIMARY_TERMS: Dict[str, Tuple[int, str, str]] = {
     # phrase: (weight, tag, category)
@@ -123,7 +123,7 @@ PRIMARY_TERMS: Dict[str, Tuple[int, str, str]] = {
 }
 
 # ---------------------------------------------------------------------------
-# Support terms — hardware, mediators, methods, synthetic vocabulary
+# Support terms - hardware, mediators, methods, synthetic vocabulary
 # ---------------------------------------------------------------------------
 SUPPORT_TERMS: Dict[str, Tuple[int, str, str]] = {
     # cell hardware / electrodes
@@ -216,7 +216,7 @@ SUPPORT_TERMS: Dict[str, Tuple[int, str, str]] = {
 }
 
 # ---------------------------------------------------------------------------
-# Negative signals — electrochemistry that is NOT organic synthesis
+# Negative signals - electrochemistry that is NOT organic synthesis
 # ---------------------------------------------------------------------------
 NEGATIVE_TERMS: Dict[str, int] = {
     # batteries / energy storage
@@ -272,7 +272,7 @@ NEGATIVE_TERMS: Dict[str, int] = {
     "electrochemical determination": 14,
     "immunosensor": 14,
     "aptasensor": 14,
-    # electrocatalytic small-molecule / feedstock conversion — says
+    # electrocatalytic small-molecule / feedstock conversion - says
     # "electrosynthesis" constantly but is energy catalysis, not synthesis
     "co2 electroreduction": 14,
     "co2 electrolysis": 14,

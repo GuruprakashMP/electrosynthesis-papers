@@ -2,6 +2,27 @@
 
 All notable changes to ElectrosynthesisPapers.
 
+## [1.3.0] - 2026-11-20
+
+### Added
+- **Table-of-contents graphics** (`src/ddc/toc.py`, `python -m ddc toc`). Every daily
+  run reads the RSS feeds of the ACS, Wiley and RSC journals with papers added here
+  in the last 60 days and records, for papers in the index, the address of the
+  graphic each feed item links (`data/state/toc.json`). Only the address is stored;
+  pages show the image from the publisher's own HTTPS host, credited ("Graphic:
+  Wiley") and linked to the paper, and drop it if it does not load. A blocked feed
+  is logged and skipped; after 3 failures in a row with no success a publisher is
+  skipped for that run. `toc_graphics` in the settings turns it off.
+
+### Changed
+- A more structured look (shared GP Tools theme): header band with labelled
+  figures (papers indexed, added since, last update, sources), the page title in
+  the band on every other page, a filter sidebar on the front page, cards with
+  icon buttons and the graphic beside the text, a four-column footer.
+- No em dashes in anything shown: titles, journals, authors and abstracts that
+  contain one are shown with a spaced hyphen (the stored record is unchanged), and
+  docs and code comments no longer use them.
+
 ## [1.2.0] - 2026-11-19
 
 ### Added
@@ -23,7 +44,7 @@ All notable changes to ElectrosynthesisPapers.
 - About and Categories texts: no em dashes; "one or more categories" (many papers
   have exactly one).
 
-## [1.1.0] — 2026-07-30
+## [1.1.0] - 2026-07-30
 
 Historical backfill 1960→2026 complete and verified: **14,947 papers**
 indexed, covering organic electrosynthesis from the Baizer adiponitrile era
@@ -41,15 +62,15 @@ to today.
   05:00-11:00 UTC window, produced no year marker at all, and succeeded on
   the retry 45 minutes later. A missing marker is therefore treated as a bad
   batch, never as success.
-- Author names were canonical from ingestion — `tools/normalize_authors.py`
+- Author names were canonical from ingestion - `tools/normalize_authors.py`
   finds nothing to migrate, confirming the inherited fix works on a
   from-scratch index.
 
-## [1.0.0] — 2026-07-30
+## [1.0.0] - 2026-07-30
 
 Initial release, adapted from the
 [FlowChemistryPapers](https://github.com/GuruprakashMP/flow-chemistry-papers)
-codebase — the newest hardened version of the family architecture
+codebase - the newest hardened version of the family architecture
 (stdlib-only pipeline, 8 metadata collectors, resumable OpenAlex backfill with
 a fetch-side checkpoint, INCOMPLETE-year flagging, peer-review-artifact and
 corrupt-OSTI-merge collector guards, author-name canonicalization, static site
@@ -57,7 +78,7 @@ with progressive loading).
 
 ### Changed from the parent project
 
-- Scope: **organic electrosynthesis** — electrochemistry used as the reaction
+- Scope: **organic electrosynthesis** - electrochemistry used as the reaction
   condition to make molecules (Baran / Waldvogel / Moeller / Yoshida line of
   work) instead of flow chemistry. Deliberately NOT a general electrochemistry
   index: batteries, supercapacitors, fuel cells, water-splitting and
@@ -78,7 +99,7 @@ with progressive loading).
   R. Daniel Little, Toshio Fuchigami, Hai-Chao Xu, Song Lin, Lutz Ackermann,
   Aiwen Lei, Manuel Baizer, Robert Francke, Kevin Lam, Tian-Sheng Mei,
   Cheng-Chu Zeng, Shelley Minteer, Christian Amatore, Jun-ichi Yoshida,
-  Dennis Peters, Sebastian Beil, Timothy Noël, Gabriele Laudadio and more —
+  Dennis Peters, Sebastian Beil, Timothy Noël, Gabriele Laudadio and more -
   with accented and initial spelling variants listed side by side, because
   the OpenAlex quoted-phrase author search is spelling-exact.
 - Backfill default start year: 1960 (the Baizer adiponitrile era onward).

@@ -1,7 +1,7 @@
 # ElectrosynthesisPapers
 
 A fully automated, continuously updated public index of **organic
-electrosynthesis research** — synthesis in which electricity itself is the
+electrosynthesis research** - synthesis in which electricity itself is the
 reagent. Anodic oxidation and cathodic reduction, electrochemical C–H
 functionalization and cross-coupling, paired and mediated electrolysis,
 electrophotochemistry, asymmetric electrosynthesis, decarboxylative and radical
@@ -9,7 +9,7 @@ electrochemistry, flow electrosynthesis and scale-up, and the cell and
 electrode design behind them.
 
 The scope is **electrochemistry used as a reaction condition to make
-molecules** — the Baran / Waldvogel / Moeller / Yoshida line of work.
+molecules** - the Baran / Waldvogel / Moeller / Yoshida line of work.
 Electrochemistry that is not synthesis is filtered out: batteries and
 supercapacitors, fuel cells, water-splitting and HER/OER/ORR electrocatalysis,
 corrosion, electroplating, and electroanalytical sensing.
@@ -19,7 +19,7 @@ Sister project of
 [PhotocatalysisPapers](https://github.com/GuruprakashMP/photocatalysis-papers),
 [MechanochemistryPapers](https://github.com/GuruprakashMP/mechanochemistry-papers)
 and
-[DataDrivenChemistryPapers](https://github.com/GuruprakashMP/ddc-papers) —
+[DataDrivenChemistryPapers](https://github.com/GuruprakashMP/ddc-papers) -
 same architecture, different scientific scope.
 
 * **No papers are hosted.** Only bibliographic metadata (title, authors,
@@ -27,7 +27,7 @@ same architecture, different scientific scope.
 * **Zero dependencies.** Standard-library Python; JSON + static HTML,
   perfect for GitHub Pages.
 * **Fully automatic.** A GitHub Actions workflow collects, deduplicates,
-  classifies, rebuilds the site and commits — every day.
+  classifies, rebuilds the site and commits - every day.
 
 ## Quick start (local)
 
@@ -44,7 +44,7 @@ python -m ddc stats          # index statistics
 python -m unittest discover -s tests
 ```
 
-(On this machine Python 3.9 is the `py` launcher; `python` is not on PATH —
+(On this machine Python 3.9 is the `py` launcher; `python` is not on PATH -
 use `py -m ddc ...`.)
 
 The backfill starts at **1960**, covering the modern era of preparative
@@ -70,7 +70,7 @@ penalised out. Tune the vocabulary in `src/ddc/keywords.py`.
 ## Sources
 
 Direct: **arXiv**, **ChemRxiv**. Aggregators: **Crossref**, **OpenAlex**,
-**PubMed**, **Europe PMC**, **Semantic Scholar**, **DOAJ** — which legally
+**PubMed**, **Europe PMC**, **Semantic Scholar**, **DOAJ** - which legally
 carry the metadata of every DOI-issuing publisher (ACS, RSC, Wiley, Springer
 Nature, Elsevier, MDPI, ...).
 

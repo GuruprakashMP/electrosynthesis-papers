@@ -2,7 +2,7 @@
 
 Implements the project's core filtering rule: a paper is indexed only when
 *electrochemistry is used as the reaction condition to make organic
-molecules* — Baran-style e-synthesis. Any synthetic methodology qualifies,
+molecules* - Baran-style e-synthesis. Any synthetic methodology qualifies,
 but neighbouring electrochemical fields that are not synthesis (batteries and
 supercapacitors, fuel cells, water-splitting electrocatalysis, corrosion,
 electroplating, electroanalytical sensing) are rejected.
