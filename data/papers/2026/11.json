@@ -1,5 +1,139 @@
 [
  {
+  "id": "a02919373cdaa7db",
+  "title": "Activity-based multiphysics modelling of an electrochemical chlorine reactor in concentrated electrolytes",
+  "authors": [
+   "Lewis Waller"
+  ],
+  "journal": "ePrints Soton (University of Southampton)",
+  "publisher": "University of Southampton",
+  "published": "2026-11-20",
+  "year": 2026,
+  "doi": "10.5258/soton/01/t147",
+  "url": "https://doi.org/10.5258/soton/01/t147",
+  "source": "openalex",
+  "categories": [
+   "Cell Design & Electrodes"
+  ],
+  "tags": [
+   "Cell Voltage",
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Southampton"
+  ],
+  "added": "2026-11-21"
+ },
+ {
+  "id": "9f2a8c21c2ae6f19",
+  "title": "Continuous and sustainable multicarbon acids electrosynthesis",
+  "authors": [
+   "Zhongshuo Zhang",
+   "Yuying Zhao",
+   "Zhenhao Wang",
+   "Jieshan Qiu",
+   "Ifan E. L. Stephens",
+   "Jie Zeng",
+   "Shaofeng Li"
+  ],
+  "journal": "Research Square",
+  "publisher": "",
+  "published": "2026-11-20",
+  "year": 2026,
+  "doi": "10.21203/rs.3.rs-11795109/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-11795109/v1",
+  "source": "openalex",
+  "categories": [
+   "Green & Sustainable Electrosynthesis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Radical Chemistry",
+   "Renewable Electricity"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Beijing University of Chemical Technology",
+   "Imperial College London"
+  ],
+  "added": "2026-11-21"
+ },
+ {
+  "id": "fa37c0e0ca83dea1",
+  "title": "Organic Heterogeneous Electrosynthesis: Interfacial Catalysis for Selective Organic Transformations",
+  "authors": [
+   "Xue-Jia Zhang",
+   "Meng-Ting Zhu",
+   "He-Yang Zhou",
+   "Ying-Ming Pan",
+   "Haibo Wu",
+   "Hai-Tao Tang"
+  ],
+  "journal": "Chinese Journal of Chemistry",
+  "publisher": "Wiley",
+  "published": "2026-11-19",
+  "year": 2026,
+  "doi": "10.1002/cjoc.70818",
+  "url": "https://doi.org/10.1002/cjoc.70818",
+  "source": "openalex",
+  "categories": [
+   "Mediated & Indirect Electrolysis"
+  ],
+  "tags": [
+   "Alkynes",
+   "Electrosynthesis",
+   "Organic Electrosynthesis",
+   "Redox Mediator",
+   "TEMPO"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "Guangxi Normal University"
+  ],
+  "added": "2026-11-21"
+ },
+ {
+  "id": "c58242b0817a0df5",
+  "title": "Ag incorporation synergizes local CO enrichment and water‐regulated hydrogenation for ethylene electrosynthesis",
+  "authors": [
+   "Huihui Zhang",
+   "Zheng Bo",
+   "Wanzhen Zheng",
+   "Zhongjian Li",
+   "Bin Yang",
+   "Lecheng Lei",
+   "Raul D. D. Rodriguez",
+   "Sule Erten-Ela",
+   "Yang Hou"
+  ],
+  "journal": "AIChE Journal",
+  "publisher": "Wiley",
+  "published": "2026-11-19",
+  "year": 2026,
+  "doi": "10.1002/aic.70776",
+  "url": "https://doi.org/10.1002/aic.70776",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "State Key Laboratory of Clean Energy Utilization",
+   "Zhejiang University",
+   "Tomsk Polytechnic University",
+   "Ege University"
+  ],
+  "added": "2026-11-21"
+ },
+ {
   "id": "a4fbac225eb5f7cf",
   "title": "Electrochemical coupling of nitroso heterocycles with dinitramide salts: access to biologically active nitro- NNO -azoxy compounds.",
   "authors": [
@@ -37,6 +171,39 @@
   "relevance_score": 63,
   "affiliations": [],
   "added": "2026-11-20"
+ },
+ {
+  "id": "24eaed5d8130989c",
+  "title": "Atom-level pinning effect reinforced electrooxidative coupling of anilines into azos",
+  "authors": [
+   "Mei Wu",
+   "Keping Wang",
+   "Linda Zhang",
+   "Hao Li",
+   "Hu Li"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2026-11-19",
+  "year": 2026,
+  "doi": "10.1038/s41467-026-79417-5",
+  "url": "https://doi.org/10.1038/s41467-026-79417-5",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 56,
+  "affiliations": [
+   "Guizhou University",
+   "Tohoku University",
+   "Frontier Research Institute for Interdisciplinary Sciences, Tohoku University",
+   "Advanced Institute for Materials Research, Tohoku University"
+  ],
+  "added": "2026-11-21"
  },
  {
   "id": "ee5188f82773804f",
