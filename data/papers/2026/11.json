@@ -1,5 +1,234 @@
 [
  {
+  "id": "f0dcec1527a836ec",
+  "title": "Chemoselective Electrochemical Ring Cleavage of Naphthols Enabling Structural Diversification.",
+  "authors": [
+   "Bhardwaj P",
+   "Mallick S",
+   "Paul BK",
+   "De Sarkar S."
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-11-24",
+  "year": 2026,
+  "doi": "10.1002/anie.2758678",
+  "url": "https://doi.org/10.1002/anie.2758678",
+  "source": "europepmc",
+  "categories": [
+   "Anodic Oxidation",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Chemoselectivity",
+   "Cyclic Voltammetry",
+   "Electrochemical Dearomatization",
+   "Heterocycles"
+  ],
+  "relevance_score": 85,
+  "affiliations": [],
+  "added": "2026-11-25"
+ },
+ {
+  "id": "dd8d5f60c606194d",
+  "title": "Chiral cobalt-catalysed electrochemical enantioselective C–P coupling via phosphinoyl radicals",
+  "authors": [
+   "Hongyi Wang",
+   "Minghao Liu",
+   "Chang Guo"
+  ],
+  "journal": "Nature Catalysis",
+  "publisher": "Nature Portfolio",
+  "published": "2026-11-24",
+  "year": 2026,
+  "doi": "10.1038/s41929-026-01643-3",
+  "url": "https://doi.org/10.1038/s41929-026-01643-3",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation",
+   "Asymmetric Electrosynthesis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Anodic Oxidation",
+   "Enantioselectivity",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Nanjing University"
+  ],
+  "added": "2026-11-25"
+ },
+ {
+  "id": "9023c4ada6db6271",
+  "title": "Efficient Electrosynthesis of Glycolic Acid from Polyethylene Terephthalate Upcycling Using Pd Loaded Spinel-Type Metal Oxide Electrocatalyst",
+  "authors": [
+   "Xuezhen Si",
+   "杨加芹",
+   "Rong Hua",
+   "Xin Zhou",
+   "Limin Song",
+   "丁海芬",
+   "Xuepeng Zhang",
+   "Haoquan Zheng"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-24",
+  "year": 2026,
+  "doi": "10.1021/acssuschemeng.6c09946",
+  "url": "https://doi.org/10.1021/acssuschemeng.6c09946",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "DFT",
+   "Electrolysis",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 50,
+  "affiliations": [
+   "Shaanxi Normal University"
+  ],
+  "added": "2026-11-25"
+ },
+ {
+  "id": "16f2cf279d05ea25",
+  "title": "Electrochemical substrate-controlled divergent functionalization of indoles with electron-deficient π systems.",
+  "authors": [
+   "Pandey S",
+   "Jat PK",
+   "Vivek",
+   "Badsara SS."
+  ],
+  "journal": "Organic & biomolecular chemistry",
+  "publisher": "",
+  "published": "2026-11-24",
+  "year": 2026,
+  "doi": "10.1039/d6ob01682k",
+  "url": "https://doi.org/10.1039/d6ob01682k",
+  "source": "europepmc",
+  "categories": [
+   "Anodic Oxidation",
+   "Green & Sustainable Electrosynthesis",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Cyclic Voltammetry",
+   "Electrolysis",
+   "Electrooxidative",
+   "Indoles",
+   "Oxidant-Free",
+   "Radical Chemistry",
+   "Regioselectivity"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-11-25"
+ },
+ {
+  "id": "02fbee4e4900953f",
+  "title": "A dissolved anion replaces gas feeds in hydrocarbon electrosynthesis",
+  "authors": [
+   "Youngku Sohn",
+   "Hyeonji Lee",
+   "Hee Sub Yun",
+   "Huieun Shim",
+   "Jaehee Shin",
+   "Lei Wang",
+   "Boon Siang Yeo",
+   "Hee-Joon Chun"
+  ],
+  "journal": "Research Square",
+  "publisher": "",
+  "published": "2026-11-24",
+  "year": 2026,
+  "doi": "10.21203/rs.3.rs-11752706/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-11752706/v1",
+  "source": "openalex",
+  "categories": [
+   "General Electrosynthesis"
+  ],
+  "tags": [
+   "Alkenes",
+   "Electrosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Chungnam National University",
+   "National University of Singapore"
+  ],
+  "added": "2026-11-25"
+ },
+ {
+  "id": "db777b5e638f4cc1",
+  "title": "Assessment of the ozonation/anodic oxidation hybrid process for refractory compound removal in presence of organic matter",
+  "authors": [
+   "Hélios Yasmine",
+   "Fares Zouaoui",
+   "Florence Fourcade",
+   "Pierre-François Biard"
+  ],
+  "journal": "Journal of Water Process Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-23",
+  "year": 2026,
+  "doi": "10.1016/j.jwpe.2026.111281",
+  "url": "https://doi.org/10.1016/j.jwpe.2026.111281",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Anodic Oxidation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut des Sciences Chimiques de Rennes",
+   "École Nationale Supérieure de Chimie de Rennes",
+   "Université de Rennes"
+  ],
+  "added": "2026-11-25"
+ },
+ {
+  "id": "cbaeaf3f7ff6bdc3",
+  "title": "Electrochemical Technologies for Cement Clinker Synthesis in the Context of Carbon Neutrality: Principles, Applications, and Progress",
+  "authors": [
+   "Shuo Duan",
+   "Yong Wen",
+   "Yongjiang Zhang",
+   "Yin Chen",
+   "Kexiao Yu",
+   "Jing Zhao"
+  ],
+  "journal": "Preprints.org",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-11-23",
+  "year": 2026,
+  "doi": "10.20944/preprints202611.2280.v1",
+  "url": "https://doi.org/10.20944/preprints202611.2280.v1",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Electrolysis",
+   "Electrosynthesis",
+   "Mechanism"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-11-25"
+ },
+ {
   "id": "3675c017ac718511",
   "title": "Molecular cages synchronise *CO retention and Cu+ stabilisation for acidic ethylene electrosynthesis",
   "authors": [
