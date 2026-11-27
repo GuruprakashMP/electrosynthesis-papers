@@ -1,5 +1,106 @@
 [
  {
+  "id": "cf60290e5b33848d",
+  "title": "Electrophotochemical Dehydrogenative Cyclization of N-Allyl Ureas to Exocyclic Methylene-Containing Cyclic Isoureas",
+  "authors": [
+   "Laxmikanta Sing",
+   "Souryasirsha Kar",
+   "Jhilik Dutta",
+   "Suman De Sarkar"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15012849/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15012849/v1",
+  "source": "openalex",
+  "categories": [
+   "Electrophotochemistry",
+   "Anodic Oxidation",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Alkynes",
+   "Anodic Oxidation",
+   "Electrophotochemistry",
+   "Heterocycles",
+   "Radical Chemistry",
+   "Single-Electron Transfer"
+  ],
+  "relevance_score": 92,
+  "affiliations": [],
+  "added": "2026-11-27"
+ },
+ {
+  "id": "851c36eeb09598ef",
+  "title": "Synthesis of Functionalized 2H-1,2,3-Triazoles by Electrooxidative Cyclization of α-tert-Butyliminyl Hydrazones.",
+  "authors": [
+   "Alexander D Shuvaev",
+   "Ekaterina A Roginskaya",
+   "Leonid L Fershtat"
+  ],
+  "journal": "The Journal of organic chemistry",
+  "publisher": "",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1021/acs.joc.6c02001",
+  "url": "https://doi.org/10.1021/acs.joc.6c02001",
+  "source": "pubmed",
+  "categories": [
+   "Anodic Oxidation",
+   "Heterocycle Synthesis"
+  ],
+  "tags": [
+   "Electrooxidative",
+   "Heterocycles",
+   "Organic Electrochemistry"
+  ],
+  "relevance_score": 71,
+  "affiliations": [],
+  "added": "2026-11-27"
+ },
+ {
+  "id": "168a46dc3f2982b9",
+  "title": "Lewis Acid-Directed Oxygen-Down Interfacial Water Regulation Stabilizes Local pH for Robust High-Current-Density Propylene Epoxidation",
+  "authors": [
+   "Shaojian Jiang",
+   "Jiabing Geng",
+   "Lan Yao",
+   "Ningxin Xiao",
+   "Zhijia Wang",
+   "Liang Wang",
+   "Jong-Min Lee",
+   "Hongjie Yu",
+   "Hongjing Wang"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c07626",
+  "url": "https://doi.org/10.1021/acscatal.6c07626",
+  "source": "openalex",
+  "categories": [
+   "Green & Sustainable Electrosynthesis",
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis",
+   "Radical Chemistry",
+   "Renewable Electricity"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Zhejiang University of Technology",
+   "Daegu Gyeongbuk Institute of Science and Technology"
+  ],
+  "added": "2026-11-27"
+ },
+ {
   "id": "dab2ed2fad462b28",
   "title": "Boosting DMF Electrosynthesis Over Bifunctional NiCo Catalysts via Methanol-Supplemented *CHO Supply.",
   "authors": [
