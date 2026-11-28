@@ -1,5 +1,74 @@
 [
  {
+  "id": "cf8b4a6ad157b9bc",
+  "title": "Emerging electrochemical transformations of allenes: synthesis, functionalization, and annulation",
+  "authors": [
+   "Kanak Kanti Das",
+   "Mamata Ojha",
+   "Krishna Biswas"
+  ],
+  "journal": "Academia Catalysis",
+  "publisher": "Academia.edu Journals",
+  "published": "2026-11-27",
+  "year": 2026,
+  "doi": "10.20935/acadcatal8657",
+  "url": "https://doi.org/10.20935/acadcatal8657",
+  "source": "openalex",
+  "categories": [
+   "Decarboxylative & Radical Reactions"
+  ],
+  "tags": [
+   "Electrosynthesis",
+   "Organic Electrosynthesis",
+   "Radical Chemistry",
+   "Regioselectivity"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Bonn",
+   "Masaryk University",
+   "University of Cape Town"
+  ],
+  "added": "2026-11-28"
+ },
+ {
+  "id": "feb099204dcc9af2",
+  "title": "Site-selective electrochemical radical cyclization: a general platform for the synthesis of diaryl-fused oxepine and azepine derivatives.",
+  "authors": [
+   "Zhang Y",
+   "Sun X",
+   "Wu N",
+   "Peters SE",
+   "Ma D",
+   "Ackermann L."
+  ],
+  "journal": "Chemical science",
+  "publisher": "",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1039/d6sc07462f",
+  "url": "https://doi.org/10.1039/d6sc07462f",
+  "source": "europepmc",
+  "categories": [
+   "Cell Design & Electrodes",
+   "Natural Product & Total Synthesis",
+   "Decarboxylative & Radical Reactions",
+   "Heterocycle Synthesis",
+   "Mechanism & Electroanalysis"
+  ],
+  "tags": [
+   "Heterocycles",
+   "Natural Products",
+   "Radical Chemistry",
+   "Single-Electron Transfer",
+   "Total Synthesis",
+   "Undivided Cell"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-11-28"
+ },
+ {
   "id": "cf60290e5b33848d",
   "title": "Electrophotochemical Dehydrogenative Cyclization of N-Allyl Ureas to Exocyclic Methylene-Containing Cyclic Isoureas",
   "authors": [
@@ -33,6 +102,34 @@
   "relevance_score": 92,
   "affiliations": [],
   "added": "2026-11-27"
+ },
+ {
+  "id": "cb2c3a998533f359",
+  "title": "Electro-oxidative treatment of municipal sludge: a sustainable approach for bacterial control",
+  "authors": [
+   "Poulomi Chandra",
+   "Anoop Kumar Verma",
+   "Amandeep Singh",
+   "Diptiman Choudhury"
+  ],
+  "journal": "RSC Advances",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1039/d6ra06958d",
+  "url": "https://doi.org/10.1039/d6ra06958d",
+  "source": "openalex",
+  "categories": [
+   "Anodic Oxidation"
+  ],
+  "tags": [
+   "Electrooxidative"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Thapar Institute of Engineering & Technology"
+  ],
+  "added": "2026-11-28"
  },
  {
   "id": "851c36eeb09598ef",
